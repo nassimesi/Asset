@@ -1,16 +1,22 @@
+import com.sun.beans.finder.FieldFinder;
 import spoon.Launcher;
-import spoon.reflect.declaration.CtClass;
-import spoon.reflect.declaration.CtElement;
+import spoon.reflect.code.CtStatement;
+import spoon.reflect.declaration.*;
 import spoon.reflect.path.CtRole;
+import spoon.reflect.visitor.Filter;
+import spoon.reflect.visitor.filter.FieldAccessFilter;
+import spoon.support.reflect.code.CtInvocationImpl;
 import spoon.support.reflect.declaration.CtConstructorImpl;
 import spoon.support.reflect.declaration.CtExecutableImpl;
+import spoon.support.reflect.reference.CtReferenceImpl;
 
 import java.io.IOException;
+import java.lang.reflect.Array;
+import java.lang.reflect.Constructor;
 import java.nio.charset.StandardCharsets;
 import java.nio.file.Files;
 import java.nio.file.Paths;
-import java.util.ArrayList;
-import java.util.List;
+import java.util.*;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 import java.util.stream.Collectors;
@@ -22,33 +28,42 @@ public class Asset {
     private String type;
     private CtElement parent;
     private int id = 0;
+    private static final ArrayList possibleTypes = new ArrayList<>((Arrays.asList("Field", "Method", "class", "Constructor")));
+    private static List<CtElement> attributeReferences = new ArrayList<>();
+    private List<CtElement> methodAttribute = new ArrayList<>();
+
 
     public Asset(String name, String value, String type, CtElement parent){
-        autoIncrement++;
-        id = autoIncrement;
-        nom = name; this.value = value;  this.parent = parent;
-        switch (type){
-            case "Field":
-                {this.type="attribut";break;}
-            case "Method":
-                {
-                    this.type="méthode";
+        if (possibleTypes.contains(type)) {
+            autoIncrement++;
+            id = autoIncrement;
+            nom = name;
+            this.value = value;
+            this.parent = parent;
+            switch (type) {
+                case "Field": {
+                    this.type = "attribut";
                     break;
                 }
-            case "class":
-            {this.type="classe";break;}
-            case "Constructor":
-            {
-                this.type="méthode + constructeur";
-                this.nom = name.substring(1+parent.getValueByRole(CtRole.NAME).toString().length(),name.length()-1);
-                break;
+                case "Method": {
+                    this.type = "méthode";
+                    break;
+                }
+                case "class": {
+                    this.type = "classe";
+                    break;
+                }
+                case "Constructor": {
+                    this.type = "méthode + constructeur";
+                    this.nom = name.substring(1 + parent.getValueByRole(CtRole.NAME).toString().length(), name.length() - 1);
+                    break;
+                }
+                default:
+                    this.type = type;
+                    break;
             }
-            default:
-                this.type = type;
-                break;
+            if (nom.contains("String")) this.value = "\"" + value + "\"";
         }
-        if (nom.contains("String")) this.value = "\""+value+"\"";
-
     }
 
     @Override
@@ -71,13 +86,20 @@ public class Asset {
         System.out.println(chidrenList.toString()+ "\n \n \n ************************************************************************* \n");
 
         //System.out.println(attributeList);
-        for (CtElement e:chidrenList
-        ) {
+        while (!chidrenList.isEmpty()){
+            CtElement e = chidrenList.remove(0);
             //if (!e.getValueByRole(CtRole.NAME).toString().equals("<init>"))
             {   Matcher m = Pattern.compile(".*\\.Ct(.*)Impl").matcher(e.getClass().toString());
                 if (m.find())
-                    assetList.add(new Asset(e.getValueByRole(CtRole.TYPE).toString() + ((!m.group(1).equals("Field"))?"("+((CtExecutableImpl)e).getSignature()+")":" "+e.getValueByRole(CtRole.NAME).toString()), e.getDirectChildren().size()>1?e.getDirectChildren().get(e.getDirectChildren().size()-1)+"":"non initialisé", m.group(1),e.getParent()));
+                {
+                    if (possibleTypes.contains(m.group(1))){
+                        Asset tmp = new Asset(e.getValueByRole(CtRole.TYPE).toString() + ((!m.group(1).equals("Field"))?"("+((CtExecutableImpl)e).getSignature()+")":" "+e.getValueByRole(CtRole.NAME).toString()), e.getDirectChildren().size()>1?e.getDirectChildren().get(e.getDirectChildren().size()-1)+"":"non initialisé", m.group(1),e.getParent());
+                        assetList.add(tmp);
+                        Asset.addAtributesReference(e,m.group(1));
+                        tmp.getMethodAttribute(e,m.group(1));
+                    }
 
+                }
             }
 /*            else {
                 String[] dd = e.getParent().toString().split("class "+e.getValueByRole(CtRole.TYPE).toString());
@@ -85,6 +107,30 @@ public class Asset {
             }*/
         }
         System.out.println(assetList.toString());
+
+    }
+    public static void addAtributesReference(CtElement testt, String type){
+        if (type.equals("Field")){attributeReferences.add(((CtField)testt).getReference());
+            System.out.println("list = "+attributeReferences);}
+    }
+    public  void getMethodAttribute(CtElement testt, String type){
+        if (type.equals("Method") || type.equals("Constructor")){
+            methodAttribute =  testt.getElements(new Filter<CtElement>() {
+                @Override
+                public boolean matches(CtElement ctElement) {
+                    System.out.println("before"+ctElement.getClass().toString());
+                    Matcher m = Pattern.compile(".*\\.Ct(.*)ld.*Impl").matcher(ctElement.getClass().toString());
+                    if (m.find()){
+                        return m.group(1).equals("Fie");
+                    }
+                    return false;
+                }
+            });
+            System.out.println(attributeReferences.toString()+"aaaaaand "+methodAttribute.toString());
+            methodAttribute.retainAll(attributeReferences);
+
+            System.out.println("here is the list "+methodAttribute.toString());
+            }
 
     }
 }
