@@ -40,8 +40,8 @@ public class Variation {
         if (!relatedAssets.contains(e)) relatedAssets.add(e);
     }
 
-    public static void addVariation(Variation e){
-        if (!listVariation.contains(e)) listVariation.add(e);
+    public static void addVariation(String nom, String type){
+         listVariation.add(new Variation(nom,type));
     }
 
     @Override
