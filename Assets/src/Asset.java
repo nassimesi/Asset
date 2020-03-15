@@ -29,9 +29,24 @@ public class Asset {
     private CtElement parent;
     private int id = 0;
     private static final ArrayList possibleTypes = new ArrayList<>((Arrays.asList("Field", "Method", "class", "Constructor")));
+
+
+    /**
+     *
+     * @see #possibleTypes
+     */
+
+    public static ArrayList getPossibleTypes() {
+        return possibleTypes;
+    }
+
     private static List<CtElement> attributeReferences = new ArrayList<>();
     private List<CtElement> methodAttribute = new ArrayList<>();
 
+
+    public int getId() {
+        return id;
+    }
 
     public Asset(String name, String value, String type, CtElement parent){
         if (possibleTypes.contains(type)) {
@@ -68,22 +83,22 @@ public class Asset {
 
     @Override
     public String toString() {
-        return "name = "+nom+";\n id = "+id+";\n type = "+type+";\n valeur = "+value+"\n";
+        return "id = "+id+";\n nom = "+nom+";\n ";
     }
 
-    public static void assetsFromAst(String pathFile) throws IOException {
+    public static ArrayList<Asset> assetsFromAst(String pathFile) throws IOException {
         CtClass ll = Launcher.parseClass(Files.lines(Paths.get(pathFile), StandardCharsets.UTF_8)
                 .collect(Collectors.joining(System.lineSeparator())));
 
         ArrayList<Asset> assetList = new ArrayList<>();
-        System.out.println(ll.getClass().toString());
+        //System.out.println(ll.getClass().toString());
         String regex = " public class "+ll.getValueByRole(CtRole.NAME).toString();
-        System.out.println(regex);
+        //System.out.println(regex);
         String candidate = ll.toString().substring(regex.length());
-        System.out.println("candidate ==== "+candidate);
+        //System.out.println("candidate ==== "+candidate);
         assetList.add(new Asset("Class "+ll.getValueByRole(CtRole.NAME),candidate,"class",null));
         List<CtElement> chidrenList = ll.getDirectChildren();
-        System.out.println(chidrenList.toString()+ "\n \n \n ************************************************************************* \n");
+        //System.out.println(chidrenList.toString()+ "\n \n \n ************************************************************************* \n");
 
         //System.out.println(attributeList);
         while (!chidrenList.isEmpty()){
@@ -106,19 +121,21 @@ public class Asset {
                 assetList.add(new Asset("Class "+e.getValueByRole(CtRole.TYPE).toString(),dd[1],"class",null));
             }*/
         }
-        System.out.println(assetList.toString());
+        //System.out.println(assetList.toString());
 
+        return assetList;
     }
     public static void addAtributesReference(CtElement testt, String type){
         if (type.equals("Field")){attributeReferences.add(((CtField)testt).getReference());
-            System.out.println("list = "+attributeReferences);}
+        //    System.out.println("list = "+attributeReferences);
+        }
     }
     public  void getMethodAttribute(CtElement testt, String type){
         if (type.equals("Method") || type.equals("Constructor")){
             methodAttribute =  testt.getElements(new Filter<CtElement>() {
                 @Override
                 public boolean matches(CtElement ctElement) {
-                    System.out.println("before"+ctElement.getClass().toString());
+                   // System.out.println("before"+ctElement.getClass().toString());
                     Matcher m = Pattern.compile(".*\\.Ct(.*)ld.*Impl").matcher(ctElement.getClass().toString());
                     if (m.find()){
                         return m.group(1).equals("Fie");
@@ -126,11 +143,24 @@ public class Asset {
                     return false;
                 }
             });
-            System.out.println(attributeReferences.toString()+"aaaaaand "+methodAttribute.toString());
+            //System.out.println(attributeReferences.toString()+"aaaaaand "+methodAttribute.toString());
             methodAttribute.retainAll(attributeReferences);
 
-            System.out.println("here is the list "+methodAttribute.toString());
+            //System.out.println("here is the list "+methodAttribute.toString());
             }
 
     }
+
+
+    public boolean equals(Object obj) {
+        if (this.nom.equals(((Asset)obj).nom)) updateAssetIfEqual(((Asset)obj));
+        System.out.println("atletico madrid");
+        return (this.nom.equals(((Asset)obj).nom) || this.id == ((Asset)obj).id);
+    }
+
+    public void updateAssetIfEqual(Asset a){
+        this.id = a.id;
+    }
+
+
 }
