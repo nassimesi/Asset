@@ -162,14 +162,13 @@ public class Asset {
         else if(this.nom.equals(((Asset)obj).nom)){
             tmp.setType(((Asset)obj).type);
             tmp.setName(((Asset)obj).nom);
-            if (Variation.listVariation.contains(tmp)) {
-                int index = Variation.listVariation.indexOf(tmp);
-                Variation.listVariation.get(index).addAsset(this);
+            int i=Variation.listVariation.indexOf(tmp);
+            if (i!=-1) {
+                Variation.listVariation.get(i).addAsset(this);
             }
             else {
-                tmp = new Variation(((Asset)obj).nom,((Asset)obj).type);
-                Variation.addVariation(tmp);
-
+                Variation.addVariation(((Asset)obj).type,((Asset)obj).nom);
+                Variation.listVariation.get(Variation.listVariation.size()-1).addAsset();
             }
         }
             //System.out.println("atletico madrid");
