@@ -29,6 +29,7 @@ public class Asset {
     private CtElement parent;
     private int id = 0;
     private static final ArrayList possibleTypes = new ArrayList<>((Arrays.asList("Field", "Method", "class", "Constructor")));
+    private Variation tmp=new Variation("","");// temporary variable for equal test
 
 
     /**
@@ -83,7 +84,7 @@ public class Asset {
 
     @Override
     public String toString() {
-        return "id = "+id+";\n nom = "+nom+";\n ";
+        return "id = "+id+"; nom = "+nom+";\n ";
     }
 
     public static ArrayList<Asset> assetsFromAst(String pathFile) throws IOException {
@@ -153,9 +154,26 @@ public class Asset {
 
 
     public boolean equals(Object obj) {
-        if (this.nom.equals(((Asset)obj).nom)) updateAssetIfEqual(((Asset)obj));
-        System.out.println("atletico madrid");
-        return (this.nom.equals(((Asset)obj).nom) || this.id == ((Asset)obj).id);
+        if ((this.type.equals("attribut") && this.nom.equals(((Asset)obj).nom))
+        || (this.nom.equals(((Asset)obj).nom) && this.value.equals(((Asset)obj).value)))
+        updateAssetIfEqual(((Asset)obj));
+
+
+        else if(this.nom.equals(((Asset)obj).nom)){
+            tmp.setType(((Asset)obj).type);
+            tmp.setName(((Asset)obj).nom);
+            if (Variation.listVariation.contains(tmp)) {
+                int index = Variation.listVariation.indexOf(tmp);
+                Variation.listVariation.get(index).addAsset(this);
+            }
+            else {
+                tmp = new Variation(((Asset)obj).nom,((Asset)obj).type);
+                Variation.addVariation(tmp);
+
+            }
+        }
+            //System.out.println("atletico madrid");
+        return (this.id == ((Asset)obj).id);
     }
 
     public void updateAssetIfEqual(Asset a){
