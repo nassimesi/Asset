@@ -166,8 +166,10 @@ public class Asset {
         attributeReferences = new ArrayList<>();
         // Liste temporaire des assets, initialement vide
         ArrayList<Asset> assetList = new ArrayList<>();
+        //modifier : une des valuers suivante : public, private, protected, vide (à tester et améliorer)
+        String modifier=((ll.getModifiers().toString()).replace("[", "")).replace("]" ,"");
         //récupérer la signature de la classe pour la retrancher pour avoir la valeur de la classe
-        String regex = " public class "+ll.getValueByRole(CtRole.NAME).toString();
+        String regex = modifier+ " class "+ll.getValueByRole(CtRole.NAME).toString();
         // Valeur de la classe dans la variable "candidate"
         String candidate = ll.toString().substring(regex.length());
         //Créer l'asset correspondant à la classe (neoud parent)
@@ -179,7 +181,10 @@ public class Asset {
             //Récupérer le premier élément
             CtElement e = chidrenList.remove(0);
             //Récupérer le type de l'asset à partir du nom de la classe de celui de l'AST, pas de moyen de le faire autrement
+            //L'idée est d'utiliser un matcher
+            // voir documentation de java.util.regex.Matcher;
             Matcher m = Pattern.compile(".*\\.Ct(.*)Impl").matcher(e.getClass().toString());
+
             if (m.find())
             {
                 if (possibleTypes.contains(m.group(1)))
@@ -215,44 +220,55 @@ public class Asset {
     }
 
     /**
-     *
-     * @param testt
-     * @param type
+     * Stocker les attributs de la classe participant à la méthode en paramètre dans la variable
+     * @see #methodAttribute
+     * @param testt l'asset à tester si c'est une méthode
+     * @param type le type de l'asset
      */
     public  void getMethodAttribute(CtElement testt, String type){
+        // Tester si l'élément est une méthode
         if (type.equals("Method") || type.equals("Constructor")){
+            //getElement : récupérer les éléments puis filter
             methodAttribute =  testt.getElements(new Filter<CtElement>() {
+                // Redéfinition du filtre
                 @Override
                 public boolean matches(CtElement ctElement) {
-                   // System.out.println("before"+ctElement.getClass().toString());
+                    // Récupérer le type de la classe, utiliser la même technique que la ligne 181
                     Matcher m = Pattern.compile(".*\\.Ct(.*)ld.*Impl").matcher(ctElement.getClass().toString());
                     if (m.find()){
-                        return m.group(1).equals("Fie");
+                        return m.group(1).equals("Fie"); //puisque le matcher reconnait ld, donc s'il est égal à Fie, on constitue le mot "Field"
                     }
-                    return false;
+                    return false; //Si echec d'extraction , retourner faux
                 }
             });
-            //
+            // Faire une intersection entre les attributs récupérés par le filtre précédent , et les attributs de la classe
             methodAttribute.retainAll(attributeReferences);
-
-            //System.out.println("here is the list "+methodAttribute.toString());
             }
-
     }
 
+    /**
+     * Redéfinition de la méthode equals()
+     * @param obj L'objet à comparer, aprés utiliation de cast vers l'asset
+     * @return vrai si l'élément est égal à notre sens
+     *
+     */
 
     public boolean equals(Object obj) {
+        // 2 assets sont égaux si et seulement s'il ont le meme nom, le meme type et la meme valuer
+        // Cas particulier : Pour les attributs, il suffit que le nom et le type seulement soit les mêmes
+        // Phase une : mise à jour de l'identifiant en cas d'égalité
         if ((this.type.equals("attribut") && this.nom.equals(((Asset)obj).nom))
         || (this.nom.equals(((Asset)obj).nom) && this.value.equals(((Asset)obj).value)))
             updateAssetIfEqual(((Asset)obj));
 
-        if (this.type.equals("méthode + constructeur")) System.out.println("mnanuk yaw rahi "+this.value);
-
-        //if (this.id ==35) System.out.println("mnanuk");
-
-        //System.out.println("atletico madrid");
+        // retourner si les identifiants sont égales
         return (this.id == ((Asset)obj).id);
     }
+
+    /**
+     * Mise à jour de l'identifiant de l'asset courante par celui du paramètre
+     * @param a l'asset qui a l'id le plus à jour
+     */
 
     public void updateAssetIfEqual(Asset a){
         this.id = a.id;
