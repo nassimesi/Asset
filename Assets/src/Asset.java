@@ -167,7 +167,8 @@ public class Asset {
         // Liste temporaire des assets, initialement vide
         ArrayList<Asset> assetList = new ArrayList<>();
         //récupérer la signature de la classe pour la retrancher pour avoir la valeur de la classe
-        String regex = " public class "+ll.getValueByRole(CtRole.NAME).toString();
+        String modifier=((ll.getModifiers().toString()).replace("[", "")).replace("]" ,"");        
+        String regex = modifier+ " class "+ll.getValueByRole(CtRole.NAME).toString();
         // Valeur de la classe dans la variable "candidate"
         String candidate = ll.toString().substring(regex.length());
         //Créer l'asset correspondant à la classe (neoud parent)
