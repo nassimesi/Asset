@@ -1,0 +1,2 @@
+Subtraction := a Subtraction to subtract two numbers with an operator sub
+Multiplication := a Multiplication to multiply two numbers with an operator times
