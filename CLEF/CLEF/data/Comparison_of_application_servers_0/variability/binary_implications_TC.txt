@@ -1,0 +1,188 @@
+java ee compatibility:=[3.2-5.1] -> vendor:={apple inc.}
+java ee compatibility:=[3.2-5.1] -> last release date:=[2008-2008]
+java ee compatibility:=[3.2-5.1] -> license:={epl,apache}
+java ee compatibility:=[5.1-5.1] -> vendor:={apple inc.}
+java ee compatibility:=[5.1-5.1] -> last release date:=[2008-2008]
+java ee compatibility:=[5.1-5.1] -> license:={epl,apache}
+java ee compatibility:=[3.2-3.2] -> vendor:={apple inc.}
+java ee compatibility:=[3.2-3.2] -> last release date:=[2008-2008]
+java ee compatibility:=[3.2-3.2] -> license:={epl,apache}
+Servlet spec:=[2.7-2.9000000000000004] -> vendor:={apple inc.}
+Servlet spec:=[2.7-2.9000000000000004] -> last release date:=[2008-2008]
+Servlet spec:=[2.7-2.9000000000000004] -> license:={epl,apache}
+Servlet spec:=[3.1000000000000005-3.1000000000000005] -> vendor:={apple inc.}
+Servlet spec:=[3.1000000000000005-3.1000000000000005] -> last release date:=[2008-2008]
+Servlet spec:=[3.1000000000000005-3.1000000000000005] -> license:={epl,apache}
+Servlet spec:=[2.9000000000000004-2.9000000000000004] -> vendor:={apple inc.}
+Servlet spec:=[2.9000000000000004-2.9000000000000004] -> last release date:=[2008-2008]
+Servlet spec:=[2.9000000000000004-2.9000000000000004] -> license:={epl,apache}
+Servlet spec:=[2.7-2.7] -> vendor:={apple inc.}
+Servlet spec:=[2.7-2.7] -> last release date:=[2008-2008]
+Servlet spec:=[2.7-2.7] -> license:={epl,apache}
+Jsp spec:=[1.5-1.8] -> vendor:={apple inc.}
+Jsp spec:=[1.5-1.8] -> last release date:=[2008-2008]
+Jsp spec:=[1.5-1.8] -> license:={epl,apache}
+Jsp spec:=[2.4-2.4] -> vendor:={apple inc.}
+Jsp spec:=[2.4-2.4] -> last release date:=[2008-2008]
+Jsp spec:=[2.4-2.4] -> license:={epl,apache}
+Jsp spec:=[1.8-1.8] -> vendor:={apple inc.}
+Jsp spec:=[1.8-1.8] -> last release date:=[2008-2008]
+Jsp spec:=[1.8-1.8] -> license:={epl,apache}
+Jsp spec:=[1.5-1.5] -> vendor:={apple inc.}
+Jsp spec:=[1.5-1.5] -> last release date:=[2008-2008]
+Jsp spec:=[1.5-1.5] -> license:={epl,apache}
+vendor:={apple inc.} -> java ee compatibility:=*
+vendor:={apple inc.} -> Servlet spec:=*
+vendor:={apple inc.} -> Jsp spec:=*
+vendor:={apple inc.} -> license:={proprietary}
+last release date:=[2008-2008] -> java ee compatibility:=*
+last release date:=[2008-2008] -> Servlet spec:=*
+last release date:=[2008-2008] -> Jsp spec:=*
+vendor:={mechsoft} -> java ee compatibility:=[7.0-7.0]
+vendor:={mechsoft} -> Servlet spec:=[2.7-3.1000000000000005]
+vendor:={mechsoft} -> license:={proprietary}
+vendor:={mechsoft} -> Jsp spec:=[2.1-2.4]
+last release date:=[2011-2011] -> java ee compatibility:=[7.0-7.0]
+vendor:={ruby} -> last release date:=[2015-2015]
+vendor:={ruby} -> java ee compatibility:=*
+vendor:={ruby} -> Servlet spec:=*
+vendor:={ruby} -> Jsp spec:=*
+vendor:={ruby} -> license:={lgpl}
+vendor:={ironflare} -> java ee compatibility:=[1.3-1.3]
+vendor:={ironflare} -> Servlet spec:=[2.3-2.3]
+vendor:={ironflare} -> Jsp spec:=[1.2-1.8]
+vendor:={ironflare} -> license:={proprietary}
+last release date:=[2006-2006] -> java ee compatibility:=[1.3-1.3]
+last release date:=[2006-2006] -> Servlet spec:=[2.3-2.3]
+last release date:=[2006-2006] -> Jsp spec:=[1.2-1.8]
+last release date:=[2009-2009] -> vendor:={oracle corporation}
+last release date:=[2009-2009] -> java ee compatibility:=[1.3-5.1]
+last release date:=[2009-2009] -> Jsp spec:=[1.5-2.1]
+last release date:=[2009-2009] -> Servlet spec:=[2.3-2.9000000000000004]
+vendor:={sap ag} -> Servlet spec:=[2.5-2.9000000000000004]
+vendor:={sap ag} -> Jsp spec:=[2.1-2.1]
+vendor:={sap ag} -> last release date:=[2013-2013]
+vendor:={sap ag} -> license:={proprietary}
+vendor:={sap ag} -> java ee compatibility:=[3.2-7.0]
+vendor:={ow2 consortium} -> license:={lgpl}
+vendor:={ow2 consortium} -> last release date:=[2013-2013]
+vendor:={ow2 consortium} -> Servlet spec:=[2.7-3.1000000000000005]
+vendor:={ow2 consortium} -> java ee compatibility:=[3.2-7.0]
+vendor:={ow2 consortium} -> Jsp spec:=[2.1-2.4]
+vendor:={tmaxsoft} -> last release date:=[2012-2012]
+vendor:={tmaxsoft} -> Servlet spec:=[2.7-3.1000000000000005]
+vendor:={tmaxsoft} -> license:={proprietary}
+vendor:={tmaxsoft} -> java ee compatibility:=[3.2-7.0]
+vendor:={tmaxsoft} -> Jsp spec:=[2.1-2.4]
+vendor:={eclipse foundation} -> java ee compatibility:=[7.0-7.0]
+vendor:={eclipse foundation} -> last release date:=[2014-2014]
+vendor:={eclipse foundation} -> Servlet spec:=[2.7-3.1000000000000005]
+vendor:={eclipse foundation} -> Jsp spec:=[2.1-2.4]
+license:={epl,apache} -> java ee compatibility:=[7.0-7.0]
+license:={epl,apache} -> last release date:=[2014-2014]
+vendor:={glassfish community} -> java ee compatibility:=[7.0-7.0]
+vendor:={glassfish community} -> last release date:=[2014-2014]
+vendor:={glassfish community} -> Servlet spec:=[2.7-3.1000000000000005]
+vendor:={glassfish community} -> Jsp spec:=[2.1-2.4]
+license:={gpl,cddl} -> java ee compatibility:=[7.0-7.0]
+license:={gpl,cddl} -> last release date:=[2014-2014]
+license:={gpl,cddl} -> Servlet spec:=[2.7-3.1000000000000005]
+license:={gpl,cddl} -> Jsp spec:=[2.1-2.4]
+vendor:={borland} -> last release date:=[2007-2007]
+vendor:={borland} -> java ee compatibility:=[1.3-5.1]
+vendor:={borland} -> Jsp spec:=[1.5-2.1]
+vendor:={borland} -> Servlet spec:=[2.3-2.9000000000000004]
+vendor:={borland} -> license:={proprietary}
+vendor:={lutris} -> last release date:=[2005-2005]
+vendor:={lutris} -> java ee compatibility:=*
+vendor:={lutris} -> Servlet spec:=*
+vendor:={lutris} -> Jsp spec:=*
+vendor:={lutris} -> license:={gpl}
+vendor:={atg} -> last release date:=[2005-2005]
+vendor:={atg} -> java ee compatibility:=[1.3-1.3]
+vendor:={atg} -> Servlet spec:=[2.3-2.3]
+vendor:={atg} -> Jsp spec:=[1.2-1.8]
+vendor:={atg} -> license:={proprietary}
+vendor:={caucho technology} -> last release date:=[2013-2013]
+vendor:={caucho technology} -> Servlet spec:=[2.7-3.1000000000000005]
+vendor:={caucho technology} -> java ee compatibility:=[3.2-7.0]
+vendor:={caucho technology} -> Jsp spec:=[2.1-2.4]
+vendor:={red hat} -> license:={lgpl}
+vendor:={red hat} -> last release date:=[2014-2014]
+vendor:={red hat} -> Servlet spec:=[2.7-3.1000000000000005]
+vendor:={red hat} -> java ee compatibility:=[3.2-7.0]
+vendor:={red hat} -> Jsp spec:=[2.1-2.4]
+vendor:={asf} -> license:={apache}
+vendor:={asf} -> last release date:=[2013-2014]
+vendor:={asf} -> Servlet spec:=[2.7-3.1000000000000005]
+vendor:={asf} -> java ee compatibility:=[3.2-7.0]
+vendor:={asf} -> Jsp spec:=[2.1-2.4]
+vendor:={adobe systems} -> Servlet spec:=[2.3-2.9000000000000004]
+vendor:={adobe systems} -> Jsp spec:=[1.2-2.1]
+vendor:={adobe systems} -> last release date:=[2007-2013]
+vendor:={adobe systems} -> license:={proprietary}
+vendor:={adobe systems} -> java ee compatibility:=[1.3-7.0]
+vendor:={ibm} -> Servlet spec:=[2.7-3.1000000000000005]
+vendor:={ibm} -> last release date:=[2012-2014]
+vendor:={ibm} -> license:={proprietary}
+vendor:={ibm} -> java ee compatibility:=[3.2-7.0]
+vendor:={ibm} -> Jsp spec:=[2.1-2.4]
+last release date:=[2011-2012] -> Servlet spec:=[2.7-3.1000000000000005]
+vendor:={oracle corporation} -> license:={proprietary}
+vendor:={oracle corporation} -> last release date:=[2009-2015]
+vendor:={oracle corporation} -> Jsp spec:=[1.5-2.4]
+vendor:={oracle corporation} -> java ee compatibility:=[1.3-7.0]
+vendor:={oracle corporation} -> Servlet spec:=[2.3-3.1000000000000005]
+license:={apache} -> last release date:=[2013-2014]
+license:={apache} -> Servlet spec:=[2.7-3.1000000000000005]
+license:={apache} -> java ee compatibility:=[3.2-7.0]
+license:={apache} -> Jsp spec:=[2.1-2.4]
+last release date:=[2006-2007] -> java ee compatibility:=[1.3-5.1]
+last release date:=[2006-2007] -> Servlet spec:=[2.3-2.9000000000000004]
+last release date:=[2006-2007] -> Jsp spec:=[1.2-2.1]
+java ee compatibility:=* -> last release date:=[2005-2015]
+Servlet spec:=* -> last release date:=[2005-2015]
+Jsp spec:=* -> last release date:=[2005-2015]
+license:={gpl} -> last release date:=[2005-2014]
+java ee compatibility:=[1.3-1.3] -> last release date:=[2005-2007]
+Servlet spec:=[2.3-2.3] -> last release date:=[2005-2007]
+Jsp spec:=[1.2-1.8] -> last release date:=[2005-2007]
+Jsp spec:=[1.2-1.5] -> last release date:=[2005-2007]
+Jsp spec:=[1.2-1.2] -> last release date:=[2005-2007]
+Servlet spec:=[2.5-2.9000000000000004] -> last release date:=[2013-2015]
+Servlet spec:=[2.5-2.7] -> last release date:=[2013-2015]
+Servlet spec:=[2.5-2.5] -> last release date:=[2013-2015]
+Jsp spec:=[2.1-2.1] -> last release date:=[2013-2015]
+license:={lgpl} -> last release date:=[2013-2015]
+java ee compatibility:=[1.3-5.1] -> last release date:=[2005-2009]
+java ee compatibility:=[1.3-5.1] -> Servlet spec:=[2.3-2.9000000000000004]
+java ee compatibility:=[1.3-5.1] -> Jsp spec:=[1.2-2.1]
+java ee compatibility:=[1.3-5.1] -> license:={proprietary}
+java ee compatibility:=[1.3-3.2] -> last release date:=[2005-2009]
+java ee compatibility:=[1.3-3.2] -> Servlet spec:=[2.3-2.9000000000000004]
+java ee compatibility:=[1.3-3.2] -> Jsp spec:=[1.2-2.1]
+java ee compatibility:=[1.3-3.2] -> license:={proprietary}
+last release date:=[2014-2014] -> Servlet spec:=[2.7-3.1000000000000005]
+last release date:=[2006-2012] -> license:={proprietary}
+Servlet spec:=[2.3-2.9000000000000004] -> license:={proprietary}
+Servlet spec:=[2.3-2.7] -> license:={proprietary}
+Servlet spec:=[2.3-2.5] -> license:={proprietary}
+Jsp spec:=[1.2-2.1] -> license:={proprietary}
+Servlet spec:=[2.7-3.1000000000000005] -> last release date:=[2011-2014]
+Servlet spec:=[2.9000000000000004-3.1000000000000005] -> last release date:=[2011-2014]
+license:={proprietary} -> last release date:=[2005-2015]
+last release date:=[2011-2014] -> java ee compatibility:=[3.2-7.0]
+last release date:=[2011-2014] -> Servlet spec:=[2.5-3.1000000000000005]
+last release date:=[2011-2014] -> Jsp spec:=[2.1-2.4]
+last release date:=[2009-2014] -> Jsp spec:=[1.5-2.4]
+last release date:=[2009-2014] -> java ee compatibility:=[1.3-7.0]
+last release date:=[2009-2014] -> Servlet spec:=[2.3-3.1000000000000005]
+java ee compatibility:=[3.2-7.0] -> last release date:=[2011-2015]
+java ee compatibility:=[5.1-7.0] -> last release date:=[2011-2015]
+Servlet spec:=[2.5-3.1000000000000005] -> last release date:=[2011-2015]
+Jsp spec:=[2.1-2.4] -> last release date:=[2011-2015]
+Jsp spec:=[1.5-2.4] -> last release date:=[2007-2015]
+Jsp spec:=[1.8-2.4] -> last release date:=[2007-2015]
+java ee compatibility:=[1.3-7.0] -> last release date:=[2005-2015]
+Servlet spec:=[2.3-3.1000000000000005] -> last release date:=[2005-2015]
+Jsp spec:=[1.2-2.4] -> last release date:=[2005-2015]

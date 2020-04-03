@@ -1,0 +1,38 @@
+name,+first public release,cost,software license,based framework,written in
+aimp,2006,free,proprietary,bass audio library,delphi
+amarok,2003,free,gpl,gstreamer;xine;mplayer;vlc;directshow;quicktime,c++
+aqualung,2006,free,gpl,*,c
+atunes,2006,free,gpl,*,java
+audacious,2005,free,gpl,xmms based,c;c++
+banshee,2005,free,mit,gstreamer,c#
+beep media player,2004,free,gpl,xmms based,c
+clementine,2011,free,gpl,gstreamer,c++
+cmus,2005,free,gpl,*,c
+cog,2006,free,gpl,*,objective-c
+exaile,2006,free,gpl,gstreamer,python
+ecoute,2008,free,proprietary,av foundation;quicktime,objective-c
+flash mp3 player,2008,free,proprietary,*,*
+foobar2000,2002,free,proprietary;bsd,*,c++
+guayadeque music player,2003,free,gpl,gstreamer,c++
+gear player,2012,non-free,proprietary,core audio,objective-c
+juk,2003,free,gpl,*,c++
+mediamonkey standard,2003,free,proprietary,*,delphi;c
+mediamonkey gold,2003,non-free,proprietary,*,delphi;c
+mediamonkey lifetime,2003,non-free,proprietary,*,delphi;c
+mpxplay,1998,free,gpl,*,*
+music on console,2002,free,gpl,*,c
+music player daemon,2003,free,gpl,*,c
+musicbee,2008,free,proprietary,bass audio library,visual basic .net
+musikcube,2005,free,bsd,*,*
+napster,2003,non-free,proprietary,*,*
+quod libet,2004,free,gpl,gstreamer,python
+rdio,*,free,proprietary,*,*
+rhapsody,2003,free,proprietary,*,*
+rhythmbox,2004,free,gpl,gstreamer,c
+songbird,2006,free,gpl,gstreamer,*
+sonique,1998,free,proprietary,*,*
+spotify,2008,non-free,proprietary,*,*
+style jukebox,2009,free,proprietary,*,c#
+winamp,1997,free,proprietary,wasabi,c;c++
+xmms,1997,free,gpl,original,c
+xmplay,1998,free,proprietary,original;bass audio library,*

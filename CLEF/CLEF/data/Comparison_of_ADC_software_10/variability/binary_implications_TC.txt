@@ -1,0 +1,6 @@
+programminglanguage:={delphi} -> gui
+programminglanguage:={java,lua} -> cli
+basedon:={embla} -> cli
+programminglanguage:={visualbasic} -> gui
+programminglanguage:={c++} -> cli
+basedon:={coredc} -> programminglanguage:={c#}

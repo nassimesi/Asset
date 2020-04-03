@@ -1,0 +1,13 @@
+ipv6 -> hashalgorithms:=*
+ipv6 -> adcsupport:={osnr,adcs}
+ipv6 -> pluginextendable
+ipv6 -> encryption
+hashalgorithms:=* -> encryption
+adcsupport:={anyclients,hubs} -> encryption
+adcsupport:={anyclients,hubs} -> hashalgorithms:={tigertreehash}
+adcsupport:={tigr,adcs} -> pluginextendable
+adcsupport:={adcs} -> encryption
+pluginextendable -> adcsupport:={tigr}
+pluginextendable -> encryption
+pluginextendable -> hashalgorithms:={tigertreehash}
+adcsupport:={tigr} -> hashalgorithms:={tigertreehash}

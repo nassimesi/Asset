@@ -1,0 +1,13 @@
+digraph G { 
+	rankdir=BT;
+	margin=0;
+	node [margin="0.03,0.03",fontname="DejaVu Sans"];
+	ranksep=0.3;
+	nodesep=0.2;
+//graph[label="name:ctx,concept number:3,object number:3,attribute number:23"
+1 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_1</td></tr><tr><td>-1574915924<br/>-1356001976<br/>417587767<br/>-274212187<br/></td></tr><tr><td>DrawingShapesApplication1/<br/></td></tr></table>>];
+2 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_0</td></tr><tr><td>1566699344<br/>-1826896664<br/>598718595<br/></td></tr><tr><td>DrawingShapesApplication2/<br/></td></tr></table>>];
+0 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_2</td></tr><tr><td>-570499658<br/>718430920<br/>-1871632036<br/>1272530710<br/>-1273185922<br/>952272742<br/>-1981632728<br/>1532207857<br/>466624129<br/>-284320623<br/>738060010<br/>712538855<br/>849573172<br/>-88707531<br/>-1394921039<br/>-858998085<br/></td></tr><tr><td>DrawingShapesApplication4/<br/></td></tr></table>>];
+	1:p -> 0:p
+	2:p -> 0:p
+}

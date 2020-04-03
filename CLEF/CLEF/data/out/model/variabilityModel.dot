@@ -1,0 +1,57 @@
+digraph G {
+  compound = true;
+  rankdir = "LR"; 
+  nodesep= 0.5;
+  ranksep = 5; 
+
+ // CO-OCCURENCE GROUPS 
+ subgraph "cluster_0" {
+		color=black;
+		node [style=filled,color=white]; 
+"52"; "53"; "54"; "55"; "78"; 
+ label = "COOCURENCE_GRP_0";
+	}
+ subgraph "cluster_1" {
+		color=black;
+		node [style=filled,color=white]; 
+"4"; "5"; "6"; "7"; "35"; 
+ label = "COOCURENCE_GRP_1";
+	}
+ subgraph "cluster_2" {
+		color=black;
+		node [style=filled,color=white]; 
+"59"; "60"; "61"; "62"; "77"; 
+ label = "COOCURENCE_GRP_2";
+	}
+ subgraph "cluster_3" {
+		color=black;
+		node [style=filled,color=white]; 
+"1"; "2"; "3"; "8"; "9"; "10"; "11"; "12"; "13"; "14"; "15"; "16"; "17"; "18"; "19"; "20"; "21"; "22"; "23"; "24"; "25"; "26"; "27"; "28"; "29"; "30"; "31"; "32"; "33"; "34"; "36"; "37"; 
+ label = "COOCURENCE_GRP_3";
+	}
+
+ // IMPLICATION 
+//"A" -> "B" [lhead = cluster_0;color="blue"]
+"167" -> "4"[ lhead = cluster_1;color="blue"]
+"167" -> "52"[ lhead = cluster_0;color="blue"]
+"119" -> "59"[ lhead = cluster_2;color="blue"]
+"81" -> "52"[ lhead = cluster_0;color="blue"]
+"38" -> "4"[ lhead = cluster_1;color="blue"]
+"52" -> "59"[ ltail = cluster_0; lhead = cluster_2;color="blue"]
+"4" -> "1"[ ltail = cluster_1; lhead = cluster_3;color="blue"]
+"59" -> "1"[ ltail = cluster_2; lhead = cluster_3;color="blue"]
+
+ // MUTEX 
+//"A" ->! "C" [arrowhead=invdot;color="red";] 
+"59" -> "38" [ ltail = cluster_2; arrowhead=normalicurvecurve;color="red";]
+"4" -> "81" [ ltail = cluster_1; arrowhead=normalicurvecurve;color="red";]
+"4" -> "119" [ ltail = cluster_1; arrowhead=normalicurvecurve;color="red";]
+"52" -> "38" [ ltail = cluster_0; arrowhead=normalicurvecurve;color="red";]
+"52" -> "119" [ ltail = cluster_0; arrowhead=normalicurvecurve;color="red";]
+"38" -> "81" [ arrowhead=normalicurvecurve;color="red";]
+"38" -> "119" [ arrowhead=normalicurvecurve;color="red";]
+"38" -> "167" [ arrowhead=normalicurvecurve;color="red";]
+"81" -> "119" [ arrowhead=normalicurvecurve;color="red";]
+"81" -> "167" [ arrowhead=normalicurvecurve;color="red";]
+"119" -> "167" [ arrowhead=normalicurvecurve;color="red";]
+}

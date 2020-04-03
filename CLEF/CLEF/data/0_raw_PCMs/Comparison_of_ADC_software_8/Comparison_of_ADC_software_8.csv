@@ -1,0 +1,11 @@
+name,software type,free and open source,software license,active
+adccore,general library,X,gnu gpl,X
+dcbouncer,relay,X,gnu gpl,X
+dc-hublink,hub linker,X,gnu gpl,
+dcwatch,hub operator helper,X,gnu gpl,
+embla,general library,X,gnu gpl,
+flowlib,general library,X,gnu gpl,X
+netchatlink,hub linker,X,gnu gpl,X
+announcer bot,announce new releases,X,gnu gpl,X
+certmanager,manage ssl certificates,X,gnu gpl,X
+seriebot,seriebot,X,gnu gpl,X

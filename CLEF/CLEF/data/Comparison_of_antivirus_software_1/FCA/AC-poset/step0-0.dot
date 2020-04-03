@@ -1,0 +1,200 @@
+digraph G { 
+	rankdir=BT;
+	margin=0;
+	node [margin="0.03,0.03",fontname="DejaVu Sans"];
+	ranksep=0.3;
+	nodesep=0.2;
+//graph[label="name:ctx,concept number:63,object number:22,attribute number:66"
+12 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_8</td></tr><tr><td>license:={gnu gpl}<br/></td></tr><tr><td>clam antivirus<br/></td></tr></table>>];
+48 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_4</td></tr><tr><td>first release:=[2007-2007]<br/></td></tr><tr><td>protectmac antivirus<br/></td></tr></table>>];
+5 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_1</td></tr><tr><td>ips<br/></td></tr><tr><td>sophos anti-virus for mac<br/></td></tr></table>>];
+50 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_6</td></tr><tr><td>first release:=[1997-1997]<br/></td></tr><tr><td>virusbarrier<br/></td></tr></table>>];
+51 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_5</td></tr><tr><td>country of origin:={spain}<br/></td></tr><tr><td>panda antivirus for mac<br/></td></tr></table>>];
+52 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_11</td></tr><tr><td>country of origin:={czech republic}<br/></td></tr><tr><td>avast mac security<br/></td></tr></table>>];
+53 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_3</td></tr><tr><td>country of origin:={brazil}<br/></td></tr><tr><td>psafe total mac<br/></td></tr></table>>];
+55 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_0</td></tr><tr><td>country of origin:={japan}<br/></td></tr><tr><td>titanium internet security for mac<br/></td></tr></table>>];
+57 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_10</td></tr><tr><td>country of origin:={germany}<br/></td></tr><tr><td>avira free mac security<br/></td></tr></table>>];
+59 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_9</td></tr><tr><td>country of origin:={romania}<br/></td></tr><tr><td>bitdefender antivirus for mac<br/></td></tr></table>>];
+61 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_2</td></tr><tr><td>country of origin:={india}<br/></td></tr><tr><td>quick heal total security for mac<br/></td></tr></table>>];
+3 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_16</td></tr><tr><td>firewall<br/></td></tr><tr><td>eset cyber security pro<br/>mac internet security<br/></td></tr></table>>];
+43 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_15</td></tr><tr><td>first release:=[2013-2013]<br/></td></tr><tr><td>eset cyber security pro<br/></td></tr></table>>];
+46 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_13</td></tr><tr><td>first release:=[2010-2010]<br/></td></tr><tr><td>kaspersky internet security<br/></td></tr></table>>];
+47 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_14</td></tr><tr><td>first release:=[2008-2008]<br/></td></tr><tr><td><br/></td></tr></table>>];
+49 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_19</td></tr><tr><td>first release:=[2000-2000]<br/></td></tr><tr><td>mac internet security<br/></td></tr></table>>];
+54 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_18</td></tr><tr><td>country of origin:={russia}<br/></td></tr><tr><td>dr. web anti-virus for mac os x<br/>kaspersky internet security<br/></td></tr></table>>];
+56 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_12</td></tr><tr><td>country of origin:={united kingdom}<br/></td></tr><tr><td><br/></td></tr></table>>];
+60 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_17</td></tr><tr><td>country of origin:={slovakia}<br/></td></tr><tr><td>eset cyber security<br/>eset cyber security pro<br/></td></tr></table>>];
+13 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_23</td></tr><tr><td>price:={trialware}<br/></td></tr><tr><td>dr. web anti-virus for mac os x<br/>secureanywhere antivirus<br/>secureanywhere internet security plus<br/></td></tr></table>>];
+4 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_21</td></tr><tr><td>ids<br/></td></tr><tr><td><br/></td></tr></table>>];
+40 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_22</td></tr><tr><td>first release:=[2007-2008]<br/></td></tr><tr><td><br/></td></tr></table>>];
+41 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_24</td></tr><tr><td>first release:=[2000-2007]<br/></td></tr><tr><td><br/></td></tr></table>>];
+42 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_25</td></tr><tr><td>first release:=[1997-2000]<br/></td></tr><tr><td><br/></td></tr></table>>];
+7 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_20</td></tr><tr><td>antispam<br/></td></tr><tr><td>symantec endpoint protection<br/></td></tr></table>>];
+35 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_27</td></tr><tr><td>first release:=[1997-2007]<br/></td></tr><tr><td><br/></td></tr></table>>];
+39 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_26</td></tr><tr><td>first release:=[2008-2010]<br/></td></tr><tr><td><br/></td></tr></table>>];
+45 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_28</td></tr><tr><td>first release:=[2011-2011]<br/></td></tr><tr><td>eset cyber security<br/></td></tr></table>>];
+33 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_29</td></tr><tr><td>first release:=[2007-2010]<br/></td></tr><tr><td><br/></td></tr></table>>];
+34 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_30</td></tr><tr><td>first release:=[2000-2008]<br/></td></tr><tr><td><br/></td></tr></table>>];
+15 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_33</td></tr><tr><td>price:={free}<br/></td></tr><tr><td>comodo mac security<br/></td></tr></table>>];
+29 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_31</td></tr><tr><td>first release:=[1997-2008]<br/></td></tr><tr><td><br/></td></tr></table>>];
+38 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_32</td></tr><tr><td>first release:=[2010-2011]<br/></td></tr><tr><td><br/></td></tr></table>>];
+28 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_34</td></tr><tr><td>first release:=[2000-2010]<br/></td></tr><tr><td><br/></td></tr></table>>];
+2 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_35</td></tr><tr><td>cloudav<br/></td></tr><tr><td><br/></td></tr></table>>];
+24 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_36</td></tr><tr><td>first release:=[1997-2010]<br/></td></tr><tr><td><br/></td></tr></table>>];
+32 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_38</td></tr><tr><td>first release:=[2008-2011]<br/></td></tr><tr><td><br/></td></tr></table>>];
+44 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_39</td></tr><tr><td>first release:=[2012-2012]<br/></td></tr><tr><td>comodo mac security<br/>symantec endpoint protection<br/>norton antivirus for mac<br/></td></tr></table>>];
+58 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_37</td></tr><tr><td>country of origin:={united states}<br/></td></tr><tr><td>comodo mac security<br/>symantec endpoint protection<br/>norton antivirus for mac<br/>secureanywhere antivirus<br/>secureanywhere internet security plus<br/></td></tr></table>>];
+27 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_40</td></tr><tr><td>first release:=[2007-2011]<br/></td></tr><tr><td><br/></td></tr></table>>];
+6 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_41</td></tr><tr><td>email security<br/></td></tr><tr><td>eset cyber security pro<br/></td></tr></table>>];
+36 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_42</td></tr><tr><td>first release:=[2012-2013]<br/></td></tr><tr><td><br/></td></tr></table>>];
+23 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_43</td></tr><tr><td>first release:=[2000-2011]<br/></td></tr><tr><td><br/></td></tr></table>>];
+20 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_44</td></tr><tr><td>first release:=[1997-2011]<br/></td></tr><tr><td><br/></td></tr></table>>];
+37 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_45</td></tr><tr><td>first release:=[2011-2012]<br/></td></tr><tr><td><br/></td></tr></table>>];
+1 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_48</td></tr><tr><td>heuristics<br/></td></tr><tr><td>comodo mac security<br/>norton antivirus for mac<br/></td></tr></table>>];
+10 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_47</td></tr><tr><td>av comparatives<br/></td></tr><tr><td>norton antivirus for mac<br/></td></tr></table>>];
+14 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_46</td></tr><tr><td>price:={non-free}<br/></td></tr><tr><td>kaspersky internet security<br/>norton antivirus for mac<br/></td></tr></table>>];
+30 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_50</td></tr><tr><td>first release:=[2011-2013]<br/></td></tr><tr><td><br/></td></tr></table>>];
+31 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_49</td></tr><tr><td>first release:=[2010-2012]<br/></td></tr><tr><td><br/></td></tr></table>>];
+9 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_51</td></tr><tr><td>support<br/></td></tr><tr><td><br/></td></tr></table>>];
+25 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_54</td></tr><tr><td>first release:=[2010-2013]<br/></td></tr><tr><td><br/></td></tr></table>>];
+26 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_53</td></tr><tr><td>first release:=[2008-2012]<br/></td></tr><tr><td><br/></td></tr></table>>];
+8 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_52</td></tr><tr><td>web protection<br/></td></tr><tr><td>secureanywhere antivirus<br/>secureanywhere internet security plus<br/></td></tr></table>>];
+22 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_55</td></tr><tr><td>first release:=[2007-2012]<br/></td></tr><tr><td><br/></td></tr></table>>];
+21 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_56</td></tr><tr><td>first release:=[2008-2013]<br/></td></tr><tr><td><br/></td></tr></table>>];
+18 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_57</td></tr><tr><td>first release:=[2007-2013]<br/></td></tr><tr><td><br/></td></tr></table>>];
+19 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_58</td></tr><tr><td>first release:=[2000-2012]<br/></td></tr><tr><td><br/></td></tr></table>>];
+17 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_59</td></tr><tr><td>first release:=[1997-2012]<br/></td></tr><tr><td><br/></td></tr></table>>];
+11 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_60</td></tr><tr><td>license:={proprietary}<br/></td></tr><tr><td><br/></td></tr></table>>];
+16 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_61</td></tr><tr><td>first release:=[2000-2013]<br/></td></tr><tr><td><br/></td></tr></table>>];
+0 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_62</td></tr><tr><td>on-demand scan<br/>on-access scan<br/>live-update<br/>first release:=[1997-2013]<br/></td></tr><tr><td><br/></td></tr></table>>];
+62 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_7</td></tr><tr><td>country of origin:={finland}<br/></td></tr><tr><td>f-secure anti-virus for mac<br/></td></tr></table>>];
+	53:p -> 43:p
+	5:p -> 46:p
+	51:p -> 47:p
+	62:p -> 47:p
+	12:p -> 49:p
+	48:p -> 56:p
+	5:p -> 56:p
+	47:p -> 4:p
+	5:p -> 4:p
+	47:p -> 40:p
+	48:p -> 40:p
+	48:p -> 41:p
+	49:p -> 41:p
+	50:p -> 42:p
+	49:p -> 42:p
+	47:p -> 7:p
+	41:p -> 35:p
+	42:p -> 35:p
+	46:p -> 39:p
+	4:p -> 39:p
+	59:p -> 45:p
+	57:p -> 45:p
+	55:p -> 45:p
+	39:p -> 33:p
+	40:p -> 33:p
+	56:p -> 33:p
+	40:p -> 34:p
+	41:p -> 34:p
+	52:p -> 15:p
+	12:p -> 15:p
+	57:p -> 15:p
+	5:p -> 15:p
+	53:p -> 15:p
+	35:p -> 29:p
+	34:p -> 29:p
+	45:p -> 38:p
+	46:p -> 38:p
+	33:p -> 28:p
+	34:p -> 28:p
+	39:p -> 2:p
+	60:p -> 2:p
+	7:p -> 2:p
+	43:p -> 2:p
+	28:p -> 24:p
+	29:p -> 24:p
+	38:p -> 32:p
+	39:p -> 32:p
+	13:p -> 44:p
+	61:p -> 44:p
+	52:p -> 44:p
+	42:p -> 58:p
+	32:p -> 27:p
+	33:p -> 27:p
+	39:p -> 6:p
+	52:p -> 6:p
+	7:p -> 6:p
+	12:p -> 6:p
+	57:p -> 6:p
+	43:p -> 36:p
+	44:p -> 36:p
+	28:p -> 23:p
+	27:p -> 23:p
+	24:p -> 20:p
+	23:p -> 20:p
+	45:p -> 37:p
+	44:p -> 37:p
+	52:p -> 1:p
+	60:p -> 1:p
+	7:p -> 1:p
+	32:p -> 1:p
+	52:p -> 10:p
+	57:p -> 10:p
+	59:p -> 10:p
+	7:p -> 10:p
+	43:p -> 10:p
+	33:p -> 10:p
+	55:p -> 10:p
+	61:p -> 14:p
+	50:p -> 14:p
+	3:p -> 14:p
+	40:p -> 14:p
+	59:p -> 14:p
+	60:p -> 14:p
+	7:p -> 14:p
+	55:p -> 14:p
+	60:p -> 30:p
+	37:p -> 30:p
+	36:p -> 30:p
+	38:p -> 31:p
+	54:p -> 31:p
+	37:p -> 31:p
+	52:p -> 9:p
+	14:p -> 9:p
+	43:p -> 9:p
+	30:p -> 25:p
+	31:p -> 25:p
+	31:p -> 26:p
+	7:p -> 26:p
+	32:p -> 26:p
+	61:p -> 8:p
+	2:p -> 8:p
+	52:p -> 8:p
+	3:p -> 8:p
+	32:p -> 8:p
+	26:p -> 22:p
+	27:p -> 22:p
+	2:p -> 21:p
+	1:p -> 21:p
+	25:p -> 21:p
+	26:p -> 21:p
+	21:p -> 18:p
+	10:p -> 18:p
+	22:p -> 18:p
+	23:p -> 19:p
+	22:p -> 19:p
+	58:p -> 17:p
+	20:p -> 17:p
+	19:p -> 17:p
+	8:p -> 11:p
+	9:p -> 11:p
+	18:p -> 11:p
+	15:p -> 16:p
+	19:p -> 16:p
+	8:p -> 16:p
+	6:p -> 16:p
+	18:p -> 16:p
+	17:p -> 0:p
+	11:p -> 0:p
+	16:p -> 0:p
+}

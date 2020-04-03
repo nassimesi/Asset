@@ -1,0 +1,394 @@
+usually invoked:={fish} -> introduced:=[2005-2005]
+usually invoked:={fish} -> license:={gpl}
+usually invoked:={fish} -> usual environment:={posix}
+usually invoked:={fish} -> unicode support
+usually invoked:={fish} -> source code availability
+usually invoked:={fish} -> platform-independent
+usually invoked:={fish} -> startup/shutdown scripts
+usually invoked:={fish} -> stream redirection
+usual environment:={java} -> introduced:=[2005-2005]
+usual environment:={java} -> unicode support
+usual environment:={java} -> platform-independent
+usual environment:={java} -> single file executable
+usual environment:={java} -> stream redirection
+license:={lgpl} -> introduced:=[2005-2005]
+license:={lgpl} -> unicode support
+license:={lgpl} -> platform-independent
+license:={lgpl} -> single file executable
+license:={lgpl} -> stream redirection
+usual environment:={plan 9,posix} -> introduced:=[1989-1989]
+usual environment:={plan 9,posix} -> unicode support
+usual environment:={plan 9,posix} -> platform-independent
+usual environment:={plan 9,posix} -> single file executable
+usually invoked:={rc} -> introduced:=[1989-1989]
+usually invoked:={rc} -> unicode support
+usually invoked:={rc} -> platform-independent
+usually invoked:={rc} -> single file executable
+usually invoked:={rc} -> stream redirection
+license:={lpl} -> introduced:=[1989-1989]
+license:={lpl} -> unicode support
+license:={lpl} -> platform-independent
+license:={lpl} -> single file executable
+license:={lpl} -> stream redirection
+usual environment:={.net} -> license:={ms-eula}
+usual environment:={.net} -> mouse support
+usual environment:={.net} -> iso 8601 support
+usual environment:={.net} -> unicode support
+usual environment:={.net} -> logging
+usual environment:={.net} -> configurability
+usual environment:={.net} -> startup/shutdown scripts
+usual environment:={.net} -> batch scripts
+usual environment:={.net} -> stream redirection
+usually invoked:={powershell} -> license:={ms-eula}
+usually invoked:={powershell} -> mouse support
+usually invoked:={powershell} -> iso 8601 support
+usually invoked:={powershell} -> unicode support
+usually invoked:={powershell} -> logging
+usually invoked:={powershell} -> configurability
+usually invoked:={powershell} -> startup/shutdown scripts
+usually invoked:={powershell} -> batch scripts
+usually invoked:={powershell} -> stream redirection
+introduced:=[2006-2006] -> license:={ms-eula}
+introduced:=[2006-2006] -> mouse support
+introduced:=[2006-2006] -> iso 8601 support
+introduced:=[2006-2006] -> logging
+introduced:=[2006-2006] -> configurability
+introduced:=[2006-2006] -> startup/shutdown scripts
+introduced:=[2006-2006] -> batch scripts
+user interface:={graphical cli} -> license:={ms-eula}
+user interface:={graphical cli} -> mouse support
+user interface:={graphical cli} -> iso 8601 support
+user interface:={graphical cli} -> unicode support
+user interface:={graphical cli} -> logging
+user interface:={graphical cli} -> configurability
+user interface:={graphical cli} -> startup/shutdown scripts
+user interface:={graphical cli} -> batch scripts
+user interface:={graphical cli} -> stream redirection
+native cim/wbem support -> license:={ms-eula}
+native cim/wbem support -> mouse support
+native cim/wbem support -> iso 8601 support
+native cim/wbem support -> unicode support
+native cim/wbem support -> logging
+native cim/wbem support -> configurability
+native cim/wbem support -> startup/shutdown scripts
+native cim/wbem support -> batch scripts
+native cim/wbem support -> stream redirection
+usual environment:={openvms} -> introduced:=[1977-1977]
+usual environment:={openvms} -> logging
+usual environment:={openvms} -> platform-independent
+usual environment:={openvms} -> startup/shutdown scripts
+usual environment:={openvms} -> batch scripts
+usual environment:={openvms} -> user interface:={text-based cli}
+usual environment:={openvms} -> stream redirection
+usually invoked:={tcc} -> introduced:=[1993-1993]
+usually invoked:={tcc} -> usual environment:={win32}
+usually invoked:={tcc} -> mouse support
+usually invoked:={tcc} -> iso 8601 support
+usually invoked:={tcc} -> unicode support
+usually invoked:={tcc} -> logging
+usually invoked:={tcc} -> configurability
+usually invoked:={tcc} -> startup/shutdown scripts
+usually invoked:={tcc} -> batch scripts
+usually invoked:={tcc} -> user interface:={text-based cli}
+usually invoked:={tcc} -> stream redirection
+license:={shareware} -> introduced:=[1993-1993]
+license:={shareware} -> usual environment:={win32}
+license:={shareware} -> mouse support
+license:={shareware} -> iso 8601 support
+license:={shareware} -> unicode support
+license:={shareware} -> logging
+license:={shareware} -> configurability
+license:={shareware} -> startup/shutdown scripts
+license:={shareware} -> batch scripts
+license:={shareware} -> user interface:={text-based cli}
+license:={shareware} -> stream redirection
+usually invoked:={4os2} -> introduced:=[1992-1992]
+usually invoked:={4os2} -> usual environment:={os/2}
+usually invoked:={4os2} -> license:={free}
+usually invoked:={4os2} -> source code availability
+usually invoked:={4os2} -> logging
+usually invoked:={4os2} -> configurability
+usually invoked:={4os2} -> startup/shutdown scripts
+usually invoked:={4os2} -> batch scripts
+usually invoked:={4os2} -> user interface:={text-based cli}
+usually invoked:={4os2} -> stream redirection
+usual environment:={se,windows 95,me,dos,windows 98} -> license:={mit}
+usual environment:={se,windows 95,me,dos,windows 98} -> mouse support
+usual environment:={se,windows 95,me,dos,windows 98} -> introduced:=[1989-1989]
+usual environment:={se,windows 95,me,dos,windows 98} -> iso 8601 support
+usual environment:={se,windows 95,me,dos,windows 98} -> source code availability
+usual environment:={se,windows 95,me,dos,windows 98} -> logging
+usually invoked:={ndos,4dos} -> license:={mit}
+usually invoked:={ndos,4dos} -> mouse support
+usually invoked:={ndos,4dos} -> introduced:=[1989-1989]
+usually invoked:={ndos,4dos} -> iso 8601 support
+usually invoked:={ndos,4dos} -> console redirection
+usually invoked:={ndos,4dos} -> source code availability
+usually invoked:={ndos,4dos} -> logging
+usually invoked:={ndos,4dos} -> single file executable
+usually invoked:={ndos,4dos} -> configurability
+usually invoked:={ndos,4dos} -> startup/shutdown scripts
+usually invoked:={ndos,4dos} -> batch scripts
+usually invoked:={ndos,4dos} -> user interface:={text-based cli}
+usually invoked:={ndos,4dos} -> stream redirection
+introduced:=[1987-1987] -> usually invoked:={cmd}
+license:={ibm-eula} -> usually invoked:={cmd}
+license:={ibm-eula} -> usual environment:={os/2}
+license:={ibm-eula} -> batch scripts
+license:={ibm-eula} -> user interface:={text-based cli}
+license:={ibm-eula} -> stream redirection
+introduced:=[1980-1980] -> usual environment:={dos}
+introduced:=[1980-1980] -> usually invoked:={cmd}
+license:={ms-eula,bsd,gpl} -> usual environment:={dos}
+license:={ms-eula,bsd,gpl} -> usually invoked:={cmd}
+license:={ms-eula,bsd,gpl} -> console redirection
+license:={ms-eula,bsd,gpl} -> user interface:={text-based cli}
+usual environment:={mp/m,cp/m} -> license:={free}
+usual environment:={mp/m,cp/m} -> source code availability
+usual environment:={mp/m,cp/m} -> single file executable
+usual environment:={mp/m,cp/m} -> startup/shutdown scripts
+usual environment:={mp/m,cp/m} -> user interface:={text-based cli}
+usually invoked:={ccp} -> license:={free}
+usually invoked:={ccp} -> source code availability
+usually invoked:={ccp} -> single file executable
+usually invoked:={ccp} -> startup/shutdown scripts
+usually invoked:={ccp} -> user interface:={text-based cli}
+introduced:=[1975-1975] -> license:={free}
+introduced:=[1975-1975] -> source code availability
+introduced:=[1975-1975] -> single file executable
+usually invoked:={zsh} -> license:={mit}
+usually invoked:={zsh} -> mouse support
+usually invoked:={zsh} -> iso 8601 support
+usually invoked:={zsh} -> usual environment:={posix}
+usually invoked:={zsh} -> unicode support
+usually invoked:={zsh} -> console redirection
+usually invoked:={zsh} -> source code availability
+usually invoked:={zsh} -> logging
+usually invoked:={zsh} -> platform-independent
+usually invoked:={zsh} -> single file executable
+usually invoked:={zsh} -> configurability
+usually invoked:={zsh} -> startup/shutdown scripts
+usually invoked:={zsh} -> batch scripts
+usually invoked:={zsh} -> user interface:={text-based cli}
+usually invoked:={zsh} -> stream redirection
+introduced:=[1990-1990] -> license:={mit}
+introduced:=[1990-1990] -> mouse support
+introduced:=[1990-1990] -> iso 8601 support
+introduced:=[1990-1990] -> usual environment:={posix}
+introduced:=[1990-1990] -> unicode support
+introduced:=[1990-1990] -> console redirection
+introduced:=[1990-1990] -> source code availability
+introduced:=[1990-1990] -> platform-independent
+introduced:=[1990-1990] -> startup/shutdown scripts
+usually invoked:={ksh,sh} -> introduced:=[1989-1989]
+usually invoked:={scsh} -> license:={bsd}
+usually invoked:={scsh} -> usual environment:={posix}
+usually invoked:={scsh} -> source code availability
+usually invoked:={scsh} -> platform-independent
+usually invoked:={scsh} -> single file executable
+usually invoked:={scsh} -> stream redirection
+introduced:=[1994-1994] -> license:={bsd}
+introduced:=[1994-1994] -> usual environment:={posix}
+introduced:=[1994-1994] -> source code availability
+introduced:=[1994-1994] -> single file executable
+usual environment:={os/2,win32} -> license:={proprietary}
+usual environment:={os/2,win32} -> usually invoked:={csh}
+usual environment:={os/2,win32} -> iso 8601 support
+usual environment:={os/2,win32} -> console redirection
+usual environment:={os/2,win32} -> logging
+usual environment:={os/2,win32} -> platform-independent
+usual environment:={os/2,win32} -> single file executable
+introduced:=[1988-1988] -> license:={proprietary}
+introduced:=[1988-1988] -> usually invoked:={csh}
+introduced:=[1988-1988] -> iso 8601 support
+introduced:=[1988-1988] -> console redirection
+introduced:=[1988-1988] -> logging
+introduced:=[1988-1988] -> platform-independent
+introduced:=[1988-1988] -> configurability
+introduced:=[1988-1988] -> startup/shutdown scripts
+usually invoked:={tcsh,csh} -> introduced:=[1983-1983]
+usually invoked:={tcsh,csh} -> license:={bsd}
+usually invoked:={tcsh,csh} -> usual environment:={posix}
+usually invoked:={tcsh,csh} -> unicode support
+usually invoked:={tcsh,csh} -> source code availability
+introduced:=[1978-1978] -> usually invoked:={csh}
+introduced:=[1978-1978] -> usual environment:={posix}
+introduced:=[1978-1978] -> source code availability
+introduced:=[1978-1978] -> logging
+usually invoked:={sh,bash} -> license:={gpl}
+usually invoked:={sh,bash} -> introduced:=[1989-1989]
+usually invoked:={sh,bash} -> iso 8601 support
+usually invoked:={sh,bash} -> usual environment:={posix}
+usually invoked:={sh,bash} -> unicode support
+usually invoked:={sh,bash} -> source code availability
+usually invoked:={sh,bash} -> logging
+usually invoked:={sh,bash} -> platform-independent
+usually invoked:={sh,bash} -> single file executable
+usually invoked:={sh,bash} -> startup/shutdown scripts
+introduced:=[1993-1993] -> usual environment:={win32}
+introduced:=[1993-1993] -> startup/shutdown scripts
+usual environment:={dos} -> introduced:=[1980-1989]
+usual environment:={dos} -> console redirection
+usual environment:={dos} -> single file executable
+usual environment:={dos} -> configurability
+usual environment:={dos} -> startup/shutdown scripts
+usual environment:={dos} -> batch scripts
+usual environment:={dos} -> user interface:={text-based cli}
+usual environment:={dos} -> stream redirection
+license:={mit} -> mouse support
+license:={mit} -> introduced:=[1989-1990]
+license:={mit} -> iso 8601 support
+license:={mit} -> console redirection
+license:={mit} -> source code availability
+license:={mit} -> logging
+license:={mit} -> single file executable
+license:={mit} -> configurability
+license:={mit} -> startup/shutdown scripts
+license:={mit} -> batch scripts
+license:={mit} -> user interface:={text-based cli}
+license:={mit} -> stream redirection
+usually invoked:={ksh} -> introduced:=[1983-1989]
+usually invoked:={ksh} -> usual environment:={posix}
+usually invoked:={ksh} -> console redirection
+usually invoked:={ksh} -> source code availability
+usually invoked:={ksh} -> logging
+usually invoked:={ksh} -> platform-independent
+usually invoked:={ksh} -> single file executable
+usually invoked:={ksh} -> configurability
+usually invoked:={ksh} -> startup/shutdown scripts
+usually invoked:={ksh} -> batch scripts
+usually invoked:={ksh} -> user interface:={text-based cli}
+usually invoked:={ksh} -> stream redirection
+license:={common public license} -> introduced:=[1983-1989]
+license:={common public license} -> usual environment:={posix}
+license:={common public license} -> console redirection
+license:={common public license} -> source code availability
+license:={common public license} -> logging
+license:={common public license} -> platform-independent
+license:={common public license} -> single file executable
+license:={common public license} -> configurability
+license:={common public license} -> startup/shutdown scripts
+license:={common public license} -> batch scripts
+license:={common public license} -> user interface:={text-based cli}
+license:={common public license} -> stream redirection
+introduced:=[1987-1988] -> usual environment:={os/2}
+introduced:=[1983-1983] -> usual environment:={posix}
+introduced:=[1983-1983] -> unicode support
+introduced:=[1983-1983] -> source code availability
+introduced:=[1983-1983] -> logging
+introduced:=[1983-1983] -> platform-independent
+introduced:=[1978-1980] -> license:={bsd}
+license:={proprietary} -> introduced:=[1977-1988]
+license:={proprietary} -> console redirection
+license:={proprietary} -> platform-independent
+license:={proprietary} -> single file executable
+license:={proprietary} -> configurability
+license:={proprietary} -> startup/shutdown scripts
+license:={proprietary} -> batch scripts
+license:={proprietary} -> user interface:={text-based cli}
+license:={proprietary} -> stream redirection
+usual environment:={unix} -> introduced:=[1977-1977]
+usual environment:={unix} -> usually invoked:={sh}
+usual environment:={unix} -> console redirection
+usual environment:={unix} -> source code availability
+usual environment:={unix} -> platform-independent
+usual environment:={unix} -> single file executable
+usual environment:={unix} -> configurability
+usual environment:={unix} -> startup/shutdown scripts
+usual environment:={unix} -> batch scripts
+usual environment:={unix} -> user interface:={text-based cli}
+usual environment:={unix} -> stream redirection
+introduced:=[2005-2006] -> unicode support
+license:={ms-eula} -> configurability
+license:={ms-eula} -> introduced:=[1980-2006]
+license:={ms-eula} -> startup/shutdown scripts
+license:={ms-eula} -> batch scripts
+license:={ms-eula} -> stream redirection
+usually invoked:={cmd} -> introduced:=[1980-1993]
+usually invoked:={cmd} -> batch scripts
+usually invoked:={cmd} -> user interface:={text-based cli}
+usually invoked:={cmd} -> stream redirection
+introduced:=[1994-2005] -> platform-independent
+usual environment:={win32} -> introduced:=[1988-1993]
+usual environment:={win32} -> configurability
+usual environment:={win32} -> startup/shutdown scripts
+usual environment:={win32} -> batch scripts
+usual environment:={win32} -> user interface:={text-based cli}
+usual environment:={win32} -> stream redirection
+usual environment:={os/2} -> introduced:=[1987-1992]
+usual environment:={os/2} -> batch scripts
+usual environment:={os/2} -> user interface:={text-based cli}
+usual environment:={os/2} -> stream redirection
+usually invoked:={csh} -> introduced:=[1978-1988]
+usually invoked:={csh} -> console redirection
+usually invoked:={csh} -> logging
+usually invoked:={csh} -> platform-independent
+usually invoked:={csh} -> single file executable
+usually invoked:={csh} -> configurability
+usually invoked:={csh} -> startup/shutdown scripts
+usually invoked:={csh} -> batch scripts
+usually invoked:={csh} -> user interface:={text-based cli}
+usually invoked:={csh} -> stream redirection
+license:={gpl} -> introduced:=[1980-2005]
+license:={gpl} -> startup/shutdown scripts
+license:={gpl} -> stream redirection
+introduced:=[1990-1992] -> logging
+license:={free} -> source code availability
+license:={free} -> introduced:=[1975-1992]
+license:={free} -> startup/shutdown scripts
+license:={free} -> user interface:={text-based cli}
+mouse support -> iso 8601 support
+mouse support -> introduced:=[1989-2006]
+mouse support -> logging
+mouse support -> configurability
+mouse support -> startup/shutdown scripts
+mouse support -> batch scripts
+mouse support -> stream redirection
+introduced:=[1978-1983] -> console redirection
+introduced:=[1978-1983] -> single file executable
+introduced:=[1978-1983] -> configurability
+introduced:=[1977-1978] -> platform-independent
+license:={bsd} -> introduced:=[1978-1994]
+license:={bsd} -> single file executable
+license:={bsd} -> stream redirection
+introduced:=[1990-1993] -> configurability
+introduced:=[1990-1993] -> batch scripts
+introduced:=[1990-1993] -> user interface:={text-based cli}
+usually invoked:={sh} -> console redirection
+usually invoked:={sh} -> configurability
+usually invoked:={sh} -> introduced:=[1977-1992]
+usually invoked:={sh} -> batch scripts
+usually invoked:={sh} -> user interface:={text-based cli}
+usually invoked:={sh} -> stream redirection
+introduced:=[1988-1990] -> single file executable
+introduced:=[1975-1983] -> startup/shutdown scripts
+iso 8601 support -> logging
+iso 8601 support -> configurability
+iso 8601 support -> introduced:=[1983-2006]
+iso 8601 support -> batch scripts
+iso 8601 support -> stream redirection
+introduced:=[1977-1988] -> batch scripts
+introduced:=[1975-1988] -> user interface:={text-based cli}
+usual environment:={posix} -> introduced:=[1978-2005]
+usual environment:={posix} -> stream redirection
+unicode support -> introduced:=[1977-2006]
+unicode support -> stream redirection
+console redirection -> configurability
+console redirection -> introduced:=[1977-1992]
+console redirection -> batch scripts
+console redirection -> user interface:={text-based cli}
+console redirection -> stream redirection
+source code availability -> introduced:=[1975-2005]
+logging -> batch scripts
+logging -> introduced:=[1977-2006]
+logging -> stream redirection
+platform-independent -> introduced:=[1977-2005]
+platform-independent -> stream redirection
+single file executable -> introduced:=[1975-2005]
+configurability -> batch scripts
+configurability -> introduced:=[1977-2006]
+configurability -> stream redirection
+startup/shutdown scripts -> introduced:=[1975-2006]
+batch scripts -> introduced:=[1977-2006]
+batch scripts -> stream redirection
+user interface:={text-based cli} -> introduced:=[1975-1993]

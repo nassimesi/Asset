@@ -1,0 +1,122 @@
+creator:={wso2} -> release date:=[2013-2013]
+creator:={wso2} -> software license:={apache software license}
+creator:={wso2} -> cost:={commercial support available,free}
+creator:={wso2} -> open source
+creator:={software ag} -> release date:=[2013-2013]
+creator:={software ag} -> cost:={non-free}
+creator:={software ag} -> software license:={proprietary}
+creator:={unify corporation} -> software license:={proprietary}
+release date:=* -> software license:={proprietary}
+creator:={automation centre} -> release date:=[2012-2012]
+creator:={automation centre} -> cost:={non-free}
+creator:={automation centre} -> software license:={proprietary}
+creator:={talend} -> release date:=[2015-2015]
+creator:={talend} -> cost:={commercial support available,free}
+creator:={talend} -> open source
+software license:={gpl,apache software license} -> release date:=[2015-2015]
+software license:={gpl,apache software license} -> cost:={commercial support available,free}
+creator:={sun microsystems} -> release date:=[2008-2008]
+creator:={sun microsystems} -> cost:={non-free}
+creator:={sun microsystems} -> software license:={proprietary}
+creator:={engineering group} -> software license:={lgpl}
+creator:={engineering group} -> release date:=[2010-2010]
+creator:={engineering group} -> cost:={commercial support available,free}
+creator:={engineering group} -> open source
+creator:={sap ag} -> release date:=[2011-2011]
+creator:={sap ag} -> cost:={non-free}
+creator:={sap ag} -> software license:={proprietary}
+creator:={ow2 consortium} -> software license:={lgpl}
+creator:={ow2 consortium} -> release date:=[2011-2011]
+creator:={ow2 consortium} -> cost:={commercial support available,free}
+creator:={ow2 consortium} -> open source
+creator:={openlink software} -> open source
+creator:={openlink software} -> cost:={non-free}
+release date:=[2001-2001] -> open source
+release date:=[2001-2001] -> cost:={non-free}
+software license:={gpl,proprietary} -> cost:={non-free}
+creator:={seeburger ag} -> release date:=[2015-2015]
+creator:={seeburger ag} -> cost:={non-free}
+creator:={seeburger ag} -> software license:={proprietary}
+creator:={openesb community} -> release date:=[2013-2013]
+creator:={openesb community} -> open source
+software license:={cddl} -> release date:=[2013-2013]
+software license:={cddl} -> open source
+creator:={mulesoft} -> release date:=[2014-2014]
+creator:={mulesoft} -> open source
+software license:={cpal} -> release date:=[2014-2014]
+software license:={cpal} -> open source
+creator:={the software conservancy} -> release date:=[2011-2011]
+creator:={the software conservancy} -> cost:={free}
+creator:={the software conservancy} -> open source
+software license:={mit} -> release date:=[2011-2011]
+software license:={mit} -> cost:={free}
+software license:={mit} -> open source
+creator:={twenty57.com} -> cost:={non-free,free}
+creator:={twenty57.com} -> release date:=[2014-2014]
+creator:={twenty57.com} -> software license:={proprietary}
+creator:={magic software enterprises} -> release date:=[2012-2012]
+creator:={magic software enterprises} -> software license:={proprietary}
+creator:={jitterbit} -> release date:=[2008-2008]
+creator:={jitterbit} -> open source
+software license:={jpl} -> release date:=[2008-2008]
+software license:={jpl} -> open source
+creator:={informatica} -> release date:=[2007-2007]
+creator:={informatica} -> cost:={non-free}
+creator:={informatica} -> software license:={proprietary}
+creator:={fusesource} -> release date:=[2007-2007]
+creator:={fusesource} -> software license:={apache software license}
+creator:={fusesource} -> open source
+creator:={flow software ltd} -> cost:={non-free,free}
+creator:={flow software ltd} -> release date:=[2010-2010]
+creator:={flow software ltd} -> software license:={proprietary}
+software license:={proprietary,saas} -> creator:={microsoft}
+software license:={proprietary,saas} -> release date:=[2013-2013]
+creator:={automation anywhere} -> release date:=[2011-2011]
+creator:={automation anywhere} -> cost:={non-free}
+creator:={automation anywhere} -> software license:={proprietary}
+creator:={astera software} -> release date:=[2013-2013]
+creator:={astera software} -> cost:={non-free}
+creator:={astera software} -> software license:={proprietary}
+release date:=[2003-2003] -> creator:={progress software}
+creator:={adroitlogic} -> release date:=[2011-2011]
+creator:={adroitlogic} -> cost:={commercial support available,free}
+creator:={adroitlogic} -> open source
+software license:={agpl} -> release date:=[2011-2011]
+software license:={agpl} -> cost:={commercial support available,free}
+software license:={agpl} -> open source
+creator:={adeptia} -> release date:=[2012-2012]
+creator:={adeptia} -> cost:={non-free}
+creator:={adeptia} -> software license:={proprietary}
+creator:={oracle corporation} -> release date:=[2014-2014]
+creator:={oracle corporation} -> cost:={non-free}
+creator:={oracle corporation} -> software license:={proprietary}
+software license:={gpl} -> open source
+software license:={gpl} -> release date:=[2001-2015]
+creator:={jboss} -> software license:={lgpl}
+creator:={jboss} -> cost:={commercial support available,free}
+creator:={jboss} -> open source
+creator:={jboss} -> release date:=[2011-2013]
+cost:={non-free,free} -> release date:=[2010-2014]
+creator:={microsoft} -> release date:=[2013-2014]
+creator:={microsoft} -> software license:={proprietary}
+creator:={progress software} -> release date:=[2003-2011]
+creator:={progress software} -> software license:={proprietary}
+release date:=[2001-2003] -> software license:={proprietary}
+creator:={ibm} -> release date:=[2010-2010]
+creator:={ibm} -> cost:={non-free}
+creator:={ibm} -> software license:={proprietary}
+creator:={apache software foundation} -> software license:={apache software license}
+creator:={apache software foundation} -> cost:={commercial support available,free}
+creator:={apache software foundation} -> open source
+creator:={apache software foundation} -> release date:=[2010-2014]
+release date:=[2012-2012] -> software license:={proprietary}
+software license:={lgpl} -> cost:={commercial support available,free}
+software license:={lgpl} -> open source
+software license:={lgpl} -> release date:=[2010-2013]
+software license:={apache software license} -> open source
+software license:={apache software license} -> release date:=[2007-2015]
+cost:={commercial support available,free} -> open source
+cost:={free} -> release date:=[2010-2015]
+open source -> release date:=[2001-2015]
+cost:={non-free} -> software license:={proprietary}
+cost:={non-free} -> release date:=[2001-2015]

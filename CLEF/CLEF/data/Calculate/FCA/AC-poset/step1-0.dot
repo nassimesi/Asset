@@ -1,0 +1,22 @@
+digraph G { 
+	rankdir=BT;
+	margin=0;
+	node [margin="0.03,0.03",fontname="DejaVu Sans"];
+	ranksep=0.3;
+	nodesep=0.2;
+//graph[label="name:ctx,concept number:7,object number:4,attribute number:8"
+10 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_3</td></tr><tr><td>-510171990<br/></td></tr><tr><td>00002<br/></td></tr></table>>];
+12 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_0</td></tr><tr><td>908445918<br/></td></tr><tr><td>00003/<br/></td></tr></table>>];
+8 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_1</td></tr><tr><td>940523930<br/></td></tr><tr><td>00001<br/></td></tr></table>>];
+11 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_4</td></tr><tr><td>493814336<br/></td></tr><tr><td><br/></td></tr></table>>];
+9 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_5</td></tr><tr><td>-818324919<br/></td></tr><tr><td><br/></td></tr></table>>];
+7 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_6</td></tr><tr><td>-904028847<br/>-2126461325<br/></td></tr><tr><td><br/></td></tr></table>>];
+13 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_2</td></tr><tr><td>-1209684242<br/></td></tr><tr><td>00004/<br/></td></tr></table>>];
+	12:p -> 11:p
+	13:p -> 11:p
+	10:p -> 9:p
+	13:p -> 9:p
+	8:p -> 7:p
+	9:p -> 7:p
+	11:p -> 7:p
+}

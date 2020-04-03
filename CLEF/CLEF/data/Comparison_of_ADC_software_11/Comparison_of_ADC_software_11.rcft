@@ -1,0 +1,11 @@
+FormalContext ctx
+algo fca
+| |encryption|ipv6|plugin extendable|hash algorithms:={tiger tree hash}|hash algorithms:=*|adc support:={tigr}|adc support:={adcs}|adc support:={any clients,hubs}|adc support:={tigr,adcs}|adc support:={osnr,adcs}|
+|adccore|x||x|x||x|x||x||
+|dcbouncer|x|||x||||x|||
+|dc-hublink||||x||x|||||
+|dcwatch|x||x|x||x|x||x||
+|embla|x||x|x||x|||||
+|flowlib|x||x|x||x|||||
+|netchatlink||||x||x|||||
+|announcer bot|x||||x||x|||x|

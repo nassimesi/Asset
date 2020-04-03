@@ -1,0 +1,21 @@
+gui ->! cli
+gui ->! based on:={airdc++,nanodc}
+gui ->! programming language:={c}
+based on:={strongdc++} ->! programming language:={c++,lua}
+based on:={strongdc++} ->! cli
+based on:={strongdc++} ->! programming language:={java}
+based on:={strongdc++} ->! programming language:={c}
+based on:={dc++} ->! programming language:={c++,lua}
+based on:={dc++} ->! cli
+based on:={dc++} ->! programming language:={java}
+based on:={dc++} ->! programming language:={c}
+programming language:={c++,lua} ->! cli
+programming language:={c++,lua} ->! webui
+programming language:={c++,lua} ->! based on:={airdc++,nanodc}
+cli ->! webui
+cli ->! programming language:={java}
+webui ->! based on:={airdc++,nanodc}
+webui ->! programming language:={java}
+webui ->! programming language:={c}
+based on:={airdc++,nanodc} ->! programming language:={java}
+based on:={airdc++,nanodc} ->! programming language:={c}

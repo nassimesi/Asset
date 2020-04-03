@@ -1,0 +1,10 @@
+Altitude Hold ->! FT l 10
+GPS ->! FT l 10
+FT ge 10 ->! FT l 10
+FT ge 10 ->! GLONASS
+FT ge 10 ->! Avoidance
+FT ge 10 ->! FT ge 20
+Gimbal ->! FT l 10
+FT l 10 ->! GLONASS
+FT l 10 ->! Avoidance
+FT l 10 ->! FT ge 20

@@ -1,0 +1,75 @@
+based framework:={original,bass audio library} -> +first public release:=[1998-1998]
+based framework:={wasabi} -> +first public release:=[1997-1997]
+based framework:={wasabi} -> written in:={c++,c}
+based framework:={wasabi} -> software license:={proprietary}
+based framework:={wasabi} -> cost:={free}
++first public release:=[2009-2009] -> written in:={c#}
++first public release:=* -> software license:={proprietary}
++first public release:=* -> cost:={free}
+written in:={visual basic .net} -> based framework:={bass audio library}
+written in:={visual basic .net} -> +first public release:=[2008-2008]
+written in:={visual basic .net} -> software license:={proprietary}
+written in:={visual basic .net} -> cost:={free}
++first public release:=[2012-2012] -> written in:={objective-c}
++first public release:=[2012-2012] -> cost:={non-free}
++first public release:=[2012-2012] -> software license:={proprietary}
+based framework:={core audio} -> written in:={objective-c}
+based framework:={core audio} -> cost:={non-free}
+based framework:={core audio} -> software license:={proprietary}
+software license:={bsd,proprietary} -> +first public release:=[2002-2002]
+software license:={bsd,proprietary} -> written in:={c++}
+based framework:={av foundation,quicktime} -> written in:={objective-c}
+based framework:={av foundation,quicktime} -> +first public release:=[2008-2008]
+based framework:={av foundation,quicktime} -> software license:={proprietary}
++first public release:=[2011-2011] -> written in:={c++}
++first public release:=[2011-2011] -> based framework:={gstreamer}
++first public release:=[2011-2011] -> software license:={gpl}
+software license:={mit} -> written in:={c#}
+software license:={mit} -> +first public release:=[2005-2005]
+software license:={mit} -> based framework:={gstreamer}
+software license:={mit} -> cost:={free}
+written in:={java} -> +first public release:=[2006-2006]
+written in:={java} -> software license:={gpl}
+written in:={java} -> cost:={free}
+based framework:={xine,directshow,mplayer,gstreamer,vlc,quicktime} -> written in:={c++}
+based framework:={xine,directshow,mplayer,gstreamer,vlc,quicktime} -> +first public release:=[2003-2003]
+based framework:={xine,directshow,mplayer,gstreamer,vlc,quicktime} -> software license:={gpl}
+based framework:={original} -> +first public release:=[1997-1998]
+based framework:={original} -> cost:={free}
++first public release:=[1997-1997] -> written in:={c}
+software license:={bsd} -> +first public release:=[2002-2005]
+software license:={bsd} -> cost:={free}
+written in:={python} -> based framework:={gstreamer}
+written in:={python} -> +first public release:=[2004-2006]
+written in:={python} -> software license:={gpl}
+written in:={python} -> cost:={free}
++first public release:=[2009-2011] -> cost:={free}
+written in:={c#} -> +first public release:=[2005-2009]
+written in:={c#} -> cost:={free}
+written in:={c++,c} -> +first public release:=[1997-2005]
+based framework:={xmms based} -> +first public release:=[2004-2005]
+based framework:={xmms based} -> written in:={c}
+based framework:={xmms based} -> software license:={gpl}
+based framework:={xmms based} -> cost:={free}
+based framework:={quicktime} -> +first public release:=[2003-2008]
+based framework:={quicktime} -> cost:={free}
+written in:={delphi,c} -> +first public release:=[2003-2003]
+written in:={objective-c} -> +first public release:=[2006-2012]
++first public release:=[2004-2004] -> software license:={gpl}
+based framework:={bass audio library} -> software license:={proprietary}
+based framework:={bass audio library} -> +first public release:=[1998-2008]
+based framework:={bass audio library} -> cost:={free}
+written in:={delphi} -> software license:={proprietary}
+written in:={delphi} -> +first public release:=[2003-2006]
+cost:={non-free} -> software license:={proprietary}
+cost:={non-free} -> +first public release:=[2003-2012]
++first public release:=[2008-2009] -> software license:={proprietary}
++first public release:=[1997-2002] -> cost:={free}
+written in:={c++} -> cost:={free}
+written in:={c++} -> +first public release:=[1997-2011]
+based framework:={gstreamer} -> +first public release:=[2003-2011]
+based framework:={gstreamer} -> cost:={free}
+written in:={c} -> +first public release:=[1997-2006]
++first public release:=[2004-2006] -> cost:={free}
+software license:={gpl} -> cost:={free}
+software license:={gpl} -> +first public release:=[1997-2011]

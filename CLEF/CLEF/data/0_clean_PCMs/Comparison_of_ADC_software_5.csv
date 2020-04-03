@@ -1,0 +1,13 @@
+name,windows,linux,os x,bsd,haiku
+airdc++,X,,,,
+airdc++ nano,,X,X,,
+apexdc++,X,,,,
+dc++,X,,,,
+jucy,X,X,X,,
+linuxdc++,,X,,X,
+eiskaltdc++,X,X,X,X,X
+flylinkdc++,X,,,,
+rsx++,X,,,,
+tkdc++,X,,,,
+strongdc++,X,,,,
+ncdc,,X,X,X,

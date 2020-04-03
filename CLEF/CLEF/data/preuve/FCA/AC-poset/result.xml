@@ -1,0 +1,108 @@
+<RCAExplore_Document>
+	<Step nb="0">
+		<Lattice numberObj="4" numberAtt="3" numberCpt="3" >
+			<Config algo="acposet">
+			</Config>
+			<Name>ctx</Name>
+			<Object>P1</Object>
+			<Object>P2</Object>
+			<Object>P3</Object>
+			<Object>P4</Object>
+			<Attribute>A</Attribute>
+			<Attribute>B</Attribute>
+			<Attribute>C</Attribute>
+			<Concept>
+				<ID>Concept_ctx_2</ID>
+				<Extent>
+					<Object_Ref>P1</Object_Ref>
+					<Object_Ref>P2</Object_Ref>
+					<Object_Ref>P3</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>A</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_1</ID>
+				<Extent>
+					<Object_Ref>P1</Object_Ref>
+					<Object_Ref>P2</Object_Ref>
+					<Object_Ref>P4</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>B</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_0</ID>
+				<Extent>
+					<Object_Ref>P2</Object_Ref>
+					<Object_Ref>P3</Object_Ref>
+					<Object_Ref>P4</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>C</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+				</UpperCovers>
+			</Concept>
+		</Lattice>
+	</Step >
+	<Step nb="1">
+		<Lattice numberObj="4" numberAtt="3" numberCpt="3" >
+			<Config algo="acposet">
+			</Config>
+			<Name>ctx</Name>
+			<Object>P1</Object>
+			<Object>P2</Object>
+			<Object>P3</Object>
+			<Object>P4</Object>
+			<Attribute>A</Attribute>
+			<Attribute>B</Attribute>
+			<Attribute>C</Attribute>
+			<Concept>
+				<ID>Concept_ctx_2</ID>
+				<Extent>
+					<Object_Ref>P1</Object_Ref>
+					<Object_Ref>P2</Object_Ref>
+					<Object_Ref>P3</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>A</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_1</ID>
+				<Extent>
+					<Object_Ref>P1</Object_Ref>
+					<Object_Ref>P2</Object_Ref>
+					<Object_Ref>P4</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>B</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_0</ID>
+				<Extent>
+					<Object_Ref>P2</Object_Ref>
+					<Object_Ref>P3</Object_Ref>
+					<Object_Ref>P4</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>C</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+				</UpperCovers>
+			</Concept>
+		</Lattice>
+	</Step >
+</RCAExplore_Document>

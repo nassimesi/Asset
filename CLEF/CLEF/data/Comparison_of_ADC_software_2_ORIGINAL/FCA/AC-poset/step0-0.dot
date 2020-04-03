@@ -1,0 +1,34 @@
+digraph G { 
+	rankdir=BT;
+	margin=0;
+	node [margin="0.03,0.03",fontname="DejaVu Sans"];
+	ranksep=0.3;
+	nodesep=0.2;
+//graph[label="name:ctx,concept number:13,object number:12,attribute number:13"
+11 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_2</td></tr><tr><td>programming language:={python,java}<br/></td></tr><tr><td>dshub<br/></td></tr></table>>];
+5 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_1</td></tr><tr><td>programming language:={c-sharp}<br/></td></tr><tr><td>nexthub<br/></td></tr></table>>];
+7 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_0</td></tr><tr><td>programming language:={erlang}<br/></td></tr><tr><td>erlhub<br/></td></tr></table>>];
+10 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_6</td></tr><tr><td>programming language:={c++,lua}<br/></td></tr><tr><td>luadch<br/></td></tr></table>>];
+3 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_4</td></tr><tr><td>programming language:={c}<br/></td></tr><tr><td>uhub<br/>starlet adc hub<br/></td></tr></table>>];
+4 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_5</td></tr><tr><td>programming language:={java}<br/></td></tr><tr><td>starhub<br/></td></tr></table>>];
+9 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_7</td></tr><tr><td>programming language:={c++,python}<br/></td></tr><tr><td>adch++ gui<br/></td></tr></table>>];
+8 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_8</td></tr><tr><td>programming language:={python}<br/></td></tr><tr><td><br/></td></tr></table>>];
+2 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_10</td></tr><tr><td>programming language:={c++}<br/></td></tr><tr><td>rushub<br/></td></tr></table>>];
+6 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_9</td></tr><tr><td>programming language:={lua}<br/></td></tr><tr><td>flexhub<br/>luadch gui<br/></td></tr></table>>];
+0 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_11</td></tr><tr><td>gui<br/></td></tr><tr><td>adch++ gui<br/>luadch gui<br/></td></tr></table>>];
+1 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_12</td></tr><tr><td>cli<br/></td></tr><tr><td>flexhub<br/>rushub<br/></td></tr></table>>];
+12 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_3</td></tr><tr><td>programming language:={c++,python,lua,ruby}<br/></td></tr><tr><td>adch++<br/></td></tr></table>>];
+	12:p -> 10:p
+	11:p -> 4:p
+	12:p -> 9:p
+	9:p -> 8:p
+	11:p -> 8:p
+	9:p -> 2:p
+	10:p -> 2:p
+	10:p -> 6:p
+	4:p -> 0:p
+	5:p -> 0:p
+	3:p -> 1:p
+	11:p -> 1:p
+	10:p -> 1:p
+}

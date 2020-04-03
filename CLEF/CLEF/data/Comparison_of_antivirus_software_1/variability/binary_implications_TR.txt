@@ -1,0 +1,77 @@
+country of origin:={japan} -> first release:=[2011-2011]
+country of origin:={japan} -> av comparatives
+country of origin:={japan} -> price:={non-free}
+ips -> first release:=[2010-2010]
+ips -> country of origin:={united kingdom}
+ips -> ids
+ips -> price:={free}
+country of origin:={india} -> first release:=[2012-2012]
+country of origin:={india} -> price:={non-free}
+country of origin:={india} -> web protection
+country of origin:={brazil} -> first release:=[2013-2013]
+country of origin:={brazil} -> price:={free}
+first release:=[2007-2007] -> country of origin:={united kingdom}
+country of origin:={spain} -> first release:=[2008-2008]
+first release:=[1997-1997] -> price:={non-free}
+country of origin:={finland} -> first release:=[2008-2008]
+license:={gnu gpl} -> first release:=[2000-2000]
+license:={gnu gpl} -> price:={free}
+license:={gnu gpl} -> email security
+country of origin:={romania} -> first release:=[2011-2011]
+country of origin:={romania} -> av comparatives
+country of origin:={romania} -> price:={non-free}
+country of origin:={germany} -> first release:=[2011-2011]
+country of origin:={germany} -> price:={free}
+country of origin:={germany} -> email security
+country of origin:={germany} -> av comparatives
+country of origin:={czech republic} -> price:={free}
+country of origin:={czech republic} -> first release:=[2012-2012]
+country of origin:={czech republic} -> email security
+country of origin:={czech republic} -> heuristics
+country of origin:={czech republic} -> av comparatives
+country of origin:={czech republic} -> support
+country of origin:={czech republic} -> web protection
+country of origin:={united kingdom} -> first release:=[2007-2010]
+first release:=[2008-2008] -> ids
+first release:=[2008-2008] -> antispam
+first release:=[2013-2013] -> cloudav
+first release:=[2013-2013] -> av comparatives
+first release:=[2013-2013] -> support
+firewall -> price:={non-free}
+firewall -> web protection
+country of origin:={slovakia} -> cloudav
+country of origin:={slovakia} -> heuristics
+country of origin:={slovakia} -> price:={non-free}
+country of origin:={slovakia} -> first release:=[2011-2013]
+country of origin:={russia} -> first release:=[2010-2012]
+antispam -> cloudav
+antispam -> email security
+antispam -> heuristics
+antispam -> av comparatives
+antispam -> price:={non-free}
+antispam -> first release:=[2008-2012]
+ids -> first release:=[2008-2010]
+first release:=[2007-2008] -> price:={non-free}
+price:={trialware} -> first release:=[2012-2012]
+first release:=[1997-2000] -> country of origin:={united states}
+first release:=[2008-2010] -> cloudav
+first release:=[2008-2010] -> email security
+first release:=[2007-2010] -> av comparatives
+price:={free} -> first release:=[2000-2013]
+cloudav -> web protection
+cloudav -> first release:=[2008-2013]
+country of origin:={united states} -> first release:=[1997-2012]
+first release:=[2008-2011] -> heuristics
+first release:=[2008-2011] -> web protection
+email security -> first release:=[2000-2013]
+price:={non-free} -> support
+av comparatives -> first release:=[2007-2013]
+heuristics -> first release:=[2008-2013]
+support -> license:={proprietary}
+web protection -> license:={proprietary}
+web protection -> first release:=[2000-2013]
+first release:=[2007-2013] -> license:={proprietary}
+license:={proprietary} -> on-demand scan
+license:={proprietary} -> on-access scan
+license:={proprietary} -> live-update
+license:={proprietary} -> first release:=[1997-2013]

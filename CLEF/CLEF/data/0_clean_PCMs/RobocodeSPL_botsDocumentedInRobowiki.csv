@@ -1,0 +1,305 @@
+name,movement,targeting,fighting,code license,code java
+Acero,anti pattern at distance,head on targeting,one on one;melee,*,X
+Acraepheus,adapting stop and go,averaged velocity;heading circular targeting;enemy velocity;last place i hit,one on one,*,X
+AFlatNatural,oscillator movement,virtual guns,*,public domain,X
+AgentSmith,danger prediction,virtual guns;linear targeting;circular targeting;head on targeting,*,*,
+AIR,gilgalads movement,gilgalads targeting,*,*,X
+Aleph,circular movement;minimum risk movement,dynamic clustering;play it forward,one on one;melee,*,
+Ali,wave surfing,dynamic clustering,*,rwpcl,X
+AlphaAurora,*,circular targeting,*,accsl,
+Anarchy,pattern movement,head on targeting,*,*,
+Apollon,wave surfing,pattern matching,*,*,
+Aral,stop and go,linear targeting,*,*,
+Aristocles,random movement,guessfactor targeting,one on one,rwpcl,X
+Ascendant,wave surfing,guessfactor targeting,one on one,closed,
+Assertive,oscillator movement,symbolic pattern matching,one on one,rwpcl,
+Athena,wave surfing,guessfactor targeting;linear targeting,*,rwpcl,
+B26354,minimum risk movement;wave surfing,neural targeting,one on one;melee,closed,
+Barracuda,random movement,head on targeting,one on one,*,X
+BasicGFSurfer,wave surfing,guessfactor targeting,*,public domain,X
+BasicGTSurfer,wave surfing,*,*,public domain,X
+BasicSurfer,wave surfing,*,*,public domain,X
+BlackHole,wave surfing,virtual guns,*,zlib,X
+BlackHole/Old/Old,wave surfing,virtual guns;head on targeting;linear targeting;circular targeting;single tick pattern matching;guessfactor targeting,*,npl,X
+BlackWidow,stop and go;random movement,symbolic pattern matching,one on one,rwlpcl,X
+BlitzBat,minimum risk movement,head on targeting,one on one;melee,rwpcl,X
+BrokenSword,minimum risk movement,shadow;melee gun,one on one;melee,zlib,X
+BulletCatcher,pusedo not moving;random movement,guessfactor targeting,one on one,*,X
+BulletSimBot,fires prediction,*,*,*,
+Caligula,linear movement,linear targeting,one on one,*,
+Canon,musashi trick;sandbox flattener,dynamic clustering,one on one,*,X
+Capulet,minimum risk movement,circular targeting,one on one;melee,*,
+CassiusClay,wave surfing,guessfactor targeting,*,rwpcl,X
+Centaur,*,dynamic clustering;guessfactor targeting,one on one;melee,*,X
+Chalk,*,dynamic clustering,*,public domain,
+Charo,random movement,guessfactor targeting,*,public domain,X
+CHCI3,*,guessfactor targeting,*,rwpcl,X
+ChristmasCard,behind the snow,*,*,proprietary,X
+Chupacabra,pathfinding,pattern matching,one on one,*,
+Cigaret,random movement,statistical targeting,*,*,
+CirclingBot,circular movement,*,*,public domain,X
+Claude,stop and go;random movement,*,*,rwpcl,X
+CloudBot,wave surfing,guessfactor targeting,one on one,rwpcl,
+ColdBreath,wave surfing,neural targeting;guessfactor targeting,one on one;melee,*,X
+Combat,wave surfing;flat movement;anti gravity movement;shrapnel dodging,guessfactor targeting;dynamic clustering;swarm targeting;random targeting,one on one;melee,*,
+ConceptA,wave surfing,guessfactor targeting,*,cc by-nd 3.0,
+Connavar,stop and go;random movement,guessfactor targeting,*,*,X
+CopyKat,mirror movement,symbolic pattern matching,one on one,rwpcl,X
+Coriantumr,minimum risk movement,guessfactor targeting,one on one;melee,kpl,X
+Cotillion,stop and go;random movement,multiple choice pattern matcher,*,*,X
+CrazyTracker,oscillator movement,linear targeting,one on one;melee,*,X
+Crusaider,virtual movements array,virtual guns,*,*,
+Cunobelin,wave surfing,multiple choice pattern matcher,one on one;melee,*,X
+CunobelinDC,wave surfing,multiple choice pattern matcher,*,*,X
+Cyanide,wave surfing,guessfactor targeting,*,*,X
+DCBot,random movement,dynamic clustering;play it forward,*,public domain,X
+DeBroglie,wave surfing,guessfactor targeting,*,zlib,X
+Decado,stop and go;random movement,pattern matching,one on one,open source,X
+DeltaSquad,wave surfing;minimum risk movement,head on targeting;linear targeting;circular targeting;random targeting;guessfactor targeting;pattern matching;lateral velocity,*,*,X
+DemonicRage,wave surfing,dynamic clustering;play it forward,one on one;melee,*,
+Diamond,minimum risk movement;wave surfing,dynamic clustering;displacement vectors;guessfactor targeting,one on one,zlib,X
+Dookious,wave surfing,guessfactor targeting,one on one,rwpcl,X
+Drifter,wave surfing,dynamic clustering;guessfactor targeting,one on one;melee,closed,
+DrussGT,wave surfing,dynamic clustering;guessfactor targeting,one on one,open source,X
+Durandal,wave surfing,guessfactor targeting,one on one;melee,closed,
+DustBunny,anti gravity movement,linear targeting,one on one;melee,open source,X
+EagleTwins,minimum risk movement,guessfactor targeting,*,open source,X
+Emerald,*,*,*,cc by-nd 3.0,
+EnergyDome,imperceptible,bullet shielding,*,closed,X
+Engineer,wave surfing,neural targeting;guessfactor targeting,one on one,closed,
+Enjambre,*,*,*,*,X
+Enyo,wave surfing,circular targeting,one on one;melee,closed,
+Epeeist,oscillator movement;random movement;multi mode,pattern matching,one on one,rwpcl,X
+EpeeistMicro,stop and go;random movement;multi mode,guessfactor targeting,one on one;melee,rwpcl,X
+EvBot,minimum risk movement,circular targeting;guessfactor targeting,melee,open source,X
+EvBotNG,exact path predictor,guessfactor targeting;circular targeting;random targeting;head on targeting,one on one;melee,open source,X
+ExclusionNano,stop and go,averaged linear targeting,one on one;melee,*,X
+Exode,random movement,head on targeting,*,closed,
+Exterminans2oo8,anti gravity movement;teasing movement,head on targeting;circular targeting;linear targeting;averaged linear targeting;circular targeting;guessfactor targeting,*,rwpcl,X
+Fe4r,oscillator movement,neural targeting,*,*,
+Fhqwhgads,random movement,guessfactor targeting,one on one,*,X
+Firebird,wave surfing,dynamic clustering,*,closed,
+Firestarter,wave surfing,guessfactor targeting;dynamic clustering,one on one;melee,proprietary,
+Fission,*,guessfactor targeting,one on one,*,
+Flex,multi mode,virtual guns,*,*,X
+FloodGrapher,random movement,guessfactor targeting,*,public domain,
+FloodHT,sandbox flattener,guessfactor targeting,one on one;melee;teams,*,X
+FloodMini,sandbox flattener,guessfactor targeting,one on one;melee,open source,X
+Foilist,multi mode,pattern matching,melee,rwpcl,X
+FourCorners,*,*,*,*,
+Fractal,adaptive random movement,visit count stats,one on one,closed,
+Freya,minimum risk movement,guessfactor targeting,one on one;melee,closed,
+Fusion,multi mode;ramming movement,linear targeting,one on one;melee,*,X
+Gaff,random movement,neural targeting;guessfactor targeting,one on one;melee,closed,
+GammaAurora,*,*,*,closed,
+Garm,multi buffered wavesurfing,single guessfactor gun,one on one,*,
+GateKeeper,random movement,pattern matching,one on one;melee,rwlpcl,
+Gauss,wave surfing,dynamic clustering;guessfactor targeting,one on one,open source,X
+GeminiTeam,minimum risk movement;random movement,guessfactor targeting,one on one;melee,rwpcl,X
+Geomancy,wave surfing,guessfactor targeting,*,*,
+GFTargetingBot,random movement;orbital movement,guessfactor targeting,one on one,public domain,
+Gilgalad,gilgalads movement,gilgalads targeting,*,freebsd,X
+Giskard,circular movement,dynamic clustering,*,*,
+GITS,*,*,one on one;melee,*,
+Glacier,minimum risk movement,dynamic clustering;play it forward,one on one;melee,zlib,X
+Gladiator,wave surfing;minimum risk movement,circular targeting;linear targeting;random targeting;guessfactor targeting;pattern matching;lateral velocity;tidalwave targeting,*,*,X
+Gladius,statistical aom,guessfactor targeting,one on one;melee,rwlpcl,X
+Gouldingi,random movement,angular targeting;averaged bearing offset targeting,one on one,open source,
+GravityWave,wave surfing,*,one on one;melee,*,
+GreatWolf,wave surfing,guessfactor targeting,*,bsd,X
+GresSuffurd,wave surfing,guessfactor targeting,*,rwpcl,X
+GridFu,wave surfing,guessfactor targeting,*,*,
+Griezel,minimum risk movement,circular targeting,one on one;melee,rwpcl,X
+Grimmig,wave surfing,guessfactor targeting,*,rwpcl,
+Grinnik,stop and go;oscillator movement,guessfactor targeting,*,rwpcl,X
+GrubbmGrb,stop and go;oscillator movement,virtual guns,one on one,rwpcl,X
+Gruwel,oscillator movement,circular targeting,*,rwpcl,X
+Gruweltje,oscillator movement,circular targeting,one on one;melee,rwpcl,X
+GuinnessCS,wave surfing,guessfactor targeting,*,public domain,
+Hamilton,*,*,*,*,X
+HawkOnFire,minimum risk movement,head on targeting,one on one;melee,open source,
+Hebe,ocnirpsng movement,circular targeting,*,*,X
+HedgehogGF,stop and go;random movement,*,*,*,
+HedgehogP,*,*,*,*,
+Help,*,*,*,*,
+Hikari,wave surfing,guessfactor targeting,*,*,X
+Holden,wave surfing,neural targeting;gaffs targeting,one on one,closed,
+Horizon,wave surfing,guessfactor targeting;dynamic clustering,*,open source,X
+Hubris,*,*,*,*,
+Hurricane,minimum risk movement,dynamic clustering,melee,closed,
+HVilela,anti gravity movement,circular targeting,one on one;melee,closed,
+Hydra,wave surfing,dynamic clustering;guessfactor targeting,*,rwpcl,X
+Hyperion,random movement,guessfactor targeting,one on one,closed,
+Ice,*,*,*,*,X
+Impact,ramming movement,linear targeting,one on one;melee,open source,
+Infinity,anti gravity movement,linear targeting,one on one;melee,open source,X
+Insomnia,corner movement,corner targeting,melee,open source,
+IWillFireNoBullet,exact path predictor,*,*,open source,
+Jen,stop and go;random movement,guessfactor targeting,*,rwpcl,X
+Kirbyi,mosquito;random movement,symbolic pattern matching,one on one,rwpcl,
+Kitten,random movement,symbolic pattern matching,one on one,rwpcl,X
+Knight,wave surfing,guessfactor targeting;dynamic clustering,*,closed,
+Komarious,wave surfing,guessfactor targeting,one on one,rwpcl,X
+KomariousTeam,wave surfing,guessfactor targeting,one on one,rwpcl,X
+Krabby,multi mode;perpendicular,head on targeting;linear targeting;circular targeting;random targeting,one on one,*,
+Krabby2,true surfing,guessfactor targeting;circular targeting,one on one,rwpcl,X
+Lacrimas,random movement;wave surfing,statistical targeting,one on one,rwpcl,X
+LambdaBot,wave surfing,guessfactor targeting,one on one,rwpcl,X
+LemonDrop,random movement;stop and go,pattern matching,one on one,rwlpcl,X
+Leon,reinforcement learning,neural targeting,melee,*,
+Leopard,ramming movement,pattern matching,one on one,rwlpcl,
+Lib,corner movement;pattern movement,head on targeting,one on one;melee,qkpl,X
+LightningBug,wave surfing,guessfactor,one on one,rwlpcl,
+LightningStorm,random movement,pattern matching,*,rwlpcl,X
+LittleBlackBook,stop and go;ramming movement;random movement,guessfactor,one on one,rwlpcl,X
+Locke,random movement,self organizing observation log,one on one,rwlpcl,X
+Lukious,wave surfing,dynamic clustering;guessfactor targeting,one on one,rwlpcl,
+LuminariousDuo,minimum risk movement,guessfactor targeting,melee,rwlpcl,X
+LunarTwins,aggressive movement,circular targeting,teams,rwpcl,X
+Lynx,wave surfing;wall smoothing,dynamic clustering,*,rwpcl,X
+Machete,stop and go;ramming movement,linear targeting,*,open source,
+MagicD2,wall smoothing;random movement,linear targeting,one on one,*,
+MagicD3,magictrick;bullet dodging;random bullet dodging,dynamic clustering,one on one,rwpcl,X
+Mako,random movement,angular targeting;averaged bearing offset targeting,one on one,*,
+ManuelGallegus,wall smoothing,wave targeting,one on one,rwlpcl,
+Marshmallow,random movement,virtual guns;statistical targeting,one on one,rwlpcl,X
+MaxRisk,maximum risk movement;ramming movement,circular targeting,one on one,rwlpcl,X
+Mercutio,anti gravity movement,linear targeting,melee;one on one,rwpcl,X
+MicroBoss,stop and go;random movement,linear targeting,one on one,rwlpcl,
+Midboss,wave surfing,anti aliased;interpolated;visit count stats;guessfactor targeting,one on one,rwlpcl,X
+Mint,wave surfing,dynamic clustering,*,zlib,
+Moebius,stop and go,pattern matching,one on one,rwlpcl,
+Mosquito,one way,linear targeting,one on one,closed,X
+MoxieBot,random movement,*,one on one,rwlpcl,X
+Musashi,random movement,pattern matching,melee;one on one,rwlpcl,X
+N,stop and go,angular targeting,one on one,rwpcl,X
+NanoBee,wave surfing,head on targeting;linear targeting,one on one,open source,X
+Nene,wave surfing,dynamic clustering,one on one,zlib,X
+Neuromancer,wave surfing;go to,dynamic clustering,melee,rwlpcl,
+Newton,wave surfing,guessfactor targeting;visit count stats,one on one,rwlpcl,X
+NightAndDay,minimum risk movement,guessfactor targeting,one on one;teams,open source,X
+NightBird,random movement,linear targeting,one on one,open source,
+NightBirdM,random movement;stop and go,linear targeting,one on one,rwpcl,X
+NP,statistical bullet dodging,guessfactor targeting,*,rwpcl,X
+Numbat,minimum risk movement;anti gravity movement;oscillator movement,pattern matching;singletick,melee,rwpcl,X
+Ocnirp,random movement,pattern matching,one on one,rwlpcl,X
+OcnirpSNG,random movement;stop and go,pattern matching,*,rwlpcl,X
+OlympusTwins,random movement,circular targeting,one on one,rwlpcl,
+Omen,random movement,linear targeting,melee;one on one,rwpcl,X
+OMT_HO,musashi trick,head on targeting;circular targeting,one on one,open source,
+Opposite,fluid movement,linear targeting,one on one;melee,open source,X
+Pallas,wave surfing,dynamic clustering;play it forward,*,nprl,
+Pear,wave surfing,guessfactor targeting,one on one,rwpcl,X
+PencilRain,circular movement,head on targeting,one on one,*,
+Phantom,wave surfing,*,one on one;melee,*,
+Phoenix,wave surfing;minimum risk movement,guessfactor targeting;anti surfer targeting,one on one,*,
+Piyane,wave surfing,linear targeting,*,open source,X
+PluggableRobot,*,*,*,rwlpcl,X
+Portia,minimum risk movement;wave surfing,semi circular targeting;guessfactor targeting;dynamic clustering,one on one;melee,*,X
+PrairieWolf,multi mode,circular targeting,one on one;melee,*,X
+Prestige,random movement,pattern matching,one on one,rwlpcl,
+PricklyPear,wave surfing,guessfactor targeting,one on one,rwpcl,X
+Prime,wave surfing,dynamic clustering,*,*,
+Pris,wave surfing,neural targeting,one on one;melee,*,
+Pugilist,wave surfing,guessfactor targeting,one on one,rwpcl,X
+Pugio,adapting oscillator movement,symbolic pattern matching,one on one,rwlpcl,X
+PulsarMax,wave surfing,guessfactor targeting,one on one;melee,closed,
+PureAggression,*,*,one on one,*,
+PwnBot,random movement,linear targeting,one on one;melee,rwpcl,X
+Pytko,musashi trick,pattern matching,one on one,rwlpcl,X
+RabidWombat,anti gravity movement,head on targeting;linear targeting;circular targeting;guessfactor targeting,one on one,*,
+Rage,wave surfing;dodging bullets,*,one on one,rwpcl,
+Raiko,random movement,guessfactor targeting,one on one,rwpcl,X
+RaikoMicro,random movement;adaptive movement;wall smoothing,guessfactor targeting,one on one,rwpcl,X
+RaikoMX,wave surfing,guessfactor targeting,one on one,rwpcl,X
+RandomMovementBot,orbital random movement,*,one on one,rwpcl,X
+Rechner,wave surfing;true serving,guessfactor targeting;dynamic clustering,one on one,*,X
+RetroGirl,random movement;wall smoothing,dynamic clustering;guessfactor targeting,one on one,zlib,X
+Roborio,wave surfing,dynamic clustering;guessfactor targeting;anti surfer targeting,one on one,*,
+Robovirus,wave surfing;minimum risk movement;linear movement,guessfactor targeting,one on one;melee,*,
+Roskilde,*,*,one on one,*,
+RougeDC,wave surfing,dynamic clustering;pattern matching;guessfactor targeting;crowd targeting,one on one,rwpcl,X
+Sabreur,multi mode,linear targeting,one on one,rwpcl,X
+Samekh,wave surfing,dynamic clustering,one on one,nprl,X
+SandboxDT,flat movement,guessfactor targeting,one on one;melee,*,
+Sanguijuela,*,*,one on one,rwpcl,
+SavantMicro,*,*,one on one,rwpcl,
+SavantWS,wave surfing,*,one on one,rwpcl,
+Scalar,*,*,one on one,*,
+ScaledBot,*,*,one on one,*,
+Scarlet,wave surfing,dynamic clustering,melee,*,
+Scytodes,stop and go,symbolic pattern matching,one on one,rwpcl,
+SecondBot,randomwaves,random guessfactor targeting,one on one,proprietary,
+Seraphim,wave surfing,guessfactor targeting,one on one,zlib,X
+Shaakious,wave surfing,pattern matching,one on one;melee,rwpcl,X
+Shadow,wave surfing;minimum risk movement,dynamic clustering;play it forward,one on one;melee,proprietary,
+ShieldBot,stationary,fire at enemys bullet,one on one,*,
+Shiz,minimum risk movement,head on targeting,one on one;melee,kpl,X
+ShocknAwe,oscillator movement;circular movement,guessfactor targeting,teams,*,
+SilverSurfer,wave surfing,vectorial pattern matching,one on one,rwpcl,X
+SimpleBot,wave surfing,guessfactor targeting,one on one,gpl,
+SimpleGF,random movement;wall smoothing,guessfactor targeting,one on one,public domain,X
+Simpler,wave surfing,linear circular targeting,one on one,nprl,
+SittingDuck,*,*,one on one;melee,eclipse public license,X
+Smoke,random movement,statistical targeting,one on one,*,X
+SpinBot,pattern movement,head on targeting;linear targeting,one on one;melee,eclipse public license,X
+Spitfire,*,bullet shielding,one on one;melee,gcwcd,X
+Splinter,stop and go;random movement,linear targeting,*,rwpcl,X
+Spread,*,*,one on one,*,X
+Stormrider,go to;surfing,dynamic clustering;guessfactor targeting,*,*,X
+SuperBoxBot,corner movement;pattern movement,head on targeting,one on one;melee,public domain,X
+SuperCorners,provocative movement,segmented mean;circular targeting,one on one,public domain,X
+SuperCrazy,wall smoothing;random orbital movement,random targeting,one on one,public domain,X
+SuperMercutio,anti gravity movement;wave surfing;virtual bullet dodging,segmented last;bearing offset targeting,one on one,public domain,X
+SuperRamFire,orbital movement;ramming movement,circular targeting,one on one,public domain,X
+SuperSittingDuck,pattern movement,*,one on one,public domain,X
+SuperSpinBot,pattern movement,segmented mean;circular targeting,one on one,public domain,X
+SuperTracker,aggressive movement,linear targeting,one on one,public domain,X
+SuperTrackFire,random pattern movement,head on targeting,one on one,public domain,X
+SuperWalls,random pattern movement,linear targeting;head on targeting,one on one,public domain,X
+Tahoe,wave surfing,guessfactor targeting,one on one,*,
+Talon,minimum risk movement,head on targeting,melee,*,
+Target,pattern movement;pimitive adaptive movement,*,one on one;melee,eclipse public license,
+TassieDevils,anti gravity movement;minimum risk movement;oscillator movement,circular targeting,one on one,rwpcl,
+TheArtOfWar,anti gravity movement;virtual bullet dodging,virtual guns;head on targeting;mean linear targeting;circular targeting,one on one;melee,public domain,X
+TheRiver,minimum risk movement,guessfactor targeting;crowd targeting;dynamic clustering;play it forward,one on one,nprl,
+Thorn,random movement;stop and go,guessfactor targeting,one on one,rwpcl,X
+Tide,*,linear targeting,one on one,*,X
+Tityus,random movement,guessfactor targeting,one on one,rwpcl,X
+Toa,perpendicular,virtual guns;head on targeting;circular targeting;linear targeting,one on one;melee,*,X
+Toad,wave surfing,dynamic segmentation;guessfactor targeting,one on one,*,
+Tomcat,wave surfing,play it forward,one on one,cc by-nd 3.0,X
+Toorkild,random movement;stop and go,multiple choice pattern matcher,one on one,*,X
+TormentedAngel,wave surfing,guessfactor targeting,*,*,
+Tracker,pattern movement,head on targeting,one on one;melee,eclipse public license,X
+TrackFire,*,head on targeting,one on one;melee,eclipse public license,X
+Tron,wave surfing;anti gravity movement,play it forward;dynamic clustering,one on one;melee,*,
+TybaltMelee,anti gravity movement,reduced linear targeting,melee,*,X
+Tyranius,wave surfing,guessfactor targeting,one on one,rwpcl,X
+Ucatcher,pusedo not moving;random movement,*,one on one,*,
+Unreal,*,*,one on one,*,
+User;Tkiesel/Copernicus,wave surfing;minimum risk movement,guessfactor targeting,*,*,
+VARBot,minimum risk movement,head on targeting,one on one;melee;teams,*,
+VARoadstter,*,*,*,*,
+VelociRobot,pattern movement,head on targeting,one on one;melee;teams,eclipse public license,X
+Voidious/LocationBot,*,*,*,*,X
+Vyper,musashi trick;stop and go;random movement,guessfactor targeting,one on one;teams,rwpcl,X
+Wallaby,minimum risk movement;anti gravity movement;oscillator movement,circular targeting,melee,rwpcl,X
+Walls (robot),pattern movement,head on targeting,melee,eclipse public license,X
+WarBot,semi circular movement,linear targeting,*,*,
+Watermelon,wave surfing,guessfactor targeting,one on one;melee,*,X
+WaveRammer,wave surfing,guessfactor targeting,*,*,
+WaveSerpent,wave surfing,guessfactor targeting,one on one,rwpcl,X
+WaveShark,wave surfing,pattern matching,one on one,rwpcl,X
+WaveSurfingChallengeBots,*,*,*,*,
+Waylander,stop and go;random movement,pattern matching,one on one;melee,*,X
+WeekendObsession,random movement,pattern matching,one on one;melee,rwpcl,X
+WeeklongObsession,random movement,single tick pattern matching,one on one,*,X
+WeeksOnEnd,wave surfing,pattern matching,one on one,*,X
+Whiskey,wave surfing,pattern matching,one on one,*,X
+WhiteWhale (robot),*,*,*,*,
+Wintermute,wave surfing;true surfing,dynamic clustering;guessfactor targeting,one on one,*,X
+WorstBot,wall hug movement,head on targeting,*,*,
+XanderCat,anti mirror;ramescape,guessfactor targeting;linear targeting;circular targeting;anti mirror;bullet shielding,one on one,gcwcd,
+Yatagan,multi mode,pattern matching,one on one,rwpcl,X
+YersiniaPestis,wave surfing,dynamic clustering;guessfactor targeting,one on one,*,X

@@ -1,0 +1,70 @@
+name,license,windows,os x,linux,market focus,structure
+24sevenoffice,software as a service,X,X,X,low-market;mid-market,web based
+the access group,proprietary,X,,,mid-market,stand alone
+acumatica,proprietary;software as a service,X,,,mid-market,stand alone;web based
+ame accounting software,proprietary,X,,,low-market;mid-market,stand alone
+aplos software,proprietary,X,X,X,low-market;mid-market,web based
+baan corporation,proprietary,X,X,X,low-market;mid-market,stand alone;web based
+big4books,software as a service;freeware,X,X,X,low-market;mid-market,web based
+brightpearl,software as a service,X,X,X,low-market;mid-market,web based
+cgram enterprise,proprietary,X,X,X,low-market;mid-market,stand alone
+cheqbook,software as a service,X,X,X,low-market;mid-market,web based
+coda,proprietary,X,,X,mid-market,stand alone;web access
+comarch altum,proprietary,X,,,low-market;mid-market,stand alone;web access
+cougar mountain software,proprietary,X,,,low-market;mid-market;high-market,stand alone;web based
+express accounts from nch software,proprietary,X,X,,low-market;mid-market,stand alone;web access
+financialforce.com,software as a service,X,X,X,mid-market,web based
+flexaccount,proprietary,X,,,mid-market;high-market,stand alone;web based
+fortora fresh finance,proprietary,X,X,,personal,stand alone
+freeagent,software as a service,X,X,X,low-market,web based
+freshbooks,software as a service,X,X,X,low-market,web based
+gem accounts,software as a service,X,X,X,low-market;mid-market,web based
+ibank,proprietary,,X,,personal,stand alone;mobile
+intacct,software as a service,X,X,X,mid-market,web based
+invoiceit,proprietary,X,,,low-market;mid-market,stand alone
+kashflow,software as a service,X,X,X,low-market;mid-market,web based
+kashoo,software as a service,X,X,X,low-market,web based
+microsoft dynamics ax,proprietary,X,,,mid-market;high-market,multi-user;location;terminal server
+microsoft dynamics c5,proprietary,X,,,low-market,multi-user;remote access;web access;mobile access;cloud hostable
+microsoft dynamics gp,proprietary,X,,,low-market;mid-market,multi-user;location;terminal server;remote access;web access;mobile access;cloud hostable
+microsoft dynamics nav,proprietary,X,,,low-market;mid-market,multi-user;location;terminal server;remote access;web access;mobile access;cloud hostable
+microsoft dynamics sl,proprietary,X,,,low-market;mid-market,multi-user;location;terminal server;web access
+microsoft money,proprietary,X,,,personal,stand alone
+microsoft office accounting,proprietary;freeware,X,,,low-market,stand alone
+mint.com,software as a service,X,X,X,personal,web based
+moneydance,proprietary,X,X,X,personal,stand alone
+moneywiz,proprietary,,X,,personal,stand alone;mobile
+myob accountright,proprietary,X,X,,low-market;mid-market;high-market,stand alone
+myob exo business,proprietary,X,,,mid-market;high-market,stand alone;multi-user;location;terminal server;remote access
+netsuite,software as a service,X,X,X,mid-market,web based
+newviews,proprietary,X,,,low-market;mid-market,stand alone;web access
+nolapro,software as a service;freeware,X,X,X,low-market;mid-market;high-market,stand alone;web based
+nosa xp,proprietary,X,,,low-market;mid-market;high-market,stand alone;web based
+open systems accounting software,proprietary,X,X,X,low-market;mid-market,stand alone
+openda qx,proprietary,X,,X,low-market;mid-market,remote access
+oracle e-business suite,proprietary,X,X,X,high-market,web based
+outright,software as a service;freeware,X,X,X,low-market,web based
+passport software,proprietary,X,,X,low-market;mid-market,stand alone
+pos solutions,proprietary,X,,,*,stand alone
+quickbooks enterprise solutions,proprietary,X,X,,mid-market,stand alone
+quickbooks online,proprietary,X,X,X,low-market,web based
+quickbooks pro/premier,proprietary,X,X,,low-market;mid-market,stand alone
+quicken,proprietary,X,X,,personal,stand alone
+red wing software,proprietary,X,,,low-market;mid-market,stand alone
+saasu,software as a service,X,X,X,low-market;mid-market,web based
+sage group,proprietary,X,,,*,stand alone
+sage 50 accounting,proprietary,X,,,low-market;mid-market;high-market,stand alone
+sage 300 erp,proprietary,X,X,X,mid-market,stand alone;web based
+sage line 50,proprietary,X,,,low-market,stand alone
+sage pastel evolution,proprietary,X,,,low-market;mid-market;high-market,stand alone
+sage pfw erp,proprietary,X,,X,mid-market,stand alone
+sap business bydesign,proprietary,X,,,low-market;mid-market,web based
+sap business one,proprietary,X,,,low-market;mid-market,stand alone
+sap erp,proprietary,X,X,X,mid-market;high-market,stand alone;web based
+simply accounting,proprietary,X,,X,low-market,stand alone
+softline pastel,proprietary;software as a service,X,X,,low-market;mid-market;high-market,stand alone
+tally,proprietary,X,,,mid-market,stand alone
+traverse,proprietary,X,,,low-market;mid-market,stand alone
+wave accounting,software as a service,X,X,X,low-market,web based
+xero,software as a service,X,X,X,low-market;mid-market,web based
+you need a budget,proprietary,X,X,,personal,stand alone

@@ -1,0 +1,117 @@
+digraph G { 
+	rankdir=BT;
+	margin=0;
+	node [margin="0.03,0.03",fontname="DejaVu Sans"];
+	ranksep=0.3;
+	nodesep=0.2;
+//graph[label="name:ctx,concept number:38,object number:27,attribute number:38"
+15 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_3</td></tr><tr><td>os:={pc/ix,unix-like,dos}<br/></td></tr><tr><td>mical a86<br/></td></tr></table>>];
+17 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_10</td></tr><tr><td>os:={minix,unix-like,linux}<br/></td></tr><tr><td>ack<br/></td></tr></table>>];
+23 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_6</td></tr><tr><td>os:={freebsd,linux,windows,mac os x}<br/></td></tr><tr><td>hla<br/></td></tr></table>>];
+24 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_8</td></tr><tr><td>os:={cp/m-86,isis,irmx,dos}<br/></td></tr><tr><td>digital research asm86<br/></td></tr></table>>];
+25 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_7</td></tr><tr><td>os:={os/2,unix-like,dos,windows}<br/></td></tr><tr><td>gas<br/></td></tr></table>>];
+27 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_5</td></tr><tr><td>os:={os/2,freebsd,linux,dos,windows}<br/></td></tr><tr><td>jwasm<br/></td></tr></table>>];
+28 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_2</td></tr><tr><td>os:={os/2,linux,dos,windows,mac os x}<br/></td></tr><tr><td>nasm<br/></td></tr></table>>];
+3 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_9</td></tr><tr><td>os:={unix system v}<br/></td></tr><tr><td>at&t<br/></td></tr></table>>];
+34 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_4</td></tr><tr><td>license:={microsoft eula}<br/></td></tr><tr><td>masm<br/></td></tr></table>>];
+4 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_0</td></tr><tr><td>os:={xenix}<br/></td></tr><tr><td>xenix<br/></td></tr></table>>];
+8 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_1</td></tr><tr><td>os:={windows,windows mobile}<br/></td></tr><tr><td>poasm<br/></td></tr></table>>];
+18 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_13</td></tr><tr><td>os:={linux,windows,mac os x}<br/></td></tr><tr><td><br/></td></tr></table>>];
+20 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_14</td></tr><tr><td>os:={freebsd,linux,windows}<br/></td></tr><tr><td><br/></td></tr></table>>];
+22 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_15</td></tr><tr><td>os:={unix-like,linux,dos,windows}<br/></td></tr><tr><td>fasm<br/>yasm<br/></td></tr></table>>];
+26 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_12</td></tr><tr><td>os:={os/2,linux,dos,windows}<br/></td></tr><tr><td><br/></td></tr></table>>];
+33 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_11</td></tr><tr><td>license:={sybase open watcom public license}<br/></td></tr><tr><td>wasm<br/></td></tr></table>>];
+7 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_16</td></tr><tr><td>os:={minix,linux}<br/></td></tr><tr><td>bruce d. evans' as86<br/></td></tr></table>>];
+16 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_18</td></tr><tr><td>os:={unix-like,linux,windows}<br/></td></tr><tr><td>develsoftware assembler<br/></td></tr></table>>];
+21 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_17</td></tr><tr><td>os:={unix-like,dos,windows}<br/></td></tr><tr><td><br/></td></tr></table>>];
+12 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_23</td></tr><tr><td>os:={unix-like,linux}<br/></td></tr><tr><td><br/></td></tr></table>>];
+13 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_20</td></tr><tr><td>os:={unix-like,dos}<br/></td></tr><tr><td><br/></td></tr></table>>];
+19 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_19</td></tr><tr><td>os:={linux,dos,windows}<br/></td></tr><tr><td><br/></td></tr></table>>];
+30 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_22</td></tr><tr><td>license:={bsd}<br/></td></tr><tr><td><br/></td></tr></table>>];
+31 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_21</td></tr><tr><td>license:={gpl}<br/></td></tr><tr><td>bruce d. evans' as86<br/>rosasm<br/>tccasm<br/></td></tr></table>>];
+10 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_25</td></tr><tr><td>os:={unix-like,windows}<br/></td></tr><tr><td>tccasm<br/></td></tr></table>>];
+14 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_24</td></tr><tr><td>os:={os/2,dos,windows}<br/></td></tr><tr><td><br/></td></tr></table>>];
+11 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_26</td></tr><tr><td>os:={linux,windows}<br/></td></tr><tr><td><br/></td></tr></table>>];
+2 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_27</td></tr><tr><td>os:={os/2}<br/></td></tr><tr><td>ibm alp<br/></td></tr></table>>];
+35 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_28</td></tr><tr><td>license:={free}<br/></td></tr><tr><td>arrowsoft assembler<br/>develsoftware assembler<br/>goasm<br/>lzasm<br/>vasm<br/></td></tr></table>>];
+5 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_29</td></tr><tr><td>os:={unix-like}<br/></td></tr><tr><td><br/></td></tr></table>>];
+32 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_31</td></tr><tr><td>license:={proprietary}<br/></td></tr><tr><td>a86/a386<br/>ibm alp<br/>tim paterson's asm<br/>slr's optasm<br/>tasm<br/></td></tr></table>>];
+6 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_30</td></tr><tr><td>os:={linux}<br/></td></tr><tr><td><br/></td></tr></table>>];
+36 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_32</td></tr><tr><td>x86-64<br/></td></tr><tr><td>goasm<br/>tccasm<br/></td></tr></table>>];
+9 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_33</td></tr><tr><td>os:={dos,windows}<br/></td></tr><tr><td>a86/a386<br/>lzasm<br/>tasm<br/></td></tr></table>>];
+29 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_34</td></tr><tr><td>open source<br/></td></tr><tr><td>vasm<br/></td></tr></table>>];
+0 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_36</td></tr><tr><td>os:={dos}<br/></td></tr><tr><td>arrowsoft assembler<br/>tim paterson's asm<br/>slr's optasm<br/></td></tr></table>>];
+1 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_37</td></tr><tr><td>os:={windows}<br/></td></tr><tr><td>rosasm<br/></td></tr></table>>];
+37 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_35</td></tr><tr><td>active development<br/></td></tr><tr><td>vasm<br/></td></tr></table>>];
+	23:p -> 18:p
+	28:p -> 18:p
+	27:p -> 20:p
+	23:p -> 20:p
+	27:p -> 26:p
+	28:p -> 26:p
+	27:p -> 33:p
+	17:p -> 7:p
+	22:p -> 16:p
+	22:p -> 21:p
+	25:p -> 21:p
+	16:p -> 12:p
+	17:p -> 12:p
+	21:p -> 13:p
+	15:p -> 13:p
+	22:p -> 19:p
+	26:p -> 19:p
+	22:p -> 30:p
+	28:p -> 30:p
+	17:p -> 30:p
+	25:p -> 31:p
+	16:p -> 10:p
+	21:p -> 10:p
+	33:p -> 14:p
+	34:p -> 14:p
+	25:p -> 14:p
+	26:p -> 14:p
+	16:p -> 11:p
+	18:p -> 11:p
+	19:p -> 11:p
+	20:p -> 11:p
+	14:p -> 2:p
+	23:p -> 35:p
+	8:p -> 35:p
+	12:p -> 5:p
+	13:p -> 5:p
+	10:p -> 5:p
+	4:p -> 32:p
+	3:p -> 32:p
+	24:p -> 32:p
+	12:p -> 6:p
+	11:p -> 6:p
+	30:p -> 6:p
+	7:p -> 6:p
+	21:p -> 36:p
+	34:p -> 36:p
+	8:p -> 36:p
+	19:p -> 36:p
+	21:p -> 9:p
+	19:p -> 9:p
+	14:p -> 9:p
+	33:p -> 29:p
+	30:p -> 29:p
+	20:p -> 29:p
+	13:p -> 29:p
+	31:p -> 29:p
+	18:p -> 29:p
+	19:p -> 29:p
+	7:p -> 29:p
+	9:p -> 0:p
+	13:p -> 0:p
+	24:p -> 0:p
+	9:p -> 1:p
+	11:p -> 1:p
+	10:p -> 1:p
+	36:p -> 1:p
+	30:p -> 37:p
+	3:p -> 37:p
+	20:p -> 37:p
+	18:p -> 37:p
+	36:p -> 37:p
+}

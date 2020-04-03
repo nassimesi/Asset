@@ -1,0 +1,230 @@
+country of origin:={japan} -> first release:=[2011-2011]
+country of origin:={japan} -> price:={non-free}
+country of origin:={japan} -> av comparatives
+country of origin:={japan} -> heuristics
+country of origin:={japan} -> support
+country of origin:={japan} -> web protection
+country of origin:={japan} -> license:={proprietary}
+country of origin:={japan} -> on-demand scan
+country of origin:={japan} -> on-access scan
+country of origin:={japan} -> live-update
+ips -> country of origin:={united kingdom}
+ips -> first release:=[2010-2010]
+ips -> ids
+ips -> price:={free}
+ips -> cloudav
+ips -> email security
+ips -> av comparatives
+ips -> heuristics
+ips -> web protection
+ips -> license:={proprietary}
+ips -> on-demand scan
+ips -> on-access scan
+ips -> live-update
+country of origin:={india} -> first release:=[2012-2012]
+country of origin:={india} -> price:={non-free}
+country of origin:={india} -> support
+country of origin:={india} -> web protection
+country of origin:={india} -> license:={proprietary}
+country of origin:={india} -> on-demand scan
+country of origin:={india} -> on-access scan
+country of origin:={india} -> live-update
+country of origin:={brazil} -> first release:=[2013-2013]
+country of origin:={brazil} -> price:={free}
+country of origin:={brazil} -> cloudav
+country of origin:={brazil} -> av comparatives
+country of origin:={brazil} -> support
+country of origin:={brazil} -> web protection
+country of origin:={brazil} -> license:={proprietary}
+country of origin:={brazil} -> on-demand scan
+country of origin:={brazil} -> on-access scan
+country of origin:={brazil} -> live-update
+first release:=[2007-2007] -> country of origin:={united kingdom}
+country of origin:={spain} -> first release:=[2008-2008]
+country of origin:={spain} -> antispam
+country of origin:={spain} -> ids
+country of origin:={spain} -> cloudav
+country of origin:={spain} -> email security
+country of origin:={spain} -> price:={non-free}
+country of origin:={spain} -> av comparatives
+country of origin:={spain} -> heuristics
+country of origin:={spain} -> support
+country of origin:={spain} -> web protection
+country of origin:={spain} -> license:={proprietary}
+country of origin:={spain} -> on-demand scan
+country of origin:={spain} -> on-access scan
+country of origin:={spain} -> live-update
+first release:=[1997-1997] -> price:={non-free}
+first release:=[1997-1997] -> support
+first release:=[1997-1997] -> license:={proprietary}
+country of origin:={finland} -> first release:=[2008-2008]
+country of origin:={finland} -> antispam
+country of origin:={finland} -> ids
+country of origin:={finland} -> cloudav
+country of origin:={finland} -> email security
+country of origin:={finland} -> price:={non-free}
+country of origin:={finland} -> av comparatives
+country of origin:={finland} -> heuristics
+country of origin:={finland} -> support
+country of origin:={finland} -> web protection
+country of origin:={finland} -> license:={proprietary}
+country of origin:={finland} -> on-demand scan
+country of origin:={finland} -> on-access scan
+country of origin:={finland} -> live-update
+license:={gnu gpl} -> first release:=[2000-2000]
+license:={gnu gpl} -> price:={free}
+license:={gnu gpl} -> country of origin:={united states}
+license:={gnu gpl} -> email security
+license:={gnu gpl} -> on-demand scan
+license:={gnu gpl} -> on-access scan
+license:={gnu gpl} -> live-update
+country of origin:={romania} -> first release:=[2011-2011]
+country of origin:={romania} -> price:={non-free}
+country of origin:={romania} -> av comparatives
+country of origin:={romania} -> heuristics
+country of origin:={romania} -> support
+country of origin:={romania} -> web protection
+country of origin:={romania} -> license:={proprietary}
+country of origin:={romania} -> on-demand scan
+country of origin:={romania} -> on-access scan
+country of origin:={romania} -> live-update
+country of origin:={germany} -> first release:=[2011-2011]
+country of origin:={germany} -> price:={free}
+country of origin:={germany} -> email security
+country of origin:={germany} -> av comparatives
+country of origin:={germany} -> heuristics
+country of origin:={germany} -> web protection
+country of origin:={germany} -> license:={proprietary}
+country of origin:={germany} -> on-demand scan
+country of origin:={germany} -> on-access scan
+country of origin:={germany} -> live-update
+country of origin:={czech republic} -> price:={free}
+country of origin:={czech republic} -> first release:=[2012-2012]
+country of origin:={czech republic} -> email security
+country of origin:={czech republic} -> av comparatives
+country of origin:={czech republic} -> heuristics
+country of origin:={czech republic} -> support
+country of origin:={czech republic} -> web protection
+country of origin:={czech republic} -> license:={proprietary}
+country of origin:={czech republic} -> on-demand scan
+country of origin:={czech republic} -> on-access scan
+country of origin:={czech republic} -> live-update
+country of origin:={united kingdom} -> first release:=[2007-2010]
+country of origin:={united kingdom} -> av comparatives
+country of origin:={united kingdom} -> license:={proprietary}
+country of origin:={united kingdom} -> on-demand scan
+country of origin:={united kingdom} -> on-access scan
+country of origin:={united kingdom} -> live-update
+first release:=[2008-2008] -> antispam
+first release:=[2008-2008] -> ids
+first release:=[2013-2013] -> cloudav
+first release:=[2013-2013] -> av comparatives
+first release:=[2013-2013] -> support
+first release:=[2013-2013] -> web protection
+firewall -> price:={non-free}
+firewall -> support
+firewall -> web protection
+firewall -> license:={proprietary}
+firewall -> first release:=[2000-2013]
+firewall -> on-demand scan
+firewall -> on-access scan
+firewall -> live-update
+country of origin:={slovakia} -> cloudav
+country of origin:={slovakia} -> price:={non-free}
+country of origin:={slovakia} -> heuristics
+country of origin:={slovakia} -> first release:=[2011-2013]
+country of origin:={slovakia} -> support
+country of origin:={slovakia} -> web protection
+country of origin:={slovakia} -> license:={proprietary}
+country of origin:={slovakia} -> on-demand scan
+country of origin:={slovakia} -> on-access scan
+country of origin:={slovakia} -> live-update
+country of origin:={russia} -> first release:=[2010-2012]
+country of origin:={russia} -> license:={proprietary}
+country of origin:={russia} -> on-demand scan
+country of origin:={russia} -> on-access scan
+country of origin:={russia} -> live-update
+antispam -> cloudav
+antispam -> email security
+antispam -> price:={non-free}
+antispam -> av comparatives
+antispam -> heuristics
+antispam -> support
+antispam -> web protection
+antispam -> first release:=[2008-2012]
+antispam -> license:={proprietary}
+antispam -> on-demand scan
+antispam -> on-access scan
+antispam -> live-update
+ids -> first release:=[2008-2010]
+ids -> cloudav
+ids -> email security
+ids -> av comparatives
+ids -> heuristics
+ids -> web protection
+ids -> license:={proprietary}
+ids -> on-demand scan
+ids -> on-access scan
+ids -> live-update
+first release:=[2007-2008] -> price:={non-free}
+first release:=[2007-2008] -> support
+price:={trialware} -> first release:=[2012-2012]
+price:={trialware} -> license:={proprietary}
+price:={trialware} -> on-demand scan
+price:={trialware} -> on-access scan
+price:={trialware} -> live-update
+first release:=[1997-2000] -> country of origin:={united states}
+first release:=[2008-2010] -> cloudav
+first release:=[2008-2010] -> email security
+first release:=[2007-2010] -> av comparatives
+price:={free} -> first release:=[2000-2013]
+price:={free} -> on-demand scan
+price:={free} -> on-access scan
+price:={free} -> live-update
+cloudav -> web protection
+cloudav -> first release:=[2008-2013]
+cloudav -> license:={proprietary}
+cloudav -> on-demand scan
+cloudav -> on-access scan
+cloudav -> live-update
+country of origin:={united states} -> first release:=[1997-2012]
+country of origin:={united states} -> on-demand scan
+country of origin:={united states} -> on-access scan
+country of origin:={united states} -> live-update
+first release:=[2008-2011] -> heuristics
+first release:=[2008-2011] -> web protection
+email security -> first release:=[2000-2013]
+email security -> on-demand scan
+email security -> on-access scan
+email security -> live-update
+price:={non-free} -> support
+price:={non-free} -> license:={proprietary}
+price:={non-free} -> on-demand scan
+price:={non-free} -> on-access scan
+price:={non-free} -> live-update
+price:={non-free} -> first release:=[1997-2013]
+av comparatives -> first release:=[2007-2013]
+av comparatives -> license:={proprietary}
+av comparatives -> on-demand scan
+av comparatives -> on-access scan
+av comparatives -> live-update
+heuristics -> first release:=[2008-2013]
+heuristics -> license:={proprietary}
+heuristics -> on-demand scan
+heuristics -> on-access scan
+heuristics -> live-update
+support -> license:={proprietary}
+support -> on-demand scan
+support -> on-access scan
+support -> live-update
+support -> first release:=[1997-2013]
+web protection -> license:={proprietary}
+web protection -> first release:=[2000-2013]
+web protection -> on-demand scan
+web protection -> on-access scan
+web protection -> live-update
+first release:=[2007-2013] -> license:={proprietary}
+license:={proprietary} -> on-demand scan
+license:={proprietary} -> on-access scan
+license:={proprietary} -> live-update
+license:={proprietary} -> first release:=[1997-2013]

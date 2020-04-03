@@ -1,0 +1,680 @@
+introduced:=[1975-2005] ->! usual environment:={.net}
+introduced:=[1975-2005] ->! usually invoked:={powershell}
+introduced:=[1975-2005] ->! user interface:={graphical cli}
+introduced:=[1975-2005] ->! native cim/wbem support
+introduced:=[1977-2006] ->! usual environment:={mp/m,cp/m}
+introduced:=[1977-2006] ->! usually invoked:={ccp}
+stream redirection ->! usual environment:={mp/m,cp/m}
+stream redirection ->! usually invoked:={ccp}
+stream redirection ->! introduced:=[1975-1975]
+introduced:=[1975-1994] ->! usual environment:={java}
+introduced:=[1975-1994] ->! license:={lgpl}
+introduced:=[1975-1994] ->! usually invoked:={fish}
+introduced:=[1975-1993] ->! usually invoked:={scsh}
+introduced:=[1978-2006] ->! usual environment:={unix}
+introduced:=[1978-2006] ->! usual environment:={openvms}
+user interface:={text-based cli} ->! introduced:=[1994-2006]
+user interface:={text-based cli} ->! usually invoked:={scsh}
+user interface:={text-based cli} ->! usual environment:={.net}
+user interface:={text-based cli} ->! usually invoked:={powershell}
+user interface:={text-based cli} ->! native cim/wbem support
+user interface:={text-based cli} ->! usual environment:={plan 9,posix}
+user interface:={text-based cli} ->! usually invoked:={rc}
+user interface:={text-based cli} ->! license:={lpl}
+user interface:={text-based cli} ->! usual environment:={java}
+user interface:={text-based cli} ->! license:={lgpl}
+user interface:={text-based cli} ->! usually invoked:={fish}
+batch scripts ->! introduced:=[1994-2005]
+batch scripts ->! usually invoked:={scsh}
+batch scripts ->! usual environment:={mp/m,cp/m}
+batch scripts ->! usually invoked:={ccp}
+batch scripts ->! introduced:=[1975-1975]
+batch scripts ->! usual environment:={plan 9,posix}
+batch scripts ->! usually invoked:={rc}
+batch scripts ->! license:={lpl}
+batch scripts ->! usual environment:={java}
+batch scripts ->! license:={lgpl}
+batch scripts ->! usually invoked:={fish}
+startup/shutdown scripts ->! usually invoked:={scsh}
+startup/shutdown scripts ->! introduced:=[1994-1994]
+startup/shutdown scripts ->! introduced:=[1987-1987]
+startup/shutdown scripts ->! license:={ibm-eula}
+startup/shutdown scripts ->! usual environment:={plan 9,posix}
+startup/shutdown scripts ->! usually invoked:={rc}
+startup/shutdown scripts ->! license:={lpl}
+startup/shutdown scripts ->! usual environment:={java}
+startup/shutdown scripts ->! license:={lgpl}
+introduced:=[1975-1992] ->! usually invoked:={tcc}
+introduced:=[1975-1992] ->! license:={shareware}
+introduced:=[1983-2006] ->! license:={ms-eula,bsd,gpl}
+configurability ->! introduced:=[1994-2005]
+configurability ->! usually invoked:={scsh}
+configurability ->! usual environment:={mp/m,cp/m}
+configurability ->! usually invoked:={ccp}
+configurability ->! introduced:=[1975-1975]
+configurability ->! introduced:=[1987-1987]
+configurability ->! license:={ibm-eula}
+configurability ->! usual environment:={openvms}
+configurability ->! usual environment:={plan 9,posix}
+configurability ->! usually invoked:={rc}
+configurability ->! license:={lpl}
+configurability ->! usual environment:={java}
+configurability ->! license:={lgpl}
+configurability ->! usually invoked:={fish}
+single file executable ->! introduced:=[1992-1993]
+single file executable ->! introduced:=[1987-1987]
+single file executable ->! license:={ibm-eula}
+single file executable ->! usually invoked:={4os2}
+single file executable ->! usually invoked:={tcc}
+single file executable ->! license:={shareware}
+single file executable ->! usual environment:={openvms}
+single file executable ->! usual environment:={.net}
+single file executable ->! usually invoked:={powershell}
+single file executable ->! introduced:=[2006-2006]
+single file executable ->! user interface:={graphical cli}
+single file executable ->! native cim/wbem support
+single file executable ->! usually invoked:={fish}
+introduced:=[1983-2005] ->! license:={ms-eula}
+introduced:=[1975-1990] ->! usually invoked:={4os2}
+introduced:=[1987-2006] ->! usually invoked:={tcsh,csh}
+platform-independent ->! introduced:=[1992-1993]
+platform-independent ->! license:={free}
+platform-independent ->! usually invoked:={cmd}
+platform-independent ->! license:={ms-eula}
+platform-independent ->! usual environment:={dos}
+platform-independent ->! usual environment:={mp/m,cp/m}
+platform-independent ->! usually invoked:={ccp}
+platform-independent ->! introduced:=[1975-1975]
+platform-independent ->! introduced:=[1980-1980]
+platform-independent ->! introduced:=[1987-1987]
+platform-independent ->! license:={ibm-eula}
+platform-independent ->! usually invoked:={ndos,4dos}
+platform-independent ->! usually invoked:={4os2}
+platform-independent ->! usually invoked:={tcc}
+platform-independent ->! license:={shareware}
+platform-independent ->! usual environment:={.net}
+platform-independent ->! usually invoked:={powershell}
+platform-independent ->! introduced:=[2006-2006]
+platform-independent ->! user interface:={graphical cli}
+platform-independent ->! native cim/wbem support
+introduced:=[1977-1990] ->! license:={free}
+introduced:=[1975-1989] ->! usually invoked:={zsh}
+logging ->! introduced:=[1994-2005]
+logging ->! usually invoked:={cmd}
+logging ->! usual environment:={unix}
+logging ->! usually invoked:={scsh}
+logging ->! usual environment:={mp/m,cp/m}
+logging ->! usually invoked:={ccp}
+logging ->! introduced:=[1975-1975]
+logging ->! introduced:=[1980-1980]
+logging ->! license:={ms-eula,bsd,gpl}
+logging ->! introduced:=[1987-1987]
+logging ->! license:={ibm-eula}
+logging ->! usual environment:={plan 9,posix}
+logging ->! usually invoked:={rc}
+logging ->! license:={lpl}
+logging ->! usual environment:={java}
+logging ->! license:={lgpl}
+logging ->! usually invoked:={fish}
+introduced:=[1988-2006] ->! usually invoked:={cmd}
+introduced:=[1988-2006] ->! license:={ibm-eula}
+source code availability ->! usual environment:={win32}
+source code availability ->! usually invoked:={cmd}
+source code availability ->! license:={ms-eula}
+source code availability ->! license:={proprietary}
+source code availability ->! introduced:=[1987-1988]
+source code availability ->! introduced:=[1993-1993]
+source code availability ->! introduced:=[1980-1980]
+source code availability ->! license:={ibm-eula}
+source code availability ->! usually invoked:={tcc}
+source code availability ->! license:={shareware}
+source code availability ->! usual environment:={openvms}
+source code availability ->! usual environment:={.net}
+source code availability ->! usually invoked:={powershell}
+source code availability ->! introduced:=[2006-2006]
+source code availability ->! user interface:={graphical cli}
+source code availability ->! native cim/wbem support
+source code availability ->! usual environment:={plan 9,posix}
+source code availability ->! usually invoked:={rc}
+source code availability ->! license:={lpl}
+source code availability ->! usual environment:={java}
+source code availability ->! license:={lgpl}
+introduced:=[1989-2006] ->! usually invoked:={csh}
+introduced:=[1989-2006] ->! license:={proprietary}
+introduced:=[1989-2006] ->! usual environment:={os/2,win32}
+console redirection ->! introduced:=[1992-2006]
+console redirection ->! license:={free}
+console redirection ->! usually invoked:={scsh}
+console redirection ->! usual environment:={mp/m,cp/m}
+console redirection ->! usually invoked:={ccp}
+console redirection ->! introduced:=[1975-1975]
+console redirection ->! introduced:=[1987-1987]
+console redirection ->! license:={ibm-eula}
+console redirection ->! usually invoked:={4os2}
+console redirection ->! usually invoked:={tcc}
+console redirection ->! license:={shareware}
+console redirection ->! usual environment:={openvms}
+console redirection ->! usual environment:={.net}
+console redirection ->! usually invoked:={powershell}
+console redirection ->! user interface:={graphical cli}
+console redirection ->! native cim/wbem support
+console redirection ->! usual environment:={plan 9,posix}
+console redirection ->! usually invoked:={rc}
+console redirection ->! license:={lpl}
+console redirection ->! usual environment:={java}
+console redirection ->! license:={lgpl}
+console redirection ->! usually invoked:={fish}
+introduced:=[1987-1993] ->! license:={bsd}
+unicode support ->! introduced:=[1975-1980]
+unicode support ->! license:={free}
+unicode support ->! usual environment:={os/2}
+unicode support ->! usually invoked:={cmd}
+unicode support ->! usual environment:={unix}
+unicode support ->! license:={proprietary}
+unicode support ->! introduced:=[1992-1992]
+unicode support ->! introduced:=[1987-1988]
+unicode support ->! usually invoked:={ksh}
+unicode support ->! license:={common public license}
+unicode support ->! usual environment:={dos}
+unicode support ->! usually invoked:={scsh}
+unicode support ->! introduced:=[1994-1994]
+unicode support ->! usual environment:={mp/m,cp/m}
+unicode support ->! usually invoked:={ccp}
+unicode support ->! license:={ms-eula,bsd,gpl}
+unicode support ->! license:={ibm-eula}
+unicode support ->! usually invoked:={ndos,4dos}
+unicode support ->! usually invoked:={4os2}
+unicode support ->! usual environment:={openvms}
+usual environment:={posix} ->! introduced:=[1975-1977]
+usual environment:={posix} ->! introduced:=[1992-1993]
+usual environment:={posix} ->! license:={free}
+usual environment:={posix} ->! usually invoked:={cmd}
+usual environment:={posix} ->! license:={ms-eula}
+usual environment:={posix} ->! license:={proprietary}
+usual environment:={posix} ->! introduced:=[1987-1988]
+usual environment:={posix} ->! usually invoked:={ccp}
+usual environment:={posix} ->! introduced:=[1980-1980]
+usual environment:={posix} ->! license:={ibm-eula}
+usual environment:={posix} ->! usually invoked:={ndos,4dos}
+usual environment:={posix} ->! usually invoked:={4os2}
+usual environment:={posix} ->! usually invoked:={tcc}
+usual environment:={posix} ->! license:={shareware}
+usual environment:={posix} ->! usually invoked:={powershell}
+usual environment:={posix} ->! introduced:=[2006-2006]
+usual environment:={posix} ->! user interface:={graphical cli}
+usual environment:={posix} ->! native cim/wbem support
+usual environment:={posix} ->! license:={lgpl}
+introduced:=[1975-1988] ->! mouse support
+introduced:=[1975-1988] ->! usually invoked:={ksh}
+introduced:=[1975-1988] ->! license:={common public license}
+introduced:=[1975-1988] ->! license:={mit}
+introduced:=[1975-1988] ->! usually invoked:={sh,bash}
+introduced:=[1975-1988] ->! usual environment:={se,windows 95,me,dos,windows 98}
+introduced:=[1975-1988] ->! usually invoked:={ndos,4dos}
+introduced:=[1975-1988] ->! usual environment:={plan 9,posix}
+introduced:=[1975-1988] ->! usually invoked:={rc}
+introduced:=[1975-1988] ->! license:={lpl}
+introduced:=[1975-1987] ->! iso 8601 support
+introduced:=[1975-1987] ->! usual environment:={win32}
+introduced:=[1975-1987] ->! license:={proprietary}
+iso 8601 support ->! license:={bsd}
+iso 8601 support ->! license:={free}
+iso 8601 support ->! introduced:=[1994-2005]
+iso 8601 support ->! usually invoked:={cmd}
+iso 8601 support ->! usual environment:={unix}
+iso 8601 support ->! introduced:=[1992-1992]
+iso 8601 support ->! usually invoked:={ksh}
+iso 8601 support ->! license:={common public license}
+iso 8601 support ->! usually invoked:={tcsh,csh}
+iso 8601 support ->! usually invoked:={scsh}
+iso 8601 support ->! usual environment:={mp/m,cp/m}
+iso 8601 support ->! usually invoked:={ccp}
+iso 8601 support ->! license:={ibm-eula}
+iso 8601 support ->! usually invoked:={4os2}
+iso 8601 support ->! usual environment:={openvms}
+iso 8601 support ->! usual environment:={plan 9,posix}
+iso 8601 support ->! usually invoked:={rc}
+iso 8601 support ->! license:={lpl}
+iso 8601 support ->! usual environment:={java}
+iso 8601 support ->! license:={lgpl}
+iso 8601 support ->! usually invoked:={fish}
+introduced:=[1990-2006] ->! usually invoked:={sh}
+introduced:=[1990-2006] ->! usually invoked:={ksh}
+introduced:=[1990-2006] ->! license:={common public license}
+introduced:=[1990-2006] ->! usual environment:={dos}
+introduced:=[1990-2006] ->! usually invoked:={ndos,4dos}
+introduced:=[1990-2006] ->! usual environment:={plan 9,posix}
+introduced:=[1990-2006] ->! usually invoked:={rc}
+introduced:=[1990-2006] ->! license:={lpl}
+introduced:=[1975-1983] ->! usual environment:={os/2}
+introduced:=[1975-1983] ->! license:={ibm-eula}
+introduced:=[1989-1992] ->! usual environment:={win32}
+introduced:=[1992-2006] ->! license:={mit}
+introduced:=[1992-2006] ->! usually invoked:={zsh}
+usually invoked:={sh} ->! introduced:=[1978-1988]
+usually invoked:={sh} ->! license:={bsd}
+usually invoked:={sh} ->! mouse support
+usually invoked:={sh} ->! license:={free}
+usually invoked:={sh} ->! usual environment:={os/2}
+usually invoked:={sh} ->! usual environment:={win32}
+usually invoked:={sh} ->! license:={ms-eula}
+usually invoked:={sh} ->! license:={proprietary}
+usually invoked:={sh} ->! license:={mit}
+usually invoked:={sh} ->! usual environment:={dos}
+usually invoked:={sh} ->! usual environment:={mp/m,cp/m}
+usually invoked:={sh} ->! introduced:=[1975-1975]
+usually invoked:={sh} ->! license:={ibm-eula}
+usually invoked:={sh} ->! license:={shareware}
+usually invoked:={sh} ->! usual environment:={openvms}
+usually invoked:={sh} ->! usual environment:={.net}
+usually invoked:={sh} ->! user interface:={graphical cli}
+usually invoked:={sh} ->! native cim/wbem support
+usually invoked:={sh} ->! usual environment:={plan 9,posix}
+usually invoked:={sh} ->! license:={lpl}
+usually invoked:={sh} ->! usual environment:={java}
+usually invoked:={sh} ->! license:={lgpl}
+introduced:=[1975-1980] ->! usually invoked:={tcsh,csh}
+introduced:=[1990-1994] ->! license:={gpl}
+introduced:=[1989-1990] ->! usual environment:={os/2}
+introduced:=[1993-2006] ->! license:={free}
+introduced:=[1993-2006] ->! usual environment:={os/2}
+introduced:=[1993-2006] ->! usually invoked:={4os2}
+introduced:=[1975-1978] ->! license:={gpl}
+introduced:=[1975-1978] ->! usually invoked:={cmd}
+introduced:=[1975-1978] ->! license:={ms-eula}
+introduced:=[1975-1978] ->! usual environment:={dos}
+license:={bsd} ->! introduced:=[1975-1977]
+license:={bsd} ->! mouse support
+license:={bsd} ->! usual environment:={os/2}
+license:={bsd} ->! usual environment:={win32}
+license:={bsd} ->! introduced:=[2005-2006]
+license:={bsd} ->! usual environment:={unix}
+license:={bsd} ->! usually invoked:={ksh}
+license:={bsd} ->! usually invoked:={zsh}
+license:={bsd} ->! usual environment:={mp/m,cp/m}
+license:={bsd} ->! usually invoked:={ccp}
+license:={bsd} ->! usual environment:={se,windows 95,me,dos,windows 98}
+license:={bsd} ->! usually invoked:={ndos,4dos}
+license:={bsd} ->! usually invoked:={4os2}
+license:={bsd} ->! usually invoked:={tcc}
+license:={bsd} ->! usual environment:={openvms}
+license:={bsd} ->! usual environment:={.net}
+license:={bsd} ->! usually invoked:={powershell}
+license:={bsd} ->! user interface:={graphical cli}
+license:={bsd} ->! native cim/wbem support
+license:={bsd} ->! usual environment:={plan 9,posix}
+license:={bsd} ->! usually invoked:={rc}
+license:={bsd} ->! usual environment:={java}
+license:={bsd} ->! usually invoked:={fish}
+introduced:=[1975-1977] ->! usually invoked:={csh}
+introduced:=[1983-1988] ->! license:={gpl}
+introduced:=[1983-1988] ->! usual environment:={dos}
+introduced:=[1994-2006] ->! usual environment:={win32}
+introduced:=[1994-2006] ->! usually invoked:={tcc}
+introduced:=[1994-2006] ->! license:={shareware}
+mouse support ->! license:={free}
+mouse support ->! license:={gpl}
+mouse support ->! usually invoked:={csh}
+mouse support ->! usual environment:={os/2}
+mouse support ->! introduced:=[1994-2005]
+mouse support ->! usually invoked:={cmd}
+mouse support ->! usual environment:={unix}
+mouse support ->! license:={proprietary}
+mouse support ->! introduced:=[1992-1992]
+mouse support ->! usually invoked:={ksh}
+mouse support ->! license:={common public license}
+mouse support ->! usually invoked:={scsh}
+mouse support ->! usual environment:={mp/m,cp/m}
+mouse support ->! usually invoked:={ccp}
+mouse support ->! license:={ibm-eula}
+mouse support ->! usually invoked:={4os2}
+mouse support ->! usual environment:={openvms}
+mouse support ->! usual environment:={plan 9,posix}
+mouse support ->! usually invoked:={rc}
+mouse support ->! license:={lpl}
+mouse support ->! usual environment:={java}
+mouse support ->! license:={lgpl}
+mouse support ->! usually invoked:={fish}
+license:={free} ->! usually invoked:={csh}
+license:={free} ->! usual environment:={win32}
+license:={free} ->! usually invoked:={cmd}
+license:={free} ->! usual environment:={unix}
+license:={free} ->! usually invoked:={ksh}
+license:={free} ->! usual environment:={dos}
+license:={free} ->! usually invoked:={scsh}
+license:={free} ->! usually invoked:={zsh}
+license:={free} ->! usually invoked:={ndos,4dos}
+license:={free} ->! usually invoked:={tcc}
+license:={free} ->! usual environment:={openvms}
+license:={free} ->! usual environment:={.net}
+license:={free} ->! usually invoked:={powershell}
+license:={free} ->! user interface:={graphical cli}
+license:={free} ->! native cim/wbem support
+license:={free} ->! usually invoked:={rc}
+license:={free} ->! usual environment:={java}
+license:={free} ->! usually invoked:={fish}
+license:={gpl} ->! usually invoked:={csh}
+license:={gpl} ->! usual environment:={os/2}
+license:={gpl} ->! usual environment:={win32}
+license:={gpl} ->! usual environment:={unix}
+license:={gpl} ->! usually invoked:={ksh}
+license:={gpl} ->! usually invoked:={scsh}
+license:={gpl} ->! usually invoked:={zsh}
+license:={gpl} ->! usual environment:={mp/m,cp/m}
+license:={gpl} ->! usually invoked:={ccp}
+license:={gpl} ->! usual environment:={se,windows 95,me,dos,windows 98}
+license:={gpl} ->! usually invoked:={ndos,4dos}
+license:={gpl} ->! usually invoked:={4os2}
+license:={gpl} ->! usually invoked:={tcc}
+license:={gpl} ->! usual environment:={openvms}
+license:={gpl} ->! usual environment:={.net}
+license:={gpl} ->! usually invoked:={powershell}
+license:={gpl} ->! introduced:=[2006-2006]
+license:={gpl} ->! user interface:={graphical cli}
+license:={gpl} ->! native cim/wbem support
+license:={gpl} ->! usual environment:={plan 9,posix}
+license:={gpl} ->! usually invoked:={rc}
+license:={gpl} ->! usual environment:={java}
+usually invoked:={csh} ->! license:={ms-eula}
+usually invoked:={csh} ->! usual environment:={unix}
+usually invoked:={csh} ->! license:={common public license}
+usually invoked:={csh} ->! license:={mit}
+usually invoked:={csh} ->! usual environment:={dos}
+usually invoked:={csh} ->! usual environment:={mp/m,cp/m}
+usually invoked:={csh} ->! introduced:=[1980-1980]
+usually invoked:={csh} ->! introduced:=[1987-1987]
+usually invoked:={csh} ->! license:={ibm-eula}
+usually invoked:={csh} ->! license:={shareware}
+usually invoked:={csh} ->! usual environment:={openvms}
+usually invoked:={csh} ->! usual environment:={.net}
+usually invoked:={csh} ->! user interface:={graphical cli}
+usually invoked:={csh} ->! native cim/wbem support
+usually invoked:={csh} ->! usual environment:={plan 9,posix}
+usually invoked:={csh} ->! license:={lpl}
+usually invoked:={csh} ->! usual environment:={java}
+usually invoked:={csh} ->! license:={lgpl}
+usual environment:={os/2} ->! license:={ms-eula}
+usual environment:={os/2} ->! usually invoked:={ksh}
+usual environment:={os/2} ->! license:={common public license}
+usual environment:={os/2} ->! license:={mit}
+usual environment:={os/2} ->! usually invoked:={tcsh,csh}
+usual environment:={os/2} ->! usually invoked:={scsh}
+usual environment:={os/2} ->! usually invoked:={zsh}
+usual environment:={os/2} ->! usually invoked:={ccp}
+usual environment:={os/2} ->! usually invoked:={ndos,4dos}
+usual environment:={os/2} ->! usually invoked:={tcc}
+usual environment:={os/2} ->! license:={shareware}
+usual environment:={os/2} ->! usually invoked:={powershell}
+usual environment:={os/2} ->! user interface:={graphical cli}
+usual environment:={os/2} ->! native cim/wbem support
+usual environment:={os/2} ->! usually invoked:={rc}
+usual environment:={os/2} ->! license:={lpl}
+usual environment:={os/2} ->! license:={lgpl}
+usual environment:={os/2} ->! usually invoked:={fish}
+usual environment:={win32} ->! usually invoked:={cmd}
+usual environment:={win32} ->! license:={ms-eula}
+usual environment:={win32} ->! usually invoked:={ksh}
+usual environment:={win32} ->! license:={common public license}
+usual environment:={win32} ->! license:={mit}
+usual environment:={win32} ->! usually invoked:={tcsh,csh}
+usual environment:={win32} ->! usually invoked:={scsh}
+usual environment:={win32} ->! usually invoked:={zsh}
+usual environment:={win32} ->! usually invoked:={ccp}
+usual environment:={win32} ->! license:={ibm-eula}
+usual environment:={win32} ->! usually invoked:={ndos,4dos}
+usual environment:={win32} ->! usually invoked:={4os2}
+usual environment:={win32} ->! usually invoked:={powershell}
+usual environment:={win32} ->! user interface:={graphical cli}
+usual environment:={win32} ->! native cim/wbem support
+usual environment:={win32} ->! usually invoked:={rc}
+usual environment:={win32} ->! license:={lpl}
+usual environment:={win32} ->! license:={lgpl}
+usual environment:={win32} ->! usually invoked:={fish}
+usually invoked:={cmd} ->! usual environment:={unix}
+usually invoked:={cmd} ->! license:={proprietary}
+usually invoked:={cmd} ->! introduced:=[1983-1983]
+usually invoked:={cmd} ->! license:={common public license}
+usually invoked:={cmd} ->! license:={mit}
+usually invoked:={cmd} ->! usual environment:={mp/m,cp/m}
+usually invoked:={cmd} ->! usual environment:={se,windows 95,me,dos,windows 98}
+usually invoked:={cmd} ->! license:={shareware}
+usually invoked:={cmd} ->! usual environment:={openvms}
+usually invoked:={cmd} ->! usual environment:={.net}
+usually invoked:={cmd} ->! user interface:={graphical cli}
+usually invoked:={cmd} ->! native cim/wbem support
+usually invoked:={cmd} ->! license:={lpl}
+usually invoked:={cmd} ->! usual environment:={java}
+usually invoked:={cmd} ->! license:={lgpl}
+license:={ms-eula} ->! usual environment:={unix}
+license:={ms-eula} ->! usually invoked:={ksh}
+license:={ms-eula} ->! usually invoked:={scsh}
+license:={ms-eula} ->! usually invoked:={zsh}
+license:={ms-eula} ->! usual environment:={mp/m,cp/m}
+license:={ms-eula} ->! usually invoked:={ccp}
+license:={ms-eula} ->! usual environment:={se,windows 95,me,dos,windows 98}
+license:={ms-eula} ->! usually invoked:={ndos,4dos}
+license:={ms-eula} ->! usually invoked:={4os2}
+license:={ms-eula} ->! usually invoked:={tcc}
+license:={ms-eula} ->! usual environment:={openvms}
+license:={ms-eula} ->! usually invoked:={rc}
+license:={ms-eula} ->! usual environment:={java}
+license:={ms-eula} ->! usually invoked:={fish}
+introduced:=[2005-2006] ->! usually invoked:={scsh}
+usual environment:={unix} ->! license:={proprietary}
+usual environment:={unix} ->! usually invoked:={ksh}
+usual environment:={unix} ->! license:={common public license}
+usual environment:={unix} ->! license:={mit}
+usual environment:={unix} ->! usually invoked:={sh,bash}
+usual environment:={unix} ->! usually invoked:={scsh}
+usual environment:={unix} ->! usually invoked:={zsh}
+usual environment:={unix} ->! usually invoked:={ccp}
+usual environment:={unix} ->! introduced:=[1975-1975]
+usual environment:={unix} ->! license:={ibm-eula}
+usual environment:={unix} ->! usually invoked:={ndos,4dos}
+usual environment:={unix} ->! usually invoked:={4os2}
+usual environment:={unix} ->! usually invoked:={tcc}
+usual environment:={unix} ->! license:={shareware}
+usual environment:={unix} ->! usually invoked:={powershell}
+usual environment:={unix} ->! user interface:={graphical cli}
+usual environment:={unix} ->! native cim/wbem support
+usual environment:={unix} ->! usually invoked:={rc}
+usual environment:={unix} ->! license:={lpl}
+usual environment:={unix} ->! license:={lgpl}
+usual environment:={unix} ->! usually invoked:={fish}
+license:={proprietary} ->! usually invoked:={ksh}
+license:={proprietary} ->! usual environment:={dos}
+license:={proprietary} ->! usually invoked:={tcsh,csh}
+license:={proprietary} ->! usually invoked:={scsh}
+license:={proprietary} ->! usually invoked:={zsh}
+license:={proprietary} ->! usual environment:={mp/m,cp/m}
+license:={proprietary} ->! usually invoked:={ccp}
+license:={proprietary} ->! usually invoked:={ndos,4dos}
+license:={proprietary} ->! usually invoked:={4os2}
+license:={proprietary} ->! usually invoked:={tcc}
+license:={proprietary} ->! usual environment:={openvms}
+license:={proprietary} ->! usual environment:={.net}
+license:={proprietary} ->! usually invoked:={powershell}
+license:={proprietary} ->! user interface:={graphical cli}
+license:={proprietary} ->! native cim/wbem support
+license:={proprietary} ->! usually invoked:={rc}
+license:={proprietary} ->! usual environment:={java}
+license:={proprietary} ->! usually invoked:={fish}
+usually invoked:={ksh} ->! license:={mit}
+usually invoked:={ksh} ->! usual environment:={dos}
+license:={common public license} ->! usual environment:={dos}
+license:={common public license} ->! usually invoked:={sh,bash}
+license:={common public license} ->! usually invoked:={scsh}
+license:={common public license} ->! usually invoked:={zsh}
+usually invoked:={ksh} ->! usual environment:={mp/m,cp/m}
+license:={common public license} ->! usual environment:={mp/m,cp/m}
+license:={common public license} ->! usually invoked:={ccp}
+usually invoked:={ksh} ->! license:={ibm-eula}
+license:={common public license} ->! usually invoked:={ndos,4dos}
+license:={common public license} ->! usually invoked:={4os2}
+usually invoked:={ksh} ->! license:={shareware}
+license:={common public license} ->! usually invoked:={tcc}
+usually invoked:={ksh} ->! usual environment:={openvms}
+license:={common public license} ->! usual environment:={openvms}
+usually invoked:={ksh} ->! usual environment:={.net}
+usually invoked:={ksh} ->! user interface:={graphical cli}
+usually invoked:={ksh} ->! native cim/wbem support
+license:={common public license} ->! usual environment:={.net}
+license:={common public license} ->! usually invoked:={powershell}
+license:={common public license} ->! user interface:={graphical cli}
+license:={common public license} ->! native cim/wbem support
+usually invoked:={ksh} ->! usual environment:={plan 9,posix}
+usually invoked:={ksh} ->! license:={lpl}
+license:={common public license} ->! usual environment:={plan 9,posix}
+license:={common public license} ->! usually invoked:={rc}
+usually invoked:={ksh} ->! usual environment:={java}
+usually invoked:={ksh} ->! license:={lgpl}
+license:={common public license} ->! usual environment:={java}
+license:={common public license} ->! usually invoked:={fish}
+license:={mit} ->! usually invoked:={scsh}
+license:={mit} ->! usual environment:={mp/m,cp/m}
+license:={mit} ->! usually invoked:={ccp}
+license:={mit} ->! usually invoked:={4os2}
+license:={mit} ->! usually invoked:={tcc}
+license:={mit} ->! usual environment:={openvms}
+license:={mit} ->! usual environment:={.net}
+license:={mit} ->! usually invoked:={powershell}
+license:={mit} ->! user interface:={graphical cli}
+license:={mit} ->! native cim/wbem support
+license:={mit} ->! usual environment:={plan 9,posix}
+license:={mit} ->! usually invoked:={rc}
+license:={mit} ->! usual environment:={java}
+license:={mit} ->! usually invoked:={fish}
+usual environment:={dos} ->! usually invoked:={scsh}
+usual environment:={dos} ->! usually invoked:={zsh}
+usual environment:={dos} ->! usually invoked:={ccp}
+usual environment:={dos} ->! license:={ibm-eula}
+usual environment:={dos} ->! usually invoked:={4os2}
+usual environment:={dos} ->! usually invoked:={tcc}
+usual environment:={dos} ->! license:={shareware}
+usual environment:={dos} ->! usually invoked:={powershell}
+usual environment:={dos} ->! user interface:={graphical cli}
+usual environment:={dos} ->! native cim/wbem support
+usual environment:={dos} ->! usually invoked:={rc}
+usual environment:={dos} ->! license:={lpl}
+usual environment:={dos} ->! license:={lgpl}
+usual environment:={dos} ->! usually invoked:={fish}
+usually invoked:={scsh} ->! usual environment:={mp/m,cp/m}
+usually invoked:={scsh} ->! license:={ibm-eula}
+usually invoked:={scsh} ->! license:={shareware}
+usually invoked:={scsh} ->! usual environment:={openvms}
+usually invoked:={scsh} ->! usual environment:={.net}
+usually invoked:={scsh} ->! user interface:={graphical cli}
+usually invoked:={scsh} ->! native cim/wbem support
+usually invoked:={scsh} ->! usual environment:={plan 9,posix}
+usually invoked:={scsh} ->! license:={lpl}
+usually invoked:={scsh} ->! usual environment:={java}
+usually invoked:={scsh} ->! license:={lgpl}
+usually invoked:={zsh} ->! usual environment:={mp/m,cp/m}
+usually invoked:={zsh} ->! license:={ibm-eula}
+usually invoked:={zsh} ->! license:={shareware}
+usually invoked:={zsh} ->! usual environment:={openvms}
+usually invoked:={zsh} ->! usual environment:={.net}
+usually invoked:={zsh} ->! user interface:={graphical cli}
+usually invoked:={zsh} ->! native cim/wbem support
+usually invoked:={zsh} ->! usual environment:={plan 9,posix}
+usually invoked:={zsh} ->! license:={lpl}
+usually invoked:={zsh} ->! usual environment:={java}
+usually invoked:={zsh} ->! license:={lgpl}
+usual environment:={mp/m,cp/m} ->! license:={ibm-eula}
+usually invoked:={ccp} ->! license:={ibm-eula}
+usual environment:={mp/m,cp/m} ->! usually invoked:={ndos,4dos}
+usual environment:={mp/m,cp/m} ->! usually invoked:={4os2}
+usual environment:={mp/m,cp/m} ->! usually invoked:={tcc}
+usual environment:={mp/m,cp/m} ->! license:={shareware}
+usually invoked:={ccp} ->! license:={shareware}
+usually invoked:={ccp} ->! usual environment:={openvms}
+introduced:=[1975-1975] ->! usual environment:={openvms}
+usual environment:={mp/m,cp/m} ->! usually invoked:={powershell}
+usual environment:={mp/m,cp/m} ->! user interface:={graphical cli}
+usual environment:={mp/m,cp/m} ->! native cim/wbem support
+usually invoked:={ccp} ->! usual environment:={.net}
+usually invoked:={ccp} ->! user interface:={graphical cli}
+usually invoked:={ccp} ->! native cim/wbem support
+usual environment:={mp/m,cp/m} ->! usually invoked:={rc}
+usual environment:={mp/m,cp/m} ->! license:={lpl}
+usually invoked:={ccp} ->! license:={lpl}
+usual environment:={mp/m,cp/m} ->! license:={lgpl}
+usually invoked:={ccp} ->! usual environment:={java}
+usually invoked:={ccp} ->! license:={lgpl}
+usual environment:={mp/m,cp/m} ->! usually invoked:={fish}
+license:={ibm-eula} ->! usually invoked:={ndos,4dos}
+license:={ibm-eula} ->! usually invoked:={4os2}
+license:={ibm-eula} ->! usually invoked:={tcc}
+license:={ibm-eula} ->! usual environment:={openvms}
+license:={ibm-eula} ->! usual environment:={.net}
+license:={ibm-eula} ->! usually invoked:={powershell}
+license:={ibm-eula} ->! user interface:={graphical cli}
+license:={ibm-eula} ->! native cim/wbem support
+license:={ibm-eula} ->! usually invoked:={rc}
+license:={ibm-eula} ->! usual environment:={java}
+license:={ibm-eula} ->! usually invoked:={fish}
+usually invoked:={ndos,4dos} ->! license:={shareware}
+usually invoked:={ndos,4dos} ->! usual environment:={openvms}
+usually invoked:={ndos,4dos} ->! usual environment:={.net}
+usually invoked:={ndos,4dos} ->! user interface:={graphical cli}
+usually invoked:={ndos,4dos} ->! native cim/wbem support
+usually invoked:={ndos,4dos} ->! license:={lpl}
+usually invoked:={ndos,4dos} ->! usual environment:={java}
+usually invoked:={ndos,4dos} ->! license:={lgpl}
+usually invoked:={4os2} ->! license:={shareware}
+usually invoked:={4os2} ->! usual environment:={openvms}
+usually invoked:={4os2} ->! usual environment:={.net}
+usually invoked:={4os2} ->! user interface:={graphical cli}
+usually invoked:={4os2} ->! native cim/wbem support
+usually invoked:={4os2} ->! license:={lpl}
+usually invoked:={4os2} ->! usual environment:={java}
+usually invoked:={4os2} ->! license:={lgpl}
+usually invoked:={tcc} ->! usual environment:={openvms}
+license:={shareware} ->! usual environment:={openvms}
+usually invoked:={tcc} ->! usual environment:={.net}
+usually invoked:={tcc} ->! user interface:={graphical cli}
+usually invoked:={tcc} ->! native cim/wbem support
+license:={shareware} ->! usual environment:={.net}
+license:={shareware} ->! usually invoked:={powershell}
+license:={shareware} ->! user interface:={graphical cli}
+license:={shareware} ->! native cim/wbem support
+usually invoked:={tcc} ->! license:={lpl}
+license:={shareware} ->! usually invoked:={rc}
+usually invoked:={tcc} ->! usual environment:={java}
+usually invoked:={tcc} ->! license:={lgpl}
+license:={shareware} ->! usual environment:={java}
+license:={shareware} ->! usually invoked:={fish}
+usual environment:={openvms} ->! usually invoked:={powershell}
+usual environment:={openvms} ->! user interface:={graphical cli}
+usual environment:={openvms} ->! native cim/wbem support
+usual environment:={openvms} ->! usually invoked:={rc}
+usual environment:={openvms} ->! license:={lpl}
+usual environment:={openvms} ->! license:={lgpl}
+usual environment:={openvms} ->! usually invoked:={fish}
+usual environment:={.net} ->! usually invoked:={rc}
+usual environment:={.net} ->! license:={lpl}
+usually invoked:={powershell} ->! license:={lpl}
+user interface:={graphical cli} ->! usually invoked:={rc}
+user interface:={graphical cli} ->! license:={lpl}
+native cim/wbem support ->! usually invoked:={rc}
+native cim/wbem support ->! license:={lpl}
+usual environment:={.net} ->! license:={lgpl}
+usually invoked:={powershell} ->! usual environment:={java}
+usually invoked:={powershell} ->! license:={lgpl}
+introduced:=[2006-2006] ->! usual environment:={java}
+introduced:=[2006-2006] ->! license:={lgpl}
+user interface:={graphical cli} ->! usual environment:={java}
+user interface:={graphical cli} ->! license:={lgpl}
+native cim/wbem support ->! usual environment:={java}
+native cim/wbem support ->! license:={lgpl}
+usual environment:={.net} ->! usually invoked:={fish}
+introduced:=[2006-2006] ->! usually invoked:={fish}
+user interface:={graphical cli} ->! usually invoked:={fish}
+native cim/wbem support ->! usually invoked:={fish}
+usually invoked:={rc} ->! usual environment:={java}
+usually invoked:={rc} ->! license:={lgpl}
+license:={lpl} ->! usual environment:={java}
+usual environment:={plan 9,posix} ->! usually invoked:={fish}
+license:={lpl} ->! usually invoked:={fish}
+usual environment:={java} ->! usually invoked:={fish}
+license:={lgpl} ->! usually invoked:={fish}

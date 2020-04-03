@@ -1,0 +1,39 @@
+digraph G { 
+	rankdir=BT;
+	margin=0;
+	node [margin="0.03,0.03",fontname="DejaVu Sans"];
+	ranksep=0.3;
+	nodesep=0.2;
+//graph[label="name:ctx,concept number:13,object number:11,attribute number:14"
+13 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_12</td></tr><tr><td>hash algorithms:={tiger tree hash}<br/>adc support:={tigr}<br/></td></tr><tr><td>qhub<br/>starlet adc hub<br/>starhub<br/>rushub<br/></td></tr></table>>];
+14 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_11</td></tr><tr><td>encryption<br/>adc support:={tigr,adcs}<br/></td></tr><tr><td><br/></td></tr></table>>];
+15 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_6</td></tr><tr><td>ipv6<br/></td></tr><tr><td><br/></td></tr></table>>];
+16 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_0</td></tr><tr><td><br/></td></tr><tr><td><br/></td></tr></table>>];
+17 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_2</td></tr><tr><td>plugin:={c#}<br/></td></tr><tr><td>nexthub<br/></td></tr></table>>];
+18 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_5</td></tr><tr><td>plugin:={python,lua,ruby}<br/></td></tr><tr><td>adch++<br/></td></tr></table>>];
+19 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_9</td></tr><tr><td>plugin:={python}<br/></td></tr><tr><td><br/></td></tr></table>>];
+20 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_1</td></tr><tr><td>plugin:={c}<br/></td></tr><tr><td>uhub<br/></td></tr></table>>];
+21 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_7</td></tr><tr><td>plugin:={lua}<br/></td></tr><tr><td><br/></td></tr></table>>];
+22 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_4</td></tr><tr><td>plugin:={python,java}<br/></td></tr><tr><td>dshub<br/></td></tr></table>>];
+23 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_8</td></tr><tr><td>bloom filter<br/></td></tr><tr><td>adch++ gui<br/></td></tr></table>>];
+24 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_10</td></tr><tr><td>adc support:={tigr,ping,adcs}<br/></td></tr><tr><td>flexhub<br/></td></tr></table>>];
+25 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_3</td></tr><tr><td>adc support:={keyp,tigr,ping,sudp,asch,adcs}<br/></td></tr><tr><td>luadch<br/></td></tr></table>>];
+	14:p -> 13:p
+	17:p -> 14:p
+	24:p -> 14:p
+	18:p -> 15:p
+	20:p -> 15:p
+	16:p -> 17:p
+	16:p -> 18:p
+	23:p -> 19:p
+	22:p -> 19:p
+	16:p -> 20:p
+	18:p -> 21:p
+	25:p -> 21:p
+	16:p -> 22:p
+	18:p -> 23:p
+	15:p -> 24:p
+	21:p -> 24:p
+	19:p -> 24:p
+	16:p -> 25:p
+}

@@ -1,0 +1,10 @@
+adc support:={tigr,ping,adcs} ->! plugin:={c#}
+plugin:={python} ->! adc support:={keyp,tigr,ping,sudp,asch,adcs}
+bloom filter ->! plugin:={python,java}
+bloom filter ->! adc support:={keyp,tigr,ping,sudp,asch,adcs}
+bloom filter ->! plugin:={c#}
+bloom filter ->! plugin:={c}
+ipv6 ->! plugin:={python,java}
+ipv6 ->! adc support:={keyp,tigr,ping,sudp,asch,adcs}
+ipv6 ->! plugin:={c#}
+adc support:={keyp,tigr,ping,sudp,asch,adcs} ->! plugin:={c}

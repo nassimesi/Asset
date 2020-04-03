@@ -1,0 +1,284 @@
+digraph G { 
+	rankdir=BT;
+	margin=0;
+	node [margin="0.03,0.03",fontname="DejaVu Sans"];
+	ranksep=0.3;
+	nodesep=0.2;
+//graph[label="name:ctx,concept number:93,object number:37,attribute number:94"
+55 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_5</td></tr><tr><td>+first public release:=[2012-2012]<br/>based framework:={core audio}<br/></td></tr><tr><td>gear player<br/></td></tr></table>>];
+56 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_8</td></tr><tr><td>+first public release:=[2011-2011]<br/></td></tr><tr><td>clementine<br/></td></tr></table>>];
+57 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_2</td></tr><tr><td>+first public release:=[2009-2009]<br/></td></tr><tr><td>style jukebox<br/></td></tr></table>>];
+66 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_3</td></tr><tr><td>+first public release:=*<br/></td></tr><tr><td>rdio<br/></td></tr></table>>];
+72 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_9</td></tr><tr><td>software license:={mit}<br/></td></tr><tr><td>banshee<br/></td></tr></table>>];
+73 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_6</td></tr><tr><td>software license:={bsd,proprietary}<br/></td></tr><tr><td>foobar2000<br/></td></tr></table>>];
+74 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_1</td></tr><tr><td>based framework:={wasabi}<br/></td></tr><tr><td>winamp<br/></td></tr></table>>];
+80 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_7</td></tr><tr><td>based framework:={av foundation,quicktime}<br/></td></tr><tr><td>ecoute<br/></td></tr></table>>];
+81 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_0</td></tr><tr><td>based framework:={original,bass audio library}<br/></td></tr><tr><td>xmplay<br/></td></tr></table>>];
+82 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_11</td></tr><tr><td>based framework:={xine,directshow,mplayer,gstreamer,vlc,quicktime}<br/></td></tr><tr><td>amarok<br/></td></tr></table>>];
+89 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_10</td></tr><tr><td>written in:={java}<br/></td></tr><tr><td>atunes<br/></td></tr></table>>];
+90 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_4</td></tr><tr><td>written in:={visual basic .net}<br/></td></tr><tr><td>musicbee<br/></td></tr></table>>];
+45 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_18</td></tr><tr><td>+first public release:=[2011-2012]<br/></td></tr><tr><td><br/></td></tr></table>>];
+46 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_17</td></tr><tr><td>+first public release:=[2009-2011]<br/></td></tr><tr><td><br/></td></tr></table>>];
+63 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_15</td></tr><tr><td>+first public release:=[2002-2002]<br/></td></tr><tr><td>music on console<br/></td></tr></table>>];
+65 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_13</td></tr><tr><td>+first public release:=[1997-1997]<br/></td></tr><tr><td>xmms<br/></td></tr></table>>];
+70 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_14</td></tr><tr><td>software license:={bsd}<br/></td></tr><tr><td>musikcube<br/></td></tr></table>>];
+75 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_12</td></tr><tr><td>based framework:={original}<br/></td></tr><tr><td>xmms<br/></td></tr></table>>];
+76 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_21</td></tr><tr><td>based framework:={xmms based}<br/></td></tr><tr><td>audacious<br/>beep media player<br/></td></tr></table>>];
+79 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_22</td></tr><tr><td>based framework:={quicktime}<br/></td></tr><tr><td><br/></td></tr></table>>];
+84 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_19</td></tr><tr><td>written in:={c#}<br/></td></tr><tr><td><br/></td></tr></table>>];
+87 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_16</td></tr><tr><td>written in:={python}<br/></td></tr><tr><td>exaile<br/>quod libet<br/></td></tr></table>>];
+91 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_20</td></tr><tr><td>written in:={c++,c}<br/></td></tr><tr><td>audacious<br/></td></tr></table>>];
+36 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_26</td></tr><tr><td>+first public release:=[2009-2012]<br/></td></tr><tr><td><br/></td></tr></table>>];
+61 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_27</td></tr><tr><td>+first public release:=[2004-2004]<br/></td></tr><tr><td>beep media player<br/>quod libet<br/>rhythmbox<br/></td></tr></table>>];
+64 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_23</td></tr><tr><td>+first public release:=[1998-1998]<br/></td></tr><tr><td>mpxplay<br/>sonique<br/></td></tr></table>>];
+77 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_28</td></tr><tr><td>based framework:={bass audio library}<br/></td></tr><tr><td>aimp<br/></td></tr></table>>];
+86 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_25</td></tr><tr><td>written in:={objective-c}<br/></td></tr><tr><td>cog<br/></td></tr></table>>];
+58 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_29</td></tr><tr><td>+first public release:=[2008-2008]<br/></td></tr><tr><td>flash mp3 player<br/>spotify<br/></td></tr></table>>];
+60 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_30</td></tr><tr><td>+first public release:=[2005-2005]<br/></td></tr><tr><td>audacious<br/>cmus<br/>musikcube<br/></td></tr></table>>];
+83 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_31</td></tr><tr><td>written in:={delphi}<br/></td></tr><tr><td>aimp<br/></td></tr></table>>];
+47 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_35</td></tr><tr><td>+first public release:=[2008-2009]<br/></td></tr><tr><td><br/></td></tr></table>>];
+53 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_34</td></tr><tr><td>+first public release:=[1998-2002]<br/></td></tr><tr><td><br/></td></tr></table>>];
+54 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_32</td></tr><tr><td>+first public release:=[1997-1998]<br/></td></tr><tr><td><br/></td></tr></table>>];
+67 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_33</td></tr><tr><td>cost:={non-free}<br/></td></tr><tr><td>mediamonkey gold<br/>mediamonkey lifetime<br/>napster<br/>spotify<br/></td></tr></table>>];
+37 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_36</td></tr><tr><td>+first public release:=[2008-2011]<br/></td></tr><tr><td><br/></td></tr></table>>];
+59 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_37</td></tr><tr><td>+first public release:=[2006-2006]<br/></td></tr><tr><td>aimp<br/>aqualung<br/>cog<br/>exaile<br/>songbird<br/></td></tr></table>>];
+28 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_39</td></tr><tr><td>+first public release:=[2008-2012]<br/></td></tr><tr><td><br/></td></tr></table>>];
+44 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_38</td></tr><tr><td>+first public release:=[1997-2002]<br/></td></tr><tr><td><br/></td></tr></table>>];
+50 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_40</td></tr><tr><td>+first public release:=[2004-2005]<br/></td></tr><tr><td><br/></td></tr></table>>];
+85 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_41</td></tr><tr><td>written in:={c++}<br/></td></tr><tr><td>guayadeque music player<br/>juk<br/></td></tr></table>>];
+78 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_42</td></tr><tr><td>based framework:={gstreamer}<br/></td></tr><tr><td>guayadeque music player<br/>rhythmbox<br/>songbird<br/></td></tr></table>>];
+62 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_43</td></tr><tr><td>+first public release:=[2003-2003]<br/></td></tr><tr><td>guayadeque music player<br/>juk<br/>music player daemon<br/>napster<br/>rhapsody<br/></td></tr></table>>];
+48 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_44</td></tr><tr><td>+first public release:=[2006-2008]<br/></td></tr><tr><td><br/></td></tr></table>>];
+49 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_45</td></tr><tr><td>+first public release:=[2005-2006]<br/></td></tr><tr><td><br/></td></tr></table>>];
+38 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_47</td></tr><tr><td>+first public release:=[2006-2009]<br/></td></tr><tr><td><br/></td></tr></table>>];
+52 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_46</td></tr><tr><td>+first public release:=[2002-2003]<br/></td></tr><tr><td><br/></td></tr></table>>];
+29 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_50</td></tr><tr><td>+first public release:=[2006-2011]<br/></td></tr><tr><td><br/></td></tr></table>>];
+51 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_49</td></tr><tr><td>+first public release:=[2003-2004]<br/></td></tr><tr><td><br/></td></tr></table>>];
+88 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_48</td></tr><tr><td>written in:={c}<br/></td></tr><tr><td>aqualung<br/>cmus<br/>music on console<br/>music player daemon<br/>rhythmbox<br/></td></tr></table>>];
+21 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_51</td></tr><tr><td>+first public release:=[2006-2012]<br/></td></tr><tr><td><br/></td></tr></table>>];
+40 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_52</td></tr><tr><td>+first public release:=[2004-2006]<br/></td></tr><tr><td><br/></td></tr></table>>];
+39 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_55</td></tr><tr><td>+first public release:=[2005-2008]<br/></td></tr><tr><td><br/></td></tr></table>>];
+42 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_54</td></tr><tr><td>+first public release:=[2002-2004]<br/></td></tr><tr><td><br/></td></tr></table>>];
+43 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_53</td></tr><tr><td>+first public release:=[1998-2003]<br/></td></tr><tr><td><br/></td></tr></table>>];
+30 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_56</td></tr><tr><td>+first public release:=[2005-2009]<br/></td></tr><tr><td><br/></td></tr></table>>];
+22 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_59</td></tr><tr><td>+first public release:=[2005-2011]<br/></td></tr><tr><td><br/></td></tr></table>>];
+35 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_57</td></tr><tr><td>+first public release:=[1997-2003]<br/></td></tr><tr><td><br/></td></tr></table>>];
+41 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_58</td></tr><tr><td>+first public release:=[2003-2005]<br/></td></tr><tr><td><br/></td></tr></table>>];
+15 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_62</td></tr><tr><td>+first public release:=[2005-2012]<br/></td></tr><tr><td><br/></td></tr></table>>];
+31 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_63</td></tr><tr><td>+first public release:=[2004-2008]<br/></td></tr><tr><td><br/></td></tr></table>>];
+34 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_60</td></tr><tr><td>+first public release:=[1998-2004]<br/></td></tr><tr><td><br/></td></tr></table>>];
+71 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_61</td></tr><tr><td>software license:={proprietary}<br/></td></tr><tr><td>rhapsody<br/>sonique<br/></td></tr></table>>];
+23 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_66</td></tr><tr><td>+first public release:=[2004-2009]<br/></td></tr><tr><td><br/></td></tr></table>>];
+33 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_64</td></tr><tr><td>+first public release:=[2002-2005]<br/></td></tr><tr><td><br/></td></tr></table>>];
+69 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_65</td></tr><tr><td>software license:={gpl}<br/></td></tr><tr><td>aqualung<br/>cmus<br/>cog<br/>guayadeque music player<br/>juk<br/>mpxplay<br/>music on console<br/>music player daemon<br/>songbird<br/>xmms<br/></td></tr></table>>];
+16 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_68</td></tr><tr><td>+first public release:=[2004-2011]<br/></td></tr><tr><td><br/></td></tr></table>>];
+27 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_67</td></tr><tr><td>+first public release:=[1997-2004]<br/></td></tr><tr><td><br/></td></tr></table>>];
+10 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_69</td></tr><tr><td>+first public release:=[2004-2012]<br/></td></tr><tr><td><br/></td></tr></table>>];
+26 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_70</td></tr><tr><td>+first public release:=[1998-2005]<br/></td></tr><tr><td><br/></td></tr></table>>];
+32 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_71</td></tr><tr><td>+first public release:=[2003-2006]<br/></td></tr><tr><td><br/></td></tr></table>>];
+20 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_72</td></tr><tr><td>+first public release:=[1997-2005]<br/></td></tr><tr><td><br/></td></tr></table>>];
+25 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_73</td></tr><tr><td>+first public release:=[2002-2006]<br/></td></tr><tr><td><br/></td></tr></table>>];
+24 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_74</td></tr><tr><td>+first public release:=[2003-2008]<br/></td></tr><tr><td><br/></td></tr></table>>];
+17 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_76</td></tr><tr><td>+first public release:=[2003-2009]<br/></td></tr><tr><td><br/></td></tr></table>>];
+19 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_75</td></tr><tr><td>+first public release:=[1998-2006]<br/></td></tr><tr><td><br/></td></tr></table>>];
+11 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_78</td></tr><tr><td>+first public release:=[2003-2011]<br/></td></tr><tr><td><br/></td></tr></table>>];
+18 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_77</td></tr><tr><td>+first public release:=[2002-2008]<br/></td></tr><tr><td><br/></td></tr></table>>];
+12 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_80</td></tr><tr><td>+first public release:=[2002-2009]<br/></td></tr><tr><td><br/></td></tr></table>>];
+14 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_79</td></tr><tr><td>+first public release:=[1997-2006]<br/></td></tr><tr><td><br/></td></tr></table>>];
+6 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_81</td></tr><tr><td>+first public release:=[2003-2012]<br/></td></tr><tr><td><br/></td></tr></table>>];
+7 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_82</td></tr><tr><td>+first public release:=[2002-2011]<br/></td></tr><tr><td><br/></td></tr></table>>];
+13 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_83</td></tr><tr><td>+first public release:=[1998-2008]<br/></td></tr><tr><td><br/></td></tr></table>>];
+3 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_84</td></tr><tr><td>+first public release:=[2002-2012]<br/></td></tr><tr><td><br/></td></tr></table>>];
+68 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_86</td></tr><tr><td>cost:={free}<br/></td></tr><tr><td>flash mp3 player<br/>mediamonkey standard<br/>rhapsody<br/></td></tr></table>>];
+8 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_85</td></tr><tr><td>+first public release:=[1998-2009]<br/></td></tr><tr><td><br/></td></tr></table>>];
+4 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_88</td></tr><tr><td>+first public release:=[1998-2011]<br/></td></tr><tr><td><br/></td></tr></table>>];
+9 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_87</td></tr><tr><td>+first public release:=[1997-2008]<br/></td></tr><tr><td><br/></td></tr></table>>];
+1 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_90</td></tr><tr><td>+first public release:=[1998-2012]<br/></td></tr><tr><td><br/></td></tr></table>>];
+5 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_89</td></tr><tr><td>+first public release:=[1997-2009]<br/></td></tr><tr><td><br/></td></tr></table>>];
+2 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_91</td></tr><tr><td>+first public release:=[1997-2011]<br/></td></tr><tr><td><br/></td></tr></table>>];
+0 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_92</td></tr><tr><td>+first public release:=[1997-2012]<br/></td></tr><tr><td><br/></td></tr></table>>];
+92 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_24</td></tr><tr><td>written in:={delphi,c}<br/></td></tr><tr><td>mediamonkey standard<br/>mediamonkey gold<br/>mediamonkey lifetime<br/></td></tr></table>>];
+	56:p -> 45:p
+	55:p -> 45:p
+	56:p -> 46:p
+	57:p -> 46:p
+	73:p -> 63:p
+	74:p -> 65:p
+	73:p -> 70:p
+	81:p -> 75:p
+	80:p -> 79:p
+	82:p -> 79:p
+	72:p -> 84:p
+	57:p -> 84:p
+	74:p -> 91:p
+	46:p -> 36:p
+	45:p -> 36:p
+	81:p -> 64:p
+	90:p -> 77:p
+	81:p -> 77:p
+	80:p -> 86:p
+	55:p -> 86:p
+	80:p -> 58:p
+	90:p -> 58:p
+	72:p -> 60:p
+	92:p -> 83:p
+	57:p -> 47:p
+	58:p -> 47:p
+	63:p -> 53:p
+	64:p -> 53:p
+	75:p -> 54:p
+	64:p -> 54:p
+	65:p -> 54:p
+	55:p -> 67:p
+	47:p -> 37:p
+	46:p -> 37:p
+	89:p -> 59:p
+	37:p -> 28:p
+	36:p -> 28:p
+	54:p -> 44:p
+	53:p -> 44:p
+	60:p -> 50:p
+	61:p -> 50:p
+	76:p -> 50:p
+	91:p -> 85:p
+	82:p -> 85:p
+	56:p -> 85:p
+	73:p -> 85:p
+	72:p -> 78:p
+	82:p -> 78:p
+	87:p -> 78:p
+	56:p -> 78:p
+	92:p -> 62:p
+	82:p -> 62:p
+	58:p -> 48:p
+	59:p -> 48:p
+	60:p -> 49:p
+	59:p -> 49:p
+	47:p -> 38:p
+	48:p -> 38:p
+	62:p -> 52:p
+	63:p -> 52:p
+	37:p -> 29:p
+	38:p -> 29:p
+	62:p -> 51:p
+	61:p -> 51:p
+	91:p -> 88:p
+	92:p -> 88:p
+	65:p -> 88:p
+	76:p -> 88:p
+	28:p -> 21:p
+	29:p -> 21:p
+	86:p -> 21:p
+	49:p -> 40:p
+	50:p -> 40:p
+	87:p -> 40:p
+	48:p -> 39:p
+	49:p -> 39:p
+	52:p -> 42:p
+	51:p -> 42:p
+	52:p -> 43:p
+	53:p -> 43:p
+	84:p -> 30:p
+	38:p -> 30:p
+	39:p -> 30:p
+	29:p -> 22:p
+	30:p -> 22:p
+	43:p -> 35:p
+	44:p -> 35:p
+	50:p -> 41:p
+	51:p -> 41:p
+	21:p -> 15:p
+	22:p -> 15:p
+	39:p -> 31:p
+	40:p -> 31:p
+	42:p -> 34:p
+	43:p -> 34:p
+	74:p -> 71:p
+	47:p -> 71:p
+	66:p -> 71:p
+	77:p -> 71:p
+	67:p -> 71:p
+	73:p -> 71:p
+	83:p -> 71:p
+	30:p -> 23:p
+	31:p -> 23:p
+	42:p -> 33:p
+	70:p -> 33:p
+	41:p -> 33:p
+	82:p -> 69:p
+	89:p -> 69:p
+	87:p -> 69:p
+	56:p -> 69:p
+	61:p -> 69:p
+	76:p -> 69:p
+	22:p -> 16:p
+	23:p -> 16:p
+	34:p -> 27:p
+	35:p -> 27:p
+	16:p -> 10:p
+	15:p -> 10:p
+	34:p -> 26:p
+	33:p -> 26:p
+	40:p -> 32:p
+	41:p -> 32:p
+	83:p -> 32:p
+	91:p -> 20:p
+	26:p -> 20:p
+	27:p -> 20:p
+	32:p -> 25:p
+	33:p -> 25:p
+	31:p -> 24:p
+	32:p -> 24:p
+	79:p -> 24:p
+	24:p -> 17:p
+	23:p -> 17:p
+	26:p -> 19:p
+	25:p -> 19:p
+	16:p -> 11:p
+	17:p -> 11:p
+	78:p -> 11:p
+	24:p -> 18:p
+	25:p -> 18:p
+	18:p -> 12:p
+	17:p -> 12:p
+	20:p -> 14:p
+	19:p -> 14:p
+	88:p -> 14:p
+	11:p -> 6:p
+	67:p -> 6:p
+	10:p -> 6:p
+	11:p -> 7:p
+	12:p -> 7:p
+	18:p -> 13:p
+	19:p -> 13:p
+	77:p -> 13:p
+	6:p -> 3:p
+	7:p -> 3:p
+	40:p -> 68:p
+	78:p -> 68:p
+	84:p -> 68:p
+	69:p -> 68:p
+	79:p -> 68:p
+	44:p -> 68:p
+	66:p -> 68:p
+	77:p -> 68:p
+	70:p -> 68:p
+	46:p -> 68:p
+	85:p -> 68:p
+	13:p -> 8:p
+	12:p -> 8:p
+	7:p -> 4:p
+	8:p -> 4:p
+	13:p -> 9:p
+	14:p -> 9:p
+	3:p -> 1:p
+	4:p -> 1:p
+	8:p -> 5:p
+	9:p -> 5:p
+	5:p -> 2:p
+	4:p -> 2:p
+	69:p -> 2:p
+	85:p -> 2:p
+	2:p -> 0:p
+	1:p -> 0:p
+}

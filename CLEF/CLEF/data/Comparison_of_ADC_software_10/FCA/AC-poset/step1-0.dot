@@ -1,0 +1,41 @@
+digraph G { 
+	rankdir=BT;
+	margin=0;
+	node [margin="0.03,0.03",fontname="DejaVu Sans"];
+	ranksep=0.3;
+	nodesep=0.2;
+//graph[label="name:ctx,concept number:13,object number:9,attribute number:11"
+13 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_12</td></tr><tr><td><br/></td></tr><tr><td><br/></td></tr></table>>];
+14 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_11</td></tr><tr><td>gui<br/></td></tr><tr><td><br/></td></tr></table>>];
+15 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_0</td></tr><tr><td><br/></td></tr><tr><td><br/></td></tr></table>>];
+16 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_8</td></tr><tr><td>cli<br/></td></tr><tr><td><br/></td></tr></table>>];
+17 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_9</td></tr><tr><td>programming language:={c#}<br/></td></tr><tr><td>flowlib<br/></td></tr></table>>];
+18 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_2</td></tr><tr><td>programming language:={delphi}<br/></td></tr><tr><td>netchatlink<br/></td></tr></table>>];
+19 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_5</td></tr><tr><td>programming language:={c++}<br/></td></tr><tr><td>dcbouncer<br/></td></tr></table>>];
+20 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_3</td></tr><tr><td>programming language:={java,lua}<br/>based on:={embla}<br/></td></tr><tr><td>dcwatch<br/></td></tr></table>>];
+21 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_7</td></tr><tr><td>programming language:={java}<br/></td></tr><tr><td>embla<br/></td></tr></table>>];
+22 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_1</td></tr><tr><td><br/></td></tr><tr><td>certmanager<br/></td></tr></table>>];
+23 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_10</td></tr><tr><td>programming language:={lua}<br/></td></tr><tr><td>announcer bot<br/></td></tr></table>>];
+24 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_4</td></tr><tr><td>programming language:={visual basic}<br/></td></tr><tr><td>dc-hublink<br/></td></tr></table>>];
+25 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_6</td></tr><tr><td>based on:={coredc}<br/></td></tr><tr><td>adccore<br/></td></tr></table>>];
+	16:p -> 13:p
+	21:p -> 13:p
+	23:p -> 13:p
+	17:p -> 13:p
+	14:p -> 13:p
+	18:p -> 14:p
+	22:p -> 14:p
+	24:p -> 14:p
+	19:p -> 16:p
+	20:p -> 16:p
+	25:p -> 17:p
+	15:p -> 18:p
+	15:p -> 19:p
+	15:p -> 20:p
+	20:p -> 21:p
+	15:p -> 22:p
+	20:p -> 23:p
+	22:p -> 23:p
+	15:p -> 24:p
+	15:p -> 25:p
+}

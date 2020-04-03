@@ -1,0 +1,30 @@
+os:={xenix} -> license:={proprietary}
+os:={windows,windows mobile} -> license:={free}
+os:={windows,windows mobile} -> x86-64
+os:={os/2,linux,dos,windows,mac os x} -> license:={bsd}
+license:={microsoft eula} -> x86-64
+os:={os/2,freebsd,linux,dos,windows} -> license:={sybase open watcom public license}
+os:={freebsd,linux,windows,mac os x} -> license:={free}
+os:={os/2,unix-like,dos,windows} -> license:={gpl}
+os:={cp/m-86,isis,irmx,dos} -> license:={proprietary}
+os:={unix system v} -> license:={proprietary}
+os:={unix system v} -> active development
+os:={minix,unix-like,linux} -> license:={bsd}
+license:={sybase open watcom public license} -> os:={os/2,dos,windows}
+license:={sybase open watcom public license} -> open source
+os:={linux,windows,mac os x} -> open source
+os:={linux,windows,mac os x} -> active development
+os:={freebsd,linux,windows} -> open source
+os:={freebsd,linux,windows} -> active development
+os:={unix-like,linux,dos,windows} -> license:={bsd}
+os:={minix,linux} -> open source
+os:={unix-like,dos,windows} -> x86-64
+os:={linux,dos,windows} -> x86-64
+os:={linux,dos,windows} -> open source
+os:={unix-like,dos} -> open source
+license:={gpl} -> open source
+license:={bsd} -> os:={linux}
+license:={bsd} -> open source
+license:={bsd} -> active development
+x86-64 -> os:={windows}
+x86-64 -> active development

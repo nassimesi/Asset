@@ -1,0 +1,2243 @@
+<RCAExplore_Document>
+	<Step nb="0">
+		<Lattice numberObj="22" numberAtt="66" numberCpt="63" >
+			<Config algo="acposet">
+			</Config>
+			<Name>ctx</Name>
+			<Object>avast mac security</Object>
+			<Object>avira free mac security</Object>
+			<Object>bitdefender antivirus for mac</Object>
+			<Object>clam antivirus</Object>
+			<Object>comodo mac security</Object>
+			<Object>dr. web anti-virus for mac os x</Object>
+			<Object>eset cyber security</Object>
+			<Object>eset cyber security pro</Object>
+			<Object>f-secure anti-virus for mac</Object>
+			<Object>virusbarrier</Object>
+			<Object>mac internet security</Object>
+			<Object>kaspersky internet security</Object>
+			<Object>panda antivirus for mac</Object>
+			<Object>protectmac antivirus</Object>
+			<Object>psafe total mac</Object>
+			<Object>quick heal total security for mac</Object>
+			<Object>sophos anti-virus for mac</Object>
+			<Object>symantec endpoint protection</Object>
+			<Object>norton antivirus for mac</Object>
+			<Object>titanium internet security for mac</Object>
+			<Object>secureanywhere antivirus</Object>
+			<Object>secureanywhere internet security plus</Object>
+			<Attribute>on-demand scan</Attribute>
+			<Attribute>on-access scan</Attribute>
+			<Attribute>heuristics</Attribute>
+			<Attribute>cloudav</Attribute>
+			<Attribute>firewall</Attribute>
+			<Attribute>ids</Attribute>
+			<Attribute>ips</Attribute>
+			<Attribute>email security</Attribute>
+			<Attribute>antispam</Attribute>
+			<Attribute>web protection</Attribute>
+			<Attribute>live-update</Attribute>
+			<Attribute>support</Attribute>
+			<Attribute>av comparatives</Attribute>
+			<Attribute>license:={proprietary}</Attribute>
+			<Attribute>license:={gnu gpl}</Attribute>
+			<Attribute>price:={trialware}</Attribute>
+			<Attribute>price:={non-free}</Attribute>
+			<Attribute>price:={free}</Attribute>
+			<Attribute>first release:=[1997-2013]</Attribute>
+			<Attribute>first release:=[2000-2013]</Attribute>
+			<Attribute>first release:=[1997-2012]</Attribute>
+			<Attribute>first release:=[2007-2013]</Attribute>
+			<Attribute>first release:=[2000-2012]</Attribute>
+			<Attribute>first release:=[1997-2011]</Attribute>
+			<Attribute>first release:=[2008-2013]</Attribute>
+			<Attribute>first release:=[2007-2012]</Attribute>
+			<Attribute>first release:=[2000-2011]</Attribute>
+			<Attribute>first release:=[1997-2010]</Attribute>
+			<Attribute>first release:=[2010-2013]</Attribute>
+			<Attribute>first release:=[2008-2012]</Attribute>
+			<Attribute>first release:=[2007-2011]</Attribute>
+			<Attribute>first release:=[2000-2010]</Attribute>
+			<Attribute>first release:=[1997-2008]</Attribute>
+			<Attribute>first release:=[2011-2013]</Attribute>
+			<Attribute>first release:=[2010-2012]</Attribute>
+			<Attribute>first release:=[2008-2011]</Attribute>
+			<Attribute>first release:=[2007-2010]</Attribute>
+			<Attribute>first release:=[2000-2008]</Attribute>
+			<Attribute>first release:=[1997-2007]</Attribute>
+			<Attribute>first release:=[2012-2013]</Attribute>
+			<Attribute>first release:=[2011-2012]</Attribute>
+			<Attribute>first release:=[2010-2011]</Attribute>
+			<Attribute>first release:=[2008-2010]</Attribute>
+			<Attribute>first release:=[2007-2008]</Attribute>
+			<Attribute>first release:=[2000-2007]</Attribute>
+			<Attribute>first release:=[1997-2000]</Attribute>
+			<Attribute>first release:=[2013-2013]</Attribute>
+			<Attribute>first release:=[2012-2012]</Attribute>
+			<Attribute>first release:=[2011-2011]</Attribute>
+			<Attribute>first release:=[2010-2010]</Attribute>
+			<Attribute>first release:=[2008-2008]</Attribute>
+			<Attribute>first release:=[2007-2007]</Attribute>
+			<Attribute>first release:=[2000-2000]</Attribute>
+			<Attribute>first release:=[1997-1997]</Attribute>
+			<Attribute>country of origin:={spain}</Attribute>
+			<Attribute>country of origin:={czech republic}</Attribute>
+			<Attribute>country of origin:={brazil}</Attribute>
+			<Attribute>country of origin:={russia}</Attribute>
+			<Attribute>country of origin:={japan}</Attribute>
+			<Attribute>country of origin:={united kingdom}</Attribute>
+			<Attribute>country of origin:={germany}</Attribute>
+			<Attribute>country of origin:={united states}</Attribute>
+			<Attribute>country of origin:={romania}</Attribute>
+			<Attribute>country of origin:={slovakia}</Attribute>
+			<Attribute>country of origin:={india}</Attribute>
+			<Attribute>country of origin:={finland}</Attribute>
+			<Concept>
+				<ID>Concept_ctx_8</ID>
+				<Extent>
+					<Object_Ref>clam antivirus</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>license:={gnu gpl}</Attribute_Ref>
+					<Attribute_Ref>first release:=[2000-2008]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2000-2007]</Attribute_Ref>
+					<Attribute_Ref>on-demand scan</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2011]</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2000]</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2012]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2000-2013]</Attribute_Ref>
+					<Attribute_Ref>email security</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2010]</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2013]</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2008]</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2007]</Attribute_Ref>
+					<Attribute_Ref>country of origin:={united states}</Attribute_Ref>
+					<Attribute_Ref>first release:=[2000-2012]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2000-2000]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2000-2011]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2000-2010]</Attribute_Ref>
+					<Attribute_Ref>price:={free}</Attribute_Ref>
+					<Attribute_Ref>on-access scan</Attribute_Ref>
+					<Attribute_Ref>live-update</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_33</Concept_Ref>
+					<Concept_Ref>Concept_ctx_41</Concept_Ref>
+					<Concept_Ref>Concept_ctx_19</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_4</ID>
+				<Extent>
+					<Object_Ref>protectmac antivirus</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>first release:=[2000-2008]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2007-2012]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2007-2008]</Attribute_Ref>
+					<Attribute_Ref>on-demand scan</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2012]</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2010]</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2008]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2007-2010]</Attribute_Ref>
+					<Attribute_Ref>price:={non-free}</Attribute_Ref>
+					<Attribute_Ref>first release:=[2000-2012]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2000-2010]</Attribute_Ref>
+					<Attribute_Ref>av comparatives</Attribute_Ref>
+					<Attribute_Ref>first release:=[2000-2007]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2007-2013]</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2011]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2007-2007]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2000-2013]</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2013]</Attribute_Ref>
+					<Attribute_Ref>country of origin:={united kingdom}</Attribute_Ref>
+					<Attribute_Ref>first release:=[2007-2011]</Attribute_Ref>
+					<Attribute_Ref>license:={proprietary}</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2007]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2000-2011]</Attribute_Ref>
+					<Attribute_Ref>on-access scan</Attribute_Ref>
+					<Attribute_Ref>support</Attribute_Ref>
+					<Attribute_Ref>live-update</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_22</Concept_Ref>
+					<Concept_Ref>Concept_ctx_12</Concept_Ref>
+					<Concept_Ref>Concept_ctx_24</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_1</ID>
+				<Extent>
+					<Object_Ref>sophos anti-virus for mac</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>first release:=[2008-2011]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2007-2012]</Attribute_Ref>
+					<Attribute_Ref>on-demand scan</Attribute_Ref>
+					<Attribute_Ref>first release:=[2010-2012]</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2012]</Attribute_Ref>
+					<Attribute_Ref>email security</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2010]</Attribute_Ref>
+					<Attribute_Ref>cloudav</Attribute_Ref>
+					<Attribute_Ref>first release:=[2008-2013]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2007-2010]</Attribute_Ref>
+					<Attribute_Ref>web protection</Attribute_Ref>
+					<Attribute_Ref>heuristics</Attribute_Ref>
+					<Attribute_Ref>first release:=[2000-2012]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2000-2010]</Attribute_Ref>
+					<Attribute_Ref>av comparatives</Attribute_Ref>
+					<Attribute_Ref>first release:=[2010-2010]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2008-2010]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2008-2012]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2007-2013]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2010-2013]</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2011]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2000-2013]</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2013]</Attribute_Ref>
+					<Attribute_Ref>country of origin:={united kingdom}</Attribute_Ref>
+					<Attribute_Ref>first release:=[2007-2011]</Attribute_Ref>
+					<Attribute_Ref>ips</Attribute_Ref>
+					<Attribute_Ref>license:={proprietary}</Attribute_Ref>
+					<Attribute_Ref>ids</Attribute_Ref>
+					<Attribute_Ref>first release:=[2000-2011]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2010-2011]</Attribute_Ref>
+					<Attribute_Ref>price:={free}</Attribute_Ref>
+					<Attribute_Ref>on-access scan</Attribute_Ref>
+					<Attribute_Ref>live-update</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_33</Concept_Ref>
+					<Concept_Ref>Concept_ctx_13</Concept_Ref>
+					<Concept_Ref>Concept_ctx_21</Concept_Ref>
+					<Concept_Ref>Concept_ctx_12</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_6</ID>
+				<Extent>
+					<Object_Ref>virusbarrier</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>first release:=[1997-1997]</Attribute_Ref>
+					<Attribute_Ref>on-demand scan</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2000]</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2011]</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2012]</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2010]</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2013]</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2008]</Attribute_Ref>
+					<Attribute_Ref>license:={proprietary}</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2007]</Attribute_Ref>
+					<Attribute_Ref>price:={non-free}</Attribute_Ref>
+					<Attribute_Ref>country of origin:={united states}</Attribute_Ref>
+					<Attribute_Ref>on-access scan</Attribute_Ref>
+					<Attribute_Ref>support</Attribute_Ref>
+					<Attribute_Ref>live-update</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_46</Concept_Ref>
+					<Concept_Ref>Concept_ctx_25</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_5</ID>
+				<Extent>
+					<Object_Ref>panda antivirus for mac</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>first release:=[2000-2008]</Attribute_Ref>
+					<Attribute_Ref>country of origin:={spain}</Attribute_Ref>
+					<Attribute_Ref>first release:=[2008-2011]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2007-2012]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2007-2008]</Attribute_Ref>
+					<Attribute_Ref>on-demand scan</Attribute_Ref>
+					<Attribute_Ref>antispam</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2012]</Attribute_Ref>
+					<Attribute_Ref>email security</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2010]</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2008]</Attribute_Ref>
+					<Attribute_Ref>cloudav</Attribute_Ref>
+					<Attribute_Ref>first release:=[2008-2013]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2007-2010]</Attribute_Ref>
+					<Attribute_Ref>web protection</Attribute_Ref>
+					<Attribute_Ref>price:={non-free}</Attribute_Ref>
+					<Attribute_Ref>heuristics</Attribute_Ref>
+					<Attribute_Ref>first release:=[2000-2012]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2000-2010]</Attribute_Ref>
+					<Attribute_Ref>av comparatives</Attribute_Ref>
+					<Attribute_Ref>first release:=[2008-2010]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2008-2012]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2007-2013]</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2011]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2000-2013]</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2013]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2008-2008]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2007-2011]</Attribute_Ref>
+					<Attribute_Ref>license:={proprietary}</Attribute_Ref>
+					<Attribute_Ref>ids</Attribute_Ref>
+					<Attribute_Ref>first release:=[2000-2011]</Attribute_Ref>
+					<Attribute_Ref>on-access scan</Attribute_Ref>
+					<Attribute_Ref>support</Attribute_Ref>
+					<Attribute_Ref>live-update</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_14</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_11</ID>
+				<Extent>
+					<Object_Ref>avast mac security</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>country of origin:={czech republic}</Attribute_Ref>
+					<Attribute_Ref>first release:=[2007-2012]</Attribute_Ref>
+					<Attribute_Ref>on-demand scan</Attribute_Ref>
+					<Attribute_Ref>first release:=[2010-2012]</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2012]</Attribute_Ref>
+					<Attribute_Ref>email security</Attribute_Ref>
+					<Attribute_Ref>first release:=[2012-2012]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2008-2013]</Attribute_Ref>
+					<Attribute_Ref>web protection</Attribute_Ref>
+					<Attribute_Ref>heuristics</Attribute_Ref>
+					<Attribute_Ref>first release:=[2000-2012]</Attribute_Ref>
+					<Attribute_Ref>av comparatives</Attribute_Ref>
+					<Attribute_Ref>first release:=[2011-2013]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2011-2012]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2008-2012]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2007-2013]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2010-2013]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2012-2013]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2000-2013]</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2013]</Attribute_Ref>
+					<Attribute_Ref>license:={proprietary}</Attribute_Ref>
+					<Attribute_Ref>price:={free}</Attribute_Ref>
+					<Attribute_Ref>on-access scan</Attribute_Ref>
+					<Attribute_Ref>support</Attribute_Ref>
+					<Attribute_Ref>live-update</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_33</Concept_Ref>
+					<Concept_Ref>Concept_ctx_48</Concept_Ref>
+					<Concept_Ref>Concept_ctx_51</Concept_Ref>
+					<Concept_Ref>Concept_ctx_52</Concept_Ref>
+					<Concept_Ref>Concept_ctx_41</Concept_Ref>
+					<Concept_Ref>Concept_ctx_39</Concept_Ref>
+					<Concept_Ref>Concept_ctx_47</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_3</ID>
+				<Extent>
+					<Object_Ref>psafe total mac</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>country of origin:={brazil}</Attribute_Ref>
+					<Attribute_Ref>first release:=[2007-2013]</Attribute_Ref>
+					<Attribute_Ref>on-demand scan</Attribute_Ref>
+					<Attribute_Ref>first release:=[2010-2013]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2012-2013]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2000-2013]</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2013]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2013-2013]</Attribute_Ref>
+					<Attribute_Ref>cloudav</Attribute_Ref>
+					<Attribute_Ref>first release:=[2008-2013]</Attribute_Ref>
+					<Attribute_Ref>license:={proprietary}</Attribute_Ref>
+					<Attribute_Ref>web protection</Attribute_Ref>
+					<Attribute_Ref>av comparatives</Attribute_Ref>
+					<Attribute_Ref>price:={free}</Attribute_Ref>
+					<Attribute_Ref>on-access scan</Attribute_Ref>
+					<Attribute_Ref>support</Attribute_Ref>
+					<Attribute_Ref>live-update</Attribute_Ref>
+					<Attribute_Ref>first release:=[2011-2013]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_33</Concept_Ref>
+					<Concept_Ref>Concept_ctx_15</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_0</ID>
+				<Extent>
+					<Object_Ref>titanium internet security for mac</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>first release:=[2011-2011]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2008-2011]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2007-2012]</Attribute_Ref>
+					<Attribute_Ref>on-demand scan</Attribute_Ref>
+					<Attribute_Ref>first release:=[2010-2012]</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2012]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2008-2013]</Attribute_Ref>
+					<Attribute_Ref>web protection</Attribute_Ref>
+					<Attribute_Ref>price:={non-free}</Attribute_Ref>
+					<Attribute_Ref>heuristics</Attribute_Ref>
+					<Attribute_Ref>first release:=[2000-2012]</Attribute_Ref>
+					<Attribute_Ref>av comparatives</Attribute_Ref>
+					<Attribute_Ref>first release:=[2011-2013]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2011-2012]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2008-2012]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2007-2013]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2010-2013]</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2011]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2000-2013]</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2013]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2007-2011]</Attribute_Ref>
+					<Attribute_Ref>license:={proprietary}</Attribute_Ref>
+					<Attribute_Ref>country of origin:={japan}</Attribute_Ref>
+					<Attribute_Ref>first release:=[2000-2011]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2010-2011]</Attribute_Ref>
+					<Attribute_Ref>on-access scan</Attribute_Ref>
+					<Attribute_Ref>support</Attribute_Ref>
+					<Attribute_Ref>live-update</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_28</Concept_Ref>
+					<Concept_Ref>Concept_ctx_47</Concept_Ref>
+					<Concept_Ref>Concept_ctx_46</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_10</ID>
+				<Extent>
+					<Object_Ref>avira free mac security</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>first release:=[2011-2011]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2008-2011]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2007-2012]</Attribute_Ref>
+					<Attribute_Ref>on-demand scan</Attribute_Ref>
+					<Attribute_Ref>first release:=[2010-2012]</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2012]</Attribute_Ref>
+					<Attribute_Ref>email security</Attribute_Ref>
+					<Attribute_Ref>first release:=[2008-2013]</Attribute_Ref>
+					<Attribute_Ref>web protection</Attribute_Ref>
+					<Attribute_Ref>heuristics</Attribute_Ref>
+					<Attribute_Ref>first release:=[2000-2012]</Attribute_Ref>
+					<Attribute_Ref>av comparatives</Attribute_Ref>
+					<Attribute_Ref>first release:=[2011-2013]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2011-2012]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2008-2012]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2007-2013]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2010-2013]</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2011]</Attribute_Ref>
+					<Attribute_Ref>country of origin:={germany}</Attribute_Ref>
+					<Attribute_Ref>first release:=[2000-2013]</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2013]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2007-2011]</Attribute_Ref>
+					<Attribute_Ref>license:={proprietary}</Attribute_Ref>
+					<Attribute_Ref>first release:=[2000-2011]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2010-2011]</Attribute_Ref>
+					<Attribute_Ref>price:={free}</Attribute_Ref>
+					<Attribute_Ref>on-access scan</Attribute_Ref>
+					<Attribute_Ref>live-update</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_33</Concept_Ref>
+					<Concept_Ref>Concept_ctx_41</Concept_Ref>
+					<Concept_Ref>Concept_ctx_28</Concept_Ref>
+					<Concept_Ref>Concept_ctx_47</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_9</ID>
+				<Extent>
+					<Object_Ref>bitdefender antivirus for mac</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>first release:=[2011-2011]</Attribute_Ref>
+					<Attribute_Ref>country of origin:={romania}</Attribute_Ref>
+					<Attribute_Ref>first release:=[2008-2011]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2007-2012]</Attribute_Ref>
+					<Attribute_Ref>on-demand scan</Attribute_Ref>
+					<Attribute_Ref>first release:=[2010-2012]</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2012]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2008-2013]</Attribute_Ref>
+					<Attribute_Ref>web protection</Attribute_Ref>
+					<Attribute_Ref>price:={non-free}</Attribute_Ref>
+					<Attribute_Ref>heuristics</Attribute_Ref>
+					<Attribute_Ref>first release:=[2000-2012]</Attribute_Ref>
+					<Attribute_Ref>av comparatives</Attribute_Ref>
+					<Attribute_Ref>first release:=[2011-2013]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2011-2012]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2008-2012]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2007-2013]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2010-2013]</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2011]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2000-2013]</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2013]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2007-2011]</Attribute_Ref>
+					<Attribute_Ref>license:={proprietary}</Attribute_Ref>
+					<Attribute_Ref>first release:=[2000-2011]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2010-2011]</Attribute_Ref>
+					<Attribute_Ref>on-access scan</Attribute_Ref>
+					<Attribute_Ref>support</Attribute_Ref>
+					<Attribute_Ref>live-update</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_28</Concept_Ref>
+					<Concept_Ref>Concept_ctx_47</Concept_Ref>
+					<Concept_Ref>Concept_ctx_46</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_2</ID>
+				<Extent>
+					<Object_Ref>quick heal total security for mac</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>country of origin:={india}</Attribute_Ref>
+					<Attribute_Ref>first release:=[2011-2012]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2008-2012]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2007-2013]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2007-2012]</Attribute_Ref>
+					<Attribute_Ref>on-demand scan</Attribute_Ref>
+					<Attribute_Ref>first release:=[2010-2013]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2010-2012]</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2012]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2012-2013]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2000-2013]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2012-2012]</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2013]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2008-2013]</Attribute_Ref>
+					<Attribute_Ref>license:={proprietary}</Attribute_Ref>
+					<Attribute_Ref>web protection</Attribute_Ref>
+					<Attribute_Ref>price:={non-free}</Attribute_Ref>
+					<Attribute_Ref>first release:=[2000-2012]</Attribute_Ref>
+					<Attribute_Ref>on-access scan</Attribute_Ref>
+					<Attribute_Ref>support</Attribute_Ref>
+					<Attribute_Ref>live-update</Attribute_Ref>
+					<Attribute_Ref>first release:=[2011-2013]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_52</Concept_Ref>
+					<Concept_Ref>Concept_ctx_39</Concept_Ref>
+					<Concept_Ref>Concept_ctx_46</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_16</ID>
+				<Extent>
+					<Object_Ref>eset cyber security pro</Object_Ref>
+					<Object_Ref>mac internet security</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>web protection</Attribute_Ref>
+					<Attribute_Ref>price:={non-free}</Attribute_Ref>
+					<Attribute_Ref>on-demand scan</Attribute_Ref>
+					<Attribute_Ref>firewall</Attribute_Ref>
+					<Attribute_Ref>first release:=[2000-2013]</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2013]</Attribute_Ref>
+					<Attribute_Ref>on-access scan</Attribute_Ref>
+					<Attribute_Ref>support</Attribute_Ref>
+					<Attribute_Ref>license:={proprietary}</Attribute_Ref>
+					<Attribute_Ref>live-update</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_52</Concept_Ref>
+					<Concept_Ref>Concept_ctx_46</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_15</ID>
+				<Extent>
+					<Object_Ref>eset cyber security pro</Object_Ref>
+					<Object_Ref>psafe total mac</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>first release:=[2007-2013]</Attribute_Ref>
+					<Attribute_Ref>on-demand scan</Attribute_Ref>
+					<Attribute_Ref>first release:=[2010-2013]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2012-2013]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2000-2013]</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2013]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2013-2013]</Attribute_Ref>
+					<Attribute_Ref>cloudav</Attribute_Ref>
+					<Attribute_Ref>first release:=[2008-2013]</Attribute_Ref>
+					<Attribute_Ref>license:={proprietary}</Attribute_Ref>
+					<Attribute_Ref>web protection</Attribute_Ref>
+					<Attribute_Ref>av comparatives</Attribute_Ref>
+					<Attribute_Ref>on-access scan</Attribute_Ref>
+					<Attribute_Ref>support</Attribute_Ref>
+					<Attribute_Ref>live-update</Attribute_Ref>
+					<Attribute_Ref>first release:=[2011-2013]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_35</Concept_Ref>
+					<Concept_Ref>Concept_ctx_51</Concept_Ref>
+					<Concept_Ref>Concept_ctx_47</Concept_Ref>
+					<Concept_Ref>Concept_ctx_42</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_13</ID>
+				<Extent>
+					<Object_Ref>kaspersky internet security</Object_Ref>
+					<Object_Ref>sophos anti-virus for mac</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>first release:=[2008-2011]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2007-2012]</Attribute_Ref>
+					<Attribute_Ref>on-demand scan</Attribute_Ref>
+					<Attribute_Ref>first release:=[2010-2012]</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2012]</Attribute_Ref>
+					<Attribute_Ref>email security</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2010]</Attribute_Ref>
+					<Attribute_Ref>cloudav</Attribute_Ref>
+					<Attribute_Ref>first release:=[2008-2013]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2007-2010]</Attribute_Ref>
+					<Attribute_Ref>web protection</Attribute_Ref>
+					<Attribute_Ref>heuristics</Attribute_Ref>
+					<Attribute_Ref>first release:=[2000-2012]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2000-2010]</Attribute_Ref>
+					<Attribute_Ref>av comparatives</Attribute_Ref>
+					<Attribute_Ref>first release:=[2010-2010]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2008-2010]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2008-2012]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2007-2013]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2010-2013]</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2011]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2000-2013]</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2013]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2007-2011]</Attribute_Ref>
+					<Attribute_Ref>license:={proprietary}</Attribute_Ref>
+					<Attribute_Ref>first release:=[2000-2011]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2010-2011]</Attribute_Ref>
+					<Attribute_Ref>on-access scan</Attribute_Ref>
+					<Attribute_Ref>live-update</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_26</Concept_Ref>
+					<Concept_Ref>Concept_ctx_32</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_14</ID>
+				<Extent>
+					<Object_Ref>f-secure anti-virus for mac</Object_Ref>
+					<Object_Ref>panda antivirus for mac</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>first release:=[2000-2008]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2008-2011]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2007-2012]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2007-2008]</Attribute_Ref>
+					<Attribute_Ref>on-demand scan</Attribute_Ref>
+					<Attribute_Ref>antispam</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2012]</Attribute_Ref>
+					<Attribute_Ref>email security</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2010]</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2008]</Attribute_Ref>
+					<Attribute_Ref>cloudav</Attribute_Ref>
+					<Attribute_Ref>first release:=[2008-2013]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2007-2010]</Attribute_Ref>
+					<Attribute_Ref>web protection</Attribute_Ref>
+					<Attribute_Ref>price:={non-free}</Attribute_Ref>
+					<Attribute_Ref>heuristics</Attribute_Ref>
+					<Attribute_Ref>first release:=[2000-2012]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2000-2010]</Attribute_Ref>
+					<Attribute_Ref>av comparatives</Attribute_Ref>
+					<Attribute_Ref>first release:=[2008-2010]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2008-2012]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2007-2013]</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2011]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2000-2013]</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2013]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2008-2008]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2007-2011]</Attribute_Ref>
+					<Attribute_Ref>license:={proprietary}</Attribute_Ref>
+					<Attribute_Ref>ids</Attribute_Ref>
+					<Attribute_Ref>first release:=[2000-2011]</Attribute_Ref>
+					<Attribute_Ref>on-access scan</Attribute_Ref>
+					<Attribute_Ref>support</Attribute_Ref>
+					<Attribute_Ref>live-update</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_22</Concept_Ref>
+					<Concept_Ref>Concept_ctx_20</Concept_Ref>
+					<Concept_Ref>Concept_ctx_21</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_19</ID>
+				<Extent>
+					<Object_Ref>clam antivirus</Object_Ref>
+					<Object_Ref>mac internet security</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>first release:=[2000-2008]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2000-2007]</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2011]</Attribute_Ref>
+					<Attribute_Ref>on-demand scan</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2000]</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2012]</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2010]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2000-2013]</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2013]</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2008]</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2007]</Attribute_Ref>
+					<Attribute_Ref>country of origin:={united states}</Attribute_Ref>
+					<Attribute_Ref>first release:=[2000-2012]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2000-2000]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2000-2011]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2000-2010]</Attribute_Ref>
+					<Attribute_Ref>on-access scan</Attribute_Ref>
+					<Attribute_Ref>live-update</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_24</Concept_Ref>
+					<Concept_Ref>Concept_ctx_25</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_18</ID>
+				<Extent>
+					<Object_Ref>dr. web anti-virus for mac os x</Object_Ref>
+					<Object_Ref>kaspersky internet security</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>first release:=[2008-2012]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2007-2013]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2007-2012]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2010-2013]</Attribute_Ref>
+					<Attribute_Ref>on-demand scan</Attribute_Ref>
+					<Attribute_Ref>first release:=[2010-2012]</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2012]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2000-2013]</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2013]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2008-2013]</Attribute_Ref>
+					<Attribute_Ref>license:={proprietary}</Attribute_Ref>
+					<Attribute_Ref>country of origin:={russia}</Attribute_Ref>
+					<Attribute_Ref>first release:=[2000-2012]</Attribute_Ref>
+					<Attribute_Ref>on-access scan</Attribute_Ref>
+					<Attribute_Ref>live-update</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_49</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_12</ID>
+				<Extent>
+					<Object_Ref>protectmac antivirus</Object_Ref>
+					<Object_Ref>sophos anti-virus for mac</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>first release:=[2007-2013]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2007-2012]</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2011]</Attribute_Ref>
+					<Attribute_Ref>on-demand scan</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2012]</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2010]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2000-2013]</Attribute_Ref>
+					<Attribute_Ref>country of origin:={united kingdom}</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2013]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2007-2011]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2007-2010]</Attribute_Ref>
+					<Attribute_Ref>license:={proprietary}</Attribute_Ref>
+					<Attribute_Ref>first release:=[2000-2012]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2000-2011]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2000-2010]</Attribute_Ref>
+					<Attribute_Ref>av comparatives</Attribute_Ref>
+					<Attribute_Ref>on-access scan</Attribute_Ref>
+					<Attribute_Ref>live-update</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_29</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_17</ID>
+				<Extent>
+					<Object_Ref>eset cyber security</Object_Ref>
+					<Object_Ref>eset cyber security pro</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>first release:=[2007-2013]</Attribute_Ref>
+					<Attribute_Ref>on-demand scan</Attribute_Ref>
+					<Attribute_Ref>first release:=[2010-2013]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2000-2013]</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2013]</Attribute_Ref>
+					<Attribute_Ref>cloudav</Attribute_Ref>
+					<Attribute_Ref>first release:=[2008-2013]</Attribute_Ref>
+					<Attribute_Ref>license:={proprietary}</Attribute_Ref>
+					<Attribute_Ref>web protection</Attribute_Ref>
+					<Attribute_Ref>heuristics</Attribute_Ref>
+					<Attribute_Ref>price:={non-free}</Attribute_Ref>
+					<Attribute_Ref>country of origin:={slovakia}</Attribute_Ref>
+					<Attribute_Ref>on-access scan</Attribute_Ref>
+					<Attribute_Ref>support</Attribute_Ref>
+					<Attribute_Ref>live-update</Attribute_Ref>
+					<Attribute_Ref>first release:=[2011-2013]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_35</Concept_Ref>
+					<Concept_Ref>Concept_ctx_48</Concept_Ref>
+					<Concept_Ref>Concept_ctx_46</Concept_Ref>
+					<Concept_Ref>Concept_ctx_50</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_23</ID>
+				<Extent>
+					<Object_Ref>dr. web anti-virus for mac os x</Object_Ref>
+					<Object_Ref>secureanywhere antivirus</Object_Ref>
+					<Object_Ref>secureanywhere internet security plus</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>first release:=[2011-2012]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2008-2012]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2007-2013]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2007-2012]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2010-2013]</Attribute_Ref>
+					<Attribute_Ref>on-demand scan</Attribute_Ref>
+					<Attribute_Ref>first release:=[2010-2012]</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2012]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2012-2013]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2012-2012]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2000-2013]</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2013]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2008-2013]</Attribute_Ref>
+					<Attribute_Ref>license:={proprietary}</Attribute_Ref>
+					<Attribute_Ref>price:={trialware}</Attribute_Ref>
+					<Attribute_Ref>first release:=[2000-2012]</Attribute_Ref>
+					<Attribute_Ref>on-access scan</Attribute_Ref>
+					<Attribute_Ref>first release:=[2011-2013]</Attribute_Ref>
+					<Attribute_Ref>live-update</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_39</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_21</ID>
+				<Extent>
+					<Object_Ref>f-secure anti-virus for mac</Object_Ref>
+					<Object_Ref>panda antivirus for mac</Object_Ref>
+					<Object_Ref>sophos anti-virus for mac</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>first release:=[2008-2011]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2007-2012]</Attribute_Ref>
+					<Attribute_Ref>on-demand scan</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2012]</Attribute_Ref>
+					<Attribute_Ref>email security</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2010]</Attribute_Ref>
+					<Attribute_Ref>cloudav</Attribute_Ref>
+					<Attribute_Ref>first release:=[2008-2013]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2007-2010]</Attribute_Ref>
+					<Attribute_Ref>web protection</Attribute_Ref>
+					<Attribute_Ref>heuristics</Attribute_Ref>
+					<Attribute_Ref>first release:=[2000-2012]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2000-2010]</Attribute_Ref>
+					<Attribute_Ref>av comparatives</Attribute_Ref>
+					<Attribute_Ref>first release:=[2008-2010]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2007-2013]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2008-2012]</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2011]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2000-2013]</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2013]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2007-2011]</Attribute_Ref>
+					<Attribute_Ref>license:={proprietary}</Attribute_Ref>
+					<Attribute_Ref>ids</Attribute_Ref>
+					<Attribute_Ref>first release:=[2000-2011]</Attribute_Ref>
+					<Attribute_Ref>on-access scan</Attribute_Ref>
+					<Attribute_Ref>live-update</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_26</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_22</ID>
+				<Extent>
+					<Object_Ref>f-secure anti-virus for mac</Object_Ref>
+					<Object_Ref>panda antivirus for mac</Object_Ref>
+					<Object_Ref>protectmac antivirus</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>first release:=[2000-2008]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2007-2013]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2007-2012]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2007-2008]</Attribute_Ref>
+					<Attribute_Ref>on-demand scan</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2011]</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2012]</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2010]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2000-2013]</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2013]</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2008]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2007-2011]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2007-2010]</Attribute_Ref>
+					<Attribute_Ref>license:={proprietary}</Attribute_Ref>
+					<Attribute_Ref>price:={non-free}</Attribute_Ref>
+					<Attribute_Ref>first release:=[2000-2012]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2000-2011]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2000-2010]</Attribute_Ref>
+					<Attribute_Ref>av comparatives</Attribute_Ref>
+					<Attribute_Ref>on-access scan</Attribute_Ref>
+					<Attribute_Ref>support</Attribute_Ref>
+					<Attribute_Ref>live-update</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_46</Concept_Ref>
+					<Concept_Ref>Concept_ctx_29</Concept_Ref>
+					<Concept_Ref>Concept_ctx_30</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_24</ID>
+				<Extent>
+					<Object_Ref>clam antivirus</Object_Ref>
+					<Object_Ref>mac internet security</Object_Ref>
+					<Object_Ref>protectmac antivirus</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>first release:=[2000-2008]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2000-2007]</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2011]</Attribute_Ref>
+					<Attribute_Ref>on-demand scan</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2012]</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2010]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2000-2013]</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2013]</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2008]</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2007]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2000-2012]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2000-2011]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2000-2010]</Attribute_Ref>
+					<Attribute_Ref>on-access scan</Attribute_Ref>
+					<Attribute_Ref>live-update</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_27</Concept_Ref>
+					<Concept_Ref>Concept_ctx_30</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_25</ID>
+				<Extent>
+					<Object_Ref>clam antivirus</Object_Ref>
+					<Object_Ref>virusbarrier</Object_Ref>
+					<Object_Ref>mac internet security</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>first release:=[1997-2000]</Attribute_Ref>
+					<Attribute_Ref>on-demand scan</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2011]</Attribute_Ref>
+					<Attribute_Ref>country of origin:={united states}</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2012]</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2010]</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2013]</Attribute_Ref>
+					<Attribute_Ref>on-access scan</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2008]</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2007]</Attribute_Ref>
+					<Attribute_Ref>live-update</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_37</Concept_Ref>
+					<Concept_Ref>Concept_ctx_27</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_20</ID>
+				<Extent>
+					<Object_Ref>f-secure anti-virus for mac</Object_Ref>
+					<Object_Ref>panda antivirus for mac</Object_Ref>
+					<Object_Ref>symantec endpoint protection</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>first release:=[2008-2012]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2007-2013]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2007-2012]</Attribute_Ref>
+					<Attribute_Ref>antispam</Attribute_Ref>
+					<Attribute_Ref>on-demand scan</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2012]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2000-2013]</Attribute_Ref>
+					<Attribute_Ref>email security</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2013]</Attribute_Ref>
+					<Attribute_Ref>cloudav</Attribute_Ref>
+					<Attribute_Ref>first release:=[2008-2013]</Attribute_Ref>
+					<Attribute_Ref>license:={proprietary}</Attribute_Ref>
+					<Attribute_Ref>web protection</Attribute_Ref>
+					<Attribute_Ref>heuristics</Attribute_Ref>
+					<Attribute_Ref>price:={non-free}</Attribute_Ref>
+					<Attribute_Ref>first release:=[2000-2012]</Attribute_Ref>
+					<Attribute_Ref>av comparatives</Attribute_Ref>
+					<Attribute_Ref>on-access scan</Attribute_Ref>
+					<Attribute_Ref>support</Attribute_Ref>
+					<Attribute_Ref>live-update</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_35</Concept_Ref>
+					<Concept_Ref>Concept_ctx_48</Concept_Ref>
+					<Concept_Ref>Concept_ctx_46</Concept_Ref>
+					<Concept_Ref>Concept_ctx_53</Concept_Ref>
+					<Concept_Ref>Concept_ctx_41</Concept_Ref>
+					<Concept_Ref>Concept_ctx_47</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_27</ID>
+				<Extent>
+					<Object_Ref>clam antivirus</Object_Ref>
+					<Object_Ref>virusbarrier</Object_Ref>
+					<Object_Ref>mac internet security</Object_Ref>
+					<Object_Ref>protectmac antivirus</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>first release:=[1997-2011]</Attribute_Ref>
+					<Attribute_Ref>on-demand scan</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2012]</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2010]</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2013]</Attribute_Ref>
+					<Attribute_Ref>on-access scan</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2008]</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2007]</Attribute_Ref>
+					<Attribute_Ref>live-update</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_31</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_26</ID>
+				<Extent>
+					<Object_Ref>f-secure anti-virus for mac</Object_Ref>
+					<Object_Ref>kaspersky internet security</Object_Ref>
+					<Object_Ref>panda antivirus for mac</Object_Ref>
+					<Object_Ref>sophos anti-virus for mac</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>first release:=[2008-2011]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2007-2012]</Attribute_Ref>
+					<Attribute_Ref>on-demand scan</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2012]</Attribute_Ref>
+					<Attribute_Ref>email security</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2010]</Attribute_Ref>
+					<Attribute_Ref>cloudav</Attribute_Ref>
+					<Attribute_Ref>first release:=[2008-2013]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2007-2010]</Attribute_Ref>
+					<Attribute_Ref>web protection</Attribute_Ref>
+					<Attribute_Ref>heuristics</Attribute_Ref>
+					<Attribute_Ref>first release:=[2000-2012]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2000-2010]</Attribute_Ref>
+					<Attribute_Ref>av comparatives</Attribute_Ref>
+					<Attribute_Ref>first release:=[2008-2010]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2007-2013]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2008-2012]</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2011]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2000-2013]</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2013]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2007-2011]</Attribute_Ref>
+					<Attribute_Ref>license:={proprietary}</Attribute_Ref>
+					<Attribute_Ref>first release:=[2000-2011]</Attribute_Ref>
+					<Attribute_Ref>on-access scan</Attribute_Ref>
+					<Attribute_Ref>live-update</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_35</Concept_Ref>
+					<Concept_Ref>Concept_ctx_41</Concept_Ref>
+					<Concept_Ref>Concept_ctx_29</Concept_Ref>
+					<Concept_Ref>Concept_ctx_38</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_28</ID>
+				<Extent>
+					<Object_Ref>avira free mac security</Object_Ref>
+					<Object_Ref>bitdefender antivirus for mac</Object_Ref>
+					<Object_Ref>eset cyber security</Object_Ref>
+					<Object_Ref>titanium internet security for mac</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>first release:=[2011-2012]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2011-2011]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2008-2012]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2007-2013]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2008-2011]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2007-2012]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2010-2013]</Attribute_Ref>
+					<Attribute_Ref>on-demand scan</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2011]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2010-2012]</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2012]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2000-2013]</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2013]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2007-2011]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2008-2013]</Attribute_Ref>
+					<Attribute_Ref>license:={proprietary}</Attribute_Ref>
+					<Attribute_Ref>web protection</Attribute_Ref>
+					<Attribute_Ref>heuristics</Attribute_Ref>
+					<Attribute_Ref>first release:=[2000-2012]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2000-2011]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2010-2011]</Attribute_Ref>
+					<Attribute_Ref>on-access scan</Attribute_Ref>
+					<Attribute_Ref>first release:=[2011-2013]</Attribute_Ref>
+					<Attribute_Ref>live-update</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_32</Concept_Ref>
+					<Concept_Ref>Concept_ctx_45</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_29</ID>
+				<Extent>
+					<Object_Ref>f-secure anti-virus for mac</Object_Ref>
+					<Object_Ref>kaspersky internet security</Object_Ref>
+					<Object_Ref>panda antivirus for mac</Object_Ref>
+					<Object_Ref>protectmac antivirus</Object_Ref>
+					<Object_Ref>sophos anti-virus for mac</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>first release:=[2007-2013]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2007-2012]</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2011]</Attribute_Ref>
+					<Attribute_Ref>on-demand scan</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2012]</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2010]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2000-2013]</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2013]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2007-2011]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2007-2010]</Attribute_Ref>
+					<Attribute_Ref>license:={proprietary}</Attribute_Ref>
+					<Attribute_Ref>first release:=[2000-2012]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2000-2011]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2000-2010]</Attribute_Ref>
+					<Attribute_Ref>av comparatives</Attribute_Ref>
+					<Attribute_Ref>on-access scan</Attribute_Ref>
+					<Attribute_Ref>live-update</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_34</Concept_Ref>
+					<Concept_Ref>Concept_ctx_40</Concept_Ref>
+					<Concept_Ref>Concept_ctx_47</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_30</ID>
+				<Extent>
+					<Object_Ref>clam antivirus</Object_Ref>
+					<Object_Ref>f-secure anti-virus for mac</Object_Ref>
+					<Object_Ref>mac internet security</Object_Ref>
+					<Object_Ref>panda antivirus for mac</Object_Ref>
+					<Object_Ref>protectmac antivirus</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>first release:=[2000-2008]</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2011]</Attribute_Ref>
+					<Attribute_Ref>on-demand scan</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2012]</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2010]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2000-2013]</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2013]</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2008]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2000-2012]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2000-2011]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2000-2010]</Attribute_Ref>
+					<Attribute_Ref>on-access scan</Attribute_Ref>
+					<Attribute_Ref>live-update</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_34</Concept_Ref>
+					<Concept_Ref>Concept_ctx_31</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_33</ID>
+				<Extent>
+					<Object_Ref>avast mac security</Object_Ref>
+					<Object_Ref>avira free mac security</Object_Ref>
+					<Object_Ref>clam antivirus</Object_Ref>
+					<Object_Ref>comodo mac security</Object_Ref>
+					<Object_Ref>psafe total mac</Object_Ref>
+					<Object_Ref>sophos anti-virus for mac</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>on-demand scan</Attribute_Ref>
+					<Attribute_Ref>first release:=[2000-2013]</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2013]</Attribute_Ref>
+					<Attribute_Ref>price:={free}</Attribute_Ref>
+					<Attribute_Ref>on-access scan</Attribute_Ref>
+					<Attribute_Ref>live-update</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_61</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_31</ID>
+				<Extent>
+					<Object_Ref>clam antivirus</Object_Ref>
+					<Object_Ref>f-secure anti-virus for mac</Object_Ref>
+					<Object_Ref>virusbarrier</Object_Ref>
+					<Object_Ref>mac internet security</Object_Ref>
+					<Object_Ref>panda antivirus for mac</Object_Ref>
+					<Object_Ref>protectmac antivirus</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>first release:=[1997-2011]</Attribute_Ref>
+					<Attribute_Ref>on-demand scan</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2012]</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2010]</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2013]</Attribute_Ref>
+					<Attribute_Ref>on-access scan</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2008]</Attribute_Ref>
+					<Attribute_Ref>live-update</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_36</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_32</ID>
+				<Extent>
+					<Object_Ref>avira free mac security</Object_Ref>
+					<Object_Ref>bitdefender antivirus for mac</Object_Ref>
+					<Object_Ref>eset cyber security</Object_Ref>
+					<Object_Ref>kaspersky internet security</Object_Ref>
+					<Object_Ref>sophos anti-virus for mac</Object_Ref>
+					<Object_Ref>titanium internet security for mac</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>first release:=[2008-2012]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2007-2013]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2008-2011]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2007-2012]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2010-2013]</Attribute_Ref>
+					<Attribute_Ref>on-demand scan</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2011]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2010-2012]</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2012]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2000-2013]</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2013]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2007-2011]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2008-2013]</Attribute_Ref>
+					<Attribute_Ref>license:={proprietary}</Attribute_Ref>
+					<Attribute_Ref>web protection</Attribute_Ref>
+					<Attribute_Ref>heuristics</Attribute_Ref>
+					<Attribute_Ref>first release:=[2000-2012]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2000-2011]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2010-2011]</Attribute_Ref>
+					<Attribute_Ref>on-access scan</Attribute_Ref>
+					<Attribute_Ref>live-update</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_49</Concept_Ref>
+					<Concept_Ref>Concept_ctx_38</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_34</ID>
+				<Extent>
+					<Object_Ref>clam antivirus</Object_Ref>
+					<Object_Ref>f-secure anti-virus for mac</Object_Ref>
+					<Object_Ref>mac internet security</Object_Ref>
+					<Object_Ref>kaspersky internet security</Object_Ref>
+					<Object_Ref>panda antivirus for mac</Object_Ref>
+					<Object_Ref>protectmac antivirus</Object_Ref>
+					<Object_Ref>sophos anti-virus for mac</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>first release:=[1997-2011]</Attribute_Ref>
+					<Attribute_Ref>on-demand scan</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2012]</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2010]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2000-2013]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2000-2012]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2000-2011]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2000-2010]</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2013]</Attribute_Ref>
+					<Attribute_Ref>on-access scan</Attribute_Ref>
+					<Attribute_Ref>live-update</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_36</Concept_Ref>
+					<Concept_Ref>Concept_ctx_43</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_35</ID>
+				<Extent>
+					<Object_Ref>eset cyber security</Object_Ref>
+					<Object_Ref>eset cyber security pro</Object_Ref>
+					<Object_Ref>f-secure anti-virus for mac</Object_Ref>
+					<Object_Ref>kaspersky internet security</Object_Ref>
+					<Object_Ref>panda antivirus for mac</Object_Ref>
+					<Object_Ref>psafe total mac</Object_Ref>
+					<Object_Ref>sophos anti-virus for mac</Object_Ref>
+					<Object_Ref>symantec endpoint protection</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>web protection</Attribute_Ref>
+					<Attribute_Ref>first release:=[2007-2013]</Attribute_Ref>
+					<Attribute_Ref>on-demand scan</Attribute_Ref>
+					<Attribute_Ref>first release:=[2000-2013]</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2013]</Attribute_Ref>
+					<Attribute_Ref>on-access scan</Attribute_Ref>
+					<Attribute_Ref>cloudav</Attribute_Ref>
+					<Attribute_Ref>first release:=[2008-2013]</Attribute_Ref>
+					<Attribute_Ref>license:={proprietary}</Attribute_Ref>
+					<Attribute_Ref>live-update</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_52</Concept_Ref>
+					<Concept_Ref>Concept_ctx_56</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_36</ID>
+				<Extent>
+					<Object_Ref>clam antivirus</Object_Ref>
+					<Object_Ref>f-secure anti-virus for mac</Object_Ref>
+					<Object_Ref>virusbarrier</Object_Ref>
+					<Object_Ref>mac internet security</Object_Ref>
+					<Object_Ref>kaspersky internet security</Object_Ref>
+					<Object_Ref>panda antivirus for mac</Object_Ref>
+					<Object_Ref>protectmac antivirus</Object_Ref>
+					<Object_Ref>sophos anti-virus for mac</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>first release:=[1997-2011]</Attribute_Ref>
+					<Attribute_Ref>on-demand scan</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2012]</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2010]</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2013]</Attribute_Ref>
+					<Attribute_Ref>on-access scan</Attribute_Ref>
+					<Attribute_Ref>live-update</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_44</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_38</ID>
+				<Extent>
+					<Object_Ref>avira free mac security</Object_Ref>
+					<Object_Ref>bitdefender antivirus for mac</Object_Ref>
+					<Object_Ref>eset cyber security</Object_Ref>
+					<Object_Ref>f-secure anti-virus for mac</Object_Ref>
+					<Object_Ref>kaspersky internet security</Object_Ref>
+					<Object_Ref>panda antivirus for mac</Object_Ref>
+					<Object_Ref>sophos anti-virus for mac</Object_Ref>
+					<Object_Ref>titanium internet security for mac</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>first release:=[2008-2012]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2007-2013]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2008-2011]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2007-2012]</Attribute_Ref>
+					<Attribute_Ref>on-demand scan</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2011]</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2012]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2000-2013]</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2013]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2007-2011]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2008-2013]</Attribute_Ref>
+					<Attribute_Ref>license:={proprietary}</Attribute_Ref>
+					<Attribute_Ref>web protection</Attribute_Ref>
+					<Attribute_Ref>heuristics</Attribute_Ref>
+					<Attribute_Ref>first release:=[2000-2012]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2000-2011]</Attribute_Ref>
+					<Attribute_Ref>on-access scan</Attribute_Ref>
+					<Attribute_Ref>live-update</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_48</Concept_Ref>
+					<Concept_Ref>Concept_ctx_52</Concept_Ref>
+					<Concept_Ref>Concept_ctx_40</Concept_Ref>
+					<Concept_Ref>Concept_ctx_53</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_39</ID>
+				<Extent>
+					<Object_Ref>avast mac security</Object_Ref>
+					<Object_Ref>comodo mac security</Object_Ref>
+					<Object_Ref>dr. web anti-virus for mac os x</Object_Ref>
+					<Object_Ref>quick heal total security for mac</Object_Ref>
+					<Object_Ref>symantec endpoint protection</Object_Ref>
+					<Object_Ref>norton antivirus for mac</Object_Ref>
+					<Object_Ref>secureanywhere antivirus</Object_Ref>
+					<Object_Ref>secureanywhere internet security plus</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>first release:=[2011-2012]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2008-2012]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2007-2013]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2007-2012]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2010-2013]</Attribute_Ref>
+					<Attribute_Ref>on-demand scan</Attribute_Ref>
+					<Attribute_Ref>first release:=[2010-2012]</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2012]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2012-2013]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2012-2012]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2000-2013]</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2013]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2008-2013]</Attribute_Ref>
+					<Attribute_Ref>license:={proprietary}</Attribute_Ref>
+					<Attribute_Ref>first release:=[2000-2012]</Attribute_Ref>
+					<Attribute_Ref>on-access scan</Attribute_Ref>
+					<Attribute_Ref>first release:=[2011-2013]</Attribute_Ref>
+					<Attribute_Ref>live-update</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_45</Concept_Ref>
+					<Concept_Ref>Concept_ctx_42</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_37</ID>
+				<Extent>
+					<Object_Ref>clam antivirus</Object_Ref>
+					<Object_Ref>comodo mac security</Object_Ref>
+					<Object_Ref>virusbarrier</Object_Ref>
+					<Object_Ref>mac internet security</Object_Ref>
+					<Object_Ref>symantec endpoint protection</Object_Ref>
+					<Object_Ref>norton antivirus for mac</Object_Ref>
+					<Object_Ref>secureanywhere antivirus</Object_Ref>
+					<Object_Ref>secureanywhere internet security plus</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>on-demand scan</Attribute_Ref>
+					<Attribute_Ref>country of origin:={united states}</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2012]</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2013]</Attribute_Ref>
+					<Attribute_Ref>on-access scan</Attribute_Ref>
+					<Attribute_Ref>live-update</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_59</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_40</ID>
+				<Extent>
+					<Object_Ref>avira free mac security</Object_Ref>
+					<Object_Ref>bitdefender antivirus for mac</Object_Ref>
+					<Object_Ref>eset cyber security</Object_Ref>
+					<Object_Ref>f-secure anti-virus for mac</Object_Ref>
+					<Object_Ref>kaspersky internet security</Object_Ref>
+					<Object_Ref>panda antivirus for mac</Object_Ref>
+					<Object_Ref>protectmac antivirus</Object_Ref>
+					<Object_Ref>sophos anti-virus for mac</Object_Ref>
+					<Object_Ref>titanium internet security for mac</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>first release:=[2007-2013]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2007-2012]</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2011]</Attribute_Ref>
+					<Attribute_Ref>on-demand scan</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2012]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2000-2013]</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2013]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2007-2011]</Attribute_Ref>
+					<Attribute_Ref>license:={proprietary}</Attribute_Ref>
+					<Attribute_Ref>first release:=[2000-2012]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2000-2011]</Attribute_Ref>
+					<Attribute_Ref>on-access scan</Attribute_Ref>
+					<Attribute_Ref>live-update</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_43</Concept_Ref>
+					<Concept_Ref>Concept_ctx_55</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_41</ID>
+				<Extent>
+					<Object_Ref>avast mac security</Object_Ref>
+					<Object_Ref>avira free mac security</Object_Ref>
+					<Object_Ref>clam antivirus</Object_Ref>
+					<Object_Ref>eset cyber security pro</Object_Ref>
+					<Object_Ref>f-secure anti-virus for mac</Object_Ref>
+					<Object_Ref>kaspersky internet security</Object_Ref>
+					<Object_Ref>panda antivirus for mac</Object_Ref>
+					<Object_Ref>sophos anti-virus for mac</Object_Ref>
+					<Object_Ref>symantec endpoint protection</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>on-demand scan</Attribute_Ref>
+					<Attribute_Ref>email security</Attribute_Ref>
+					<Attribute_Ref>first release:=[2000-2013]</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2013]</Attribute_Ref>
+					<Attribute_Ref>on-access scan</Attribute_Ref>
+					<Attribute_Ref>live-update</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_61</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_42</ID>
+				<Extent>
+					<Object_Ref>avast mac security</Object_Ref>
+					<Object_Ref>comodo mac security</Object_Ref>
+					<Object_Ref>dr. web anti-virus for mac os x</Object_Ref>
+					<Object_Ref>eset cyber security pro</Object_Ref>
+					<Object_Ref>psafe total mac</Object_Ref>
+					<Object_Ref>quick heal total security for mac</Object_Ref>
+					<Object_Ref>symantec endpoint protection</Object_Ref>
+					<Object_Ref>norton antivirus for mac</Object_Ref>
+					<Object_Ref>secureanywhere antivirus</Object_Ref>
+					<Object_Ref>secureanywhere internet security plus</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>first release:=[2007-2013]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2010-2013]</Attribute_Ref>
+					<Attribute_Ref>on-demand scan</Attribute_Ref>
+					<Attribute_Ref>first release:=[2012-2013]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2000-2013]</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2013]</Attribute_Ref>
+					<Attribute_Ref>on-access scan</Attribute_Ref>
+					<Attribute_Ref>first release:=[2008-2013]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2011-2013]</Attribute_Ref>
+					<Attribute_Ref>license:={proprietary}</Attribute_Ref>
+					<Attribute_Ref>live-update</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_50</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_43</ID>
+				<Extent>
+					<Object_Ref>avira free mac security</Object_Ref>
+					<Object_Ref>bitdefender antivirus for mac</Object_Ref>
+					<Object_Ref>clam antivirus</Object_Ref>
+					<Object_Ref>eset cyber security</Object_Ref>
+					<Object_Ref>f-secure anti-virus for mac</Object_Ref>
+					<Object_Ref>mac internet security</Object_Ref>
+					<Object_Ref>kaspersky internet security</Object_Ref>
+					<Object_Ref>panda antivirus for mac</Object_Ref>
+					<Object_Ref>protectmac antivirus</Object_Ref>
+					<Object_Ref>sophos anti-virus for mac</Object_Ref>
+					<Object_Ref>titanium internet security for mac</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>first release:=[1997-2011]</Attribute_Ref>
+					<Attribute_Ref>on-demand scan</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2012]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2000-2013]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2000-2012]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2000-2011]</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2013]</Attribute_Ref>
+					<Attribute_Ref>on-access scan</Attribute_Ref>
+					<Attribute_Ref>live-update</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_58</Concept_Ref>
+					<Concept_Ref>Concept_ctx_44</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_44</ID>
+				<Extent>
+					<Object_Ref>avira free mac security</Object_Ref>
+					<Object_Ref>bitdefender antivirus for mac</Object_Ref>
+					<Object_Ref>clam antivirus</Object_Ref>
+					<Object_Ref>eset cyber security</Object_Ref>
+					<Object_Ref>f-secure anti-virus for mac</Object_Ref>
+					<Object_Ref>virusbarrier</Object_Ref>
+					<Object_Ref>mac internet security</Object_Ref>
+					<Object_Ref>kaspersky internet security</Object_Ref>
+					<Object_Ref>panda antivirus for mac</Object_Ref>
+					<Object_Ref>protectmac antivirus</Object_Ref>
+					<Object_Ref>sophos anti-virus for mac</Object_Ref>
+					<Object_Ref>titanium internet security for mac</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>first release:=[1997-2011]</Attribute_Ref>
+					<Attribute_Ref>on-demand scan</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2012]</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2013]</Attribute_Ref>
+					<Attribute_Ref>on-access scan</Attribute_Ref>
+					<Attribute_Ref>live-update</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_59</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_45</ID>
+				<Extent>
+					<Object_Ref>avast mac security</Object_Ref>
+					<Object_Ref>avira free mac security</Object_Ref>
+					<Object_Ref>bitdefender antivirus for mac</Object_Ref>
+					<Object_Ref>comodo mac security</Object_Ref>
+					<Object_Ref>dr. web anti-virus for mac os x</Object_Ref>
+					<Object_Ref>eset cyber security</Object_Ref>
+					<Object_Ref>quick heal total security for mac</Object_Ref>
+					<Object_Ref>symantec endpoint protection</Object_Ref>
+					<Object_Ref>norton antivirus for mac</Object_Ref>
+					<Object_Ref>titanium internet security for mac</Object_Ref>
+					<Object_Ref>secureanywhere antivirus</Object_Ref>
+					<Object_Ref>secureanywhere internet security plus</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>first release:=[2011-2012]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2008-2012]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2007-2013]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2007-2012]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2010-2013]</Attribute_Ref>
+					<Attribute_Ref>on-demand scan</Attribute_Ref>
+					<Attribute_Ref>first release:=[2010-2012]</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2012]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2000-2013]</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2013]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2008-2013]</Attribute_Ref>
+					<Attribute_Ref>license:={proprietary}</Attribute_Ref>
+					<Attribute_Ref>first release:=[2000-2012]</Attribute_Ref>
+					<Attribute_Ref>on-access scan</Attribute_Ref>
+					<Attribute_Ref>first release:=[2011-2013]</Attribute_Ref>
+					<Attribute_Ref>live-update</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_50</Concept_Ref>
+					<Concept_Ref>Concept_ctx_49</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_48</ID>
+				<Extent>
+					<Object_Ref>avast mac security</Object_Ref>
+					<Object_Ref>avira free mac security</Object_Ref>
+					<Object_Ref>bitdefender antivirus for mac</Object_Ref>
+					<Object_Ref>comodo mac security</Object_Ref>
+					<Object_Ref>eset cyber security</Object_Ref>
+					<Object_Ref>eset cyber security pro</Object_Ref>
+					<Object_Ref>f-secure anti-virus for mac</Object_Ref>
+					<Object_Ref>kaspersky internet security</Object_Ref>
+					<Object_Ref>panda antivirus for mac</Object_Ref>
+					<Object_Ref>sophos anti-virus for mac</Object_Ref>
+					<Object_Ref>symantec endpoint protection</Object_Ref>
+					<Object_Ref>norton antivirus for mac</Object_Ref>
+					<Object_Ref>titanium internet security for mac</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>first release:=[2007-2013]</Attribute_Ref>
+					<Attribute_Ref>heuristics</Attribute_Ref>
+					<Attribute_Ref>on-demand scan</Attribute_Ref>
+					<Attribute_Ref>first release:=[2000-2013]</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2013]</Attribute_Ref>
+					<Attribute_Ref>on-access scan</Attribute_Ref>
+					<Attribute_Ref>first release:=[2008-2013]</Attribute_Ref>
+					<Attribute_Ref>license:={proprietary}</Attribute_Ref>
+					<Attribute_Ref>live-update</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_56</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_47</ID>
+				<Extent>
+					<Object_Ref>avast mac security</Object_Ref>
+					<Object_Ref>avira free mac security</Object_Ref>
+					<Object_Ref>bitdefender antivirus for mac</Object_Ref>
+					<Object_Ref>eset cyber security pro</Object_Ref>
+					<Object_Ref>f-secure anti-virus for mac</Object_Ref>
+					<Object_Ref>kaspersky internet security</Object_Ref>
+					<Object_Ref>panda antivirus for mac</Object_Ref>
+					<Object_Ref>protectmac antivirus</Object_Ref>
+					<Object_Ref>psafe total mac</Object_Ref>
+					<Object_Ref>sophos anti-virus for mac</Object_Ref>
+					<Object_Ref>symantec endpoint protection</Object_Ref>
+					<Object_Ref>norton antivirus for mac</Object_Ref>
+					<Object_Ref>titanium internet security for mac</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>first release:=[2007-2013]</Attribute_Ref>
+					<Attribute_Ref>on-demand scan</Attribute_Ref>
+					<Attribute_Ref>first release:=[2000-2013]</Attribute_Ref>
+					<Attribute_Ref>av comparatives</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2013]</Attribute_Ref>
+					<Attribute_Ref>on-access scan</Attribute_Ref>
+					<Attribute_Ref>license:={proprietary}</Attribute_Ref>
+					<Attribute_Ref>live-update</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_57</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_46</ID>
+				<Extent>
+					<Object_Ref>bitdefender antivirus for mac</Object_Ref>
+					<Object_Ref>eset cyber security</Object_Ref>
+					<Object_Ref>eset cyber security pro</Object_Ref>
+					<Object_Ref>f-secure anti-virus for mac</Object_Ref>
+					<Object_Ref>virusbarrier</Object_Ref>
+					<Object_Ref>mac internet security</Object_Ref>
+					<Object_Ref>kaspersky internet security</Object_Ref>
+					<Object_Ref>panda antivirus for mac</Object_Ref>
+					<Object_Ref>protectmac antivirus</Object_Ref>
+					<Object_Ref>quick heal total security for mac</Object_Ref>
+					<Object_Ref>symantec endpoint protection</Object_Ref>
+					<Object_Ref>norton antivirus for mac</Object_Ref>
+					<Object_Ref>titanium internet security for mac</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>price:={non-free}</Attribute_Ref>
+					<Attribute_Ref>on-demand scan</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2013]</Attribute_Ref>
+					<Attribute_Ref>on-access scan</Attribute_Ref>
+					<Attribute_Ref>support</Attribute_Ref>
+					<Attribute_Ref>license:={proprietary}</Attribute_Ref>
+					<Attribute_Ref>live-update</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_51</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_50</ID>
+				<Extent>
+					<Object_Ref>avast mac security</Object_Ref>
+					<Object_Ref>avira free mac security</Object_Ref>
+					<Object_Ref>bitdefender antivirus for mac</Object_Ref>
+					<Object_Ref>comodo mac security</Object_Ref>
+					<Object_Ref>dr. web anti-virus for mac os x</Object_Ref>
+					<Object_Ref>eset cyber security</Object_Ref>
+					<Object_Ref>eset cyber security pro</Object_Ref>
+					<Object_Ref>psafe total mac</Object_Ref>
+					<Object_Ref>quick heal total security for mac</Object_Ref>
+					<Object_Ref>symantec endpoint protection</Object_Ref>
+					<Object_Ref>norton antivirus for mac</Object_Ref>
+					<Object_Ref>titanium internet security for mac</Object_Ref>
+					<Object_Ref>secureanywhere antivirus</Object_Ref>
+					<Object_Ref>secureanywhere internet security plus</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>first release:=[2007-2013]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2010-2013]</Attribute_Ref>
+					<Attribute_Ref>on-demand scan</Attribute_Ref>
+					<Attribute_Ref>first release:=[2000-2013]</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2013]</Attribute_Ref>
+					<Attribute_Ref>on-access scan</Attribute_Ref>
+					<Attribute_Ref>first release:=[2008-2013]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2011-2013]</Attribute_Ref>
+					<Attribute_Ref>license:={proprietary}</Attribute_Ref>
+					<Attribute_Ref>live-update</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_54</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_49</ID>
+				<Extent>
+					<Object_Ref>avast mac security</Object_Ref>
+					<Object_Ref>avira free mac security</Object_Ref>
+					<Object_Ref>bitdefender antivirus for mac</Object_Ref>
+					<Object_Ref>comodo mac security</Object_Ref>
+					<Object_Ref>dr. web anti-virus for mac os x</Object_Ref>
+					<Object_Ref>eset cyber security</Object_Ref>
+					<Object_Ref>kaspersky internet security</Object_Ref>
+					<Object_Ref>quick heal total security for mac</Object_Ref>
+					<Object_Ref>sophos anti-virus for mac</Object_Ref>
+					<Object_Ref>symantec endpoint protection</Object_Ref>
+					<Object_Ref>norton antivirus for mac</Object_Ref>
+					<Object_Ref>titanium internet security for mac</Object_Ref>
+					<Object_Ref>secureanywhere antivirus</Object_Ref>
+					<Object_Ref>secureanywhere internet security plus</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>first release:=[2008-2012]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2007-2013]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2007-2012]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2010-2013]</Attribute_Ref>
+					<Attribute_Ref>on-demand scan</Attribute_Ref>
+					<Attribute_Ref>first release:=[2010-2012]</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2012]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2000-2013]</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2013]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2008-2013]</Attribute_Ref>
+					<Attribute_Ref>license:={proprietary}</Attribute_Ref>
+					<Attribute_Ref>first release:=[2000-2012]</Attribute_Ref>
+					<Attribute_Ref>on-access scan</Attribute_Ref>
+					<Attribute_Ref>live-update</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_53</Concept_Ref>
+					<Concept_Ref>Concept_ctx_54</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_51</ID>
+				<Extent>
+					<Object_Ref>avast mac security</Object_Ref>
+					<Object_Ref>bitdefender antivirus for mac</Object_Ref>
+					<Object_Ref>eset cyber security</Object_Ref>
+					<Object_Ref>eset cyber security pro</Object_Ref>
+					<Object_Ref>f-secure anti-virus for mac</Object_Ref>
+					<Object_Ref>virusbarrier</Object_Ref>
+					<Object_Ref>mac internet security</Object_Ref>
+					<Object_Ref>kaspersky internet security</Object_Ref>
+					<Object_Ref>panda antivirus for mac</Object_Ref>
+					<Object_Ref>protectmac antivirus</Object_Ref>
+					<Object_Ref>psafe total mac</Object_Ref>
+					<Object_Ref>quick heal total security for mac</Object_Ref>
+					<Object_Ref>symantec endpoint protection</Object_Ref>
+					<Object_Ref>norton antivirus for mac</Object_Ref>
+					<Object_Ref>titanium internet security for mac</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>on-demand scan</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2013]</Attribute_Ref>
+					<Attribute_Ref>on-access scan</Attribute_Ref>
+					<Attribute_Ref>support</Attribute_Ref>
+					<Attribute_Ref>license:={proprietary}</Attribute_Ref>
+					<Attribute_Ref>live-update</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_60</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_54</ID>
+				<Extent>
+					<Object_Ref>avast mac security</Object_Ref>
+					<Object_Ref>avira free mac security</Object_Ref>
+					<Object_Ref>bitdefender antivirus for mac</Object_Ref>
+					<Object_Ref>comodo mac security</Object_Ref>
+					<Object_Ref>dr. web anti-virus for mac os x</Object_Ref>
+					<Object_Ref>eset cyber security</Object_Ref>
+					<Object_Ref>eset cyber security pro</Object_Ref>
+					<Object_Ref>kaspersky internet security</Object_Ref>
+					<Object_Ref>psafe total mac</Object_Ref>
+					<Object_Ref>quick heal total security for mac</Object_Ref>
+					<Object_Ref>sophos anti-virus for mac</Object_Ref>
+					<Object_Ref>symantec endpoint protection</Object_Ref>
+					<Object_Ref>norton antivirus for mac</Object_Ref>
+					<Object_Ref>titanium internet security for mac</Object_Ref>
+					<Object_Ref>secureanywhere antivirus</Object_Ref>
+					<Object_Ref>secureanywhere internet security plus</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>first release:=[2007-2013]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2010-2013]</Attribute_Ref>
+					<Attribute_Ref>on-demand scan</Attribute_Ref>
+					<Attribute_Ref>first release:=[2000-2013]</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2013]</Attribute_Ref>
+					<Attribute_Ref>on-access scan</Attribute_Ref>
+					<Attribute_Ref>first release:=[2008-2013]</Attribute_Ref>
+					<Attribute_Ref>license:={proprietary}</Attribute_Ref>
+					<Attribute_Ref>live-update</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_56</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_53</ID>
+				<Extent>
+					<Object_Ref>avast mac security</Object_Ref>
+					<Object_Ref>avira free mac security</Object_Ref>
+					<Object_Ref>bitdefender antivirus for mac</Object_Ref>
+					<Object_Ref>comodo mac security</Object_Ref>
+					<Object_Ref>dr. web anti-virus for mac os x</Object_Ref>
+					<Object_Ref>eset cyber security</Object_Ref>
+					<Object_Ref>f-secure anti-virus for mac</Object_Ref>
+					<Object_Ref>kaspersky internet security</Object_Ref>
+					<Object_Ref>panda antivirus for mac</Object_Ref>
+					<Object_Ref>quick heal total security for mac</Object_Ref>
+					<Object_Ref>sophos anti-virus for mac</Object_Ref>
+					<Object_Ref>symantec endpoint protection</Object_Ref>
+					<Object_Ref>norton antivirus for mac</Object_Ref>
+					<Object_Ref>titanium internet security for mac</Object_Ref>
+					<Object_Ref>secureanywhere antivirus</Object_Ref>
+					<Object_Ref>secureanywhere internet security plus</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>first release:=[2008-2012]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2007-2013]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2007-2012]</Attribute_Ref>
+					<Attribute_Ref>on-demand scan</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2012]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2000-2013]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2000-2012]</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2013]</Attribute_Ref>
+					<Attribute_Ref>on-access scan</Attribute_Ref>
+					<Attribute_Ref>first release:=[2008-2013]</Attribute_Ref>
+					<Attribute_Ref>license:={proprietary}</Attribute_Ref>
+					<Attribute_Ref>live-update</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_56</Concept_Ref>
+					<Concept_Ref>Concept_ctx_55</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_52</ID>
+				<Extent>
+					<Object_Ref>avast mac security</Object_Ref>
+					<Object_Ref>avira free mac security</Object_Ref>
+					<Object_Ref>bitdefender antivirus for mac</Object_Ref>
+					<Object_Ref>eset cyber security</Object_Ref>
+					<Object_Ref>eset cyber security pro</Object_Ref>
+					<Object_Ref>f-secure anti-virus for mac</Object_Ref>
+					<Object_Ref>mac internet security</Object_Ref>
+					<Object_Ref>kaspersky internet security</Object_Ref>
+					<Object_Ref>panda antivirus for mac</Object_Ref>
+					<Object_Ref>psafe total mac</Object_Ref>
+					<Object_Ref>quick heal total security for mac</Object_Ref>
+					<Object_Ref>sophos anti-virus for mac</Object_Ref>
+					<Object_Ref>symantec endpoint protection</Object_Ref>
+					<Object_Ref>titanium internet security for mac</Object_Ref>
+					<Object_Ref>secureanywhere antivirus</Object_Ref>
+					<Object_Ref>secureanywhere internet security plus</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>web protection</Attribute_Ref>
+					<Attribute_Ref>on-demand scan</Attribute_Ref>
+					<Attribute_Ref>first release:=[2000-2013]</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2013]</Attribute_Ref>
+					<Attribute_Ref>on-access scan</Attribute_Ref>
+					<Attribute_Ref>license:={proprietary}</Attribute_Ref>
+					<Attribute_Ref>live-update</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_60</Concept_Ref>
+					<Concept_Ref>Concept_ctx_61</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_55</ID>
+				<Extent>
+					<Object_Ref>avast mac security</Object_Ref>
+					<Object_Ref>avira free mac security</Object_Ref>
+					<Object_Ref>bitdefender antivirus for mac</Object_Ref>
+					<Object_Ref>comodo mac security</Object_Ref>
+					<Object_Ref>dr. web anti-virus for mac os x</Object_Ref>
+					<Object_Ref>eset cyber security</Object_Ref>
+					<Object_Ref>f-secure anti-virus for mac</Object_Ref>
+					<Object_Ref>kaspersky internet security</Object_Ref>
+					<Object_Ref>panda antivirus for mac</Object_Ref>
+					<Object_Ref>protectmac antivirus</Object_Ref>
+					<Object_Ref>quick heal total security for mac</Object_Ref>
+					<Object_Ref>sophos anti-virus for mac</Object_Ref>
+					<Object_Ref>symantec endpoint protection</Object_Ref>
+					<Object_Ref>norton antivirus for mac</Object_Ref>
+					<Object_Ref>titanium internet security for mac</Object_Ref>
+					<Object_Ref>secureanywhere antivirus</Object_Ref>
+					<Object_Ref>secureanywhere internet security plus</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>first release:=[2007-2013]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2007-2012]</Attribute_Ref>
+					<Attribute_Ref>on-demand scan</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2012]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2000-2013]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2000-2012]</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2013]</Attribute_Ref>
+					<Attribute_Ref>on-access scan</Attribute_Ref>
+					<Attribute_Ref>live-update</Attribute_Ref>
+					<Attribute_Ref>license:={proprietary}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_58</Concept_Ref>
+					<Concept_Ref>Concept_ctx_57</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_56</ID>
+				<Extent>
+					<Object_Ref>avast mac security</Object_Ref>
+					<Object_Ref>avira free mac security</Object_Ref>
+					<Object_Ref>bitdefender antivirus for mac</Object_Ref>
+					<Object_Ref>comodo mac security</Object_Ref>
+					<Object_Ref>dr. web anti-virus for mac os x</Object_Ref>
+					<Object_Ref>eset cyber security</Object_Ref>
+					<Object_Ref>eset cyber security pro</Object_Ref>
+					<Object_Ref>f-secure anti-virus for mac</Object_Ref>
+					<Object_Ref>kaspersky internet security</Object_Ref>
+					<Object_Ref>panda antivirus for mac</Object_Ref>
+					<Object_Ref>psafe total mac</Object_Ref>
+					<Object_Ref>quick heal total security for mac</Object_Ref>
+					<Object_Ref>sophos anti-virus for mac</Object_Ref>
+					<Object_Ref>symantec endpoint protection</Object_Ref>
+					<Object_Ref>norton antivirus for mac</Object_Ref>
+					<Object_Ref>titanium internet security for mac</Object_Ref>
+					<Object_Ref>secureanywhere antivirus</Object_Ref>
+					<Object_Ref>secureanywhere internet security plus</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>first release:=[2007-2013]</Attribute_Ref>
+					<Attribute_Ref>on-demand scan</Attribute_Ref>
+					<Attribute_Ref>first release:=[2000-2013]</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2013]</Attribute_Ref>
+					<Attribute_Ref>on-access scan</Attribute_Ref>
+					<Attribute_Ref>first release:=[2008-2013]</Attribute_Ref>
+					<Attribute_Ref>license:={proprietary}</Attribute_Ref>
+					<Attribute_Ref>live-update</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_57</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_57</ID>
+				<Extent>
+					<Object_Ref>avast mac security</Object_Ref>
+					<Object_Ref>avira free mac security</Object_Ref>
+					<Object_Ref>bitdefender antivirus for mac</Object_Ref>
+					<Object_Ref>comodo mac security</Object_Ref>
+					<Object_Ref>dr. web anti-virus for mac os x</Object_Ref>
+					<Object_Ref>eset cyber security</Object_Ref>
+					<Object_Ref>eset cyber security pro</Object_Ref>
+					<Object_Ref>f-secure anti-virus for mac</Object_Ref>
+					<Object_Ref>kaspersky internet security</Object_Ref>
+					<Object_Ref>panda antivirus for mac</Object_Ref>
+					<Object_Ref>protectmac antivirus</Object_Ref>
+					<Object_Ref>psafe total mac</Object_Ref>
+					<Object_Ref>quick heal total security for mac</Object_Ref>
+					<Object_Ref>sophos anti-virus for mac</Object_Ref>
+					<Object_Ref>symantec endpoint protection</Object_Ref>
+					<Object_Ref>norton antivirus for mac</Object_Ref>
+					<Object_Ref>titanium internet security for mac</Object_Ref>
+					<Object_Ref>secureanywhere antivirus</Object_Ref>
+					<Object_Ref>secureanywhere internet security plus</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>first release:=[2007-2013]</Attribute_Ref>
+					<Attribute_Ref>on-demand scan</Attribute_Ref>
+					<Attribute_Ref>first release:=[2000-2013]</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2013]</Attribute_Ref>
+					<Attribute_Ref>on-access scan</Attribute_Ref>
+					<Attribute_Ref>license:={proprietary}</Attribute_Ref>
+					<Attribute_Ref>live-update</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_60</Concept_Ref>
+					<Concept_Ref>Concept_ctx_61</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_58</ID>
+				<Extent>
+					<Object_Ref>avast mac security</Object_Ref>
+					<Object_Ref>avira free mac security</Object_Ref>
+					<Object_Ref>bitdefender antivirus for mac</Object_Ref>
+					<Object_Ref>clam antivirus</Object_Ref>
+					<Object_Ref>comodo mac security</Object_Ref>
+					<Object_Ref>dr. web anti-virus for mac os x</Object_Ref>
+					<Object_Ref>eset cyber security</Object_Ref>
+					<Object_Ref>f-secure anti-virus for mac</Object_Ref>
+					<Object_Ref>mac internet security</Object_Ref>
+					<Object_Ref>kaspersky internet security</Object_Ref>
+					<Object_Ref>panda antivirus for mac</Object_Ref>
+					<Object_Ref>protectmac antivirus</Object_Ref>
+					<Object_Ref>quick heal total security for mac</Object_Ref>
+					<Object_Ref>sophos anti-virus for mac</Object_Ref>
+					<Object_Ref>symantec endpoint protection</Object_Ref>
+					<Object_Ref>norton antivirus for mac</Object_Ref>
+					<Object_Ref>titanium internet security for mac</Object_Ref>
+					<Object_Ref>secureanywhere antivirus</Object_Ref>
+					<Object_Ref>secureanywhere internet security plus</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>on-demand scan</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2012]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2000-2013]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2000-2012]</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2013]</Attribute_Ref>
+					<Attribute_Ref>on-access scan</Attribute_Ref>
+					<Attribute_Ref>live-update</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_59</Concept_Ref>
+					<Concept_Ref>Concept_ctx_61</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_59</ID>
+				<Extent>
+					<Object_Ref>avast mac security</Object_Ref>
+					<Object_Ref>avira free mac security</Object_Ref>
+					<Object_Ref>bitdefender antivirus for mac</Object_Ref>
+					<Object_Ref>clam antivirus</Object_Ref>
+					<Object_Ref>comodo mac security</Object_Ref>
+					<Object_Ref>dr. web anti-virus for mac os x</Object_Ref>
+					<Object_Ref>eset cyber security</Object_Ref>
+					<Object_Ref>f-secure anti-virus for mac</Object_Ref>
+					<Object_Ref>virusbarrier</Object_Ref>
+					<Object_Ref>mac internet security</Object_Ref>
+					<Object_Ref>kaspersky internet security</Object_Ref>
+					<Object_Ref>panda antivirus for mac</Object_Ref>
+					<Object_Ref>protectmac antivirus</Object_Ref>
+					<Object_Ref>quick heal total security for mac</Object_Ref>
+					<Object_Ref>sophos anti-virus for mac</Object_Ref>
+					<Object_Ref>symantec endpoint protection</Object_Ref>
+					<Object_Ref>norton antivirus for mac</Object_Ref>
+					<Object_Ref>titanium internet security for mac</Object_Ref>
+					<Object_Ref>secureanywhere antivirus</Object_Ref>
+					<Object_Ref>secureanywhere internet security plus</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>on-demand scan</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2012]</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2013]</Attribute_Ref>
+					<Attribute_Ref>on-access scan</Attribute_Ref>
+					<Attribute_Ref>live-update</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_62</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_60</ID>
+				<Extent>
+					<Object_Ref>avast mac security</Object_Ref>
+					<Object_Ref>avira free mac security</Object_Ref>
+					<Object_Ref>bitdefender antivirus for mac</Object_Ref>
+					<Object_Ref>comodo mac security</Object_Ref>
+					<Object_Ref>dr. web anti-virus for mac os x</Object_Ref>
+					<Object_Ref>eset cyber security</Object_Ref>
+					<Object_Ref>eset cyber security pro</Object_Ref>
+					<Object_Ref>f-secure anti-virus for mac</Object_Ref>
+					<Object_Ref>virusbarrier</Object_Ref>
+					<Object_Ref>mac internet security</Object_Ref>
+					<Object_Ref>kaspersky internet security</Object_Ref>
+					<Object_Ref>panda antivirus for mac</Object_Ref>
+					<Object_Ref>protectmac antivirus</Object_Ref>
+					<Object_Ref>psafe total mac</Object_Ref>
+					<Object_Ref>quick heal total security for mac</Object_Ref>
+					<Object_Ref>sophos anti-virus for mac</Object_Ref>
+					<Object_Ref>symantec endpoint protection</Object_Ref>
+					<Object_Ref>norton antivirus for mac</Object_Ref>
+					<Object_Ref>titanium internet security for mac</Object_Ref>
+					<Object_Ref>secureanywhere antivirus</Object_Ref>
+					<Object_Ref>secureanywhere internet security plus</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>on-demand scan</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2013]</Attribute_Ref>
+					<Attribute_Ref>on-access scan</Attribute_Ref>
+					<Attribute_Ref>license:={proprietary}</Attribute_Ref>
+					<Attribute_Ref>live-update</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_62</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_61</ID>
+				<Extent>
+					<Object_Ref>avast mac security</Object_Ref>
+					<Object_Ref>avira free mac security</Object_Ref>
+					<Object_Ref>bitdefender antivirus for mac</Object_Ref>
+					<Object_Ref>clam antivirus</Object_Ref>
+					<Object_Ref>comodo mac security</Object_Ref>
+					<Object_Ref>dr. web anti-virus for mac os x</Object_Ref>
+					<Object_Ref>eset cyber security</Object_Ref>
+					<Object_Ref>eset cyber security pro</Object_Ref>
+					<Object_Ref>f-secure anti-virus for mac</Object_Ref>
+					<Object_Ref>mac internet security</Object_Ref>
+					<Object_Ref>kaspersky internet security</Object_Ref>
+					<Object_Ref>panda antivirus for mac</Object_Ref>
+					<Object_Ref>protectmac antivirus</Object_Ref>
+					<Object_Ref>psafe total mac</Object_Ref>
+					<Object_Ref>quick heal total security for mac</Object_Ref>
+					<Object_Ref>sophos anti-virus for mac</Object_Ref>
+					<Object_Ref>symantec endpoint protection</Object_Ref>
+					<Object_Ref>norton antivirus for mac</Object_Ref>
+					<Object_Ref>titanium internet security for mac</Object_Ref>
+					<Object_Ref>secureanywhere antivirus</Object_Ref>
+					<Object_Ref>secureanywhere internet security plus</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>on-demand scan</Attribute_Ref>
+					<Attribute_Ref>first release:=[2000-2013]</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2013]</Attribute_Ref>
+					<Attribute_Ref>on-access scan</Attribute_Ref>
+					<Attribute_Ref>live-update</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_62</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_62</ID>
+				<Extent>
+					<Object_Ref>avast mac security</Object_Ref>
+					<Object_Ref>avira free mac security</Object_Ref>
+					<Object_Ref>bitdefender antivirus for mac</Object_Ref>
+					<Object_Ref>clam antivirus</Object_Ref>
+					<Object_Ref>comodo mac security</Object_Ref>
+					<Object_Ref>dr. web anti-virus for mac os x</Object_Ref>
+					<Object_Ref>eset cyber security</Object_Ref>
+					<Object_Ref>eset cyber security pro</Object_Ref>
+					<Object_Ref>f-secure anti-virus for mac</Object_Ref>
+					<Object_Ref>virusbarrier</Object_Ref>
+					<Object_Ref>mac internet security</Object_Ref>
+					<Object_Ref>kaspersky internet security</Object_Ref>
+					<Object_Ref>panda antivirus for mac</Object_Ref>
+					<Object_Ref>protectmac antivirus</Object_Ref>
+					<Object_Ref>psafe total mac</Object_Ref>
+					<Object_Ref>quick heal total security for mac</Object_Ref>
+					<Object_Ref>sophos anti-virus for mac</Object_Ref>
+					<Object_Ref>symantec endpoint protection</Object_Ref>
+					<Object_Ref>norton antivirus for mac</Object_Ref>
+					<Object_Ref>titanium internet security for mac</Object_Ref>
+					<Object_Ref>secureanywhere antivirus</Object_Ref>
+					<Object_Ref>secureanywhere internet security plus</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>on-demand scan</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2013]</Attribute_Ref>
+					<Attribute_Ref>on-access scan</Attribute_Ref>
+					<Attribute_Ref>live-update</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_7</ID>
+				<Extent>
+					<Object_Ref>f-secure anti-virus for mac</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>first release:=[2000-2008]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2008-2011]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2007-2012]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2007-2008]</Attribute_Ref>
+					<Attribute_Ref>on-demand scan</Attribute_Ref>
+					<Attribute_Ref>antispam</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2012]</Attribute_Ref>
+					<Attribute_Ref>email security</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2010]</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2008]</Attribute_Ref>
+					<Attribute_Ref>cloudav</Attribute_Ref>
+					<Attribute_Ref>first release:=[2008-2013]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2007-2010]</Attribute_Ref>
+					<Attribute_Ref>web protection</Attribute_Ref>
+					<Attribute_Ref>price:={non-free}</Attribute_Ref>
+					<Attribute_Ref>heuristics</Attribute_Ref>
+					<Attribute_Ref>first release:=[2000-2012]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2000-2010]</Attribute_Ref>
+					<Attribute_Ref>av comparatives</Attribute_Ref>
+					<Attribute_Ref>first release:=[2008-2010]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2008-2012]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2007-2013]</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2011]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2000-2013]</Attribute_Ref>
+					<Attribute_Ref>country of origin:={finland}</Attribute_Ref>
+					<Attribute_Ref>first release:=[1997-2013]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2008-2008]</Attribute_Ref>
+					<Attribute_Ref>first release:=[2007-2011]</Attribute_Ref>
+					<Attribute_Ref>license:={proprietary}</Attribute_Ref>
+					<Attribute_Ref>ids</Attribute_Ref>
+					<Attribute_Ref>first release:=[2000-2011]</Attribute_Ref>
+					<Attribute_Ref>on-access scan</Attribute_Ref>
+					<Attribute_Ref>support</Attribute_Ref>
+					<Attribute_Ref>live-update</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_14</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+		</Lattice>
+	</Step >
+</RCAExplore_Document>

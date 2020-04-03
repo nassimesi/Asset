@@ -1,0 +1,10 @@
+FirstRelease:=[1998-1998] -> Lock
+ProgrammingLanguage:={C++} -> Lock
+FirstRelease:=* -> Lock
+ProgrammingLanguage:={C,java,perl} -> Lock
+FirstRelease:=[1986-1986] -> ProgrammingLanguage:={C}
+Lock -> ClientServer
+Lock -> Merge
+FirstRelease:=[1986-1998] -> ClientServer
+ProgrammingLanguage:={C,perl} -> Merge
+FirstRelease:=[1998-2005] -> Merge

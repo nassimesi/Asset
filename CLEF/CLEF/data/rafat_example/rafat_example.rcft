@@ -1,0 +1,19 @@
+FormalContext ctx
+algo acposet
+| |Cell_phone|Wireless|Infrared|Bluethooth|Accu_Cell|Strong|Medium|Weak|Display|Games|Multi_Player|Single_Player|Artificial_Opponnent|
+|Product-1|x|x|x||x|x|||x|x|x|||
+|Product-2|x|x||x|x|x|||x|x|x|||
+|Product-3|x|x|x|x|x|x|||x|x|x|||
+|Product-4|x|x|x||x||x||x|x|x|||
+|Product-5|x||||x|||x|x|x||x|x|
+|Product-6|x||||x|x|||x|x||x|x|
+|Product-7|x|x|x||x|x|||x|x||x|x|
+|Product-8|x|x||x|x|x|||x|x||x|x|
+|Product-9|x|x|x|x|x|x|||x|x||x|x|
+|Product-10|x||||x||x||x|x||x|x|
+|Product-11|x|x|x||x||x||x|x||x|x|
+|Product-12|x|x|x||x|||x|x|x||x|x|
+|Product-13|x|x|x||x||x||x|x|x|x|x|
+|Product-14|x|x|x||x|x|||x|x|x|x|x|
+|Product-15|x|x||x|x|x|||x|x|x|x|x|
+|Product-16|x|x|x|x|x|x|||x|x|x|x|x|

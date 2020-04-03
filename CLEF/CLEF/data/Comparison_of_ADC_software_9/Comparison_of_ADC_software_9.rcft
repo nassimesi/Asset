@@ -1,0 +1,13 @@
+FormalContext ctx
+algo fca
+| |windows|linux|os x|other:={java enabled platform}|other:={.net4 enabled platform}|other:={c# enabled platform}|other:={wine}|
+|adccore|x||||x|||
+|dcbouncer|x|x||||||
+|dc-hublink|x|||||||
+|dcwatch|x|x||||||
+|embla|x|x|x|x||||
+|flowlib|x|x|x|||x||
+|netchatlink|x||||||x|
+|announcer bot|x|||||||
+|certmanager|x|||||||
+|seriebot|x|x|x|||x||

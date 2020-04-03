@@ -1,0 +1,102 @@
+testdouble:=[5.7-5.7] -> first public release:=[2012-2012]
+testdouble:=[5.7-5.7] -> cost:={non-free}
+testdouble:=[5.7-5.7] -> based framework:={core audio}
+testdouble:=[5.7-5.7] -> software license:={bsd,proprietary}
+testdouble:=[5.7-5.7] -> written in:={python}
+testdouble:=[4.4-4.4] -> first public release:=[2012-2012]
+testdouble:=[4.4-4.4] -> cost:={non-free}
+testdouble:=[4.4-4.4] -> based framework:={core audio}
+testdouble:=[4.4-4.4] -> software license:={bsd,proprietary}
+testdouble:=[4.4-4.4] -> written in:={python}
+testdouble:=[3.1-3.1] -> first public release:=[2012-2012]
+testdouble:=[3.1-3.1] -> cost:={non-free}
+testdouble:=[3.1-3.1] -> based framework:={core audio}
+testdouble:=[3.1-3.1] -> software license:={bsd,proprietary}
+testdouble:=[3.1-3.1] -> written in:={python}
+first public release:=[2012-2012] -> written in:={objective-c}
+first public release:=[2012-2012] -> software license:={proprietary}
+cost:={non-free} -> written in:={objective-c}
+cost:={non-free} -> software license:={proprietary}
+cost:={non-free} -> testdouble:=*
+based framework:={core audio} -> written in:={objective-c}
+based framework:={core audio} -> software license:={proprietary}
+based framework:={core audio} -> testdouble:=*
+first public release:=[2002-2002] -> testdouble:=*
+software license:={bsd,proprietary} -> written in:={c++}
+software license:={bsd,proprietary} -> testdouble:=*
+software license:={bsd,proprietary} -> cost:={free}
+based framework:={av foundation,quicktime} -> first public release:=[2008-2008]
+based framework:={av foundation,quicktime} -> written in:={objective-c}
+based framework:={av foundation,quicktime} -> software license:={proprietary}
+based framework:={av foundation,quicktime} -> testdouble:=*
+written in:={python} -> based framework:={gstreamer}
+written in:={python} -> first public release:=[2006-2006]
+written in:={python} -> software license:={gpl}
+written in:={python} -> testdouble:=*
+written in:={python} -> cost:={free}
+first public release:=[2011-2011] -> based framework:={gstreamer}
+first public release:=[2011-2011] -> written in:={c++}
+first public release:=[2011-2011] -> software license:={gpl}
+first public release:=[2004-2004] -> based framework:={xmms based}
+first public release:=[2004-2004] -> written in:={c}
+software license:={mit} -> first public release:=[2005-2005]
+software license:={mit} -> based framework:={gstreamer}
+software license:={mit} -> testdouble:=*
+software license:={mit} -> cost:={free}
+written in:={c#} -> first public release:=[2005-2005]
+written in:={c#} -> based framework:={gstreamer}
+written in:={c#} -> testdouble:=*
+written in:={c#} -> cost:={free}
+written in:={c++,c} -> based framework:={xmms based}
+written in:={c++,c} -> first public release:=[2005-2005]
+written in:={c++,c} -> testdouble:=*
+written in:={java} -> first public release:=[2006-2006]
+written in:={java} -> software license:={gpl}
+written in:={java} -> testdouble:=*
+written in:={java} -> cost:={free}
+testdouble:=[1.8-3.1] -> written in:={c}
+testdouble:=[1.8-3.1] -> software license:={gpl}
+testdouble:=[1.8-1.8] -> written in:={c}
+testdouble:=[1.8-1.8] -> software license:={gpl}
+based framework:={xine,directshow,mplayer,gstreamer,vlc,quicktime} -> first public release:=[2003-2003]
+based framework:={xine,directshow,mplayer,gstreamer,vlc,quicktime} -> written in:={c++}
+based framework:={xine,directshow,mplayer,gstreamer,vlc,quicktime} -> software license:={gpl}
+testdouble:=[4.4-5.7] -> first public release:=[2003-2003]
+testdouble:=[4.4-5.7] -> written in:={c++}
+testdouble:=[4.4-5.7] -> software license:={gpl}
+based framework:={bass audio library} -> software license:={proprietary}
+based framework:={bass audio library} -> first public release:=[2006-2006]
+based framework:={bass audio library} -> cost:={free}
+written in:={delphi} -> software license:={proprietary}
+written in:={delphi} -> first public release:=[2006-2006]
+written in:={delphi} -> cost:={free}
+testdouble:=[3.1-4.4] -> software license:={proprietary}
+first public release:=[2008-2008] -> software license:={proprietary}
+based framework:={xmms based} -> first public release:=[2004-2005]
+based framework:={xmms based} -> written in:={c}
+based framework:={xmms based} -> software license:={gpl}
+based framework:={xmms based} -> testdouble:=*
+based framework:={xmms based} -> cost:={free}
+first public release:=[2003-2003] -> based framework:={gstreamer}
+based framework:={quicktime} -> first public release:=[2003-2008]
+based framework:={quicktime} -> cost:={free}
+testdouble:=[1.8-4.4] -> first public release:=[2006-2006]
+written in:={objective-c} -> first public release:=[2006-2012]
+written in:={objective-c} -> testdouble:=*
+first public release:=[2002-2003] -> written in:={c++}
+first public release:=[2003-2004] -> software license:={gpl}
+testdouble:=[1.8-5.7] -> first public release:=[2003-2006]
+testdouble:=[1.8-5.7] -> cost:={free}
+first public release:=[2008-2012] -> testdouble:=*
+first public release:=[2004-2005] -> testdouble:=*
+written in:={c} -> first public release:=[2004-2006]
+written in:={c} -> software license:={gpl}
+written in:={c} -> cost:={free}
+based framework:={gstreamer} -> first public release:=[2003-2011]
+based framework:={gstreamer} -> cost:={free}
+written in:={c++} -> first public release:=[2002-2011]
+written in:={c++} -> cost:={free}
+software license:={proprietary} -> first public release:=[2002-2012]
+software license:={gpl} -> first public release:=[2003-2011]
+software license:={gpl} -> cost:={free}
+testdouble:=* -> first public release:=[2002-2012]

@@ -1,0 +1,6 @@
+developer:={gigamarket ltd.} <-> formats total:=[01-01]
+developer:={moon+} <-> formats total:=[08-08]
+developer:={fbreader.org limited} <-> formats total:=[11-11]
+developer:={unidocs inc.} <-> formats total:=[04-04]
+developer:={alan.neverland} <-> formats total:=[09-09]
+.doc <-> .pdb

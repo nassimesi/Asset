@@ -1,0 +1,45 @@
+digraph G { 
+	rankdir=BT;
+	margin=0;
+	node [margin="0.03,0.03",fontname="DejaVu Sans"];
+	ranksep=0.3;
+	nodesep=0.2;
+//graph[label="name:ctx,concept number:19,object number:48,attribute number:36"
+1 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_9</td></tr><tr><td>555009823<br/></td></tr><tr><td>00002<br/>00001<br/>00004/<br/>00003/<br/></td></tr></table>>];
+10 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_0</td></tr><tr><td>47873739<br/></td></tr><tr><td>00016/<br/>00012/<br/>00015/<br/>00011/<br/></td></tr></table>>];
+11 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_7</td></tr><tr><td>-1902575555<br/></td></tr><tr><td>00038/<br/>00046/<br/>00017/<br/>00044/<br/></td></tr></table>>];
+12 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_5</td></tr><tr><td>-805464161<br/></td></tr><tr><td>00018/<br/>00022/<br/>00020/<br/>00023/<br/></td></tr></table>>];
+13 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_10</td></tr><tr><td>-1554532247<br/></td></tr><tr><td>00021/<br/>00025/<br/>00024/<br/>00019/<br/></td></tr></table>>];
+14 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_8</td></tr><tr><td>-623866603<br/></td></tr><tr><td>00026/<br/>00033/<br/>00028/<br/>00030/<br/></td></tr></table>>];
+15 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_2</td></tr><tr><td>640840563<br/></td></tr><tr><td>00032/<br/>00029/<br/>00031/<br/>00027/<br/></td></tr></table>>];
+16 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_4</td></tr><tr><td>-1794869789<br/></td></tr><tr><td>00034/<br/>00040/<br/>00043/<br/>00036/<br/></td></tr></table>>];
+17 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_11</td></tr><tr><td>-990695451<br/></td></tr><tr><td>00041/<br/>00042/<br/>00039/<br/>00035/<br/></td></tr></table>>];
+7 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_6</td></tr><tr><td>2001314547<br/></td></tr><tr><td>00006/<br/>00005/<br/>00008/<br/>00007/<br/></td></tr></table>>];
+9 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_3</td></tr><tr><td>369778533<br/></td></tr><tr><td>00014/<br/>00009/<br/>00013/<br/>00010/<br/></td></tr></table>>];
+2 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_15</td></tr><tr><td>-643424253<br/></td></tr><tr><td><br/></td></tr></table>>];
+3 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_13</td></tr><tr><td>-1405486490<br/></td></tr><tr><td>00001<br/>00038/<br/>00006/<br/>00018/<br/>00037/<br/>00028/<br/>00036/<br/>00010/<br/>00019/<br/>00027/<br/>00011/<br/>00035/<br/></td></tr></table>>];
+4 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_14</td></tr><tr><td>2098001472<br/></td></tr><tr><td>00021/<br/>00002<br/>00046/<br/>00040/<br/>00020/<br/>00029/<br/>00045/<br/>00013/<br/>00016/<br/>00030/<br/>00039/<br/>00007/<br/></td></tr></table>>];
+5 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_12</td></tr><tr><td>-183964650<br/></td></tr><tr><td>00026/<br/>00034/<br/>00032/<br/>00009/<br/>00005/<br/>00017/<br/>00048/<br/>00012/<br/>00024/<br/>00042/<br/>00023/<br/>00003/<br/></td></tr></table>>];
+6 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_16</td></tr><tr><td>581979670<br/></td></tr><tr><td>00041/<br/>00022/<br/>00014/<br/>00033/<br/>00025/<br/>00031/<br/>00043/<br/>00008/<br/>00004/<br/>00044/<br/>00015/<br/>00047/<br/></td></tr></table>>];
+8 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_17</td></tr><tr><td>1089222171<br/></td></tr><tr><td><br/></td></tr></table>>];
+0 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_18</td></tr><tr><td>1042434082<br/>-2125125814<br/>1377897720<br/>-2139066422<br/>346341157<br/>154016105<br/>-1652103556<br/>-1128898208<br/>-1682328901<br/>-1485731999<br/>515252003<br/>-1491111207<br/>-2133762321<br/>-328405529<br/>194473560<br/>263867358<br/>823942065<br/>-2127805841<br/></td></tr><tr><td><br/></td></tr></table>>];
+18 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_1</td></tr><tr><td>-1312600245<br/></td></tr><tr><td>00037/<br/>00045/<br/>00048/<br/>00047/<br/></td></tr></table>>];
+	13:p -> 2:p
+	1:p -> 2:p
+	12:p -> 2:p
+	16:p -> 8:p
+	15:p -> 8:p
+	9:p -> 8:p
+	14:p -> 8:p
+	17:p -> 8:p
+	7:p -> 8:p
+	11:p -> 8:p
+	18:p -> 8:p
+	10:p -> 8:p
+	6:p -> 0:p
+	5:p -> 0:p
+	8:p -> 0:p
+	3:p -> 0:p
+	2:p -> 0:p
+	4:p -> 0:p
+}

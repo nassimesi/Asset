@@ -1,0 +1,446 @@
+<RCAExplore_Document>
+	<Step nb="0">
+		<Lattice numberObj="9" numberAtt="11" numberCpt="13" >
+			<Config algo="fca">
+			</Config>
+			<Name>ctx</Name>
+			<Object>adccore</Object>
+			<Object>dcbouncer</Object>
+			<Object>dc-hublink</Object>
+			<Object>dcwatch</Object>
+			<Object>embla</Object>
+			<Object>flowlib</Object>
+			<Object>netchatlink</Object>
+			<Object>announcer bot</Object>
+			<Object>certmanager</Object>
+			<Attribute>gui</Attribute>
+			<Attribute>cli</Attribute>
+			<Attribute>programming language:={c#}</Attribute>
+			<Attribute>programming language:={delphi}</Attribute>
+			<Attribute>programming language:={c++}</Attribute>
+			<Attribute>programming language:={java}</Attribute>
+			<Attribute>programming language:={lua}</Attribute>
+			<Attribute>programming language:={visual basic}</Attribute>
+			<Attribute>programming language:={java,lua}</Attribute>
+			<Attribute>based on:={embla}</Attribute>
+			<Attribute>based on:={coredc}</Attribute>
+			<Concept>
+				<ID>Concept_ctx_12</ID>
+				<Extent>
+					<Object_Ref>adccore</Object_Ref>
+					<Object_Ref>dcbouncer</Object_Ref>
+					<Object_Ref>dc-hublink</Object_Ref>
+					<Object_Ref>dcwatch</Object_Ref>
+					<Object_Ref>embla</Object_Ref>
+					<Object_Ref>flowlib</Object_Ref>
+					<Object_Ref>netchatlink</Object_Ref>
+					<Object_Ref>announcer bot</Object_Ref>
+					<Object_Ref>certmanager</Object_Ref>
+				</Extent>
+				<Intent>
+				</Intent>
+				<UpperCovers>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_11</ID>
+				<Extent>
+					<Object_Ref>dc-hublink</Object_Ref>
+					<Object_Ref>netchatlink</Object_Ref>
+					<Object_Ref>certmanager</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>gui</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_12</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_0</ID>
+				<Extent>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>cli</Attribute_Ref>
+					<Attribute_Ref>programming language:={delphi}</Attribute_Ref>
+					<Attribute_Ref>programming language:={visual basic}</Attribute_Ref>
+					<Attribute_Ref>based on:={coredc}</Attribute_Ref>
+					<Attribute_Ref>programming language:={java}</Attribute_Ref>
+					<Attribute_Ref>gui</Attribute_Ref>
+					<Attribute_Ref>programming language:={java,lua}</Attribute_Ref>
+					<Attribute_Ref>programming language:={lua}</Attribute_Ref>
+					<Attribute_Ref>programming language:={c#}</Attribute_Ref>
+					<Attribute_Ref>based on:={embla}</Attribute_Ref>
+					<Attribute_Ref>programming language:={c++}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_5</Concept_Ref>
+					<Concept_Ref>Concept_ctx_2</Concept_Ref>
+					<Concept_Ref>Concept_ctx_3</Concept_Ref>
+					<Concept_Ref>Concept_ctx_1</Concept_Ref>
+					<Concept_Ref>Concept_ctx_6</Concept_Ref>
+					<Concept_Ref>Concept_ctx_4</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_8</ID>
+				<Extent>
+					<Object_Ref>dcbouncer</Object_Ref>
+					<Object_Ref>dcwatch</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>cli</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_12</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_9</ID>
+				<Extent>
+					<Object_Ref>adccore</Object_Ref>
+					<Object_Ref>flowlib</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>programming language:={c#}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_12</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_2</ID>
+				<Extent>
+					<Object_Ref>netchatlink</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>programming language:={delphi}</Attribute_Ref>
+					<Attribute_Ref>gui</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_11</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_5</ID>
+				<Extent>
+					<Object_Ref>dcbouncer</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>cli</Attribute_Ref>
+					<Attribute_Ref>programming language:={c++}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_8</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_3</ID>
+				<Extent>
+					<Object_Ref>dcwatch</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>cli</Attribute_Ref>
+					<Attribute_Ref>programming language:={java}</Attribute_Ref>
+					<Attribute_Ref>programming language:={java,lua}</Attribute_Ref>
+					<Attribute_Ref>programming language:={lua}</Attribute_Ref>
+					<Attribute_Ref>based on:={embla}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_8</Concept_Ref>
+					<Concept_Ref>Concept_ctx_7</Concept_Ref>
+					<Concept_Ref>Concept_ctx_10</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_7</ID>
+				<Extent>
+					<Object_Ref>dcwatch</Object_Ref>
+					<Object_Ref>embla</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>programming language:={java}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_12</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_1</ID>
+				<Extent>
+					<Object_Ref>certmanager</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>gui</Attribute_Ref>
+					<Attribute_Ref>programming language:={lua}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_11</Concept_Ref>
+					<Concept_Ref>Concept_ctx_10</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_10</ID>
+				<Extent>
+					<Object_Ref>dcwatch</Object_Ref>
+					<Object_Ref>announcer bot</Object_Ref>
+					<Object_Ref>certmanager</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>programming language:={lua}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_12</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_4</ID>
+				<Extent>
+					<Object_Ref>dc-hublink</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>programming language:={visual basic}</Attribute_Ref>
+					<Attribute_Ref>gui</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_11</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_6</ID>
+				<Extent>
+					<Object_Ref>adccore</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>based on:={coredc}</Attribute_Ref>
+					<Attribute_Ref>programming language:={c#}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_9</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+		</Lattice>
+	</Step >
+	<Step nb="1">
+		<Lattice numberObj="9" numberAtt="11" numberCpt="13" >
+			<Config algo="fca">
+			</Config>
+			<Name>ctx</Name>
+			<Object>adccore</Object>
+			<Object>dcbouncer</Object>
+			<Object>dc-hublink</Object>
+			<Object>dcwatch</Object>
+			<Object>embla</Object>
+			<Object>flowlib</Object>
+			<Object>netchatlink</Object>
+			<Object>announcer bot</Object>
+			<Object>certmanager</Object>
+			<Attribute>gui</Attribute>
+			<Attribute>cli</Attribute>
+			<Attribute>programming language:={c#}</Attribute>
+			<Attribute>programming language:={delphi}</Attribute>
+			<Attribute>programming language:={c++}</Attribute>
+			<Attribute>programming language:={java}</Attribute>
+			<Attribute>programming language:={lua}</Attribute>
+			<Attribute>programming language:={visual basic}</Attribute>
+			<Attribute>programming language:={java,lua}</Attribute>
+			<Attribute>based on:={embla}</Attribute>
+			<Attribute>based on:={coredc}</Attribute>
+			<Concept>
+				<ID>Concept_ctx_12</ID>
+				<Extent>
+					<Object_Ref>adccore</Object_Ref>
+					<Object_Ref>dcbouncer</Object_Ref>
+					<Object_Ref>dc-hublink</Object_Ref>
+					<Object_Ref>dcwatch</Object_Ref>
+					<Object_Ref>embla</Object_Ref>
+					<Object_Ref>flowlib</Object_Ref>
+					<Object_Ref>netchatlink</Object_Ref>
+					<Object_Ref>announcer bot</Object_Ref>
+					<Object_Ref>certmanager</Object_Ref>
+				</Extent>
+				<Intent>
+				</Intent>
+				<UpperCovers>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_11</ID>
+				<Extent>
+					<Object_Ref>dc-hublink</Object_Ref>
+					<Object_Ref>netchatlink</Object_Ref>
+					<Object_Ref>certmanager</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>gui</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_12</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_0</ID>
+				<Extent>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>cli</Attribute_Ref>
+					<Attribute_Ref>programming language:={delphi}</Attribute_Ref>
+					<Attribute_Ref>programming language:={visual basic}</Attribute_Ref>
+					<Attribute_Ref>based on:={coredc}</Attribute_Ref>
+					<Attribute_Ref>programming language:={java}</Attribute_Ref>
+					<Attribute_Ref>gui</Attribute_Ref>
+					<Attribute_Ref>programming language:={java,lua}</Attribute_Ref>
+					<Attribute_Ref>programming language:={lua}</Attribute_Ref>
+					<Attribute_Ref>programming language:={c#}</Attribute_Ref>
+					<Attribute_Ref>based on:={embla}</Attribute_Ref>
+					<Attribute_Ref>programming language:={c++}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_5</Concept_Ref>
+					<Concept_Ref>Concept_ctx_2</Concept_Ref>
+					<Concept_Ref>Concept_ctx_3</Concept_Ref>
+					<Concept_Ref>Concept_ctx_1</Concept_Ref>
+					<Concept_Ref>Concept_ctx_6</Concept_Ref>
+					<Concept_Ref>Concept_ctx_4</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_8</ID>
+				<Extent>
+					<Object_Ref>dcbouncer</Object_Ref>
+					<Object_Ref>dcwatch</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>cli</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_12</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_9</ID>
+				<Extent>
+					<Object_Ref>adccore</Object_Ref>
+					<Object_Ref>flowlib</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>programming language:={c#}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_12</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_2</ID>
+				<Extent>
+					<Object_Ref>netchatlink</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>programming language:={delphi}</Attribute_Ref>
+					<Attribute_Ref>gui</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_11</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_5</ID>
+				<Extent>
+					<Object_Ref>dcbouncer</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>cli</Attribute_Ref>
+					<Attribute_Ref>programming language:={c++}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_8</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_3</ID>
+				<Extent>
+					<Object_Ref>dcwatch</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>cli</Attribute_Ref>
+					<Attribute_Ref>programming language:={java}</Attribute_Ref>
+					<Attribute_Ref>programming language:={java,lua}</Attribute_Ref>
+					<Attribute_Ref>programming language:={lua}</Attribute_Ref>
+					<Attribute_Ref>based on:={embla}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_8</Concept_Ref>
+					<Concept_Ref>Concept_ctx_7</Concept_Ref>
+					<Concept_Ref>Concept_ctx_10</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_7</ID>
+				<Extent>
+					<Object_Ref>dcwatch</Object_Ref>
+					<Object_Ref>embla</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>programming language:={java}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_12</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_1</ID>
+				<Extent>
+					<Object_Ref>certmanager</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>gui</Attribute_Ref>
+					<Attribute_Ref>programming language:={lua}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_11</Concept_Ref>
+					<Concept_Ref>Concept_ctx_10</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_10</ID>
+				<Extent>
+					<Object_Ref>dcwatch</Object_Ref>
+					<Object_Ref>announcer bot</Object_Ref>
+					<Object_Ref>certmanager</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>programming language:={lua}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_12</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_4</ID>
+				<Extent>
+					<Object_Ref>dc-hublink</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>programming language:={visual basic}</Attribute_Ref>
+					<Attribute_Ref>gui</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_11</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_6</ID>
+				<Extent>
+					<Object_Ref>adccore</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>based on:={coredc}</Attribute_Ref>
+					<Attribute_Ref>programming language:={c#}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_9</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+		</Lattice>
+	</Step >
+</RCAExplore_Document>

@@ -1,0 +1,8 @@
+FormalContext ctx
+algo fca
+| |FirstRelease:=[1986-2005]|FirstRelease:=[1998-2005]|FirstRelease:=[1986-1998]|FirstRelease:=[2005-2005]|FirstRelease:=[1998-1998]|FirstRelease:=[1986-1986]|FirstRelease:=*|ClientServer|Distributed|Merge|Lock|ProgrammingLanguage:={C++}|ProgrammingLanguage:={C}|ProgrammingLanguage:={C,shell scripts}|ProgrammingLanguage:={C,perl}|ProgrammingLanguage:={C,java,perl}|ProgrammingLanguage:={C,perl,shell scripts}|
+|git|x|x||x|||||x|x|||x|x|x||x|
+|CVS|x||x|||x||x|||||x|||||
+|ClearCase|||||||x|x||x|x||x||x|x||
+|GnuArch|x|x||x|||||x|x|||x|x||||
+|CVSNT|x|x|x||x|||x||x|x|x||||||

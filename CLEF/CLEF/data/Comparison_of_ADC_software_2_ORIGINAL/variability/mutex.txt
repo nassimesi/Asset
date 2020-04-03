@@ -1,0 +1,6 @@
+cli ->! programming language:={c-sharp}
+cli ->! programming language:={erlang}
+gui ->! programming language:={c++}
+gui ->! programming language:={lua}
+gui ->! programming language:={c}
+gui ->! programming language:={erlang}

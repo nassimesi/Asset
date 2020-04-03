@@ -1,0 +1,9 @@
+name,encryption,ipv6,plugin extendable,hash algorithms,adc support
+adccore,X,,X,tiger tree hash,tigr;adcs
+dcbouncer,X,,,tiger tree hash,any clients;hubs
+dc-hublink,,,,tiger tree hash,tigr
+dcwatch,X,,X,tiger tree hash,tigr;adcs
+embla,X,,X,tiger tree hash,tigr
+flowlib,X,,X,tiger tree hash,tigr
+netchatlink,,,,tiger tree hash,tigr
+announcer bot,X,,,*,adcs;osnr

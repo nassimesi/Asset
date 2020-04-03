@@ -1,0 +1,16 @@
+FormalContext ctx
+algo fca
+| |free and open source|active|software license:={bsd}|software license:={gnu gpl}|software license:={mit}|
+|airdc++|x|x||x||
+|airdc++ nano|x|x||x||
+|apexdc++|x|x||x||
+|dc++|x|x||x||
+|jucy|x|x|x|||
+|linuxdc++|x|x||x||
+|eiskaltdc++|x|x||x||
+|flylinkdc++|x|x||x||
+|rsx++|x|||x||
+|tkdc++|x|||x||
+|strongdc++|x|||x||
+|revconnect|x|||x||
+|ncdc|x|x|||x|

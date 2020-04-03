@@ -1,0 +1,5 @@
+FormalContext ctx
+algo fca
+| |class:={x}|attributN:={x}|m1:={x}|m1:=*|m2:={x}|m2:=*|m3:={x}|m3:=*|
+|counter1|x|x|x|||x||x|
+|counter2|x|x||x|x||x||

@@ -1,0 +1,184 @@
+implementation language(s):={c#,.net} -> database backend:={ms sql server,amazon server}
+implementation language(s):={c#,.net} -> first release date:=[2009-2009]
+license:={gpl,saas} -> first release date:=[2010-2010]
+license:={gpl,saas} -> last release date:=[2011-2011]
+license:={gpl,saas} -> database backend:={ms sql server,amazon server}
+license:={gpl,saas} -> implementation language(s):={asp.net}
+database backend:={mariadb,ms sql server,mysql} -> license:={agpl3}
+first release date:=[2013-2013] -> license:={agpl3}
+database backend:={mariadb,ms sql server,mysql} -> last release date:=[2015-2015]
+first release date:=[2013-2013] -> last release date:=[2015-2015]
+database backend:={mariadb,ms sql server,mysql} -> server operating system:={cross-platform}
+first release date:=[2013-2013] -> server operating system:={cross-platform}
+database backend:={mariadb,ms sql server,mysql} -> implementation language(s):={php}
+first release date:=[2013-2013] -> implementation language(s):={php}
+database backend:={db2,ms sql server,mysql} -> first release date:=[2004-2004]
+database backend:={db2,ms sql server,mysql} -> last release date:=[2015-2015]
+database backend:={google app engine} -> first release date:=[2012-2012]
+database backend:={google app engine} -> last release date:=*
+database backend:={google app engine} -> server operating system:={mac os,windows}
+database backend:={google app engine} -> license:={proprietary}
+implementation language(s):={apex} -> database backend:={proprietary}
+first release date:=[1999-1999] -> database backend:={proprietary}
+implementation language(s):={apex} -> last release date:=*
+first release date:=[1999-1999] -> last release date:=*
+implementation language(s):={apex} -> server operating system:={cloud computing}
+first release date:=[1999-1999] -> server operating system:={cloud computing}
+implementation language(s):={asp.net,asp} -> last release date:=[2014-2014]
+database backend:={ms sql,oracle,db2} -> last release date:=[2014-2014]
+first release date:=[1981-1981] -> last release date:=[2014-2014]
+last release date:=[2006-2006] -> first release date:=[2006-2006]
+implementation language(s):={vbscript,javascript,asp} -> first release date:=[2006-2006]
+first release date:=[1996-1996] -> implementation language(s):={.net}
+first release date:=[1996-1996] -> database backend:={ms sql,oracle}
+first release date:=[2005-2005] -> license:={agpl3}
+first release date:=[2005-2005] -> implementation language(s):={python}
+first release date:=[2005-2005] -> database backend:={postgresql}
+first release date:=[2005-2005] -> last release date:=[2015-2015]
+first release date:=[2005-2005] -> server operating system:={mac os,linux,windows,unix}
+first release date:=[2005-2005] -> server operating system:={mac os,linux,windows,unix}
+server operating system:={web,android,ios} -> first release date:=[2010-2010]
+server operating system:={web,android,ios} -> last release date:=[2014-2014]
+server operating system:={web,android,ios} -> implementation language(s):={php}
+implementation language(s):={c++,javascript} -> last release date:=[2012-2012]
+database backend:={ms sql,oracle,postgresql,mysql} -> last release date:=[2012-2012]
+first release date:=[2001-2001] -> last release date:=[2012-2012]
+implementation language(s):={c++,javascript} -> license:={proprietary,saas}
+database backend:={ms sql,oracle,postgresql,mysql} -> license:={proprietary,saas}
+first release date:=[2001-2001] -> license:={proprietary,saas}
+first release date:=[1998-1998] -> implementation language(s):={asp.net}
+first release date:=[1998-1998] -> license:={saas}
+license:={proprietary,saas,agpl3} -> first release date:=[2003-2003]
+implementation language(s):={php,javascript} -> first release date:=[2003-2003]
+license:={proprietary,saas,agpl3} -> last release date:=[2012-2012]
+implementation language(s):={php,javascript} -> last release date:=[2012-2012]
+license:={proprietary,saas,agpl3} -> server operating system:={mac os,linux,windows,unix}
+license:={proprietary,saas,agpl3} -> server operating system:={mac os,linux,windows,unix}
+implementation language(s):={php,javascript} -> server operating system:={mac os,linux,windows,unix}
+implementation language(s):={php,javascript} -> server operating system:={mac os,linux,windows,unix}
+database backend:={firebird,oracle,postgresql,sqlite,sqlite3,ms sql server,mysql,csv files,dbf files,interbase,maxdb} -> first release date:=[2003-2003]
+database backend:={firebird,oracle,postgresql,sqlite,sqlite3,ms sql server,mysql,csv files,dbf files,interbase,maxdb} -> last release date:=*
+database backend:={firebird,oracle,postgresql,sqlite,sqlite3,ms sql server,mysql,csv files,dbf files,interbase,maxdb} -> server operating system:={mac os,linux,windows,unix}
+database backend:={firebird,oracle,postgresql,sqlite,sqlite3,ms sql server,mysql,csv files,dbf files,interbase,maxdb} -> server operating system:={mac os,linux,windows,unix}
+license:={mit} -> first release date:=[2006-2006]
+database backend:={postgresql,mysql,adodb} -> first release date:=[2006-2006]
+license:={mit} -> last release date:=[2014-2014]
+database backend:={postgresql,mysql,adodb} -> last release date:=[2014-2014]
+license:={mit} -> server operating system:={cross-platform}
+database backend:={postgresql,mysql,adodb} -> server operating system:={cross-platform}
+license:={mit} -> implementation language(s):={php}
+database backend:={postgresql,mysql,adodb} -> implementation language(s):={php}
+implementation language(s):={asp.net,.net} -> first release date:=[2003-2003]
+implementation language(s):={asp.net,.net} -> database backend:={ms sql}
+implementation language(s):={asp.net,.net} -> last release date:=[2014-2014]
+implementation language(s):={asp.net,.net} -> license:={proprietary,saas}
+database backend:={sql server} -> first release date:=[2008-2008]
+database backend:={sql server} -> implementation language(s):={vbscript,asp}
+database backend:={sql server} -> last release date:=[2015-2015]
+database backend:={sql server} -> server operating system:={mac os,linux,windows,unix}
+database backend:={sql server} -> server operating system:={mac os,linux,windows,unix}
+database backend:={ms sql server,amazon server} -> first release date:=[2009-2010]
+database backend:={ms sql server,amazon server} -> last release date:=[2011-2013]
+database backend:={ms sql server,amazon server} -> server operating system:={windows}
+implementation language(s):={c#} -> last release date:=[2013-2013]
+implementation language(s):={c#} -> database backend:={ms sql server}
+implementation language(s):={c#} -> server operating system:={windows}
+implementation language(s):={c#} -> first release date:=[1990-2009]
+database backend:={proprietary} -> first release date:=[1999-2009]
+first release date:=[1981-1990] -> implementation language(s):={asp.net}
+first release date:=[1981-1990] -> last release date:=[2013-2014]
+database backend:={db2} -> license:={proprietary,saas}
+database backend:={db2} -> first release date:=[1981-2004]
+database backend:={db2} -> last release date:=[2014-2015]
+first release date:=[2010-2010] -> last release date:=[2011-2014]
+first release date:=[1999-2001] -> license:={proprietary}
+first release date:=[1996-1998] -> last release date:=[2012-2012]
+first release date:=[1996-1998] -> database backend:={ms sql}
+database backend:={postgresql,sqlite,mysql} -> license:={gpl}
+database backend:={postgresql,sqlite,mysql} -> implementation language(s):={python}
+database backend:={postgresql,sqlite,mysql} -> first release date:=[2003-2008]
+database backend:={firebird} -> first release date:=[2003-2009]
+database backend:={firebird} -> server operating system:={windows}
+database backend:={oracle,postgresql,mysql} -> first release date:=[2001-2003]
+database backend:={oracle,postgresql,mysql} -> server operating system:={linux,windows}
+first release date:=[2004-2004] -> server operating system:={cross-platform}
+first release date:=[2004-2004] -> implementation language(s):={php}
+first release date:=[2012-2012] -> implementation language(s):={java}
+implementation language(s):={ruby on rails} -> first release date:=[2009-2009]
+implementation language(s):={ruby on rails} -> database backend:={mysql}
+last release date:=[2006-2009] -> server operating system:={cloud computing}
+last release date:=[2006-2009] -> first release date:=[2006-2009]
+last release date:=[2006-2009] -> database backend:={mysql}
+server operating system:={android,ios} -> first release date:=[2009-2010]
+server operating system:={android,ios} -> database backend:={mysql}
+server operating system:={android,ios} -> last release date:=[2009-2014]
+first release date:=[2008-2008] -> last release date:=[2014-2015]
+implementation language(s):={vbscript,asp} -> first release date:=[2006-2008]
+first release date:=[1981-1996] -> license:={proprietary}
+implementation language(s):={c++} -> last release date:=[2011-2013]
+implementation language(s):={c++} -> license:={proprietary}
+implementation language(s):={c++} -> server operating system:={windows}
+implementation language(s):={c++} -> first release date:=[1990-2009]
+database backend:={ms sql,oracle} -> first release date:=[1981-2001]
+database backend:={ms sql,oracle} -> license:={proprietary}
+first release date:=[1990-1998] -> last release date:=[2012-2013]
+implementation language(s):={javascript} -> last release date:=[2006-2012]
+implementation language(s):={javascript} -> first release date:=[2001-2006]
+implementation language(s):={javascript} -> database backend:={mysql}
+implementation language(s):={javascript} -> license:={saas}
+database backend:={ms sql server,mysql} -> first release date:=[2003-2013]
+implementation language(s):={.net} -> last release date:=[2012-2014]
+implementation language(s):={.net} -> server operating system:={windows}
+implementation language(s):={.net} -> first release date:=[1996-2009]
+first release date:=[2004-2005] -> last release date:=[2014-2015]
+last release date:=[2009-2011] -> first release date:=[2009-2010]
+implementation language(s):={asp} -> license:={saas}
+implementation language(s):={asp} -> first release date:=[1981-2008]
+first release date:=[1981-1998] -> last release date:=[2012-2014]
+first release date:=[1981-1998] -> server operating system:={windows}
+database backend:={oracle} -> first release date:=[1981-2003]
+database backend:={oracle} -> server operating system:={windows}
+license:={agpl3} -> last release date:=[2012-2015]
+license:={agpl3} -> first release date:=[2003-2013]
+last release date:=[2006-2011] -> first release date:=[2006-2010]
+last release date:=[2006-2011] -> license:={saas}
+implementation language(s):={python} -> first release date:=[2003-2009]
+server operating system:={cloud computing} -> first release date:=[1999-2012]
+license:={gpl} -> first release date:=[2003-2010]
+last release date:=* -> first release date:=[1999-2012]
+implementation language(s):={java} -> first release date:=[2006-2012]
+last release date:=[2012-2012] -> first release date:=[1996-2009]
+database backend:={postgresql} -> first release date:=[2001-2008]
+implementation language(s):={asp.net} -> last release date:=[2011-2014]
+implementation language(s):={asp.net} -> server operating system:={windows}
+implementation language(s):={asp.net} -> first release date:=[1981-2010]
+database backend:={ms sql} -> first release date:=[1981-2003]
+database backend:={ms sql} -> last release date:=[2012-2014]
+database backend:={ms sql} -> server operating system:={windows}
+database backend:={ms sql server} -> first release date:=[1990-2013]
+license:={proprietary,saas} -> last release date:=[2011-2015]
+license:={proprietary,saas} -> first release date:=[1981-2009]
+server operating system:={cross-platform} -> last release date:=[2014-2015]
+server operating system:={cross-platform} -> database backend:={mysql}
+server operating system:={cross-platform} -> first release date:=[2003-2013]
+last release date:=[2014-2014] -> first release date:=[1981-2010]
+last release date:=[2015-2015] -> first release date:=[2003-2013]
+last release date:=[2011-2012] -> server operating system:={windows}
+implementation language(s):={php} -> database backend:={mysql}
+implementation language(s):={php} -> last release date:=[2012-2015]
+implementation language(s):={php} -> first release date:=[2003-2013]
+first release date:=[2009-2010] -> license:={saas}
+server operating system:={mac os,linux,windows,unix} -> first release date:=[2003-2009]
+server operating system:={mac os,linux,windows,unix} -> first release date:=[2003-2009]
+server operating system:={mac os,windows} -> first release date:=[2003-2012]
+server operating system:={linux,windows} -> first release date:=[2001-2009]
+last release date:=[2006-2012] -> first release date:=[1996-2010]
+first release date:=[2008-2010] -> last release date:=[2009-2015]
+license:={proprietary} -> first release date:=[1981-2012]
+last release date:=[2006-2013] -> first release date:=[1990-2012]
+database backend:={mysql} -> first release date:=[2001-2013]
+license:={saas} -> last release date:=[2006-2015]
+license:={saas} -> first release date:=[1981-2012]
+server operating system:={windows} -> first release date:=[1981-2012]
+last release date:=[2006-2014] -> first release date:=[1981-2012]
+last release date:=[2006-2015] -> first release date:=[1981-2013]

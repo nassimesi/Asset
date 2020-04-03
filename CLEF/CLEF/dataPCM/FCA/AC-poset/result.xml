@@ -1,0 +1,16 @@
+<RCAExplore_Document>
+	<Step nb="0">
+		<Lattice numberObj="0" numberAtt="0" numberCpt="0" >
+			<Config algo="acposet">
+			</Config>
+			<Name>ctx</Name>
+		</Lattice>
+	</Step >
+	<Step nb="1">
+		<Lattice numberObj="0" numberAtt="0" numberCpt="0" >
+			<Config algo="acposet">
+			</Config>
+			<Name>ctx</Name>
+		</Lattice>
+	</Step >
+</RCAExplore_Document>

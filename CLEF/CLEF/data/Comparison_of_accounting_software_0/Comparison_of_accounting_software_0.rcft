@@ -1,0 +1,21 @@
+FormalContext ctx
+algo fca
+| |license:={gpl3}|license:={gpl}|license:={apache}|license:={cpal}|license:={mpl}|license:={gpl2}|license:={agpl}|windows|mac os|linux|market focus:={mid-market}|market focus:={personal}|market focus:={low-market}|market focus:={mid-market,high-market}|market focus:={mid-market,low-market}|market focus:={personal,low-market}|market focus:={mid-market,high-market,personal,low-market}|general ledger|accounts receivble/accounts payable|double-entry bookkeeping system|multi-currency pricing|online banking|point of sale|e-commerce|stock option commodity trade|payroll|entreprise ressource planning|customer relationship management|business intelligence|human ressource management|manufacturing/bill of materials|supply chain management|inventory management|distribution/warehouse management system|multiuser|multico|tax form|structure:={web based}|structure:={stand alone}|structure:={client-server}|structure:={web based,stand alone}|structure:={stand alone,client-server}|structure:={web based,client-server}|structure:={multi-user,web access,cloud hostable}|structure:={web based,saas,on demand,on-premise}|language:={delphi}|language:={python}|language:={c++}|language:={java}|language:={c}|language:={java ee}|language:={php}|language:={perl}|language:={c,scheme}|
+|adempiere||x||||||x|x|x|x|||||||x|x|x|x||x|x||x|x|x|x|x|x|x|x|x||||x|||||||||||x||||||
+|apache ofbiz|||x|||||x|x|x|x||x||x|||x|x|x|x||x|x|||x|x|x|x|x|x|x|x|x|x|x|||||||x|||||x||||||
+|compiere||||||x||x|x|x|x||||||||||||x||||x|x|||x|||x||||x|||||||||||||x||||
+|frontaccounting|x|||||||x|x|x|x||x||x|||x|x|x|x||x||||x|x|||x|x|x||x|x||x||||||||||||||x|||
+|gnucash||x||||||x|x|x||x|x|||x||x|x|x|x|x|||x||||||||||||||x|||||||||||x||||x|
+|gnu enterprise||x||||||x|x|x|x|||x|||||||x|||x|||x|x||x||x||||||x|x||x||||||x||||||||
+|homebank||x||||||x|x|x||x||||||x|||||||||||||||||||||x|||||||||||x|||||
+|idempiere||||||x||x|x|x|x|||||||x|x|x|x||x|x||x|x|x|x|x|x|x|x|x|x|x||x||x|||x||||||x||||||
+|jfire||x||||||x||x|x|x|x|x|x|x|x|||x|||x||||x|x||||||x||||x|x||x||||||||x||||||
+|kmymoney||x||||||x|x|x||x||||||x||x|x|x|||x||||||||||||||x|||||||||x|||||||
+|ledgersmb||x||||||x|x|x|x|||||||x|x|x|x|x|x||||x|x|x||x|x|x|x|x|x|x|x|||||||||||||||x||
+|openbravo|||||x|||x|x|x|x|||||||x|x|x|x||x|x||x|x|x|x|x|x||x||x|x|x|x|||||||x||||x||||||
+|odoo|||||||x|x|x|x|x||x||x|||x|x|x|x||x|x||x|x|x|x|x|x|x|x|x|x|x||x||x|||x||||x||||||||
+|postbooks||||x||||x|x|x|x||x||x|||x|x|x|x||x|x|||x|x|x||x||x|x||||||x||||||||x|||||||
+|sql-ledger||x||||||x|x|x|x|||||||x|x|x|x||x||||x||||x||x||x|x||x|||||||||||||||x||
+|tryton||x||||||x|x|x|x||x||x|||x|x|x|x|x||x|||x|x|||x|x|x|x|x|x|||x|x||x|||||x||||||||
+|turbocash||x||||||x|x||x||x||x|||x|x|x|||x||||||||x||x||x|x|||x|||||||x|||||||||
+|weberp||x||||||x|x|x|x||x||x|||x|x|x|x||||||x|||||||||||x||||||||||||||x|||

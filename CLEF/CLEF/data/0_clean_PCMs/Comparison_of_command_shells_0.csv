@@ -1,0 +1,25 @@
+name,usual environment,usually invoked,introduced,platform-independent,license,source code availability,user interface,mouse support,unicode support,iso 8601 support,console redirection,stream redirection,configurability,startup/shutdown scripts,batch scripts,logging,native cim/wbem support,single file executable
+bourne shell 1977 version,unix,sh,1977,X,proprietary,X,text-based cli,,,*,X,X,X,X,X,,,X
+bourne shell current version,unix,sh,1977,X,free,X,text-based cli,,X,*,X,X,X,X,X,X,,X
+posix shell,posix,sh,1992,*,*,*,text-based cli,,X,X,X,X,X,*,X,X,,*
+bash (v4),posix,bash;sh,1989,X,gpl,X,text-based cli,,X,X,X,X,X,X,X,X,,X
+csh,posix,csh,1978,X,bsd,X,text-based cli,,,*,X,X,X,X,X,X,,X
+tcsh,posix,tcsh;csh,1983,X,bsd,X,text-based cli,,X,*,X,X,X,X,X,X,,X
+hamilton c shell,win32;os/2,csh,1988,X,proprietary,,text-based cli,,,X,X,X,X,X,X,X,,X
+scsh,posix,scsh,1994,X,bsd,X,*,*,*,*,*,X,*,*,*,*,,X
+ksh (ksh93t+),posix,ksh,1983,X,common public license,X,text-based cli,,X,X,X,X,X,X,X,X,,X
+pdksh,posix,ksh;sh,1989,X,common public license,X,text-based cli,,,*,X,X,X,X,X,X,,X
+zsh,posix,zsh,1990,X,mit,X,text-based cli,X,X,X,X,X,X,X,X,X,,X
+ash,posix,sh,1989,X,bsd,X,text-based cli,,,X,X,X,X,X,X,X,,X
+ccp,cp/m;mp/m,ccp,1975,,free,X,text-based cli,,,,*,,,X,,,,X
+command.com,dos,cmd,1980,,ms-eula;bsd;gpl,,text-based cli,,,,X,X,X,X,X,,,X
+os/2 cmd.exe,os/2,cmd,1987,,ibm-eula,,text-based cli,,,,,X,*,,X,,,*
+windows cmd.exe,win32,cmd,1993,,ms-eula,,text-based cli,,,,,X,X,X,X,,,X
+4dos ndos,dos;windows 95;windows 98;se;me,4dos;ndos,1989,,mit,X,text-based cli,X,,X,X,X,X,X,X,X,,X
+4os2,os/2,4os2,1992,,free,X,text-based cli,,,,,X,X,X,X,X,,*
+tcc (formerly 4nt),win32,tcc,1993,,shareware,,text-based cli,X,X,X,,X,X,X,X,X,,
+vms dcl,openvms,*,1977,X,*,*,text-based cli,*,,*,*,X,*,X,X,X,,
+windows powershell,.net,powershell,2006,,ms-eula,,graphical cli,X,X,X,,X,X,X,X,X,X,
+rc,plan 9;posix,rc,1989,X,lpl,*,*,*,X,*,*,X,*,*,*,*,,X
+beanshell,java,*,2005,X,lgpl,*,*,*,X,*,*,X,*,*,*,*,*,X
+fish,posix,fish,2005,X,gpl,X,*,*,X,*,*,X,*,X,*,*,,*

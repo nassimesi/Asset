@@ -1,0 +1,5 @@
+name,class_A,class_B,A_attr_a1,A_attr_a2,A_method_m1,A_method_m2,A_method_m3
+counter1,X,,X,,X,,
+counter2,X,,,X,,X,
+counter3,X,,X,X,X,X,X
+counter4,X,X,X,,X,,

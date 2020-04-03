@@ -1,0 +1,39 @@
+name,creator,release date,cost,open source,software license
+adeptia integration suite,adeptia,2012,non-free,,proprietary
+adroitlogic ultraesb,adroitlogic,2011,free;commercial support available,X,agpl
+apache camel,apache software foundation,2014,free;commercial support available,X,apache software license
+apache synapse,apache software foundation,2010,free;commercial support available,X,apache software license
+artix esb,progress software,2003,*,,proprietary
+astera software centerprise data integrator,astera software,2013,non-free,,proprietary
+automation anywhere integration pack,automation anywhere,2011,non-free,,proprietary
+biztalk server,microsoft,2014,non-free,,proprietary
+sharepoint server,microsoft,2013,*,,proprietary;saas
+flow software,flow software ltd,2010,free;non-free,,proprietary
+fuse esb - enterprise servicemix,fusesource,2007,*,X,apache software license
+informatica power center,informatica,2007,non-free,,proprietary
+jboss enterprise service bus (esb),jboss,2013,free;commercial support available,X,lgpl
+jboss enterprise soa platform,jboss,2011,free;commercial support available,X,lgpl
+jitterbit,jitterbit,2008,*,X,jpl
+magic xpi integration platform,magic software enterprises,2012,*,,proprietary
+linx 5,twenty57.com,2014,free;non-free,,proprietary
+openadaptor,the software conservancy,2011,free,X,mit
+mule esb,mulesoft,2014,*,X,cpal
+openesb,openesb community,2013,*,X,cddl
+seeburger business integration server,seeburger ag,2015,non-free,,proprietary
+openlink virtuoso,openlink software,2001,non-free,X,proprietary;gpl
+oracle bpel process manager,oracle corporation,2014,non-free,,proprietary
+oracle enterprise service bus,oracle corporation,2014,non-free,,proprietary
+petals esb,ow2 consortium,2011,free;commercial support available,X,lgpl
+sonic esb,progress software,2011,*,,proprietary
+sap netweaver process integration (short sap pi),sap ag,2011,non-free,,proprietary
+servicemix,apache software foundation,2014,free;commercial support available,X,apache software license
+spagic,engineering group,2010,free;commercial support available,X,lgpl
+sun java composite application platform suite,sun microsystems,2008,non-free,,proprietary
+talend esb,talend,2015,free;commercial support available,X,apache software license;gpl
+trackersuite.net,automation centre,2012,non-free,,proprietary
+unify nxj,unify corporation,*,*,,proprietary
+webmethods integration server,software ag,2013,non-free,,proprietary
+websphere enterprise service bus,ibm,2010,non-free,,proprietary
+websphere message broker,ibm,2010,non-free,,proprietary
+websphere process server,ibm,2010,non-free,,proprietary
+wso2 enterprise service bus (esb),wso2,2013,free;commercial support available,X,apache software license

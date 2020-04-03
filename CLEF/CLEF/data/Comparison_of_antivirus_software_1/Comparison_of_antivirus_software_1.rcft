@@ -1,0 +1,25 @@
+FormalContext ctx
+algo fca
+| |on-demand scan|on-access scan|heuristics|cloudav|firewall|ids|ips|email security|antispam|web protection|live-update|support|av comparatives|license:={proprietary}|license:={gnu gpl}|price:={trialware}|price:={non-free}|price:={free}|first release:=[1997-2013]|first release:=[2000-2013]|first release:=[1997-2012]|first release:=[2007-2013]|first release:=[2000-2012]|first release:=[1997-2011]|first release:=[2008-2013]|first release:=[2007-2012]|first release:=[2000-2011]|first release:=[1997-2010]|first release:=[2010-2013]|first release:=[2008-2012]|first release:=[2007-2011]|first release:=[2000-2010]|first release:=[1997-2008]|first release:=[2011-2013]|first release:=[2010-2012]|first release:=[2008-2011]|first release:=[2007-2010]|first release:=[2000-2008]|first release:=[1997-2007]|first release:=[2012-2013]|first release:=[2011-2012]|first release:=[2010-2011]|first release:=[2008-2010]|first release:=[2007-2008]|first release:=[2000-2007]|first release:=[1997-2000]|first release:=[2013-2013]|first release:=[2012-2012]|first release:=[2011-2011]|first release:=[2010-2010]|first release:=[2008-2008]|first release:=[2007-2007]|first release:=[2000-2000]|first release:=[1997-1997]|country of origin:={spain}|country of origin:={czech republic}|country of origin:={brazil}|country of origin:={russia}|country of origin:={japan}|country of origin:={united kingdom}|country of origin:={germany}|country of origin:={united states}|country of origin:={romania}|country of origin:={slovakia}|country of origin:={india}|country of origin:={finland}|
+|avast mac security|x|x|x|||||x||x|x|x|x|x||||x|x|x|x|x|x||x|x|||x|x||||x|x|||||x|x|||||||x||||||||x|||||||||||
+|avira free mac security|x|x|x|||||x||x|x||x|x||||x|x|x|x|x|x|x|x|x|x||x|x|x|||x|x|x|||||x|x|||||||x||||||||||||x||||||
+|bitdefender antivirus for mac|x|x|x|||||||x|x|x|x|x|||x||x|x|x|x|x|x|x|x|x||x|x|x|||x|x|x|||||x|x|||||||x||||||||||||||x||||
+|clam antivirus|x|x||||||x|||x||||x|||x|x|x|x||x|x|||x|x||||x|x|||||x|x||||||x|x|||||||x|||||||||x|||||
+|comodo mac security|x|x|x||||||||x|||x||||x|x|x|x|x|x||x|x|||x|x||||x|x|||||x|x|||||||x||||||||||||||x|||||
+|dr. web anti-virus for mac os x|x|x|||||||||x|||x||x|||x|x|x|x|x||x|x|||x|x||||x|x|||||x|x|||||||x||||||||||x|||||||||
+|eset cyber security|x|x|x|x||||||x|x|x||x|||x||x|x|x|x|x|x|x|x|x||x|x|x|||x|x|x|||||x|x|||||||x|||||||||||||||x|||
+|eset cyber security pro|x|x|x|x|x|||x||x|x|x|x|x|||x||x|x||x|||x||||x|||||x||||||x|||||||x|||||||||||||||||x|||
+|f-secure anti-virus for mac|x|x|x|x||x||x|x|x|x|x|x|x|||x||x|x|x|x|x|x|x|x|x|x||x|x|x|x|||x|x|x|||||x|x|||||||x|||||||||||||||x|
+|virusbarrier|x|x|||||||||x|x||x|||x||x||x|||x||||x|||||x||||||x|||||||x||||||||x||||||||x|||||
+|mac internet security|x|x|||x|||||x|x|x||x|||x||x|x|x||x|x|||x|x||||x|x|||||x|x||||||x|x|||||||x|||||||||x|||||
+|kaspersky internet security|x|x|x|x||||x||x|x|x|x|x|||x||x|x|x|x|x|x|x|x|x|x|x|x|x|x|||x|x|x|||||x|x|||||||x||||||||x|||||||||
+|panda antivirus for mac|x|x|x|x||x||x|x|x|x|x|x|x|||x||x|x|x|x|x|x|x|x|x|x||x|x|x|x|||x|x|x|||||x|x|||||||x||||x||||||||||||
+|protectmac antivirus|x|x|||||||||x|x|x|x|||x||x|x|x|x|x|x||x|x|x|||x|x|x||||x|x|x|||||x|x|||||||x||||||||x|||||||
+|psafe total mac|x|x||x||||||x|x|x|x|x||||x|x|x||x|||x||||x|||||x||||||x|||||||x||||||||||x||||||||||
+|quick heal total security for mac|x|x||||||||x|x|x||x|||x||x|x|x|x|x||x|x|||x|x||||x|x|||||x|x|||||||x|||||||||||||||||x||
+|sophos anti-virus for mac|x|x|x|x||x|x|x||x|x||x|x||||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|||x|x|x|||||x|x|||||||x||||||||||x|||||||
+|symantec endpoint protection|x|x|x|x||||x|x|x|x|x|x|x|||x||x|x|x|x|x||x|x|||x|x||||x|x|||||x|x|||||||x||||||||||||||x|||||
+|norton antivirus for mac|x|x|x||||||||x|x|x|x|||x||x|x|x|x|x||x|x|||x|x||||x|x|||||x|x|||||||x||||||||||||||x|||||
+|titanium internet security for mac|x|x|x|||||||x|x|x|x|x|||x||x|x|x|x|x|x|x|x|x||x|x|x|||x|x|x|||||x|x|||||||x||||||||||x||||||||
+|secureanywhere antivirus|x|x||||||||x|x|||x||x|||x|x|x|x|x||x|x|||x|x||||x|x|||||x|x|||||||x||||||||||||||x|||||
+|secureanywhere internet security plus|x|x||||||||x|x|||x||x|||x|x|x|x|x||x|x|||x|x||||x|x|||||x|x|||||||x||||||||||||||x|||||

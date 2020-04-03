@@ -1,0 +1,280 @@
+movement:={ramescape,anti mirror} -> code license:={gcwcd}
+targeting:={guessfactor targeting,circular targeting,anti mirror,bullet shielding,linear targeting} -> code license:={gcwcd}
+movement:={wall hug movement} -> targeting:={head on targeting}
+movement:={wave surfing,true surfing} -> targeting:={guessfactor targeting,dynamic clustering}
+movement:={wave surfing,true surfing} -> targeting:={guessfactor targeting,dynamic clustering}
+movement:={semi circular movement} -> targeting:={linear targeting}
+movement:={random movement,stop and go,musashi trick} -> fighting:={teams,one on one}
+movement:={random movement,stop and go,musashi trick} -> code license:={rwpcl}
+movement:={random movement,stop and go,musashi trick} -> targeting:={guessfactor targeting}
+movement:={random movement,stop and go,musashi trick} -> code java
+targeting:={reduced linear targeting} -> movement:={anti gravity movement}
+targeting:={reduced linear targeting} -> fighting:={melee}
+targeting:={reduced linear targeting} -> code java
+targeting:={guessfactor targeting,dynamic segmentation} -> movement:={wave surfing}
+targeting:={guessfactor targeting,dynamic segmentation} -> fighting:={one on one}
+targeting:={guessfactor targeting,play it forward,crowd targeting,dynamic clustering} -> code license:={nprl}
+targeting:={guessfactor targeting,play it forward,crowd targeting,dynamic clustering} -> movement:={minimum risk movement}
+targeting:={head on targeting,mean linear targeting,circular targeting,virtual guns} -> movement:={anti gravity movement,virtual bullet dodging}
+targeting:={head on targeting,mean linear targeting,circular targeting,virtual guns} -> fighting:={one on one,melee}
+targeting:={head on targeting,mean linear targeting,circular targeting,virtual guns} -> fighting:={one on one,melee}
+movement:={pattern movement,pimitive adaptive movement} -> code license:={eclipse public license}
+movement:={pattern movement,pimitive adaptive movement} -> fighting:={one on one,melee}
+movement:={pattern movement,pimitive adaptive movement} -> fighting:={one on one,melee}
+movement:={orbital movement,ramming movement} -> targeting:={circular targeting}
+movement:={orbital movement,ramming movement} -> code java
+movement:={wall smoothing,random orbital movement} -> targeting:={random targeting}
+movement:={wall smoothing,random orbital movement} -> code license:={public domain}
+movement:={wall smoothing,random orbital movement} -> fighting:={one on one}
+movement:={wall smoothing,random orbital movement} -> code java
+movement:={provocative movement} -> targeting:={circular targeting,segmented mean}
+movement:={surfing,go to} -> targeting:={guessfactor targeting,dynamic clustering}
+movement:={surfing,go to} -> targeting:={guessfactor targeting,dynamic clustering}
+movement:={surfing,go to} -> code java
+targeting:={linear circular targeting} -> code license:={nprl}
+targeting:={linear circular targeting} -> movement:={wave surfing}
+targeting:={linear circular targeting} -> fighting:={one on one}
+code license:={gpl} -> targeting:={guessfactor targeting}
+code license:={gpl} -> movement:={wave surfing}
+code license:={gpl} -> fighting:={one on one}
+targeting:={vectorial pattern matching} -> code license:={rwpcl}
+targeting:={vectorial pattern matching} -> movement:={wave surfing}
+targeting:={vectorial pattern matching} -> fighting:={one on one}
+targeting:={vectorial pattern matching} -> code java
+movement:={oscillator movement,circular movement} -> fighting:={teams}
+movement:={oscillator movement,circular movement} -> targeting:={guessfactor targeting}
+movement:={stationary} -> fighting:={one on one}
+targeting:={fire at enemys bullet} -> fighting:={one on one}
+movement:={randomwaves} -> code license:={proprietary}
+targeting:={random guessfactor targeting} -> code license:={proprietary}
+movement:={randomwaves} -> fighting:={one on one}
+targeting:={random guessfactor targeting} -> fighting:={one on one}
+targeting:={guessfactor targeting,pattern matching,dynamic clustering,crowd targeting} -> code license:={rwpcl}
+movement:={wave surfing,minimum risk movement,linear movement} -> fighting:={one on one,melee}
+movement:={wave surfing,minimum risk movement,linear movement} -> fighting:={one on one,melee}
+movement:={wave surfing,minimum risk movement,linear movement} -> targeting:={guessfactor targeting}
+movement:={wave surfing,true serving} -> targeting:={guessfactor targeting,dynamic clustering}
+movement:={wave surfing,true serving} -> targeting:={guessfactor targeting,dynamic clustering}
+movement:={wave surfing,true serving} -> fighting:={one on one}
+movement:={wave surfing,true serving} -> code java
+movement:={orbital random movement} -> code license:={rwpcl}
+movement:={orbital random movement} -> fighting:={one on one}
+movement:={orbital random movement} -> code java
+movement:={random movement,wall smoothing,adaptive movement} -> code license:={rwpcl}
+movement:={random movement,wall smoothing,adaptive movement} -> targeting:={guessfactor targeting}
+movement:={random movement,wall smoothing,adaptive movement} -> code java
+movement:={wave surfing,dodging bullets} -> code license:={rwpcl}
+movement:={wave surfing,dodging bullets} -> fighting:={one on one}
+movement:={adapting oscillator movement} -> targeting:={symbolic pattern matching}
+movement:={adapting oscillator movement} -> code license:={rwlpcl}
+movement:={adapting oscillator movement} -> code java
+targeting:={guessfactor targeting,dynamic clustering,semi circular targeting} -> movement:={wave surfing,minimum risk movement}
+targeting:={guessfactor targeting,dynamic clustering,semi circular targeting} -> movement:={wave surfing,minimum risk movement}
+targeting:={guessfactor targeting,dynamic clustering,semi circular targeting} -> fighting:={one on one,melee}
+targeting:={guessfactor targeting,dynamic clustering,semi circular targeting} -> fighting:={one on one,melee}
+targeting:={guessfactor targeting,dynamic clustering,semi circular targeting} -> code java
+movement:={fluid movement} -> code license:={open source}
+movement:={fluid movement} -> targeting:={linear targeting}
+movement:={fluid movement} -> fighting:={one on one,melee}
+movement:={fluid movement} -> fighting:={one on one,melee}
+movement:={fluid movement} -> code java
+targeting:={pattern matching,singletick} -> movement:={anti gravity movement,minimum risk movement,oscillator movement}
+targeting:={pattern matching,singletick} -> movement:={anti gravity movement,minimum risk movement,oscillator movement}
+targeting:={pattern matching,singletick} -> fighting:={melee}
+targeting:={pattern matching,singletick} -> code java
+movement:={statistical bullet dodging} -> code license:={rwpcl}
+movement:={statistical bullet dodging} -> targeting:={guessfactor targeting}
+movement:={statistical bullet dodging} -> code java
+movement:={wave surfing,go to} -> code license:={rwlpcl}
+movement:={wave surfing,go to} -> fighting:={melee}
+movement:={one way} -> code license:={closed}
+movement:={one way} -> targeting:={linear targeting}
+movement:={one way} -> fighting:={one on one}
+movement:={one way} -> code java
+movement:={ramming movement,maximum risk movement} -> code license:={rwlpcl}
+movement:={ramming movement,maximum risk movement} -> targeting:={circular targeting}
+movement:={ramming movement,maximum risk movement} -> fighting:={one on one}
+movement:={ramming movement,maximum risk movement} -> code java
+targeting:={virtual guns,statistical targeting} -> code license:={rwlpcl}
+targeting:={virtual guns,statistical targeting} -> fighting:={one on one}
+targeting:={virtual guns,statistical targeting} -> code java
+targeting:={wave targeting} -> movement:={wall smoothing}
+targeting:={wave targeting} -> code license:={rwlpcl}
+targeting:={wave targeting} -> fighting:={one on one}
+movement:={magictrick,bullet dodging,random bullet dodging} -> targeting:={dynamic clustering}
+movement:={magictrick,bullet dodging,random bullet dodging} -> code license:={rwpcl}
+movement:={magictrick,bullet dodging,random bullet dodging} -> fighting:={one on one}
+movement:={magictrick,bullet dodging,random bullet dodging} -> code java
+movement:={wave surfing,wall smoothing} -> targeting:={dynamic clustering}
+movement:={wave surfing,wall smoothing} -> code license:={rwpcl}
+movement:={wave surfing,wall smoothing} -> code java
+targeting:={self organizing observation log} -> code license:={rwlpcl}
+targeting:={self organizing observation log} -> movement:={random movement}
+targeting:={self organizing observation log} -> fighting:={one on one}
+targeting:={self organizing observation log} -> code java
+movement:={ramming movement,random movement,stop and go} -> targeting:={guessfactor}
+movement:={ramming movement,random movement,stop and go} -> code java
+code license:={qkpl} -> movement:={pattern movement,corner movement}
+movement:={reinforcement learning} -> targeting:={neural targeting}
+movement:={reinforcement learning} -> fighting:={melee}
+movement:={wave surfing,random movement} -> targeting:={statistical targeting}
+movement:={wave surfing,random movement} -> code license:={rwpcl}
+movement:={wave surfing,random movement} -> fighting:={one on one}
+movement:={wave surfing,random movement} -> code java
+movement:={perpendicular,multi mode} -> targeting:={head on targeting,circular targeting,linear targeting,random targeting}
+movement:={random movement,mosquito} -> targeting:={symbolic pattern matching}
+movement:={random movement,mosquito} -> code license:={rwpcl}
+targeting:={corner targeting} -> movement:={corner movement}
+targeting:={corner targeting} -> code license:={open source}
+targeting:={neural targeting,gaffs targeting} -> code license:={closed}
+targeting:={neural targeting,gaffs targeting} -> movement:={wave surfing}
+targeting:={neural targeting,gaffs targeting} -> fighting:={one on one}
+movement:={ocnirpsng movement} -> targeting:={circular targeting}
+movement:={ocnirpsng movement} -> code java
+code license:={bsd} -> targeting:={guessfactor targeting}
+code license:={bsd} -> movement:={wave surfing}
+code license:={bsd} -> code java
+movement:={statistical aom} -> code license:={rwlpcl}
+movement:={statistical aom} -> fighting:={one on one,melee}
+movement:={statistical aom} -> fighting:={one on one,melee}
+movement:={statistical aom} -> targeting:={guessfactor targeting}
+movement:={statistical aom} -> code java
+code license:={freebsd} -> movement:={gilgalads movement}
+code license:={freebsd} -> targeting:={gilgalads targeting}
+movement:={orbital movement,random movement} -> targeting:={guessfactor targeting}
+movement:={random movement,minimum risk movement} -> fighting:={one on one,melee}
+movement:={random movement,minimum risk movement} -> fighting:={one on one,melee}
+movement:={random movement,minimum risk movement} -> code license:={rwpcl}
+movement:={random movement,minimum risk movement} -> targeting:={guessfactor targeting}
+movement:={random movement,minimum risk movement} -> code java
+movement:={multi buffered wavesurfing} -> fighting:={one on one}
+targeting:={single guessfactor gun} -> fighting:={one on one}
+movement:={ramming movement,multi mode} -> targeting:={linear targeting}
+movement:={ramming movement,multi mode} -> fighting:={one on one,melee}
+movement:={ramming movement,multi mode} -> fighting:={one on one,melee}
+movement:={ramming movement,multi mode} -> code java
+movement:={adaptive random movement} -> targeting:={visit count stats}
+movement:={adaptive random movement} -> code license:={closed}
+movement:={anti gravity movement,teasing movement} -> code license:={rwpcl}
+targeting:={guessfactor targeting,head on targeting,circular targeting,linear targeting,averaged linear targeting} -> code license:={rwpcl}
+movement:={random movement,stop and go,multi mode} -> fighting:={one on one,melee}
+movement:={random movement,stop and go,multi mode} -> fighting:={one on one,melee}
+movement:={random movement,stop and go,multi mode} -> targeting:={guessfactor targeting}
+movement:={random movement,multi mode,oscillator movement} -> targeting:={pattern matching}
+movement:={imperceptible} -> targeting:={bullet shielding}
+movement:={imperceptible} -> code license:={closed}
+movement:={imperceptible} -> code java
+targeting:={guessfactor targeting,dynamic clustering,displacement vectors} -> code license:={zlib}
+targeting:={guessfactor targeting,dynamic clustering,displacement vectors} -> movement:={wave surfing,minimum risk movement}
+targeting:={guessfactor targeting,dynamic clustering,displacement vectors} -> movement:={wave surfing,minimum risk movement}
+targeting:={guessfactor targeting,dynamic clustering,displacement vectors} -> fighting:={one on one}
+targeting:={guessfactor targeting,dynamic clustering,displacement vectors} -> code java
+movement:={virtual movements array} -> targeting:={virtual guns}
+movement:={mirror movement} -> targeting:={symbolic pattern matching}
+movement:={mirror movement} -> code license:={rwpcl}
+movement:={mirror movement} -> code java
+movement:={pathfinding} -> targeting:={pattern matching}
+movement:={pathfinding} -> fighting:={one on one}
+movement:={behind the snow} -> code license:={proprietary}
+movement:={behind the snow} -> code java
+movement:={musashi trick,sandbox flattener} -> targeting:={dynamic clustering}
+targeting:={shadow,melee gun} -> code license:={zlib}
+targeting:={shadow,melee gun} -> movement:={minimum risk movement}
+targeting:={shadow,melee gun} -> fighting:={one on one,melee}
+targeting:={shadow,melee gun} -> fighting:={one on one,melee}
+targeting:={shadow,melee gun} -> code java
+targeting:={guessfactor targeting,head on targeting,circular targeting,virtual guns,single tick pattern matching,linear targeting} -> movement:={wave surfing}
+code license:={npl} -> movement:={wave surfing}
+code license:={accsl} -> targeting:={circular targeting}
+movement:={minimum risk movement,circular movement} -> targeting:={play it forward,dynamic clustering}
+movement:={minimum risk movement,circular movement} -> targeting:={play it forward,dynamic clustering}
+movement:={minimum risk movement,circular movement} -> fighting:={one on one,melee}
+movement:={minimum risk movement,circular movement} -> fighting:={one on one,melee}
+movement:={danger prediction} -> targeting:={head on targeting,circular targeting,virtual guns,linear targeting}
+movement:={danger prediction} -> targeting:={circular targeting,head on targeting,virtual guns,linear targeting}
+movement:={adapting stop and go} -> fighting:={one on one}
+targeting:={heading circular targeting,enemy velocity,averaged velocity,last place i hit} -> fighting:={one on one}
+movement:={adapting stop and go} -> code java
+targeting:={heading circular targeting,enemy velocity,averaged velocity,last place i hit} -> code java
+movement:={anti pattern at distance} -> targeting:={head on targeting}
+movement:={anti pattern at distance} -> fighting:={one on one,melee}
+movement:={anti pattern at distance} -> fighting:={one on one,melee}
+movement:={anti pattern at distance} -> code java
+movement:={random pattern movement} -> code license:={public domain}
+movement:={random pattern movement} -> targeting:={head on targeting}
+movement:={random pattern movement} -> fighting:={one on one}
+movement:={random pattern movement} -> code java
+movement:={anti gravity movement,virtual bullet dodging} -> code license:={public domain}
+movement:={anti gravity movement,virtual bullet dodging} -> fighting:={one on one}
+movement:={anti gravity movement,virtual bullet dodging} -> code java
+targeting:={circular targeting,segmented mean} -> code license:={public domain}
+targeting:={circular targeting,segmented mean} -> fighting:={one on one}
+targeting:={circular targeting,segmented mean} -> code java
+code license:={gcwcd} -> targeting:={bullet shielding}
+code license:={gcwcd} -> fighting:={one on one}
+targeting:={guessfactor targeting,crowd targeting,dynamic clustering} -> fighting:={one on one}
+targeting:={guessfactor targeting,anti surfer targeting} -> movement:={wave surfing}
+targeting:={guessfactor targeting,anti surfer targeting} -> fighting:={one on one}
+movement:={go to} -> targeting:={dynamic clustering}
+targeting:={guessfactor targeting,visit count stats} -> code license:={rwlpcl}
+targeting:={guessfactor targeting,visit count stats} -> movement:={wave surfing}
+targeting:={guessfactor targeting,visit count stats} -> code java
+movement:={aggressive movement} -> code java
+targeting:={guessfactor} -> code license:={rwlpcl}
+targeting:={guessfactor} -> fighting:={one on one}
+movement:={pattern movement,corner movement} -> targeting:={head on targeting}
+movement:={pattern movement,corner movement} -> fighting:={one on one,melee}
+movement:={pattern movement,corner movement} -> fighting:={one on one,melee}
+movement:={pattern movement,corner movement} -> code java
+movement:={true surfing} -> targeting:={guessfactor targeting}
+movement:={true surfing} -> fighting:={one on one}
+movement:={true surfing} -> code java
+movement:={perpendicular} -> targeting:={head on targeting,circular targeting,linear targeting}
+movement:={perpendicular} -> fighting:={one on one}
+movement:={stop and go,oscillator movement} -> code license:={rwpcl}
+movement:={stop and go,oscillator movement} -> code java
+targeting:={averaged bearing offset targeting,angular targeting} -> movement:={random movement}
+movement:={orbital movement} -> code license:={public domain}
+movement:={orbital movement} -> fighting:={one on one}
+targeting:={averaged linear targeting} -> code java
+movement:={exact path predictor} -> code license:={open source}
+movement:={random movement,multi mode} -> code license:={rwpcl}
+movement:={random movement,multi mode} -> fighting:={one on one}
+movement:={random movement,multi mode} -> code java
+targeting:={guessfactor targeting,circular targeting,pattern matching,lateral velocity,linear targeting,random targeting} -> movement:={wave surfing,minimum risk movement}
+targeting:={guessfactor targeting,circular targeting,pattern matching,lateral velocity,linear targeting,random targeting} -> movement:={wave surfing,minimum risk movement}
+code license:={kpl} -> movement:={minimum risk movement}
+code license:={kpl} -> fighting:={one on one,melee}
+code license:={kpl} -> fighting:={one on one,melee}
+code license:={kpl} -> code java
+movement:={flat movement} -> fighting:={one on one,melee}
+movement:={flat movement} -> fighting:={one on one,melee}
+movement:={flat movement} -> targeting:={guessfactor targeting}
+movement:={linear movement} -> fighting:={one on one}
+movement:={random movement,pusedo not moving} -> fighting:={one on one}
+targeting:={single tick pattern matching} -> code java
+targeting:={dynamic clustering} -> code license:={rwpcl}
+targeting:={dynamic clustering} -> movement:={wave surfing}
+targeting:={dynamic clustering} -> code java
+movement:={gilgalads movement} -> code java
+targeting:={gilgalads targeting} -> code java
+movement:={anti gravity movement,minimum risk movement,oscillator movement} -> code license:={rwpcl}
+movement:={anti gravity movement,minimum risk movement,oscillator movement} -> code license:={rwpcl}
+movement:={corner movement} -> fighting:={melee}
+targeting:={angular targeting} -> fighting:={one on one}
+targeting:={visit count stats} -> fighting:={one on one}
+targeting:={guessfactor targeting,pattern matching} -> movement:={wave surfing}
+targeting:={guessfactor targeting,pattern matching} -> code java
+targeting:={guessfactor targeting,circular targeting,random targeting} -> code java
+movement:={wave surfing,anti gravity movement} -> fighting:={one on one}
+targeting:={neural targeting,guessfactor targeting} -> fighting:={one on one}
+movement:={sandbox flattener} -> fighting:={one on one}
+movement:={sandbox flattener} -> code java
+movement:={random movement,wall smoothing} -> fighting:={one on one}
+movement:={random movement,wall smoothing} -> fighting:={one on one}
+targeting:={multiple choice pattern matcher} -> code java
+targeting:={guessfactor targeting} -> code java
+targeting:={statistical targeting} -> movement:={random movement}
+movement:={musashi trick} -> fighting:={one on one}
+code license:={eclipse public license} -> fighting:={melee}
+targeting:={symbolic pattern matching} -> fighting:={one on one}

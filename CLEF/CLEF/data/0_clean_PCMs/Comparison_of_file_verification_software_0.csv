@@ -1,0 +1,47 @@
+name,first public release,cost,open source,license,linux,mac os x,windows,framework
+accuhash,*,non-free,,proprietary,,,X,*
+beaversfv,2008,free,,freeware,,,X,.net
+cdcheck,2003,non-free,,proprietary,,,X,*
+checksum compare,2012,free,,freeware,,,X,*
+cfv,2000,free,X,gpl,X,,X,python
+chk,2010,free,,freeware,,,X,vcl
+cksum,*,free,X,*,X,X,*,c
+cobynsoft's hash calculator,2011,free,,freeware,,,X,.net
+data digester,2013,non-free,,proprietary,X,X,X,java
+deepdigest,2012,free,X,gpl,X,*,*,qt
+dysfv,2007,free,X,gpl,,,X,.net
+exactfile,2009,free,,freeware,,,X,vcl
+express checksum calculator,2002,free,,freeware,,,X,*
+fastsum,2003,non-free,,freeware;shareware,,,X,*
+fciv,*,free,,freeware,,,X,*
+febooti hash crc,2006,free,,freeware,,,X,*
+fileverifier++,2006,free,X,gpl,,,X,*
+flashsfv,2007,free,,freeware;donationware,,,X,*
+fsum,*,free,,freeware,,,X,*
+fsum frontend,2007,free,X,gpl,*,*,X,*
+get-filehash,*,free,,freeware,,,X,*
+hashcalc,*,free,,freeware,,,X,*
+hashcheck,2008,free,X,bsd,,,X,*
+ilsfv,2009,free,X,freeware,,,X,.net
+intactfile,2013,free,,freeware,,,X,.net
+jdigest,2009,free,X,gpl,X,X,X,java
+jhashcalc,2007,free,X,gpl,*,*,*,java
+jacksum,2002,free,X,gpl,X,X,X,java
+md5 file hasher,2012,free,,freeware;shareware,,,X,*
+md5  sha checksum utility,2013,non-free,,freeware;shareware,,,X,.net
+md5deep,2003,free,X,public domain,X,X,X,*
+md5sum,*,free,X,*,X,X,X,*
+md5summer,*,free,X,gpl,,,X,delphi
+md5 win verifier,2014,free,,freeware,,,X,.net
+quicksfv,1999,free,,freeware,X,,X,*
+rapidcrc,2004,free,X,gpl,,,X,*
+reksfv,2006,free,,freeware,,,X,vcl
+rhash,*,free,X,freeware,X,,X,c
+safefilemanager,2012,non-free,,freeware;shareware,X,,X,java
+sfv checker,*,non-free,,proprietary,,,X,*
+sha1sum,*,free,X,*,X,X,X,*
+supersfv,*,free,X,gpl,,X,,*
+teracopy,2007,non-free,,freeware;shareware,,,X,*
+toolsley hash validate,2014,free,,freeware;shareware,X,X,X,*
+winhasher,*,free,X,gpl,,,X,.net
+wxchecksums,2003,free,X,gpl,X,*,X,gtk

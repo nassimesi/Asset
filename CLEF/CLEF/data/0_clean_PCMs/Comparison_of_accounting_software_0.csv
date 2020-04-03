@@ -1,0 +1,19 @@
+name,license,windows,mac os,linux,market focus,general ledger,accounts receivble/accounts payable,double-entry bookkeeping system,multi-currency pricing,online banking,point of sale,e-commerce,stock option commodity trade,payroll,entreprise ressource planning,customer relationship management,business intelligence,human ressource management,manufacturing/bill of materials,supply chain management,inventory management,distribution/warehouse management system,multiuser,multico,tax form,structure,language
+adempiere,gpl,X,X,X,mid-market,X,X,X,X,*,X,X,*,X,X,X,X,X,X,X,X,X,*,*,*,web based,java
+apache ofbiz,apache,X,X,X,low-market;mid-market,X,X,X,X,*,X,X,*,*,X,X,X,X,X,X,X,X,X,X,X,multi-user;web access;cloud hostable,java
+compiere,gpl2,X,X,X,mid-market,*,*,*,*,*,X,*,*,*,X,X,*,*,X,*,*,X,*,*,*,web based,java ee
+frontaccounting,gpl3,X,X,X,low-market;mid-market,X,X,X,X,*,X,*,*,*,X,X,*,*,X,X,X,,X,X,*,web based,php
+gnucash,gpl,X,X,X,personal;low-market,X,X,X,X,X,*,*,X,*,*,*,*,*,*,*,*,*,*,*,*,stand alone,c;scheme
+gnu enterprise,gpl,X,X,X,mid-market;high-market,*,*,*,X,*,*,X,*,*,X,X,*,X,*,X,*,*,*,*,*,web based;stand alone,python
+homebank,gpl,X,X,X,personal,X,*,,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,stand alone,c
+idempiere,gpl2,X,X,X,mid-market,X,X,X,X,*,X,X,*,X,X,X,X,X,X,X,X,X,X,X,*,web based;client-server,java
+jfire,gpl,X,,X,personal;low-market;mid-market;high-market,*,*,X,*,*,X,*,*,*,X,X,*,*,*,*,*,X,*,*,*,web based;stand alone,java
+kmymoney,gpl,X,X,X,personal,X,*,X,X,X,*,*,X,*,*,*,*,*,*,*,*,*,*,*,*,stand alone,c++
+ledgersmb,gpl,X,X,X,mid-market,X,X,X,X,X,X,*,*,*,X,X,X,*,X,X,X,X,X,X,X,web based,perl
+openbravo,mpl,X,X,X,mid-market,X,X,X,X,*,X,X,*,X,X,X,X,X,X,*,X,*,X,X,X,web based;on-premise;saas;on demand,java
+odoo,agpl,X,X,X,low-market;mid-market,X,X,X,X,*,X,X,*,X,X,X,X,X,X,X,X,X,X,X,*,web based;client-server,python
+postbooks,cpal,X,X,X,low-market;mid-market,X,X,X,X,*,X,X,*,*,X,X,X,*,X,*,X,X,*,*,*,client-server,c++
+sql-ledger,gpl,X,X,X,mid-market,X,X,X,X,*,X,*,*,*,X,*,*,*,X,*,X,*,X,X,*,web based,perl
+tryton,gpl,X,X,X,low-market;mid-market,X,X,X,X,X,*,X,*,*,X,X,*,*,X,X,X,X,X,X,*,client-server;stand alone,python
+turbocash,gpl,X,X,,low-market;mid-market,X,X,X,*,*,X,*,*,*,*,*,*,*,X,*,X,*,X,X,*,stand alone,delphi
+weberp,gpl,X,X,X,low-market;mid-market,X,X,X,X,*,*,*,*,*,X,*,*,*,*,*,*,*,*,*,*,web based,php

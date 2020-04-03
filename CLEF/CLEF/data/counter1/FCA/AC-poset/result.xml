@@ -1,0 +1,34 @@
+<RCAExplore_Document>
+	<Step nb="0">
+		<Lattice numberObj="0" numberAtt="0" numberCpt="1" >
+			<Config algo="fca">
+			</Config>
+			<Name>ctx</Name>
+			<Concept>
+				<ID>Concept_ctx_0</ID>
+				<Extent>
+				</Extent>
+				<Intent>
+				</Intent>
+				<UpperCovers>
+				</UpperCovers>
+			</Concept>
+		</Lattice>
+	</Step >
+	<Step nb="1">
+		<Lattice numberObj="0" numberAtt="0" numberCpt="1" >
+			<Config algo="fca">
+			</Config>
+			<Name>ctx</Name>
+			<Concept>
+				<ID>Concept_ctx_0</ID>
+				<Extent>
+				</Extent>
+				<Intent>
+				</Intent>
+				<UpperCovers>
+				</UpperCovers>
+			</Concept>
+		</Lattice>
+	</Step >
+</RCAExplore_Document>

@@ -1,0 +1,15 @@
+FormalContext ctx
+algo fca
+| |gui|cli|webui|programming language:={c++}|programming language:={java}|programming language:={c}|programming language:={c++,lua}|based on:={dc++}|based on:={strongdc++}|based on:={airdc++,nanodc}|based on:={dc++,strongdc++}|based on:={dc++,apexdc speed mode,strongdc++}|
+|airdc++|x|||x|||||x||||
+|airdc++ nano||x||x||||||x|||
+|apexdc++|x|||x|||x||x||||
+|dc++|x|||x|||||||||
+|jucy|x||||x||||||||
+|linuxdc++|x|||x||||x|||||
+|eiskaltdc++|x|x|x|x|||x|x|||||
+|flylinkdc++|x||x|x||||x|x||x|x|
+|rsx++|x|||x|||x||x||||
+|tkdc++|x|||x|||x|x|x||x||
+|strongdc++|x|||x||||x|||||
+|ncdc||x||||x|||||||

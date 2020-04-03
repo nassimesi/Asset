@@ -1,0 +1,17 @@
+name,first public release,cost,software license,based framework,written in,testdouble
+aimp,2006,free,proprietary,bass audio library,delphi,3.4
+amarok,2003,free,gpl,gstreamer;xine;mplayer;vlc;directshow;quicktime,c++,5.6
+aqualung,2006,free,gpl,*,c,1.8
+atunes,2006,free,gpl,*,java,*
+audacious,2005,free,gpl,xmms based,c;c++,*
+banshee,2005,free,mit,gstreamer,c#,*
+beep media player,2004,free,gpl,xmms based,c,*
+clementine,2011,free,gpl,gstreamer,c++,*
+cmus,2005,free,gpl,*,c,*
+cog,2006,free,gpl,*,objective-c,*
+exaile,2006,free,gpl,gstreamer,python,*
+ecoute,2008,free,proprietary,av foundation;quicktime,objective-c,*
+flash mp3 player,2008,free,proprietary,*,*,*
+foobar2000,2002,free,proprietary;bsd,*,c++,*
+guayadeque music player,2003,free,gpl,gstreamer,c++,*
+gear player,2012,non-free,proprietary,core audio,objective-c,*

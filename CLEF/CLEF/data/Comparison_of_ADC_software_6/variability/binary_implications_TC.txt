@@ -1,0 +1,13 @@
+programminglanguage:={c} -> cli
+basedon:={dc++,apexdcspeedmode,strongdc++} -> webui
+programminglanguage:={java} -> gui
+basedon:={airdc++,nanodc} -> cli
+basedon:={airdc++,nanodc} -> programminglanguage:={c++}
+webui -> basedon:={dc++}
+webui -> gui
+webui -> programminglanguage:={c++}
+programminglanguage:={c++,lua} -> gui
+basedon:={dc++} -> gui
+basedon:={dc++} -> programminglanguage:={c++}
+basedon:={strongdc++} -> gui
+basedon:={strongdc++} -> programminglanguage:={c++}

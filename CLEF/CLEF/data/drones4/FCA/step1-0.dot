@@ -1,0 +1,39 @@
+digraph G { 
+	rankdir=BT;
+	margin=0;
+	node [margin="0.03,0.03",fontname="DejaVu Sans"];
+	ranksep=0.3;
+	nodesep=0.2;
+//graph[label="name:ctx,concept number:13,object number:8,attribute number:9"
+13 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_12</td></tr><tr><td><br/></td></tr><tr><td><br/></td></tr></table>>];
+14 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_5</td></tr><tr><td>Gimbal<br/></td></tr><tr><td><br/></td></tr></table>>];
+15 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_9</td></tr><tr><td>GPS<br/></td></tr><tr><td><br/></td></tr></table>>];
+16 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_2</td></tr><tr><td>GLONASS<br/>Avoidance<br/>FT ge 20<br/></td></tr><tr><td>DJI Mavic Air<br/>Yuneec Typoon H Pro<br/></td></tr></table>>];
+17 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_7</td></tr><tr><td><br/></td></tr><tr><td><br/></td></tr></table>>];
+18 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_11</td></tr><tr><td>Headless<br/></td></tr><tr><td><br/></td></tr></table>>];
+19 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_10</td></tr><tr><td>Altitude Hold<br/></td></tr><tr><td><br/></td></tr></table>>];
+20 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_0</td></tr><tr><td><br/></td></tr><tr><td><br/></td></tr></table>>];
+21 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_4</td></tr><tr><td>FT l 10<br/></td></tr><tr><td>syma X4S Assault<br/>Syma X8G<br/></td></tr></table>>];
+22 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_1</td></tr><tr><td><br/></td></tr><tr><td>Aosenma CG035 GPS FPV<br/></td></tr></table>>];
+23 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_3</td></tr><tr><td><br/></td></tr><tr><td>Hubsan X4 H502S<br/></td></tr></table>>];
+24 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_6</td></tr><tr><td><br/></td></tr><tr><td>Parrot Bebop<br/></td></tr></table>>];
+25 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_8</td></tr><tr><td>FT ge 10<br/></td></tr><tr><td>DJI Ryze Tello<br/></td></tr></table>>];
+	18:p -> 13:p
+	19:p -> 13:p
+	16:p -> 14:p
+	22:p -> 14:p
+	17:p -> 15:p
+	24:p -> 15:p
+	20:p -> 16:p
+	14:p -> 17:p
+	23:p -> 17:p
+	21:p -> 18:p
+	17:p -> 18:p
+	15:p -> 19:p
+	25:p -> 19:p
+	20:p -> 21:p
+	20:p -> 22:p
+	22:p -> 23:p
+	23:p -> 24:p
+	24:p -> 25:p
+}

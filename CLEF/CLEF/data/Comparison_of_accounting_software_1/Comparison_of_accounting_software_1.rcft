@@ -1,0 +1,72 @@
+FormalContext ctx
+algo fca
+| |license:={software as a service}|license:={proprietary}|license:={freeware}|license:={proprietary,freeware}|license:={software as a service,proprietary}|license:={software as a service,freeware}|windows|os x|linux|market focus:={mid-market}|market focus:={high-market}|market focus:={personal}|market focus:={low-market}|market focus:={mid-market,high-market}|market focus:={mid-market,low-market}|market focus:={mid-market,high-market,low-market}|structure:={web based}|structure:={remote access}|structure:={stand alone}|structure:={multi-user}|structure:={web access}|structure:={stand alone,mobile}|structure:={web based,stand alone}|structure:={web access,stand alone}|structure:={remote access,multi-user}|structure:={multi-user,web access}|structure:={multi-user,location,terminal server}|structure:={multi-user,web access,location,terminal server}|structure:={remote access,multi-user,location,terminal server}|structure:={remote access,mobile access,multi-user,web access,cloud hostable}|structure:={remote access,multi-user,stand alone,location,terminal server}|structure:={remote access,mobile access,multi-user,web access,location,terminal server,cloud hostable}|
+|24sevenoffice|x||||||x|x|x|x|||x||x||x||||||||||||||||
+|the access group||x|||||x|||x|||||||||x||||||||||||||
+|acumatica|x|x|||x||x|||x|||||||x||x||||x||||||||||
+|ame accounting software||x|||||x|||x|||x||x||||x||||||||||||||
+|aplos software||x|||||x|x|x|x|||x||x||x||||||||||||||||
+|baan corporation||x|||||x|x|x|x|||x||x||x||x||||x||||||||||
+|big4books|x||x|||x|x|x|x|x|||x||x||x||||||||||||||||
+|brightpearl|x||||||x|x|x|x|||x||x||x||||||||||||||||
+|cgram enterprise||x|||||x|x|x|x|||x||x||||x||||||||||||||
+|cheqbook|x||||||x|x|x|x|||x||x||x||||||||||||||||
+|coda||x|||||x||x|x|||||||||x||x|||x|||||||||
+|comarch altum||x|||||x|||x|||x||x||||x||x|||x|||||||||
+|cougar mountain software||x|||||x|||x|x||x|x|x|x|x||x||||x||||||||||
+|express accounts from nch software||x|||||x|x||x|||x||x||||x||x|||x|||||||||
+|financialforce.com|x||||||x|x|x|x|||||||x||||||||||||||||
+|flexaccount||x|||||x|||x|x|||x|||x||x||||x||||||||||
+|fortora fresh finance||x|||||x|x||||x|||||||x||||||||||||||
+|freeagent|x||||||x|x|x||||x||||x||||||||||||||||
+|freshbooks|x||||||x|x|x||||x||||x||||||||||||||||
+|gem accounts|x||||||x|x|x|x|||x||x||x||||||||||||||||
+|ibank||x||||||x||||x|||||||x|||x|||||||||||
+|intacct|x||||||x|x|x|x|||||||x||||||||||||||||
+|invoiceit||x|||||x|||x|||x||x||||x||||||||||||||
+|kashflow|x||||||x|x|x|x|||x||x||x||||||||||||||||
+|kashoo|x||||||x|x|x||||x||||x||||||||||||||||
+|microsoft dynamics ax||x|||||x|||x|x|||x||||||x|||||||x||||||
+|microsoft dynamics c5||x|||||x||||||x|||||x||x|x||||x|x||||x|||
+|microsoft dynamics gp||x|||||x|||x|||x||x|||x||x|x||||x|x|x|x|x|x||x|
+|microsoft dynamics nav||x|||||x|||x|||x||x|||x||x|x||||x|x|x|x|x|x||x|
+|microsoft dynamics sl||x|||||x|||x|||x||x|||||x|x|||||x|x|x|||||
+|microsoft money||x|||||x|||||x|||||||x||||||||||||||
+|microsoft office accounting||x|x|x|||x||||||x||||||x||||||||||||||
+|mint.com|x||||||x|x|x|||x|||||x||||||||||||||||
+|moneydance||x|||||x|x|x|||x|||||||x||||||||||||||
+|moneywiz||x||||||x||||x|||||||x|||x|||||||||||
+|myob accountright||x|||||x|x||x|x||x|x|x|x|||x||||||||||||||
+|myob exo business||x|||||x|||x|x|||x||||x|x|x|||||x||x||x||x||
+|netsuite|x||||||x|x|x|x|||||||x||||||||||||||||
+|newviews||x|||||x|||x|||x||x||||x||x|||x|||||||||
+|nolapro|x||x|||x|x|x|x|x|x||x|x|x|x|x||x||||x||||||||||
+|nosa xp||x|||||x|||x|x||x|x|x|x|x||x||||x||||||||||
+|open systems accounting software||x|||||x|x|x|x|||x||x||||x||||||||||||||
+|openda qx||x|||||x||x|x|||x||x|||x|||||||||||||||
+|oracle e-business suite||x|||||x|x|x||x||||||x||||||||||||||||
+|outright|x||x|||x|x|x|x||||x||||x||||||||||||||||
+|passport software||x|||||x||x|x|||x||x||||x||||||||||||||
+|pos solutions||x|||||x||||||||||||x||||||||||||||
+|quickbooks enterprise solutions||x|||||x|x||x|||||||||x||||||||||||||
+|quickbooks online||x|||||x|x|x||||x||||x||||||||||||||||
+|quickbooks pro/premier||x|||||x|x||x|||x||x||||x||||||||||||||
+|quicken||x|||||x|x||||x|||||||x||||||||||||||
+|red wing software||x|||||x|||x|||x||x||||x||||||||||||||
+|saasu|x||||||x|x|x|x|||x||x||x||||||||||||||||
+|sage group||x|||||x||||||||||||x||||||||||||||
+|sage 50 accounting||x|||||x|||x|x||x|x|x|x|||x||||||||||||||
+|sage 300 erp||x|||||x|x|x|x|||||||x||x||||x||||||||||
+|sage line 50||x|||||x||||||x||||||x||||||||||||||
+|sage pastel evolution||x|||||x|||x|x||x|x|x|x|||x||||||||||||||
+|sage pfw erp||x|||||x||x|x|||||||||x||||||||||||||
+|sap business bydesign||x|||||x|||x|||x||x||x||||||||||||||||
+|sap business one||x|||||x|||x|||x||x||||x||||||||||||||
+|sap erp||x|||||x|x|x|x|x|||x|||x||x||||x||||||||||
+|simply accounting||x|||||x||x||||x||||||x||||||||||||||
+|softline pastel|x|x|||x||x|x||x|x||x|x|x|x|||x||||||||||||||
+|tally||x|||||x|||x|||||||||x||||||||||||||
+|traverse||x|||||x|||x|||x||x||||x||||||||||||||
+|wave accounting|x||||||x|x|x||||x||||x||||||||||||||||
+|xero|x||||||x|x|x|x|||x||x||x||||||||||||||||
+|you need a budget||x|||||x|x||||x|||||||x||||||||||||||

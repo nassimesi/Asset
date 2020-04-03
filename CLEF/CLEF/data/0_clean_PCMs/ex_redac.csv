@@ -1,0 +1,6 @@
+name,FirstRelease,ClientServer,Distributed,Merge,Lock,ProgrammingLanguage
+git,2005,,X,X,,C;shell scripts;perl
+CVS,1986,X,,*,,C
+ClearCase,*,X,,X,X,C;java;perl
+GnuArch,2005,,X,X,,C;shell scripts
+CVSNT,1998,X,,X,X,C++

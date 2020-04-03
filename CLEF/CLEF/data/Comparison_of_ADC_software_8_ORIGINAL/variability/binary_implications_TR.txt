@@ -1,0 +1,12 @@
+software type:={seriebot} -> active
+software type:={manage ssl certificates} -> active
+software type:={announce new releases} -> active
+software type:={hub operator helper} -> free and open source
+software type:={hub operator helper} -> software license:={gnu gpl}
+software type:={relay} -> active
+software type:={hub linker} -> free and open source
+software type:={hub linker} -> software license:={gnu gpl}
+software type:={general library} -> free and open source
+software type:={general library} -> software license:={gnu gpl}
+active -> free and open source
+active -> software license:={gnu gpl}

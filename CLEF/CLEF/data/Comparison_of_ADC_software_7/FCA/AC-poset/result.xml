@@ -1,0 +1,2324 @@
+<RCAExplore_Document>
+	<Step nb="0">
+		<Lattice numberObj="12" numberAtt="28" numberCpt="46" >
+			<Config algo="fca">
+			</Config>
+			<Name>ctx</Name>
+			<Object>airdc++</Object>
+			<Object>airdc++ nano</Object>
+			<Object>apexdc++</Object>
+			<Object>dc++</Object>
+			<Object>jucy</Object>
+			<Object>linuxdc++</Object>
+			<Object>eiskaltdc++</Object>
+			<Object>flylinkdc++</Object>
+			<Object>rsx++</Object>
+			<Object>tkdc++</Object>
+			<Object>strongdc++</Object>
+			<Object>ncdc</Object>
+			<Attribute>magnet uri</Attribute>
+			<Attribute>upnp</Attribute>
+			<Attribute>nat traversal</Attribute>
+			<Attribute>dht</Attribute>
+			<Attribute>encryption</Attribute>
+			<Attribute>ipv6</Attribute>
+			<Attribute>plugin:={eclipse rcp}</Attribute>
+			<Attribute>plugin:={lua}</Attribute>
+			<Attribute>plugin:={c++,lua}</Attribute>
+			<Attribute>plugin:={qml,qtscript,lua}</Attribute>
+			<Attribute>proxy</Attribute>
+			<Attribute>hash algorithms:={tiger tree hash}</Attribute>
+			<Attribute>protocol support:={inherits from airdc++}</Attribute>
+			<Attribute>protocol support:={inherits from dc++}</Attribute>
+			<Attribute>protocol support:={inherits from strongdc++}</Attribute>
+			<Attribute>protocol support:={tigr,adcs}</Attribute>
+			<Attribute>protocol support:={keyp,tigr,adcs}</Attribute>
+			<Attribute>protocol support:={keyp,tigr,sudp,adcs}</Attribute>
+			<Attribute>protocol support:={ucmd,tigr,blom,adcs}</Attribute>
+			<Attribute>protocol support:={keyp,ucmd,tigr,blom,adcs}</Attribute>
+			<Attribute>protocol support:={natt,ucmd,tigr,blom,sega,adcs}</Attribute>
+			<Attribute>protocol support:={keyp,ucmd,tigr,blom,sudp,adcs}</Attribute>
+			<Attribute>protocol support:={natt,pfsr,ucmd,tigr,blom,sega,adcs}</Attribute>
+			<Attribute>protocol support:={natt,pfsr,ucmd,tigr,blom,sega,adcs,qp}</Attribute>
+			<Attribute>protocol support:={natt,pfsr,keyp,blom,ucmd,tigr,sega,adcs}</Attribute>
+			<Attribute>protocol support:={natt,pfsr,ucmd,keyp,tigr,blom,sega,fs,adcs}</Attribute>
+			<Attribute>protocol support:={natt,pfsr,hbri,keyp,ubn1,blom,fo,mcn1,pbd1,ucmd,tigr,sudp,sega,asch,adcs,qp}</Attribute>
+			<Attribute>nmdc compatible</Attribute>
+			<Concept>
+				<ID>Concept_ctx_45</ID>
+				<Extent>
+					<Object_Ref>airdc++</Object_Ref>
+					<Object_Ref>airdc++ nano</Object_Ref>
+					<Object_Ref>apexdc++</Object_Ref>
+					<Object_Ref>dc++</Object_Ref>
+					<Object_Ref>jucy</Object_Ref>
+					<Object_Ref>linuxdc++</Object_Ref>
+					<Object_Ref>eiskaltdc++</Object_Ref>
+					<Object_Ref>flylinkdc++</Object_Ref>
+					<Object_Ref>rsx++</Object_Ref>
+					<Object_Ref>tkdc++</Object_Ref>
+					<Object_Ref>strongdc++</Object_Ref>
+					<Object_Ref>ncdc</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>nmdc compatible</Attribute_Ref>
+					<Attribute_Ref>encryption</Attribute_Ref>
+					<Attribute_Ref>hash algorithms:={tiger tree hash}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_43</ID>
+				<Extent>
+					<Object_Ref>airdc++</Object_Ref>
+					<Object_Ref>apexdc++</Object_Ref>
+					<Object_Ref>dc++</Object_Ref>
+					<Object_Ref>jucy</Object_Ref>
+					<Object_Ref>linuxdc++</Object_Ref>
+					<Object_Ref>eiskaltdc++</Object_Ref>
+					<Object_Ref>flylinkdc++</Object_Ref>
+					<Object_Ref>rsx++</Object_Ref>
+					<Object_Ref>tkdc++</Object_Ref>
+					<Object_Ref>strongdc++</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>magnet uri</Attribute_Ref>
+					<Attribute_Ref>proxy</Attribute_Ref>
+					<Attribute_Ref>nmdc compatible</Attribute_Ref>
+					<Attribute_Ref>encryption</Attribute_Ref>
+					<Attribute_Ref>upnp</Attribute_Ref>
+					<Attribute_Ref>hash algorithms:={tiger tree hash}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_44</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_44</ID>
+				<Extent>
+					<Object_Ref>airdc++</Object_Ref>
+					<Object_Ref>airdc++ nano</Object_Ref>
+					<Object_Ref>apexdc++</Object_Ref>
+					<Object_Ref>dc++</Object_Ref>
+					<Object_Ref>jucy</Object_Ref>
+					<Object_Ref>linuxdc++</Object_Ref>
+					<Object_Ref>eiskaltdc++</Object_Ref>
+					<Object_Ref>flylinkdc++</Object_Ref>
+					<Object_Ref>rsx++</Object_Ref>
+					<Object_Ref>tkdc++</Object_Ref>
+					<Object_Ref>strongdc++</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>proxy</Attribute_Ref>
+					<Attribute_Ref>nmdc compatible</Attribute_Ref>
+					<Attribute_Ref>encryption</Attribute_Ref>
+					<Attribute_Ref>upnp</Attribute_Ref>
+					<Attribute_Ref>hash algorithms:={tiger tree hash}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_45</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_41</ID>
+				<Extent>
+					<Object_Ref>airdc++</Object_Ref>
+					<Object_Ref>apexdc++</Object_Ref>
+					<Object_Ref>dc++</Object_Ref>
+					<Object_Ref>eiskaltdc++</Object_Ref>
+					<Object_Ref>flylinkdc++</Object_Ref>
+					<Object_Ref>tkdc++</Object_Ref>
+					<Object_Ref>strongdc++</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>magnet uri</Attribute_Ref>
+					<Attribute_Ref>proxy</Attribute_Ref>
+					<Attribute_Ref>nmdc compatible</Attribute_Ref>
+					<Attribute_Ref>encryption</Attribute_Ref>
+					<Attribute_Ref>upnp</Attribute_Ref>
+					<Attribute_Ref>nat traversal</Attribute_Ref>
+					<Attribute_Ref>hash algorithms:={tiger tree hash}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_43</Concept_Ref>
+					<Concept_Ref>Concept_ctx_42</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_42</ID>
+				<Extent>
+					<Object_Ref>airdc++</Object_Ref>
+					<Object_Ref>airdc++ nano</Object_Ref>
+					<Object_Ref>apexdc++</Object_Ref>
+					<Object_Ref>dc++</Object_Ref>
+					<Object_Ref>eiskaltdc++</Object_Ref>
+					<Object_Ref>flylinkdc++</Object_Ref>
+					<Object_Ref>tkdc++</Object_Ref>
+					<Object_Ref>strongdc++</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>proxy</Attribute_Ref>
+					<Attribute_Ref>nmdc compatible</Attribute_Ref>
+					<Attribute_Ref>encryption</Attribute_Ref>
+					<Attribute_Ref>upnp</Attribute_Ref>
+					<Attribute_Ref>nat traversal</Attribute_Ref>
+					<Attribute_Ref>hash algorithms:={tiger tree hash}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_44</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_28</ID>
+				<Extent>
+					<Object_Ref>apexdc++</Object_Ref>
+					<Object_Ref>eiskaltdc++</Object_Ref>
+					<Object_Ref>flylinkdc++</Object_Ref>
+					<Object_Ref>strongdc++</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>magnet uri</Attribute_Ref>
+					<Attribute_Ref>dht</Attribute_Ref>
+					<Attribute_Ref>proxy</Attribute_Ref>
+					<Attribute_Ref>nmdc compatible</Attribute_Ref>
+					<Attribute_Ref>encryption</Attribute_Ref>
+					<Attribute_Ref>upnp</Attribute_Ref>
+					<Attribute_Ref>nat traversal</Attribute_Ref>
+					<Attribute_Ref>hash algorithms:={tiger tree hash}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_41</Concept_Ref>
+					<Concept_Ref>Concept_ctx_35</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_35</ID>
+				<Extent>
+					<Object_Ref>apexdc++</Object_Ref>
+					<Object_Ref>eiskaltdc++</Object_Ref>
+					<Object_Ref>flylinkdc++</Object_Ref>
+					<Object_Ref>rsx++</Object_Ref>
+					<Object_Ref>strongdc++</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>magnet uri</Attribute_Ref>
+					<Attribute_Ref>dht</Attribute_Ref>
+					<Attribute_Ref>proxy</Attribute_Ref>
+					<Attribute_Ref>nmdc compatible</Attribute_Ref>
+					<Attribute_Ref>encryption</Attribute_Ref>
+					<Attribute_Ref>upnp</Attribute_Ref>
+					<Attribute_Ref>hash algorithms:={tiger tree hash}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_43</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_0</ID>
+				<Extent>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>protocol support:={inherits from dc++}</Attribute_Ref>
+					<Attribute_Ref>protocol support:={inherits from airdc++}</Attribute_Ref>
+					<Attribute_Ref>nmdc compatible</Attribute_Ref>
+					<Attribute_Ref>plugin:={eclipse rcp}</Attribute_Ref>
+					<Attribute_Ref>protocol support:={keyp,ucmd,tigr,blom,adcs}</Attribute_Ref>
+					<Attribute_Ref>protocol support:={keyp,ucmd,tigr,blom,sudp,adcs}</Attribute_Ref>
+					<Attribute_Ref>protocol support:={natt,pfsr,ucmd,tigr,blom,sega,adcs,qp}</Attribute_Ref>
+					<Attribute_Ref>protocol support:={tigr,adcs}</Attribute_Ref>
+					<Attribute_Ref>protocol support:={natt,pfsr,ucmd,keyp,tigr,blom,sega,fs,adcs}</Attribute_Ref>
+					<Attribute_Ref>encryption</Attribute_Ref>
+					<Attribute_Ref>ipv6</Attribute_Ref>
+					<Attribute_Ref>protocol support:={natt,ucmd,tigr,blom,sega,adcs}</Attribute_Ref>
+					<Attribute_Ref>protocol support:={natt,pfsr,hbri,keyp,ubn1,blom,fo,mcn1,pbd1,ucmd,tigr,sudp,sega,asch,adcs,qp}</Attribute_Ref>
+					<Attribute_Ref>plugin:={lua}</Attribute_Ref>
+					<Attribute_Ref>plugin:={qml,qtscript,lua}</Attribute_Ref>
+					<Attribute_Ref>protocol support:={ucmd,tigr,blom,adcs}</Attribute_Ref>
+					<Attribute_Ref>upnp</Attribute_Ref>
+					<Attribute_Ref>nat traversal</Attribute_Ref>
+					<Attribute_Ref>magnet uri</Attribute_Ref>
+					<Attribute_Ref>proxy</Attribute_Ref>
+					<Attribute_Ref>protocol support:={natt,pfsr,ucmd,tigr,blom,sega,adcs}</Attribute_Ref>
+					<Attribute_Ref>dht</Attribute_Ref>
+					<Attribute_Ref>plugin:={c++,lua}</Attribute_Ref>
+					<Attribute_Ref>protocol support:={inherits from strongdc++}</Attribute_Ref>
+					<Attribute_Ref>protocol support:={keyp,tigr,adcs}</Attribute_Ref>
+					<Attribute_Ref>protocol support:={keyp,tigr,sudp,adcs}</Attribute_Ref>
+					<Attribute_Ref>protocol support:={natt,pfsr,keyp,blom,ucmd,tigr,sega,adcs}</Attribute_Ref>
+					<Attribute_Ref>hash algorithms:={tiger tree hash}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_8</Concept_Ref>
+					<Concept_Ref>Concept_ctx_5</Concept_Ref>
+					<Concept_Ref>Concept_ctx_3</Concept_Ref>
+					<Concept_Ref>Concept_ctx_4</Concept_Ref>
+					<Concept_Ref>Concept_ctx_2</Concept_Ref>
+					<Concept_Ref>Concept_ctx_1</Concept_Ref>
+					<Concept_Ref>Concept_ctx_9</Concept_Ref>
+					<Concept_Ref>Concept_ctx_7</Concept_Ref>
+					<Concept_Ref>Concept_ctx_6</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_19</ID>
+				<Extent>
+					<Object_Ref>airdc++</Object_Ref>
+					<Object_Ref>dc++</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>magnet uri</Attribute_Ref>
+					<Attribute_Ref>proxy</Attribute_Ref>
+					<Attribute_Ref>protocol support:={natt,ucmd,tigr,blom,sega,adcs}</Attribute_Ref>
+					<Attribute_Ref>nmdc compatible</Attribute_Ref>
+					<Attribute_Ref>encryption</Attribute_Ref>
+					<Attribute_Ref>ipv6</Attribute_Ref>
+					<Attribute_Ref>protocol support:={ucmd,tigr,blom,adcs}</Attribute_Ref>
+					<Attribute_Ref>upnp</Attribute_Ref>
+					<Attribute_Ref>protocol support:={tigr,adcs}</Attribute_Ref>
+					<Attribute_Ref>nat traversal</Attribute_Ref>
+					<Attribute_Ref>hash algorithms:={tiger tree hash}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_26</Concept_Ref>
+					<Concept_Ref>Concept_ctx_37</Concept_Ref>
+					<Concept_Ref>Concept_ctx_27</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_26</ID>
+				<Extent>
+					<Object_Ref>airdc++</Object_Ref>
+					<Object_Ref>dc++</Object_Ref>
+					<Object_Ref>jucy</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>magnet uri</Attribute_Ref>
+					<Attribute_Ref>proxy</Attribute_Ref>
+					<Attribute_Ref>nmdc compatible</Attribute_Ref>
+					<Attribute_Ref>encryption</Attribute_Ref>
+					<Attribute_Ref>ipv6</Attribute_Ref>
+					<Attribute_Ref>protocol support:={ucmd,tigr,blom,adcs}</Attribute_Ref>
+					<Attribute_Ref>upnp</Attribute_Ref>
+					<Attribute_Ref>protocol support:={tigr,adcs}</Attribute_Ref>
+					<Attribute_Ref>hash algorithms:={tiger tree hash}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_39</Concept_Ref>
+					<Concept_Ref>Concept_ctx_33</Concept_Ref>
+					<Concept_Ref>Concept_ctx_34</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_27</ID>
+				<Extent>
+					<Object_Ref>airdc++</Object_Ref>
+					<Object_Ref>airdc++ nano</Object_Ref>
+					<Object_Ref>dc++</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>proxy</Attribute_Ref>
+					<Attribute_Ref>nmdc compatible</Attribute_Ref>
+					<Attribute_Ref>encryption</Attribute_Ref>
+					<Attribute_Ref>ipv6</Attribute_Ref>
+					<Attribute_Ref>upnp</Attribute_Ref>
+					<Attribute_Ref>nat traversal</Attribute_Ref>
+					<Attribute_Ref>hash algorithms:={tiger tree hash}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_42</Concept_Ref>
+					<Concept_Ref>Concept_ctx_34</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_34</ID>
+				<Extent>
+					<Object_Ref>airdc++</Object_Ref>
+					<Object_Ref>airdc++ nano</Object_Ref>
+					<Object_Ref>dc++</Object_Ref>
+					<Object_Ref>jucy</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>proxy</Attribute_Ref>
+					<Attribute_Ref>nmdc compatible</Attribute_Ref>
+					<Attribute_Ref>encryption</Attribute_Ref>
+					<Attribute_Ref>ipv6</Attribute_Ref>
+					<Attribute_Ref>upnp</Attribute_Ref>
+					<Attribute_Ref>hash algorithms:={tiger tree hash}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_44</Concept_Ref>
+					<Concept_Ref>Concept_ctx_38</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_38</ID>
+				<Extent>
+					<Object_Ref>airdc++</Object_Ref>
+					<Object_Ref>airdc++ nano</Object_Ref>
+					<Object_Ref>dc++</Object_Ref>
+					<Object_Ref>jucy</Object_Ref>
+					<Object_Ref>ncdc</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>nmdc compatible</Attribute_Ref>
+					<Attribute_Ref>encryption</Attribute_Ref>
+					<Attribute_Ref>ipv6</Attribute_Ref>
+					<Attribute_Ref>hash algorithms:={tiger tree hash}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_45</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_5</ID>
+				<Extent>
+					<Object_Ref>jucy</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>nmdc compatible</Attribute_Ref>
+					<Attribute_Ref>plugin:={eclipse rcp}</Attribute_Ref>
+					<Attribute_Ref>protocol support:={keyp,ucmd,tigr,blom,adcs}</Attribute_Ref>
+					<Attribute_Ref>protocol support:={ucmd,tigr,blom,adcs}</Attribute_Ref>
+					<Attribute_Ref>upnp</Attribute_Ref>
+					<Attribute_Ref>protocol support:={keyp,ucmd,tigr,blom,sudp,adcs}</Attribute_Ref>
+					<Attribute_Ref>protocol support:={tigr,adcs}</Attribute_Ref>
+					<Attribute_Ref>magnet uri</Attribute_Ref>
+					<Attribute_Ref>proxy</Attribute_Ref>
+					<Attribute_Ref>encryption</Attribute_Ref>
+					<Attribute_Ref>ipv6</Attribute_Ref>
+					<Attribute_Ref>protocol support:={keyp,tigr,adcs}</Attribute_Ref>
+					<Attribute_Ref>protocol support:={keyp,tigr,sudp,adcs}</Attribute_Ref>
+					<Attribute_Ref>hash algorithms:={tiger tree hash}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_18</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_6</ID>
+				<Extent>
+					<Object_Ref>dc++</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>protocol support:={natt,ucmd,tigr,blom,sega,adcs}</Attribute_Ref>
+					<Attribute_Ref>nmdc compatible</Attribute_Ref>
+					<Attribute_Ref>plugin:={lua}</Attribute_Ref>
+					<Attribute_Ref>protocol support:={ucmd,tigr,blom,adcs}</Attribute_Ref>
+					<Attribute_Ref>upnp</Attribute_Ref>
+					<Attribute_Ref>protocol support:={tigr,adcs}</Attribute_Ref>
+					<Attribute_Ref>nat traversal</Attribute_Ref>
+					<Attribute_Ref>magnet uri</Attribute_Ref>
+					<Attribute_Ref>proxy</Attribute_Ref>
+					<Attribute_Ref>plugin:={c++,lua}</Attribute_Ref>
+					<Attribute_Ref>encryption</Attribute_Ref>
+					<Attribute_Ref>ipv6</Attribute_Ref>
+					<Attribute_Ref>hash algorithms:={tiger tree hash}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_19</Concept_Ref>
+					<Concept_Ref>Concept_ctx_12</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_15</ID>
+				<Extent>
+					<Object_Ref>apexdc++</Object_Ref>
+					<Object_Ref>eiskaltdc++</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>magnet uri</Attribute_Ref>
+					<Attribute_Ref>dht</Attribute_Ref>
+					<Attribute_Ref>proxy</Attribute_Ref>
+					<Attribute_Ref>nmdc compatible</Attribute_Ref>
+					<Attribute_Ref>encryption</Attribute_Ref>
+					<Attribute_Ref>plugin:={lua}</Attribute_Ref>
+					<Attribute_Ref>upnp</Attribute_Ref>
+					<Attribute_Ref>nat traversal</Attribute_Ref>
+					<Attribute_Ref>hash algorithms:={tiger tree hash}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_28</Concept_Ref>
+					<Concept_Ref>Concept_ctx_30</Concept_Ref>
+					<Concept_Ref>Concept_ctx_22</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_30</ID>
+				<Extent>
+					<Object_Ref>apexdc++</Object_Ref>
+					<Object_Ref>dc++</Object_Ref>
+					<Object_Ref>eiskaltdc++</Object_Ref>
+					<Object_Ref>tkdc++</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>magnet uri</Attribute_Ref>
+					<Attribute_Ref>proxy</Attribute_Ref>
+					<Attribute_Ref>nmdc compatible</Attribute_Ref>
+					<Attribute_Ref>encryption</Attribute_Ref>
+					<Attribute_Ref>plugin:={lua}</Attribute_Ref>
+					<Attribute_Ref>upnp</Attribute_Ref>
+					<Attribute_Ref>nat traversal</Attribute_Ref>
+					<Attribute_Ref>hash algorithms:={tiger tree hash}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_41</Concept_Ref>
+					<Concept_Ref>Concept_ctx_36</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_22</ID>
+				<Extent>
+					<Object_Ref>apexdc++</Object_Ref>
+					<Object_Ref>eiskaltdc++</Object_Ref>
+					<Object_Ref>rsx++</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>magnet uri</Attribute_Ref>
+					<Attribute_Ref>dht</Attribute_Ref>
+					<Attribute_Ref>proxy</Attribute_Ref>
+					<Attribute_Ref>nmdc compatible</Attribute_Ref>
+					<Attribute_Ref>encryption</Attribute_Ref>
+					<Attribute_Ref>plugin:={lua}</Attribute_Ref>
+					<Attribute_Ref>upnp</Attribute_Ref>
+					<Attribute_Ref>hash algorithms:={tiger tree hash}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_35</Concept_Ref>
+					<Concept_Ref>Concept_ctx_36</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_36</ID>
+				<Extent>
+					<Object_Ref>apexdc++</Object_Ref>
+					<Object_Ref>dc++</Object_Ref>
+					<Object_Ref>eiskaltdc++</Object_Ref>
+					<Object_Ref>rsx++</Object_Ref>
+					<Object_Ref>tkdc++</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>magnet uri</Attribute_Ref>
+					<Attribute_Ref>proxy</Attribute_Ref>
+					<Attribute_Ref>nmdc compatible</Attribute_Ref>
+					<Attribute_Ref>encryption</Attribute_Ref>
+					<Attribute_Ref>plugin:={lua}</Attribute_Ref>
+					<Attribute_Ref>upnp</Attribute_Ref>
+					<Attribute_Ref>hash algorithms:={tiger tree hash}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_43</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_7</ID>
+				<Extent>
+					<Object_Ref>apexdc++</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>magnet uri</Attribute_Ref>
+					<Attribute_Ref>dht</Attribute_Ref>
+					<Attribute_Ref>proxy</Attribute_Ref>
+					<Attribute_Ref>plugin:={c++,lua}</Attribute_Ref>
+					<Attribute_Ref>nmdc compatible</Attribute_Ref>
+					<Attribute_Ref>encryption</Attribute_Ref>
+					<Attribute_Ref>protocol support:={inherits from strongdc++}</Attribute_Ref>
+					<Attribute_Ref>plugin:={lua}</Attribute_Ref>
+					<Attribute_Ref>upnp</Attribute_Ref>
+					<Attribute_Ref>nat traversal</Attribute_Ref>
+					<Attribute_Ref>hash algorithms:={tiger tree hash}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_15</Concept_Ref>
+					<Concept_Ref>Concept_ctx_23</Concept_Ref>
+					<Concept_Ref>Concept_ctx_13</Concept_Ref>
+					<Concept_Ref>Concept_ctx_14</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_23</ID>
+				<Extent>
+					<Object_Ref>apexdc++</Object_Ref>
+					<Object_Ref>dc++</Object_Ref>
+					<Object_Ref>tkdc++</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>magnet uri</Attribute_Ref>
+					<Attribute_Ref>proxy</Attribute_Ref>
+					<Attribute_Ref>plugin:={c++,lua}</Attribute_Ref>
+					<Attribute_Ref>nmdc compatible</Attribute_Ref>
+					<Attribute_Ref>encryption</Attribute_Ref>
+					<Attribute_Ref>plugin:={lua}</Attribute_Ref>
+					<Attribute_Ref>upnp</Attribute_Ref>
+					<Attribute_Ref>nat traversal</Attribute_Ref>
+					<Attribute_Ref>hash algorithms:={tiger tree hash}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_30</Concept_Ref>
+					<Concept_Ref>Concept_ctx_29</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_13</ID>
+				<Extent>
+					<Object_Ref>apexdc++</Object_Ref>
+					<Object_Ref>rsx++</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>magnet uri</Attribute_Ref>
+					<Attribute_Ref>dht</Attribute_Ref>
+					<Attribute_Ref>proxy</Attribute_Ref>
+					<Attribute_Ref>plugin:={c++,lua}</Attribute_Ref>
+					<Attribute_Ref>nmdc compatible</Attribute_Ref>
+					<Attribute_Ref>encryption</Attribute_Ref>
+					<Attribute_Ref>protocol support:={inherits from strongdc++}</Attribute_Ref>
+					<Attribute_Ref>plugin:={lua}</Attribute_Ref>
+					<Attribute_Ref>upnp</Attribute_Ref>
+					<Attribute_Ref>hash algorithms:={tiger tree hash}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_22</Concept_Ref>
+					<Concept_Ref>Concept_ctx_29</Concept_Ref>
+					<Concept_Ref>Concept_ctx_21</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_29</ID>
+				<Extent>
+					<Object_Ref>apexdc++</Object_Ref>
+					<Object_Ref>dc++</Object_Ref>
+					<Object_Ref>rsx++</Object_Ref>
+					<Object_Ref>tkdc++</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>magnet uri</Attribute_Ref>
+					<Attribute_Ref>plugin:={c++,lua}</Attribute_Ref>
+					<Attribute_Ref>proxy</Attribute_Ref>
+					<Attribute_Ref>nmdc compatible</Attribute_Ref>
+					<Attribute_Ref>encryption</Attribute_Ref>
+					<Attribute_Ref>plugin:={lua}</Attribute_Ref>
+					<Attribute_Ref>upnp</Attribute_Ref>
+					<Attribute_Ref>hash algorithms:={tiger tree hash}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_36</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_3</ID>
+				<Extent>
+					<Object_Ref>eiskaltdc++</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>protocol support:={natt,ucmd,tigr,blom,sega,adcs}</Attribute_Ref>
+					<Attribute_Ref>nmdc compatible</Attribute_Ref>
+					<Attribute_Ref>plugin:={lua}</Attribute_Ref>
+					<Attribute_Ref>plugin:={qml,qtscript,lua}</Attribute_Ref>
+					<Attribute_Ref>protocol support:={keyp,ucmd,tigr,blom,adcs}</Attribute_Ref>
+					<Attribute_Ref>protocol support:={ucmd,tigr,blom,adcs}</Attribute_Ref>
+					<Attribute_Ref>upnp</Attribute_Ref>
+					<Attribute_Ref>protocol support:={tigr,adcs}</Attribute_Ref>
+					<Attribute_Ref>nat traversal</Attribute_Ref>
+					<Attribute_Ref>magnet uri</Attribute_Ref>
+					<Attribute_Ref>protocol support:={natt,pfsr,ucmd,tigr,blom,sega,adcs}</Attribute_Ref>
+					<Attribute_Ref>dht</Attribute_Ref>
+					<Attribute_Ref>proxy</Attribute_Ref>
+					<Attribute_Ref>protocol support:={natt,pfsr,ucmd,keyp,tigr,blom,sega,fs,adcs}</Attribute_Ref>
+					<Attribute_Ref>encryption</Attribute_Ref>
+					<Attribute_Ref>protocol support:={keyp,tigr,adcs}</Attribute_Ref>
+					<Attribute_Ref>protocol support:={natt,pfsr,keyp,blom,ucmd,tigr,sega,adcs}</Attribute_Ref>
+					<Attribute_Ref>hash algorithms:={tiger tree hash}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_10</Concept_Ref>
+					<Concept_Ref>Concept_ctx_11</Concept_Ref>
+					<Concept_Ref>Concept_ctx_17</Concept_Ref>
+					<Concept_Ref>Concept_ctx_15</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_8</ID>
+				<Extent>
+					<Object_Ref>airdc++ nano</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>proxy</Attribute_Ref>
+					<Attribute_Ref>protocol support:={inherits from airdc++}</Attribute_Ref>
+					<Attribute_Ref>nmdc compatible</Attribute_Ref>
+					<Attribute_Ref>encryption</Attribute_Ref>
+					<Attribute_Ref>ipv6</Attribute_Ref>
+					<Attribute_Ref>upnp</Attribute_Ref>
+					<Attribute_Ref>nat traversal</Attribute_Ref>
+					<Attribute_Ref>hash algorithms:={tiger tree hash}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_27</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_4</ID>
+				<Extent>
+					<Object_Ref>linuxdc++</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>protocol support:={inherits from dc++}</Attribute_Ref>
+					<Attribute_Ref>magnet uri</Attribute_Ref>
+					<Attribute_Ref>proxy</Attribute_Ref>
+					<Attribute_Ref>nmdc compatible</Attribute_Ref>
+					<Attribute_Ref>encryption</Attribute_Ref>
+					<Attribute_Ref>upnp</Attribute_Ref>
+					<Attribute_Ref>hash algorithms:={tiger tree hash}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_43</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_14</ID>
+				<Extent>
+					<Object_Ref>apexdc++</Object_Ref>
+					<Object_Ref>flylinkdc++</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>magnet uri</Attribute_Ref>
+					<Attribute_Ref>dht</Attribute_Ref>
+					<Attribute_Ref>proxy</Attribute_Ref>
+					<Attribute_Ref>nmdc compatible</Attribute_Ref>
+					<Attribute_Ref>encryption</Attribute_Ref>
+					<Attribute_Ref>protocol support:={inherits from strongdc++}</Attribute_Ref>
+					<Attribute_Ref>upnp</Attribute_Ref>
+					<Attribute_Ref>nat traversal</Attribute_Ref>
+					<Attribute_Ref>hash algorithms:={tiger tree hash}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_28</Concept_Ref>
+					<Concept_Ref>Concept_ctx_21</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_21</ID>
+				<Extent>
+					<Object_Ref>apexdc++</Object_Ref>
+					<Object_Ref>flylinkdc++</Object_Ref>
+					<Object_Ref>rsx++</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>magnet uri</Attribute_Ref>
+					<Attribute_Ref>dht</Attribute_Ref>
+					<Attribute_Ref>proxy</Attribute_Ref>
+					<Attribute_Ref>nmdc compatible</Attribute_Ref>
+					<Attribute_Ref>encryption</Attribute_Ref>
+					<Attribute_Ref>protocol support:={inherits from strongdc++}</Attribute_Ref>
+					<Attribute_Ref>upnp</Attribute_Ref>
+					<Attribute_Ref>hash algorithms:={tiger tree hash}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_35</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_10</ID>
+				<Extent>
+					<Object_Ref>eiskaltdc++</Object_Ref>
+					<Object_Ref>strongdc++</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>magnet uri</Attribute_Ref>
+					<Attribute_Ref>protocol support:={natt,pfsr,ucmd,tigr,blom,sega,adcs}</Attribute_Ref>
+					<Attribute_Ref>dht</Attribute_Ref>
+					<Attribute_Ref>proxy</Attribute_Ref>
+					<Attribute_Ref>protocol support:={natt,ucmd,tigr,blom,sega,adcs}</Attribute_Ref>
+					<Attribute_Ref>nmdc compatible</Attribute_Ref>
+					<Attribute_Ref>encryption</Attribute_Ref>
+					<Attribute_Ref>protocol support:={ucmd,tigr,blom,adcs}</Attribute_Ref>
+					<Attribute_Ref>upnp</Attribute_Ref>
+					<Attribute_Ref>protocol support:={tigr,adcs}</Attribute_Ref>
+					<Attribute_Ref>nat traversal</Attribute_Ref>
+					<Attribute_Ref>hash algorithms:={tiger tree hash}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_31</Concept_Ref>
+					<Concept_Ref>Concept_ctx_28</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_12</ID>
+				<Extent>
+					<Object_Ref>dc++</Object_Ref>
+					<Object_Ref>tkdc++</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>magnet uri</Attribute_Ref>
+					<Attribute_Ref>proxy</Attribute_Ref>
+					<Attribute_Ref>plugin:={c++,lua}</Attribute_Ref>
+					<Attribute_Ref>protocol support:={natt,ucmd,tigr,blom,sega,adcs}</Attribute_Ref>
+					<Attribute_Ref>nmdc compatible</Attribute_Ref>
+					<Attribute_Ref>encryption</Attribute_Ref>
+					<Attribute_Ref>plugin:={lua}</Attribute_Ref>
+					<Attribute_Ref>protocol support:={ucmd,tigr,blom,adcs}</Attribute_Ref>
+					<Attribute_Ref>upnp</Attribute_Ref>
+					<Attribute_Ref>protocol support:={tigr,adcs}</Attribute_Ref>
+					<Attribute_Ref>nat traversal</Attribute_Ref>
+					<Attribute_Ref>hash algorithms:={tiger tree hash}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_23</Concept_Ref>
+					<Concept_Ref>Concept_ctx_20</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_20</ID>
+				<Extent>
+					<Object_Ref>dc++</Object_Ref>
+					<Object_Ref>eiskaltdc++</Object_Ref>
+					<Object_Ref>tkdc++</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>magnet uri</Attribute_Ref>
+					<Attribute_Ref>proxy</Attribute_Ref>
+					<Attribute_Ref>protocol support:={natt,ucmd,tigr,blom,sega,adcs}</Attribute_Ref>
+					<Attribute_Ref>nmdc compatible</Attribute_Ref>
+					<Attribute_Ref>encryption</Attribute_Ref>
+					<Attribute_Ref>plugin:={lua}</Attribute_Ref>
+					<Attribute_Ref>protocol support:={ucmd,tigr,blom,adcs}</Attribute_Ref>
+					<Attribute_Ref>upnp</Attribute_Ref>
+					<Attribute_Ref>protocol support:={tigr,adcs}</Attribute_Ref>
+					<Attribute_Ref>nat traversal</Attribute_Ref>
+					<Attribute_Ref>hash algorithms:={tiger tree hash}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_37</Concept_Ref>
+					<Concept_Ref>Concept_ctx_30</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_37</ID>
+				<Extent>
+					<Object_Ref>airdc++</Object_Ref>
+					<Object_Ref>dc++</Object_Ref>
+					<Object_Ref>eiskaltdc++</Object_Ref>
+					<Object_Ref>tkdc++</Object_Ref>
+					<Object_Ref>strongdc++</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>magnet uri</Attribute_Ref>
+					<Attribute_Ref>proxy</Attribute_Ref>
+					<Attribute_Ref>protocol support:={natt,ucmd,tigr,blom,sega,adcs}</Attribute_Ref>
+					<Attribute_Ref>nmdc compatible</Attribute_Ref>
+					<Attribute_Ref>encryption</Attribute_Ref>
+					<Attribute_Ref>protocol support:={ucmd,tigr,blom,adcs}</Attribute_Ref>
+					<Attribute_Ref>upnp</Attribute_Ref>
+					<Attribute_Ref>protocol support:={tigr,adcs}</Attribute_Ref>
+					<Attribute_Ref>nat traversal</Attribute_Ref>
+					<Attribute_Ref>hash algorithms:={tiger tree hash}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_41</Concept_Ref>
+					<Concept_Ref>Concept_ctx_39</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_39</ID>
+				<Extent>
+					<Object_Ref>airdc++</Object_Ref>
+					<Object_Ref>dc++</Object_Ref>
+					<Object_Ref>jucy</Object_Ref>
+					<Object_Ref>eiskaltdc++</Object_Ref>
+					<Object_Ref>tkdc++</Object_Ref>
+					<Object_Ref>strongdc++</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>magnet uri</Attribute_Ref>
+					<Attribute_Ref>proxy</Attribute_Ref>
+					<Attribute_Ref>nmdc compatible</Attribute_Ref>
+					<Attribute_Ref>encryption</Attribute_Ref>
+					<Attribute_Ref>protocol support:={ucmd,tigr,blom,adcs}</Attribute_Ref>
+					<Attribute_Ref>upnp</Attribute_Ref>
+					<Attribute_Ref>protocol support:={tigr,adcs}</Attribute_Ref>
+					<Attribute_Ref>hash algorithms:={tiger tree hash}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_43</Concept_Ref>
+					<Concept_Ref>Concept_ctx_40</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_33</ID>
+				<Extent>
+					<Object_Ref>airdc++</Object_Ref>
+					<Object_Ref>dc++</Object_Ref>
+					<Object_Ref>jucy</Object_Ref>
+					<Object_Ref>ncdc</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>nmdc compatible</Attribute_Ref>
+					<Attribute_Ref>encryption</Attribute_Ref>
+					<Attribute_Ref>ipv6</Attribute_Ref>
+					<Attribute_Ref>protocol support:={tigr,adcs}</Attribute_Ref>
+					<Attribute_Ref>hash algorithms:={tiger tree hash}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_40</Concept_Ref>
+					<Concept_Ref>Concept_ctx_38</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_40</ID>
+				<Extent>
+					<Object_Ref>airdc++</Object_Ref>
+					<Object_Ref>dc++</Object_Ref>
+					<Object_Ref>jucy</Object_Ref>
+					<Object_Ref>eiskaltdc++</Object_Ref>
+					<Object_Ref>tkdc++</Object_Ref>
+					<Object_Ref>strongdc++</Object_Ref>
+					<Object_Ref>ncdc</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>nmdc compatible</Attribute_Ref>
+					<Attribute_Ref>encryption</Attribute_Ref>
+					<Attribute_Ref>protocol support:={tigr,adcs}</Attribute_Ref>
+					<Attribute_Ref>hash algorithms:={tiger tree hash}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_45</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_9</ID>
+				<Extent>
+					<Object_Ref>airdc++</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>protocol support:={natt,ucmd,tigr,blom,sega,adcs}</Attribute_Ref>
+					<Attribute_Ref>nmdc compatible</Attribute_Ref>
+					<Attribute_Ref>protocol support:={natt,pfsr,hbri,keyp,ubn1,blom,fo,mcn1,pbd1,ucmd,tigr,sudp,sega,asch,adcs,qp}</Attribute_Ref>
+					<Attribute_Ref>protocol support:={keyp,ucmd,tigr,blom,adcs}</Attribute_Ref>
+					<Attribute_Ref>protocol support:={ucmd,tigr,blom,adcs}</Attribute_Ref>
+					<Attribute_Ref>upnp</Attribute_Ref>
+					<Attribute_Ref>protocol support:={keyp,ucmd,tigr,blom,sudp,adcs}</Attribute_Ref>
+					<Attribute_Ref>protocol support:={natt,pfsr,ucmd,tigr,blom,sega,adcs,qp}</Attribute_Ref>
+					<Attribute_Ref>protocol support:={tigr,adcs}</Attribute_Ref>
+					<Attribute_Ref>nat traversal</Attribute_Ref>
+					<Attribute_Ref>magnet uri</Attribute_Ref>
+					<Attribute_Ref>protocol support:={natt,pfsr,ucmd,tigr,blom,sega,adcs}</Attribute_Ref>
+					<Attribute_Ref>proxy</Attribute_Ref>
+					<Attribute_Ref>encryption</Attribute_Ref>
+					<Attribute_Ref>ipv6</Attribute_Ref>
+					<Attribute_Ref>protocol support:={keyp,tigr,adcs}</Attribute_Ref>
+					<Attribute_Ref>protocol support:={keyp,tigr,sudp,adcs}</Attribute_Ref>
+					<Attribute_Ref>protocol support:={natt,pfsr,keyp,blom,ucmd,tigr,sega,adcs}</Attribute_Ref>
+					<Attribute_Ref>hash algorithms:={tiger tree hash}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_19</Concept_Ref>
+					<Concept_Ref>Concept_ctx_17</Concept_Ref>
+					<Concept_Ref>Concept_ctx_18</Concept_Ref>
+					<Concept_Ref>Concept_ctx_16</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_17</ID>
+				<Extent>
+					<Object_Ref>airdc++</Object_Ref>
+					<Object_Ref>eiskaltdc++</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>protocol support:={natt,ucmd,tigr,blom,sega,adcs}</Attribute_Ref>
+					<Attribute_Ref>nmdc compatible</Attribute_Ref>
+					<Attribute_Ref>protocol support:={keyp,ucmd,tigr,blom,adcs}</Attribute_Ref>
+					<Attribute_Ref>protocol support:={ucmd,tigr,blom,adcs}</Attribute_Ref>
+					<Attribute_Ref>upnp</Attribute_Ref>
+					<Attribute_Ref>protocol support:={tigr,adcs}</Attribute_Ref>
+					<Attribute_Ref>nat traversal</Attribute_Ref>
+					<Attribute_Ref>magnet uri</Attribute_Ref>
+					<Attribute_Ref>protocol support:={natt,pfsr,ucmd,tigr,blom,sega,adcs}</Attribute_Ref>
+					<Attribute_Ref>proxy</Attribute_Ref>
+					<Attribute_Ref>encryption</Attribute_Ref>
+					<Attribute_Ref>protocol support:={keyp,tigr,adcs}</Attribute_Ref>
+					<Attribute_Ref>protocol support:={natt,pfsr,keyp,blom,ucmd,tigr,sega,adcs}</Attribute_Ref>
+					<Attribute_Ref>hash algorithms:={tiger tree hash}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_25</Concept_Ref>
+					<Concept_Ref>Concept_ctx_31</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_18</ID>
+				<Extent>
+					<Object_Ref>airdc++</Object_Ref>
+					<Object_Ref>jucy</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>nmdc compatible</Attribute_Ref>
+					<Attribute_Ref>protocol support:={keyp,ucmd,tigr,blom,adcs}</Attribute_Ref>
+					<Attribute_Ref>protocol support:={ucmd,tigr,blom,adcs}</Attribute_Ref>
+					<Attribute_Ref>upnp</Attribute_Ref>
+					<Attribute_Ref>protocol support:={keyp,ucmd,tigr,blom,sudp,adcs}</Attribute_Ref>
+					<Attribute_Ref>protocol support:={tigr,adcs}</Attribute_Ref>
+					<Attribute_Ref>magnet uri</Attribute_Ref>
+					<Attribute_Ref>proxy</Attribute_Ref>
+					<Attribute_Ref>encryption</Attribute_Ref>
+					<Attribute_Ref>ipv6</Attribute_Ref>
+					<Attribute_Ref>protocol support:={keyp,tigr,adcs}</Attribute_Ref>
+					<Attribute_Ref>protocol support:={keyp,tigr,sudp,adcs}</Attribute_Ref>
+					<Attribute_Ref>hash algorithms:={tiger tree hash}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_26</Concept_Ref>
+					<Concept_Ref>Concept_ctx_25</Concept_Ref>
+					<Concept_Ref>Concept_ctx_24</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_25</ID>
+				<Extent>
+					<Object_Ref>airdc++</Object_Ref>
+					<Object_Ref>jucy</Object_Ref>
+					<Object_Ref>eiskaltdc++</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>magnet uri</Attribute_Ref>
+					<Attribute_Ref>proxy</Attribute_Ref>
+					<Attribute_Ref>nmdc compatible</Attribute_Ref>
+					<Attribute_Ref>encryption</Attribute_Ref>
+					<Attribute_Ref>protocol support:={keyp,tigr,adcs}</Attribute_Ref>
+					<Attribute_Ref>protocol support:={keyp,ucmd,tigr,blom,adcs}</Attribute_Ref>
+					<Attribute_Ref>protocol support:={ucmd,tigr,blom,adcs}</Attribute_Ref>
+					<Attribute_Ref>upnp</Attribute_Ref>
+					<Attribute_Ref>protocol support:={tigr,adcs}</Attribute_Ref>
+					<Attribute_Ref>hash algorithms:={tiger tree hash}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_39</Concept_Ref>
+					<Concept_Ref>Concept_ctx_32</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_24</ID>
+				<Extent>
+					<Object_Ref>airdc++</Object_Ref>
+					<Object_Ref>jucy</Object_Ref>
+					<Object_Ref>ncdc</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>nmdc compatible</Attribute_Ref>
+					<Attribute_Ref>encryption</Attribute_Ref>
+					<Attribute_Ref>ipv6</Attribute_Ref>
+					<Attribute_Ref>protocol support:={keyp,tigr,adcs}</Attribute_Ref>
+					<Attribute_Ref>protocol support:={keyp,tigr,sudp,adcs}</Attribute_Ref>
+					<Attribute_Ref>protocol support:={tigr,adcs}</Attribute_Ref>
+					<Attribute_Ref>hash algorithms:={tiger tree hash}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_33</Concept_Ref>
+					<Concept_Ref>Concept_ctx_32</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_32</ID>
+				<Extent>
+					<Object_Ref>airdc++</Object_Ref>
+					<Object_Ref>jucy</Object_Ref>
+					<Object_Ref>eiskaltdc++</Object_Ref>
+					<Object_Ref>ncdc</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>nmdc compatible</Attribute_Ref>
+					<Attribute_Ref>encryption</Attribute_Ref>
+					<Attribute_Ref>protocol support:={keyp,tigr,adcs}</Attribute_Ref>
+					<Attribute_Ref>protocol support:={tigr,adcs}</Attribute_Ref>
+					<Attribute_Ref>hash algorithms:={tiger tree hash}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_40</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_2</ID>
+				<Extent>
+					<Object_Ref>tkdc++</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>protocol support:={natt,ucmd,tigr,blom,sega,adcs}</Attribute_Ref>
+					<Attribute_Ref>nmdc compatible</Attribute_Ref>
+					<Attribute_Ref>plugin:={lua}</Attribute_Ref>
+					<Attribute_Ref>protocol support:={ucmd,tigr,blom,adcs}</Attribute_Ref>
+					<Attribute_Ref>upnp</Attribute_Ref>
+					<Attribute_Ref>protocol support:={tigr,adcs}</Attribute_Ref>
+					<Attribute_Ref>nat traversal</Attribute_Ref>
+					<Attribute_Ref>magnet uri</Attribute_Ref>
+					<Attribute_Ref>protocol support:={natt,pfsr,ucmd,tigr,blom,sega,adcs}</Attribute_Ref>
+					<Attribute_Ref>proxy</Attribute_Ref>
+					<Attribute_Ref>plugin:={c++,lua}</Attribute_Ref>
+					<Attribute_Ref>encryption</Attribute_Ref>
+					<Attribute_Ref>hash algorithms:={tiger tree hash}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_12</Concept_Ref>
+					<Concept_Ref>Concept_ctx_11</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_11</ID>
+				<Extent>
+					<Object_Ref>eiskaltdc++</Object_Ref>
+					<Object_Ref>tkdc++</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>magnet uri</Attribute_Ref>
+					<Attribute_Ref>protocol support:={natt,pfsr,ucmd,tigr,blom,sega,adcs}</Attribute_Ref>
+					<Attribute_Ref>proxy</Attribute_Ref>
+					<Attribute_Ref>protocol support:={natt,ucmd,tigr,blom,sega,adcs}</Attribute_Ref>
+					<Attribute_Ref>nmdc compatible</Attribute_Ref>
+					<Attribute_Ref>encryption</Attribute_Ref>
+					<Attribute_Ref>plugin:={lua}</Attribute_Ref>
+					<Attribute_Ref>protocol support:={ucmd,tigr,blom,adcs}</Attribute_Ref>
+					<Attribute_Ref>upnp</Attribute_Ref>
+					<Attribute_Ref>protocol support:={tigr,adcs}</Attribute_Ref>
+					<Attribute_Ref>nat traversal</Attribute_Ref>
+					<Attribute_Ref>hash algorithms:={tiger tree hash}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_31</Concept_Ref>
+					<Concept_Ref>Concept_ctx_20</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_31</ID>
+				<Extent>
+					<Object_Ref>airdc++</Object_Ref>
+					<Object_Ref>eiskaltdc++</Object_Ref>
+					<Object_Ref>tkdc++</Object_Ref>
+					<Object_Ref>strongdc++</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>magnet uri</Attribute_Ref>
+					<Attribute_Ref>protocol support:={natt,pfsr,ucmd,tigr,blom,sega,adcs}</Attribute_Ref>
+					<Attribute_Ref>proxy</Attribute_Ref>
+					<Attribute_Ref>protocol support:={natt,ucmd,tigr,blom,sega,adcs}</Attribute_Ref>
+					<Attribute_Ref>nmdc compatible</Attribute_Ref>
+					<Attribute_Ref>encryption</Attribute_Ref>
+					<Attribute_Ref>protocol support:={ucmd,tigr,blom,adcs}</Attribute_Ref>
+					<Attribute_Ref>upnp</Attribute_Ref>
+					<Attribute_Ref>protocol support:={tigr,adcs}</Attribute_Ref>
+					<Attribute_Ref>nat traversal</Attribute_Ref>
+					<Attribute_Ref>hash algorithms:={tiger tree hash}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_37</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_1</ID>
+				<Extent>
+					<Object_Ref>strongdc++</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>protocol support:={natt,ucmd,tigr,blom,sega,adcs}</Attribute_Ref>
+					<Attribute_Ref>nmdc compatible</Attribute_Ref>
+					<Attribute_Ref>protocol support:={ucmd,tigr,blom,adcs}</Attribute_Ref>
+					<Attribute_Ref>upnp</Attribute_Ref>
+					<Attribute_Ref>protocol support:={natt,pfsr,ucmd,tigr,blom,sega,adcs,qp}</Attribute_Ref>
+					<Attribute_Ref>protocol support:={tigr,adcs}</Attribute_Ref>
+					<Attribute_Ref>nat traversal</Attribute_Ref>
+					<Attribute_Ref>magnet uri</Attribute_Ref>
+					<Attribute_Ref>protocol support:={natt,pfsr,ucmd,tigr,blom,sega,adcs}</Attribute_Ref>
+					<Attribute_Ref>dht</Attribute_Ref>
+					<Attribute_Ref>proxy</Attribute_Ref>
+					<Attribute_Ref>encryption</Attribute_Ref>
+					<Attribute_Ref>hash algorithms:={tiger tree hash}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_16</Concept_Ref>
+					<Concept_Ref>Concept_ctx_10</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_16</ID>
+				<Extent>
+					<Object_Ref>airdc++</Object_Ref>
+					<Object_Ref>strongdc++</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>magnet uri</Attribute_Ref>
+					<Attribute_Ref>protocol support:={natt,pfsr,ucmd,tigr,blom,sega,adcs}</Attribute_Ref>
+					<Attribute_Ref>proxy</Attribute_Ref>
+					<Attribute_Ref>protocol support:={natt,ucmd,tigr,blom,sega,adcs}</Attribute_Ref>
+					<Attribute_Ref>nmdc compatible</Attribute_Ref>
+					<Attribute_Ref>encryption</Attribute_Ref>
+					<Attribute_Ref>protocol support:={ucmd,tigr,blom,adcs}</Attribute_Ref>
+					<Attribute_Ref>upnp</Attribute_Ref>
+					<Attribute_Ref>protocol support:={natt,pfsr,ucmd,tigr,blom,sega,adcs,qp}</Attribute_Ref>
+					<Attribute_Ref>protocol support:={tigr,adcs}</Attribute_Ref>
+					<Attribute_Ref>nat traversal</Attribute_Ref>
+					<Attribute_Ref>hash algorithms:={tiger tree hash}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_31</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+		</Lattice>
+	</Step >
+	<Step nb="1">
+		<Lattice numberObj="12" numberAtt="28" numberCpt="46" >
+			<Config algo="fca">
+			</Config>
+			<Name>ctx</Name>
+			<Object>airdc++</Object>
+			<Object>airdc++ nano</Object>
+			<Object>apexdc++</Object>
+			<Object>dc++</Object>
+			<Object>jucy</Object>
+			<Object>linuxdc++</Object>
+			<Object>eiskaltdc++</Object>
+			<Object>flylinkdc++</Object>
+			<Object>rsx++</Object>
+			<Object>tkdc++</Object>
+			<Object>strongdc++</Object>
+			<Object>ncdc</Object>
+			<Attribute>magnet uri</Attribute>
+			<Attribute>upnp</Attribute>
+			<Attribute>nat traversal</Attribute>
+			<Attribute>dht</Attribute>
+			<Attribute>encryption</Attribute>
+			<Attribute>ipv6</Attribute>
+			<Attribute>plugin:={eclipse rcp}</Attribute>
+			<Attribute>plugin:={lua}</Attribute>
+			<Attribute>plugin:={c++,lua}</Attribute>
+			<Attribute>plugin:={qml,qtscript,lua}</Attribute>
+			<Attribute>proxy</Attribute>
+			<Attribute>hash algorithms:={tiger tree hash}</Attribute>
+			<Attribute>protocol support:={inherits from airdc++}</Attribute>
+			<Attribute>protocol support:={inherits from dc++}</Attribute>
+			<Attribute>protocol support:={inherits from strongdc++}</Attribute>
+			<Attribute>protocol support:={tigr,adcs}</Attribute>
+			<Attribute>protocol support:={keyp,tigr,adcs}</Attribute>
+			<Attribute>protocol support:={keyp,tigr,sudp,adcs}</Attribute>
+			<Attribute>protocol support:={ucmd,tigr,blom,adcs}</Attribute>
+			<Attribute>protocol support:={keyp,ucmd,tigr,blom,adcs}</Attribute>
+			<Attribute>protocol support:={natt,ucmd,tigr,blom,sega,adcs}</Attribute>
+			<Attribute>protocol support:={keyp,ucmd,tigr,blom,sudp,adcs}</Attribute>
+			<Attribute>protocol support:={natt,pfsr,ucmd,tigr,blom,sega,adcs}</Attribute>
+			<Attribute>protocol support:={natt,pfsr,ucmd,tigr,blom,sega,adcs,qp}</Attribute>
+			<Attribute>protocol support:={natt,pfsr,keyp,blom,ucmd,tigr,sega,adcs}</Attribute>
+			<Attribute>protocol support:={natt,pfsr,ucmd,keyp,tigr,blom,sega,fs,adcs}</Attribute>
+			<Attribute>protocol support:={natt,pfsr,hbri,keyp,ubn1,blom,fo,mcn1,pbd1,ucmd,tigr,sudp,sega,asch,adcs,qp}</Attribute>
+			<Attribute>nmdc compatible</Attribute>
+			<Concept>
+				<ID>Concept_ctx_45</ID>
+				<Extent>
+					<Object_Ref>airdc++</Object_Ref>
+					<Object_Ref>airdc++ nano</Object_Ref>
+					<Object_Ref>apexdc++</Object_Ref>
+					<Object_Ref>dc++</Object_Ref>
+					<Object_Ref>jucy</Object_Ref>
+					<Object_Ref>linuxdc++</Object_Ref>
+					<Object_Ref>eiskaltdc++</Object_Ref>
+					<Object_Ref>flylinkdc++</Object_Ref>
+					<Object_Ref>rsx++</Object_Ref>
+					<Object_Ref>tkdc++</Object_Ref>
+					<Object_Ref>strongdc++</Object_Ref>
+					<Object_Ref>ncdc</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>nmdc compatible</Attribute_Ref>
+					<Attribute_Ref>encryption</Attribute_Ref>
+					<Attribute_Ref>hash algorithms:={tiger tree hash}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_43</ID>
+				<Extent>
+					<Object_Ref>airdc++</Object_Ref>
+					<Object_Ref>apexdc++</Object_Ref>
+					<Object_Ref>dc++</Object_Ref>
+					<Object_Ref>jucy</Object_Ref>
+					<Object_Ref>linuxdc++</Object_Ref>
+					<Object_Ref>eiskaltdc++</Object_Ref>
+					<Object_Ref>flylinkdc++</Object_Ref>
+					<Object_Ref>rsx++</Object_Ref>
+					<Object_Ref>tkdc++</Object_Ref>
+					<Object_Ref>strongdc++</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>magnet uri</Attribute_Ref>
+					<Attribute_Ref>proxy</Attribute_Ref>
+					<Attribute_Ref>nmdc compatible</Attribute_Ref>
+					<Attribute_Ref>encryption</Attribute_Ref>
+					<Attribute_Ref>upnp</Attribute_Ref>
+					<Attribute_Ref>hash algorithms:={tiger tree hash}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_44</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_44</ID>
+				<Extent>
+					<Object_Ref>airdc++</Object_Ref>
+					<Object_Ref>airdc++ nano</Object_Ref>
+					<Object_Ref>apexdc++</Object_Ref>
+					<Object_Ref>dc++</Object_Ref>
+					<Object_Ref>jucy</Object_Ref>
+					<Object_Ref>linuxdc++</Object_Ref>
+					<Object_Ref>eiskaltdc++</Object_Ref>
+					<Object_Ref>flylinkdc++</Object_Ref>
+					<Object_Ref>rsx++</Object_Ref>
+					<Object_Ref>tkdc++</Object_Ref>
+					<Object_Ref>strongdc++</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>proxy</Attribute_Ref>
+					<Attribute_Ref>nmdc compatible</Attribute_Ref>
+					<Attribute_Ref>encryption</Attribute_Ref>
+					<Attribute_Ref>upnp</Attribute_Ref>
+					<Attribute_Ref>hash algorithms:={tiger tree hash}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_45</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_41</ID>
+				<Extent>
+					<Object_Ref>airdc++</Object_Ref>
+					<Object_Ref>apexdc++</Object_Ref>
+					<Object_Ref>dc++</Object_Ref>
+					<Object_Ref>eiskaltdc++</Object_Ref>
+					<Object_Ref>flylinkdc++</Object_Ref>
+					<Object_Ref>tkdc++</Object_Ref>
+					<Object_Ref>strongdc++</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>magnet uri</Attribute_Ref>
+					<Attribute_Ref>proxy</Attribute_Ref>
+					<Attribute_Ref>nmdc compatible</Attribute_Ref>
+					<Attribute_Ref>encryption</Attribute_Ref>
+					<Attribute_Ref>upnp</Attribute_Ref>
+					<Attribute_Ref>nat traversal</Attribute_Ref>
+					<Attribute_Ref>hash algorithms:={tiger tree hash}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_43</Concept_Ref>
+					<Concept_Ref>Concept_ctx_42</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_42</ID>
+				<Extent>
+					<Object_Ref>airdc++</Object_Ref>
+					<Object_Ref>airdc++ nano</Object_Ref>
+					<Object_Ref>apexdc++</Object_Ref>
+					<Object_Ref>dc++</Object_Ref>
+					<Object_Ref>eiskaltdc++</Object_Ref>
+					<Object_Ref>flylinkdc++</Object_Ref>
+					<Object_Ref>tkdc++</Object_Ref>
+					<Object_Ref>strongdc++</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>proxy</Attribute_Ref>
+					<Attribute_Ref>nmdc compatible</Attribute_Ref>
+					<Attribute_Ref>encryption</Attribute_Ref>
+					<Attribute_Ref>upnp</Attribute_Ref>
+					<Attribute_Ref>nat traversal</Attribute_Ref>
+					<Attribute_Ref>hash algorithms:={tiger tree hash}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_44</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_28</ID>
+				<Extent>
+					<Object_Ref>apexdc++</Object_Ref>
+					<Object_Ref>eiskaltdc++</Object_Ref>
+					<Object_Ref>flylinkdc++</Object_Ref>
+					<Object_Ref>strongdc++</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>magnet uri</Attribute_Ref>
+					<Attribute_Ref>dht</Attribute_Ref>
+					<Attribute_Ref>proxy</Attribute_Ref>
+					<Attribute_Ref>nmdc compatible</Attribute_Ref>
+					<Attribute_Ref>encryption</Attribute_Ref>
+					<Attribute_Ref>upnp</Attribute_Ref>
+					<Attribute_Ref>nat traversal</Attribute_Ref>
+					<Attribute_Ref>hash algorithms:={tiger tree hash}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_41</Concept_Ref>
+					<Concept_Ref>Concept_ctx_35</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_35</ID>
+				<Extent>
+					<Object_Ref>apexdc++</Object_Ref>
+					<Object_Ref>eiskaltdc++</Object_Ref>
+					<Object_Ref>flylinkdc++</Object_Ref>
+					<Object_Ref>rsx++</Object_Ref>
+					<Object_Ref>strongdc++</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>magnet uri</Attribute_Ref>
+					<Attribute_Ref>dht</Attribute_Ref>
+					<Attribute_Ref>proxy</Attribute_Ref>
+					<Attribute_Ref>nmdc compatible</Attribute_Ref>
+					<Attribute_Ref>encryption</Attribute_Ref>
+					<Attribute_Ref>upnp</Attribute_Ref>
+					<Attribute_Ref>hash algorithms:={tiger tree hash}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_43</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_0</ID>
+				<Extent>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>protocol support:={inherits from dc++}</Attribute_Ref>
+					<Attribute_Ref>protocol support:={inherits from airdc++}</Attribute_Ref>
+					<Attribute_Ref>nmdc compatible</Attribute_Ref>
+					<Attribute_Ref>plugin:={eclipse rcp}</Attribute_Ref>
+					<Attribute_Ref>protocol support:={keyp,ucmd,tigr,blom,adcs}</Attribute_Ref>
+					<Attribute_Ref>protocol support:={keyp,ucmd,tigr,blom,sudp,adcs}</Attribute_Ref>
+					<Attribute_Ref>protocol support:={natt,pfsr,ucmd,tigr,blom,sega,adcs,qp}</Attribute_Ref>
+					<Attribute_Ref>protocol support:={tigr,adcs}</Attribute_Ref>
+					<Attribute_Ref>protocol support:={natt,pfsr,ucmd,keyp,tigr,blom,sega,fs,adcs}</Attribute_Ref>
+					<Attribute_Ref>encryption</Attribute_Ref>
+					<Attribute_Ref>ipv6</Attribute_Ref>
+					<Attribute_Ref>protocol support:={natt,ucmd,tigr,blom,sega,adcs}</Attribute_Ref>
+					<Attribute_Ref>protocol support:={natt,pfsr,hbri,keyp,ubn1,blom,fo,mcn1,pbd1,ucmd,tigr,sudp,sega,asch,adcs,qp}</Attribute_Ref>
+					<Attribute_Ref>plugin:={lua}</Attribute_Ref>
+					<Attribute_Ref>plugin:={qml,qtscript,lua}</Attribute_Ref>
+					<Attribute_Ref>protocol support:={ucmd,tigr,blom,adcs}</Attribute_Ref>
+					<Attribute_Ref>upnp</Attribute_Ref>
+					<Attribute_Ref>nat traversal</Attribute_Ref>
+					<Attribute_Ref>magnet uri</Attribute_Ref>
+					<Attribute_Ref>proxy</Attribute_Ref>
+					<Attribute_Ref>protocol support:={natt,pfsr,ucmd,tigr,blom,sega,adcs}</Attribute_Ref>
+					<Attribute_Ref>dht</Attribute_Ref>
+					<Attribute_Ref>plugin:={c++,lua}</Attribute_Ref>
+					<Attribute_Ref>protocol support:={inherits from strongdc++}</Attribute_Ref>
+					<Attribute_Ref>protocol support:={keyp,tigr,adcs}</Attribute_Ref>
+					<Attribute_Ref>protocol support:={keyp,tigr,sudp,adcs}</Attribute_Ref>
+					<Attribute_Ref>protocol support:={natt,pfsr,keyp,blom,ucmd,tigr,sega,adcs}</Attribute_Ref>
+					<Attribute_Ref>hash algorithms:={tiger tree hash}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_8</Concept_Ref>
+					<Concept_Ref>Concept_ctx_5</Concept_Ref>
+					<Concept_Ref>Concept_ctx_3</Concept_Ref>
+					<Concept_Ref>Concept_ctx_4</Concept_Ref>
+					<Concept_Ref>Concept_ctx_2</Concept_Ref>
+					<Concept_Ref>Concept_ctx_1</Concept_Ref>
+					<Concept_Ref>Concept_ctx_9</Concept_Ref>
+					<Concept_Ref>Concept_ctx_7</Concept_Ref>
+					<Concept_Ref>Concept_ctx_6</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_19</ID>
+				<Extent>
+					<Object_Ref>airdc++</Object_Ref>
+					<Object_Ref>dc++</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>magnet uri</Attribute_Ref>
+					<Attribute_Ref>proxy</Attribute_Ref>
+					<Attribute_Ref>protocol support:={natt,ucmd,tigr,blom,sega,adcs}</Attribute_Ref>
+					<Attribute_Ref>nmdc compatible</Attribute_Ref>
+					<Attribute_Ref>encryption</Attribute_Ref>
+					<Attribute_Ref>ipv6</Attribute_Ref>
+					<Attribute_Ref>protocol support:={ucmd,tigr,blom,adcs}</Attribute_Ref>
+					<Attribute_Ref>upnp</Attribute_Ref>
+					<Attribute_Ref>protocol support:={tigr,adcs}</Attribute_Ref>
+					<Attribute_Ref>nat traversal</Attribute_Ref>
+					<Attribute_Ref>hash algorithms:={tiger tree hash}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_26</Concept_Ref>
+					<Concept_Ref>Concept_ctx_37</Concept_Ref>
+					<Concept_Ref>Concept_ctx_27</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_26</ID>
+				<Extent>
+					<Object_Ref>airdc++</Object_Ref>
+					<Object_Ref>dc++</Object_Ref>
+					<Object_Ref>jucy</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>magnet uri</Attribute_Ref>
+					<Attribute_Ref>proxy</Attribute_Ref>
+					<Attribute_Ref>nmdc compatible</Attribute_Ref>
+					<Attribute_Ref>encryption</Attribute_Ref>
+					<Attribute_Ref>ipv6</Attribute_Ref>
+					<Attribute_Ref>protocol support:={ucmd,tigr,blom,adcs}</Attribute_Ref>
+					<Attribute_Ref>upnp</Attribute_Ref>
+					<Attribute_Ref>protocol support:={tigr,adcs}</Attribute_Ref>
+					<Attribute_Ref>hash algorithms:={tiger tree hash}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_39</Concept_Ref>
+					<Concept_Ref>Concept_ctx_33</Concept_Ref>
+					<Concept_Ref>Concept_ctx_34</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_27</ID>
+				<Extent>
+					<Object_Ref>airdc++</Object_Ref>
+					<Object_Ref>airdc++ nano</Object_Ref>
+					<Object_Ref>dc++</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>proxy</Attribute_Ref>
+					<Attribute_Ref>nmdc compatible</Attribute_Ref>
+					<Attribute_Ref>encryption</Attribute_Ref>
+					<Attribute_Ref>ipv6</Attribute_Ref>
+					<Attribute_Ref>upnp</Attribute_Ref>
+					<Attribute_Ref>nat traversal</Attribute_Ref>
+					<Attribute_Ref>hash algorithms:={tiger tree hash}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_42</Concept_Ref>
+					<Concept_Ref>Concept_ctx_34</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_34</ID>
+				<Extent>
+					<Object_Ref>airdc++</Object_Ref>
+					<Object_Ref>airdc++ nano</Object_Ref>
+					<Object_Ref>dc++</Object_Ref>
+					<Object_Ref>jucy</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>proxy</Attribute_Ref>
+					<Attribute_Ref>nmdc compatible</Attribute_Ref>
+					<Attribute_Ref>encryption</Attribute_Ref>
+					<Attribute_Ref>ipv6</Attribute_Ref>
+					<Attribute_Ref>upnp</Attribute_Ref>
+					<Attribute_Ref>hash algorithms:={tiger tree hash}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_44</Concept_Ref>
+					<Concept_Ref>Concept_ctx_38</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_38</ID>
+				<Extent>
+					<Object_Ref>airdc++</Object_Ref>
+					<Object_Ref>airdc++ nano</Object_Ref>
+					<Object_Ref>dc++</Object_Ref>
+					<Object_Ref>jucy</Object_Ref>
+					<Object_Ref>ncdc</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>nmdc compatible</Attribute_Ref>
+					<Attribute_Ref>encryption</Attribute_Ref>
+					<Attribute_Ref>ipv6</Attribute_Ref>
+					<Attribute_Ref>hash algorithms:={tiger tree hash}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_45</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_5</ID>
+				<Extent>
+					<Object_Ref>jucy</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>nmdc compatible</Attribute_Ref>
+					<Attribute_Ref>plugin:={eclipse rcp}</Attribute_Ref>
+					<Attribute_Ref>protocol support:={keyp,ucmd,tigr,blom,adcs}</Attribute_Ref>
+					<Attribute_Ref>protocol support:={ucmd,tigr,blom,adcs}</Attribute_Ref>
+					<Attribute_Ref>upnp</Attribute_Ref>
+					<Attribute_Ref>protocol support:={keyp,ucmd,tigr,blom,sudp,adcs}</Attribute_Ref>
+					<Attribute_Ref>protocol support:={tigr,adcs}</Attribute_Ref>
+					<Attribute_Ref>magnet uri</Attribute_Ref>
+					<Attribute_Ref>proxy</Attribute_Ref>
+					<Attribute_Ref>encryption</Attribute_Ref>
+					<Attribute_Ref>ipv6</Attribute_Ref>
+					<Attribute_Ref>protocol support:={keyp,tigr,adcs}</Attribute_Ref>
+					<Attribute_Ref>protocol support:={keyp,tigr,sudp,adcs}</Attribute_Ref>
+					<Attribute_Ref>hash algorithms:={tiger tree hash}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_18</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_6</ID>
+				<Extent>
+					<Object_Ref>dc++</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>protocol support:={natt,ucmd,tigr,blom,sega,adcs}</Attribute_Ref>
+					<Attribute_Ref>nmdc compatible</Attribute_Ref>
+					<Attribute_Ref>plugin:={lua}</Attribute_Ref>
+					<Attribute_Ref>protocol support:={ucmd,tigr,blom,adcs}</Attribute_Ref>
+					<Attribute_Ref>upnp</Attribute_Ref>
+					<Attribute_Ref>protocol support:={tigr,adcs}</Attribute_Ref>
+					<Attribute_Ref>nat traversal</Attribute_Ref>
+					<Attribute_Ref>magnet uri</Attribute_Ref>
+					<Attribute_Ref>proxy</Attribute_Ref>
+					<Attribute_Ref>plugin:={c++,lua}</Attribute_Ref>
+					<Attribute_Ref>encryption</Attribute_Ref>
+					<Attribute_Ref>ipv6</Attribute_Ref>
+					<Attribute_Ref>hash algorithms:={tiger tree hash}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_19</Concept_Ref>
+					<Concept_Ref>Concept_ctx_12</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_15</ID>
+				<Extent>
+					<Object_Ref>apexdc++</Object_Ref>
+					<Object_Ref>eiskaltdc++</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>magnet uri</Attribute_Ref>
+					<Attribute_Ref>dht</Attribute_Ref>
+					<Attribute_Ref>proxy</Attribute_Ref>
+					<Attribute_Ref>nmdc compatible</Attribute_Ref>
+					<Attribute_Ref>encryption</Attribute_Ref>
+					<Attribute_Ref>plugin:={lua}</Attribute_Ref>
+					<Attribute_Ref>upnp</Attribute_Ref>
+					<Attribute_Ref>nat traversal</Attribute_Ref>
+					<Attribute_Ref>hash algorithms:={tiger tree hash}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_28</Concept_Ref>
+					<Concept_Ref>Concept_ctx_30</Concept_Ref>
+					<Concept_Ref>Concept_ctx_22</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_30</ID>
+				<Extent>
+					<Object_Ref>apexdc++</Object_Ref>
+					<Object_Ref>dc++</Object_Ref>
+					<Object_Ref>eiskaltdc++</Object_Ref>
+					<Object_Ref>tkdc++</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>magnet uri</Attribute_Ref>
+					<Attribute_Ref>proxy</Attribute_Ref>
+					<Attribute_Ref>nmdc compatible</Attribute_Ref>
+					<Attribute_Ref>encryption</Attribute_Ref>
+					<Attribute_Ref>plugin:={lua}</Attribute_Ref>
+					<Attribute_Ref>upnp</Attribute_Ref>
+					<Attribute_Ref>nat traversal</Attribute_Ref>
+					<Attribute_Ref>hash algorithms:={tiger tree hash}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_41</Concept_Ref>
+					<Concept_Ref>Concept_ctx_36</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_22</ID>
+				<Extent>
+					<Object_Ref>apexdc++</Object_Ref>
+					<Object_Ref>eiskaltdc++</Object_Ref>
+					<Object_Ref>rsx++</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>magnet uri</Attribute_Ref>
+					<Attribute_Ref>dht</Attribute_Ref>
+					<Attribute_Ref>proxy</Attribute_Ref>
+					<Attribute_Ref>nmdc compatible</Attribute_Ref>
+					<Attribute_Ref>encryption</Attribute_Ref>
+					<Attribute_Ref>plugin:={lua}</Attribute_Ref>
+					<Attribute_Ref>upnp</Attribute_Ref>
+					<Attribute_Ref>hash algorithms:={tiger tree hash}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_35</Concept_Ref>
+					<Concept_Ref>Concept_ctx_36</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_36</ID>
+				<Extent>
+					<Object_Ref>apexdc++</Object_Ref>
+					<Object_Ref>dc++</Object_Ref>
+					<Object_Ref>eiskaltdc++</Object_Ref>
+					<Object_Ref>rsx++</Object_Ref>
+					<Object_Ref>tkdc++</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>magnet uri</Attribute_Ref>
+					<Attribute_Ref>proxy</Attribute_Ref>
+					<Attribute_Ref>nmdc compatible</Attribute_Ref>
+					<Attribute_Ref>encryption</Attribute_Ref>
+					<Attribute_Ref>plugin:={lua}</Attribute_Ref>
+					<Attribute_Ref>upnp</Attribute_Ref>
+					<Attribute_Ref>hash algorithms:={tiger tree hash}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_43</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_7</ID>
+				<Extent>
+					<Object_Ref>apexdc++</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>magnet uri</Attribute_Ref>
+					<Attribute_Ref>dht</Attribute_Ref>
+					<Attribute_Ref>proxy</Attribute_Ref>
+					<Attribute_Ref>plugin:={c++,lua}</Attribute_Ref>
+					<Attribute_Ref>nmdc compatible</Attribute_Ref>
+					<Attribute_Ref>encryption</Attribute_Ref>
+					<Attribute_Ref>protocol support:={inherits from strongdc++}</Attribute_Ref>
+					<Attribute_Ref>plugin:={lua}</Attribute_Ref>
+					<Attribute_Ref>upnp</Attribute_Ref>
+					<Attribute_Ref>nat traversal</Attribute_Ref>
+					<Attribute_Ref>hash algorithms:={tiger tree hash}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_15</Concept_Ref>
+					<Concept_Ref>Concept_ctx_23</Concept_Ref>
+					<Concept_Ref>Concept_ctx_13</Concept_Ref>
+					<Concept_Ref>Concept_ctx_14</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_23</ID>
+				<Extent>
+					<Object_Ref>apexdc++</Object_Ref>
+					<Object_Ref>dc++</Object_Ref>
+					<Object_Ref>tkdc++</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>magnet uri</Attribute_Ref>
+					<Attribute_Ref>proxy</Attribute_Ref>
+					<Attribute_Ref>plugin:={c++,lua}</Attribute_Ref>
+					<Attribute_Ref>nmdc compatible</Attribute_Ref>
+					<Attribute_Ref>encryption</Attribute_Ref>
+					<Attribute_Ref>plugin:={lua}</Attribute_Ref>
+					<Attribute_Ref>upnp</Attribute_Ref>
+					<Attribute_Ref>nat traversal</Attribute_Ref>
+					<Attribute_Ref>hash algorithms:={tiger tree hash}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_30</Concept_Ref>
+					<Concept_Ref>Concept_ctx_29</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_13</ID>
+				<Extent>
+					<Object_Ref>apexdc++</Object_Ref>
+					<Object_Ref>rsx++</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>magnet uri</Attribute_Ref>
+					<Attribute_Ref>dht</Attribute_Ref>
+					<Attribute_Ref>proxy</Attribute_Ref>
+					<Attribute_Ref>plugin:={c++,lua}</Attribute_Ref>
+					<Attribute_Ref>nmdc compatible</Attribute_Ref>
+					<Attribute_Ref>encryption</Attribute_Ref>
+					<Attribute_Ref>protocol support:={inherits from strongdc++}</Attribute_Ref>
+					<Attribute_Ref>plugin:={lua}</Attribute_Ref>
+					<Attribute_Ref>upnp</Attribute_Ref>
+					<Attribute_Ref>hash algorithms:={tiger tree hash}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_22</Concept_Ref>
+					<Concept_Ref>Concept_ctx_29</Concept_Ref>
+					<Concept_Ref>Concept_ctx_21</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_29</ID>
+				<Extent>
+					<Object_Ref>apexdc++</Object_Ref>
+					<Object_Ref>dc++</Object_Ref>
+					<Object_Ref>rsx++</Object_Ref>
+					<Object_Ref>tkdc++</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>magnet uri</Attribute_Ref>
+					<Attribute_Ref>plugin:={c++,lua}</Attribute_Ref>
+					<Attribute_Ref>proxy</Attribute_Ref>
+					<Attribute_Ref>nmdc compatible</Attribute_Ref>
+					<Attribute_Ref>encryption</Attribute_Ref>
+					<Attribute_Ref>plugin:={lua}</Attribute_Ref>
+					<Attribute_Ref>upnp</Attribute_Ref>
+					<Attribute_Ref>hash algorithms:={tiger tree hash}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_36</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_3</ID>
+				<Extent>
+					<Object_Ref>eiskaltdc++</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>protocol support:={natt,ucmd,tigr,blom,sega,adcs}</Attribute_Ref>
+					<Attribute_Ref>nmdc compatible</Attribute_Ref>
+					<Attribute_Ref>plugin:={lua}</Attribute_Ref>
+					<Attribute_Ref>plugin:={qml,qtscript,lua}</Attribute_Ref>
+					<Attribute_Ref>protocol support:={keyp,ucmd,tigr,blom,adcs}</Attribute_Ref>
+					<Attribute_Ref>protocol support:={ucmd,tigr,blom,adcs}</Attribute_Ref>
+					<Attribute_Ref>upnp</Attribute_Ref>
+					<Attribute_Ref>protocol support:={tigr,adcs}</Attribute_Ref>
+					<Attribute_Ref>nat traversal</Attribute_Ref>
+					<Attribute_Ref>magnet uri</Attribute_Ref>
+					<Attribute_Ref>protocol support:={natt,pfsr,ucmd,tigr,blom,sega,adcs}</Attribute_Ref>
+					<Attribute_Ref>dht</Attribute_Ref>
+					<Attribute_Ref>proxy</Attribute_Ref>
+					<Attribute_Ref>protocol support:={natt,pfsr,ucmd,keyp,tigr,blom,sega,fs,adcs}</Attribute_Ref>
+					<Attribute_Ref>encryption</Attribute_Ref>
+					<Attribute_Ref>protocol support:={keyp,tigr,adcs}</Attribute_Ref>
+					<Attribute_Ref>protocol support:={natt,pfsr,keyp,blom,ucmd,tigr,sega,adcs}</Attribute_Ref>
+					<Attribute_Ref>hash algorithms:={tiger tree hash}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_10</Concept_Ref>
+					<Concept_Ref>Concept_ctx_11</Concept_Ref>
+					<Concept_Ref>Concept_ctx_17</Concept_Ref>
+					<Concept_Ref>Concept_ctx_15</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_8</ID>
+				<Extent>
+					<Object_Ref>airdc++ nano</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>proxy</Attribute_Ref>
+					<Attribute_Ref>protocol support:={inherits from airdc++}</Attribute_Ref>
+					<Attribute_Ref>nmdc compatible</Attribute_Ref>
+					<Attribute_Ref>encryption</Attribute_Ref>
+					<Attribute_Ref>ipv6</Attribute_Ref>
+					<Attribute_Ref>upnp</Attribute_Ref>
+					<Attribute_Ref>nat traversal</Attribute_Ref>
+					<Attribute_Ref>hash algorithms:={tiger tree hash}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_27</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_4</ID>
+				<Extent>
+					<Object_Ref>linuxdc++</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>protocol support:={inherits from dc++}</Attribute_Ref>
+					<Attribute_Ref>magnet uri</Attribute_Ref>
+					<Attribute_Ref>proxy</Attribute_Ref>
+					<Attribute_Ref>nmdc compatible</Attribute_Ref>
+					<Attribute_Ref>encryption</Attribute_Ref>
+					<Attribute_Ref>upnp</Attribute_Ref>
+					<Attribute_Ref>hash algorithms:={tiger tree hash}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_43</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_14</ID>
+				<Extent>
+					<Object_Ref>apexdc++</Object_Ref>
+					<Object_Ref>flylinkdc++</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>magnet uri</Attribute_Ref>
+					<Attribute_Ref>dht</Attribute_Ref>
+					<Attribute_Ref>proxy</Attribute_Ref>
+					<Attribute_Ref>nmdc compatible</Attribute_Ref>
+					<Attribute_Ref>encryption</Attribute_Ref>
+					<Attribute_Ref>protocol support:={inherits from strongdc++}</Attribute_Ref>
+					<Attribute_Ref>upnp</Attribute_Ref>
+					<Attribute_Ref>nat traversal</Attribute_Ref>
+					<Attribute_Ref>hash algorithms:={tiger tree hash}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_28</Concept_Ref>
+					<Concept_Ref>Concept_ctx_21</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_21</ID>
+				<Extent>
+					<Object_Ref>apexdc++</Object_Ref>
+					<Object_Ref>flylinkdc++</Object_Ref>
+					<Object_Ref>rsx++</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>magnet uri</Attribute_Ref>
+					<Attribute_Ref>dht</Attribute_Ref>
+					<Attribute_Ref>proxy</Attribute_Ref>
+					<Attribute_Ref>nmdc compatible</Attribute_Ref>
+					<Attribute_Ref>encryption</Attribute_Ref>
+					<Attribute_Ref>protocol support:={inherits from strongdc++}</Attribute_Ref>
+					<Attribute_Ref>upnp</Attribute_Ref>
+					<Attribute_Ref>hash algorithms:={tiger tree hash}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_35</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_10</ID>
+				<Extent>
+					<Object_Ref>eiskaltdc++</Object_Ref>
+					<Object_Ref>strongdc++</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>magnet uri</Attribute_Ref>
+					<Attribute_Ref>protocol support:={natt,pfsr,ucmd,tigr,blom,sega,adcs}</Attribute_Ref>
+					<Attribute_Ref>dht</Attribute_Ref>
+					<Attribute_Ref>proxy</Attribute_Ref>
+					<Attribute_Ref>protocol support:={natt,ucmd,tigr,blom,sega,adcs}</Attribute_Ref>
+					<Attribute_Ref>nmdc compatible</Attribute_Ref>
+					<Attribute_Ref>encryption</Attribute_Ref>
+					<Attribute_Ref>protocol support:={ucmd,tigr,blom,adcs}</Attribute_Ref>
+					<Attribute_Ref>upnp</Attribute_Ref>
+					<Attribute_Ref>protocol support:={tigr,adcs}</Attribute_Ref>
+					<Attribute_Ref>nat traversal</Attribute_Ref>
+					<Attribute_Ref>hash algorithms:={tiger tree hash}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_31</Concept_Ref>
+					<Concept_Ref>Concept_ctx_28</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_12</ID>
+				<Extent>
+					<Object_Ref>dc++</Object_Ref>
+					<Object_Ref>tkdc++</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>magnet uri</Attribute_Ref>
+					<Attribute_Ref>proxy</Attribute_Ref>
+					<Attribute_Ref>plugin:={c++,lua}</Attribute_Ref>
+					<Attribute_Ref>protocol support:={natt,ucmd,tigr,blom,sega,adcs}</Attribute_Ref>
+					<Attribute_Ref>nmdc compatible</Attribute_Ref>
+					<Attribute_Ref>encryption</Attribute_Ref>
+					<Attribute_Ref>plugin:={lua}</Attribute_Ref>
+					<Attribute_Ref>protocol support:={ucmd,tigr,blom,adcs}</Attribute_Ref>
+					<Attribute_Ref>upnp</Attribute_Ref>
+					<Attribute_Ref>protocol support:={tigr,adcs}</Attribute_Ref>
+					<Attribute_Ref>nat traversal</Attribute_Ref>
+					<Attribute_Ref>hash algorithms:={tiger tree hash}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_23</Concept_Ref>
+					<Concept_Ref>Concept_ctx_20</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_20</ID>
+				<Extent>
+					<Object_Ref>dc++</Object_Ref>
+					<Object_Ref>eiskaltdc++</Object_Ref>
+					<Object_Ref>tkdc++</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>magnet uri</Attribute_Ref>
+					<Attribute_Ref>proxy</Attribute_Ref>
+					<Attribute_Ref>protocol support:={natt,ucmd,tigr,blom,sega,adcs}</Attribute_Ref>
+					<Attribute_Ref>nmdc compatible</Attribute_Ref>
+					<Attribute_Ref>encryption</Attribute_Ref>
+					<Attribute_Ref>plugin:={lua}</Attribute_Ref>
+					<Attribute_Ref>protocol support:={ucmd,tigr,blom,adcs}</Attribute_Ref>
+					<Attribute_Ref>upnp</Attribute_Ref>
+					<Attribute_Ref>protocol support:={tigr,adcs}</Attribute_Ref>
+					<Attribute_Ref>nat traversal</Attribute_Ref>
+					<Attribute_Ref>hash algorithms:={tiger tree hash}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_37</Concept_Ref>
+					<Concept_Ref>Concept_ctx_30</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_37</ID>
+				<Extent>
+					<Object_Ref>airdc++</Object_Ref>
+					<Object_Ref>dc++</Object_Ref>
+					<Object_Ref>eiskaltdc++</Object_Ref>
+					<Object_Ref>tkdc++</Object_Ref>
+					<Object_Ref>strongdc++</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>magnet uri</Attribute_Ref>
+					<Attribute_Ref>proxy</Attribute_Ref>
+					<Attribute_Ref>protocol support:={natt,ucmd,tigr,blom,sega,adcs}</Attribute_Ref>
+					<Attribute_Ref>nmdc compatible</Attribute_Ref>
+					<Attribute_Ref>encryption</Attribute_Ref>
+					<Attribute_Ref>protocol support:={ucmd,tigr,blom,adcs}</Attribute_Ref>
+					<Attribute_Ref>upnp</Attribute_Ref>
+					<Attribute_Ref>protocol support:={tigr,adcs}</Attribute_Ref>
+					<Attribute_Ref>nat traversal</Attribute_Ref>
+					<Attribute_Ref>hash algorithms:={tiger tree hash}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_41</Concept_Ref>
+					<Concept_Ref>Concept_ctx_39</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_39</ID>
+				<Extent>
+					<Object_Ref>airdc++</Object_Ref>
+					<Object_Ref>dc++</Object_Ref>
+					<Object_Ref>jucy</Object_Ref>
+					<Object_Ref>eiskaltdc++</Object_Ref>
+					<Object_Ref>tkdc++</Object_Ref>
+					<Object_Ref>strongdc++</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>magnet uri</Attribute_Ref>
+					<Attribute_Ref>proxy</Attribute_Ref>
+					<Attribute_Ref>nmdc compatible</Attribute_Ref>
+					<Attribute_Ref>encryption</Attribute_Ref>
+					<Attribute_Ref>protocol support:={ucmd,tigr,blom,adcs}</Attribute_Ref>
+					<Attribute_Ref>upnp</Attribute_Ref>
+					<Attribute_Ref>protocol support:={tigr,adcs}</Attribute_Ref>
+					<Attribute_Ref>hash algorithms:={tiger tree hash}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_43</Concept_Ref>
+					<Concept_Ref>Concept_ctx_40</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_33</ID>
+				<Extent>
+					<Object_Ref>airdc++</Object_Ref>
+					<Object_Ref>dc++</Object_Ref>
+					<Object_Ref>jucy</Object_Ref>
+					<Object_Ref>ncdc</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>nmdc compatible</Attribute_Ref>
+					<Attribute_Ref>encryption</Attribute_Ref>
+					<Attribute_Ref>ipv6</Attribute_Ref>
+					<Attribute_Ref>protocol support:={tigr,adcs}</Attribute_Ref>
+					<Attribute_Ref>hash algorithms:={tiger tree hash}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_40</Concept_Ref>
+					<Concept_Ref>Concept_ctx_38</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_40</ID>
+				<Extent>
+					<Object_Ref>airdc++</Object_Ref>
+					<Object_Ref>dc++</Object_Ref>
+					<Object_Ref>jucy</Object_Ref>
+					<Object_Ref>eiskaltdc++</Object_Ref>
+					<Object_Ref>tkdc++</Object_Ref>
+					<Object_Ref>strongdc++</Object_Ref>
+					<Object_Ref>ncdc</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>nmdc compatible</Attribute_Ref>
+					<Attribute_Ref>encryption</Attribute_Ref>
+					<Attribute_Ref>protocol support:={tigr,adcs}</Attribute_Ref>
+					<Attribute_Ref>hash algorithms:={tiger tree hash}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_45</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_9</ID>
+				<Extent>
+					<Object_Ref>airdc++</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>protocol support:={natt,ucmd,tigr,blom,sega,adcs}</Attribute_Ref>
+					<Attribute_Ref>nmdc compatible</Attribute_Ref>
+					<Attribute_Ref>protocol support:={natt,pfsr,hbri,keyp,ubn1,blom,fo,mcn1,pbd1,ucmd,tigr,sudp,sega,asch,adcs,qp}</Attribute_Ref>
+					<Attribute_Ref>protocol support:={keyp,ucmd,tigr,blom,adcs}</Attribute_Ref>
+					<Attribute_Ref>protocol support:={ucmd,tigr,blom,adcs}</Attribute_Ref>
+					<Attribute_Ref>upnp</Attribute_Ref>
+					<Attribute_Ref>protocol support:={keyp,ucmd,tigr,blom,sudp,adcs}</Attribute_Ref>
+					<Attribute_Ref>protocol support:={natt,pfsr,ucmd,tigr,blom,sega,adcs,qp}</Attribute_Ref>
+					<Attribute_Ref>protocol support:={tigr,adcs}</Attribute_Ref>
+					<Attribute_Ref>nat traversal</Attribute_Ref>
+					<Attribute_Ref>magnet uri</Attribute_Ref>
+					<Attribute_Ref>protocol support:={natt,pfsr,ucmd,tigr,blom,sega,adcs}</Attribute_Ref>
+					<Attribute_Ref>proxy</Attribute_Ref>
+					<Attribute_Ref>encryption</Attribute_Ref>
+					<Attribute_Ref>ipv6</Attribute_Ref>
+					<Attribute_Ref>protocol support:={keyp,tigr,adcs}</Attribute_Ref>
+					<Attribute_Ref>protocol support:={keyp,tigr,sudp,adcs}</Attribute_Ref>
+					<Attribute_Ref>protocol support:={natt,pfsr,keyp,blom,ucmd,tigr,sega,adcs}</Attribute_Ref>
+					<Attribute_Ref>hash algorithms:={tiger tree hash}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_19</Concept_Ref>
+					<Concept_Ref>Concept_ctx_17</Concept_Ref>
+					<Concept_Ref>Concept_ctx_18</Concept_Ref>
+					<Concept_Ref>Concept_ctx_16</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_17</ID>
+				<Extent>
+					<Object_Ref>airdc++</Object_Ref>
+					<Object_Ref>eiskaltdc++</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>protocol support:={natt,ucmd,tigr,blom,sega,adcs}</Attribute_Ref>
+					<Attribute_Ref>nmdc compatible</Attribute_Ref>
+					<Attribute_Ref>protocol support:={keyp,ucmd,tigr,blom,adcs}</Attribute_Ref>
+					<Attribute_Ref>protocol support:={ucmd,tigr,blom,adcs}</Attribute_Ref>
+					<Attribute_Ref>upnp</Attribute_Ref>
+					<Attribute_Ref>protocol support:={tigr,adcs}</Attribute_Ref>
+					<Attribute_Ref>nat traversal</Attribute_Ref>
+					<Attribute_Ref>magnet uri</Attribute_Ref>
+					<Attribute_Ref>protocol support:={natt,pfsr,ucmd,tigr,blom,sega,adcs}</Attribute_Ref>
+					<Attribute_Ref>proxy</Attribute_Ref>
+					<Attribute_Ref>encryption</Attribute_Ref>
+					<Attribute_Ref>protocol support:={keyp,tigr,adcs}</Attribute_Ref>
+					<Attribute_Ref>protocol support:={natt,pfsr,keyp,blom,ucmd,tigr,sega,adcs}</Attribute_Ref>
+					<Attribute_Ref>hash algorithms:={tiger tree hash}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_25</Concept_Ref>
+					<Concept_Ref>Concept_ctx_31</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_18</ID>
+				<Extent>
+					<Object_Ref>airdc++</Object_Ref>
+					<Object_Ref>jucy</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>nmdc compatible</Attribute_Ref>
+					<Attribute_Ref>protocol support:={keyp,ucmd,tigr,blom,adcs}</Attribute_Ref>
+					<Attribute_Ref>protocol support:={ucmd,tigr,blom,adcs}</Attribute_Ref>
+					<Attribute_Ref>upnp</Attribute_Ref>
+					<Attribute_Ref>protocol support:={keyp,ucmd,tigr,blom,sudp,adcs}</Attribute_Ref>
+					<Attribute_Ref>protocol support:={tigr,adcs}</Attribute_Ref>
+					<Attribute_Ref>magnet uri</Attribute_Ref>
+					<Attribute_Ref>proxy</Attribute_Ref>
+					<Attribute_Ref>encryption</Attribute_Ref>
+					<Attribute_Ref>ipv6</Attribute_Ref>
+					<Attribute_Ref>protocol support:={keyp,tigr,adcs}</Attribute_Ref>
+					<Attribute_Ref>protocol support:={keyp,tigr,sudp,adcs}</Attribute_Ref>
+					<Attribute_Ref>hash algorithms:={tiger tree hash}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_26</Concept_Ref>
+					<Concept_Ref>Concept_ctx_25</Concept_Ref>
+					<Concept_Ref>Concept_ctx_24</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_25</ID>
+				<Extent>
+					<Object_Ref>airdc++</Object_Ref>
+					<Object_Ref>jucy</Object_Ref>
+					<Object_Ref>eiskaltdc++</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>magnet uri</Attribute_Ref>
+					<Attribute_Ref>proxy</Attribute_Ref>
+					<Attribute_Ref>nmdc compatible</Attribute_Ref>
+					<Attribute_Ref>encryption</Attribute_Ref>
+					<Attribute_Ref>protocol support:={keyp,tigr,adcs}</Attribute_Ref>
+					<Attribute_Ref>protocol support:={keyp,ucmd,tigr,blom,adcs}</Attribute_Ref>
+					<Attribute_Ref>protocol support:={ucmd,tigr,blom,adcs}</Attribute_Ref>
+					<Attribute_Ref>upnp</Attribute_Ref>
+					<Attribute_Ref>protocol support:={tigr,adcs}</Attribute_Ref>
+					<Attribute_Ref>hash algorithms:={tiger tree hash}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_39</Concept_Ref>
+					<Concept_Ref>Concept_ctx_32</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_24</ID>
+				<Extent>
+					<Object_Ref>airdc++</Object_Ref>
+					<Object_Ref>jucy</Object_Ref>
+					<Object_Ref>ncdc</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>nmdc compatible</Attribute_Ref>
+					<Attribute_Ref>encryption</Attribute_Ref>
+					<Attribute_Ref>ipv6</Attribute_Ref>
+					<Attribute_Ref>protocol support:={keyp,tigr,adcs}</Attribute_Ref>
+					<Attribute_Ref>protocol support:={keyp,tigr,sudp,adcs}</Attribute_Ref>
+					<Attribute_Ref>protocol support:={tigr,adcs}</Attribute_Ref>
+					<Attribute_Ref>hash algorithms:={tiger tree hash}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_33</Concept_Ref>
+					<Concept_Ref>Concept_ctx_32</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_32</ID>
+				<Extent>
+					<Object_Ref>airdc++</Object_Ref>
+					<Object_Ref>jucy</Object_Ref>
+					<Object_Ref>eiskaltdc++</Object_Ref>
+					<Object_Ref>ncdc</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>nmdc compatible</Attribute_Ref>
+					<Attribute_Ref>encryption</Attribute_Ref>
+					<Attribute_Ref>protocol support:={keyp,tigr,adcs}</Attribute_Ref>
+					<Attribute_Ref>protocol support:={tigr,adcs}</Attribute_Ref>
+					<Attribute_Ref>hash algorithms:={tiger tree hash}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_40</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_2</ID>
+				<Extent>
+					<Object_Ref>tkdc++</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>protocol support:={natt,ucmd,tigr,blom,sega,adcs}</Attribute_Ref>
+					<Attribute_Ref>nmdc compatible</Attribute_Ref>
+					<Attribute_Ref>plugin:={lua}</Attribute_Ref>
+					<Attribute_Ref>protocol support:={ucmd,tigr,blom,adcs}</Attribute_Ref>
+					<Attribute_Ref>upnp</Attribute_Ref>
+					<Attribute_Ref>protocol support:={tigr,adcs}</Attribute_Ref>
+					<Attribute_Ref>nat traversal</Attribute_Ref>
+					<Attribute_Ref>magnet uri</Attribute_Ref>
+					<Attribute_Ref>protocol support:={natt,pfsr,ucmd,tigr,blom,sega,adcs}</Attribute_Ref>
+					<Attribute_Ref>proxy</Attribute_Ref>
+					<Attribute_Ref>plugin:={c++,lua}</Attribute_Ref>
+					<Attribute_Ref>encryption</Attribute_Ref>
+					<Attribute_Ref>hash algorithms:={tiger tree hash}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_12</Concept_Ref>
+					<Concept_Ref>Concept_ctx_11</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_11</ID>
+				<Extent>
+					<Object_Ref>eiskaltdc++</Object_Ref>
+					<Object_Ref>tkdc++</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>magnet uri</Attribute_Ref>
+					<Attribute_Ref>protocol support:={natt,pfsr,ucmd,tigr,blom,sega,adcs}</Attribute_Ref>
+					<Attribute_Ref>proxy</Attribute_Ref>
+					<Attribute_Ref>protocol support:={natt,ucmd,tigr,blom,sega,adcs}</Attribute_Ref>
+					<Attribute_Ref>nmdc compatible</Attribute_Ref>
+					<Attribute_Ref>encryption</Attribute_Ref>
+					<Attribute_Ref>plugin:={lua}</Attribute_Ref>
+					<Attribute_Ref>protocol support:={ucmd,tigr,blom,adcs}</Attribute_Ref>
+					<Attribute_Ref>upnp</Attribute_Ref>
+					<Attribute_Ref>protocol support:={tigr,adcs}</Attribute_Ref>
+					<Attribute_Ref>nat traversal</Attribute_Ref>
+					<Attribute_Ref>hash algorithms:={tiger tree hash}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_31</Concept_Ref>
+					<Concept_Ref>Concept_ctx_20</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_31</ID>
+				<Extent>
+					<Object_Ref>airdc++</Object_Ref>
+					<Object_Ref>eiskaltdc++</Object_Ref>
+					<Object_Ref>tkdc++</Object_Ref>
+					<Object_Ref>strongdc++</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>magnet uri</Attribute_Ref>
+					<Attribute_Ref>protocol support:={natt,pfsr,ucmd,tigr,blom,sega,adcs}</Attribute_Ref>
+					<Attribute_Ref>proxy</Attribute_Ref>
+					<Attribute_Ref>protocol support:={natt,ucmd,tigr,blom,sega,adcs}</Attribute_Ref>
+					<Attribute_Ref>nmdc compatible</Attribute_Ref>
+					<Attribute_Ref>encryption</Attribute_Ref>
+					<Attribute_Ref>protocol support:={ucmd,tigr,blom,adcs}</Attribute_Ref>
+					<Attribute_Ref>upnp</Attribute_Ref>
+					<Attribute_Ref>protocol support:={tigr,adcs}</Attribute_Ref>
+					<Attribute_Ref>nat traversal</Attribute_Ref>
+					<Attribute_Ref>hash algorithms:={tiger tree hash}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_37</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_1</ID>
+				<Extent>
+					<Object_Ref>strongdc++</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>protocol support:={natt,ucmd,tigr,blom,sega,adcs}</Attribute_Ref>
+					<Attribute_Ref>nmdc compatible</Attribute_Ref>
+					<Attribute_Ref>protocol support:={ucmd,tigr,blom,adcs}</Attribute_Ref>
+					<Attribute_Ref>upnp</Attribute_Ref>
+					<Attribute_Ref>protocol support:={natt,pfsr,ucmd,tigr,blom,sega,adcs,qp}</Attribute_Ref>
+					<Attribute_Ref>protocol support:={tigr,adcs}</Attribute_Ref>
+					<Attribute_Ref>nat traversal</Attribute_Ref>
+					<Attribute_Ref>magnet uri</Attribute_Ref>
+					<Attribute_Ref>protocol support:={natt,pfsr,ucmd,tigr,blom,sega,adcs}</Attribute_Ref>
+					<Attribute_Ref>dht</Attribute_Ref>
+					<Attribute_Ref>proxy</Attribute_Ref>
+					<Attribute_Ref>encryption</Attribute_Ref>
+					<Attribute_Ref>hash algorithms:={tiger tree hash}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_16</Concept_Ref>
+					<Concept_Ref>Concept_ctx_10</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_16</ID>
+				<Extent>
+					<Object_Ref>airdc++</Object_Ref>
+					<Object_Ref>strongdc++</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>magnet uri</Attribute_Ref>
+					<Attribute_Ref>protocol support:={natt,pfsr,ucmd,tigr,blom,sega,adcs}</Attribute_Ref>
+					<Attribute_Ref>proxy</Attribute_Ref>
+					<Attribute_Ref>protocol support:={natt,ucmd,tigr,blom,sega,adcs}</Attribute_Ref>
+					<Attribute_Ref>nmdc compatible</Attribute_Ref>
+					<Attribute_Ref>encryption</Attribute_Ref>
+					<Attribute_Ref>protocol support:={ucmd,tigr,blom,adcs}</Attribute_Ref>
+					<Attribute_Ref>upnp</Attribute_Ref>
+					<Attribute_Ref>protocol support:={natt,pfsr,ucmd,tigr,blom,sega,adcs,qp}</Attribute_Ref>
+					<Attribute_Ref>protocol support:={tigr,adcs}</Attribute_Ref>
+					<Attribute_Ref>nat traversal</Attribute_Ref>
+					<Attribute_Ref>hash algorithms:={tiger tree hash}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_31</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+		</Lattice>
+	</Step >
+</RCAExplore_Document>

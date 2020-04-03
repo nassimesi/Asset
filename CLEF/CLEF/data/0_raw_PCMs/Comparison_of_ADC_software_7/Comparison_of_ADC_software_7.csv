@@ -1,0 +1,13 @@
+name,magnet uri,upnp,nat traversal,dht,encryption,ipv6,plugin,proxy,hash algorithms,protocol support,nmdc compatible
+airdc++,X,X,X,,X,X,*,X,tiger tree hash,"tigr;adcs;ucmd,natt;sega;pfsr;keyp;pbd1;ubn1;mcn1;blom;sudp;fo;qp;hbri;asch",X
+airdc++ nano,,X,X,,X,X,*,X,tiger tree hash,inherits from airdc++,X
+apexdc++,X,X,X,X,X,,c++;lua,X,tiger tree hash,inherits from strongdc++,X
+dc++,X,X,X,,X,X,c++;lua,X,tiger tree hash,tigr;adcs;ucmd;blom;natt;sega,X
+jucy,X,X,,,X,X,eclipse rcp,X,tiger tree hash,tigr;adcs;keyp;sudp;blom;ucmd,X
+linuxdc++,X,X,,,X,,*,X,tiger tree hash,inherits from dc++,X
+eiskaltdc++,X,X,X,X,X,,lua;qtscript;qml,X,tiger tree hash,tigr;adcs;ucmd;blom;natt;sega;pfsr;keyp;fs,X
+flylinkdc++,X,X,X,X,X,,*,X,tiger tree hash,inherits from strongdc++,X
+rsx++,X,X,,X,X,,c++;lua,X,tiger tree hash,inherits from strongdc++,X
+tkdc++,X,X,X,,X,,c++;lua,X,tiger tree hash,tigr;adcs;ucmd;blom;natt;pfsr;sega,X
+strongdc++,X,X,X,X,X,,*,X,tiger tree hash,tigr;adcs;ucmd;blom;natt;pfsr;qp;sega,X
+ncdc,,,,,X,X,*,,tiger tree hash,tigr;adcs;keyp;sudp,X

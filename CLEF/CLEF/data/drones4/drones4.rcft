@@ -1,0 +1,11 @@
+FormalContext ctx
+algo fca
+| |Gimbal|GPS|GLONASS|Avoidance|Headless|Altitude Hold|FT l 10|FT ge 10|FT ge 20|
+|syma X4S Assault|||||x||x|||
+|Syma X8G|||||x||x|||
+|Parrot Bebop||x||||x||x||
+|DJI Ryze Tello||||||x||x||
+|Hubsan X4 H502S||x|||x|x||x||
+|Aosenma CG035 GPS FPV|x|x|||x|x||x||
+|DJI Mavic Air|x|x|x|x|x|x|||x|
+|Yuneec Typoon H Pro|x|x|x|x|x|x|||x|

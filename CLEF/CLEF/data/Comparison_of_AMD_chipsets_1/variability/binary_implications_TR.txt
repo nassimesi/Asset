@@ -1,0 +1,122 @@
+codename:={rd790} -> southbridge:={sb750,sb850,sb600}
+codename:={rd790} -> released:=[2007-2007]
+codename:={rs780d} -> released:=[2008-2008]
+grahic processing unit:={radeon hd 3300} -> released:=[2008-2008]
+codename:={rs780d} -> southbridge:={sb750}
+grahic processing unit:={radeon hd 3300} -> southbridge:={sb750}
+codename:={rs780d} -> fabrication process (nanometer):=[55-55]
+grahic processing unit:={radeon hd 3300} -> fabrication process (nanometer):=[55-55]
+codename:={rs780d} -> hyper transport (MHz):=[2600-2600]
+grahic processing unit:={radeon hd 3300} -> hyper transport (MHz):=[2600-2600]
+codename:={rs785e} -> grahic processing unit:={radeon hd 4200}
+released:=* -> grahic processing unit:={radeon hd 4200}
+hyper transport (MHz):=[2200-2200] -> grahic processing unit:={radeon hd 4200}
+codename:={rs880} -> released:=[2009-2009]
+southbridge:={sb750,sb850,sb710,sb810} -> released:=[2009-2009]
+codename:={rs880} -> grahic processing unit:={radeon hd 4200}
+codename:={rs780m} -> cpu support:={mobile athlon,mobile turion,athlon neo}
+codename:={rs780m} -> grahic processing unit:={radeon hd 3200}
+codename:={rs780mc} -> cpu support:={mobile athlon,mobile turion,athlon neo}
+codename:={rs780mc} -> grahic processing unit:={radeon 3100}
+codename:={rs780i} -> grahic processing unit:={radeon hd 3200}
+codename:={rs780i} -> southbridge:={sb750,sb710,sb700}
+codename:={rs780c} -> grahic processing unit:={radeon 3100}
+codename:={rs780c} -> southbridge:={sb750,sb710,sb700}
+codename:={rx780} -> fabrication process (nanometer):=[65-65]
+southbridge:={sb750,sb600,sb710,sb700} -> fabrication process (nanometer):=[65-65]
+codename:={rs780l} -> released:=[2009-2009]
+grahic processing unit:={radeon 3000} -> released:=[2009-2009]
+codename:={rs740} -> southbridge:={sb750,sb600,sb700}
+grahic processing unit:={radeon 2100} -> southbridge:={sb750,sb600,sb700}
+codename:={rs740} -> hyper transport (MHz):=[1000-1000]
+grahic processing unit:={radeon 2100} -> hyper transport (MHz):=[1000-1000]
+codename:={rs740} -> fabrication process (nanometer):=[55-55]
+grahic processing unit:={radeon 2100} -> fabrication process (nanometer):=[55-55]
+codename:={rx740} -> southbridge:={sb750,sb600,sb700}
+codename:={rx740} -> hyper transport (MHz):=[1000-1000]
+codename:={rx740} -> fabrication process (nanometer):=[55-55]
+grahic processing unit:={radeon x1270 (400mhz)} -> codename:={rs690t}
+grahic processing unit:={radeon x1270 (400mhz)} -> cpu support:={turion 64 x2,athlon 64 x2 mobile}
+cpu support:={mobile sempron,athlon neo} -> codename:={rs690t}
+grahic processing unit:={radeon x1250 (350mhz)} -> codename:={rs690t}
+codename:={rs690m} -> cpu support:={turion 64 x2,athlon 64 x2 mobile}
+grahic processing unit:={radeon x1250 (350 mhz)} -> cpu support:={turion 64 x2,athlon 64 x2 mobile}
+codename:={rs690mc} -> cpu support:={turion 64 x2,athlon 64 x2 mobile}
+grahic processing unit:={radeon x1200 (350 mhz)} -> cpu support:={turion 64 x2,athlon 64 x2 mobile}
+codename:={rs690} -> fabrication process (nanometer):=[80-80]
+grahic processing unit:={radeon x1250 (400mhz)} -> fabrication process (nanometer):=[80-80]
+codename:={rs690} -> hyper transport (MHz):=[1000-1000]
+grahic processing unit:={radeon x1250 (400mhz)} -> hyper transport (MHz):=[1000-1000]
+codename:={rs690} -> cpu support:={athlon 64,sempron,phenom}
+codename:={rs690} -> cpu support:={athlon 64,sempron,phenom}
+grahic processing unit:={radeon x1250 (400mhz)} -> cpu support:={athlon 64,sempron,phenom}
+grahic processing unit:={radeon x1250 (400mhz)} -> cpu support:={athlon 64,sempron,phenom}
+codename:={rs690c} -> fabrication process (nanometer):=[80-80]
+grahic processing unit:={radeon x1200 (350mhz)} -> fabrication process (nanometer):=[80-80]
+codename:={rs690c} -> hyper transport (MHz):=[1000-1000]
+grahic processing unit:={radeon x1200 (350mhz)} -> hyper transport (MHz):=[1000-1000]
+codename:={rs690c} -> cpu support:={athlon 64,sempron}
+grahic processing unit:={radeon x1200 (350mhz)} -> cpu support:={athlon 64,sempron}
+codename:={rd580} -> released:=[2006-2006]
+codename:={rd580} -> fabrication process (nanometer):=*
+codename:={rd570} -> fabrication process (nanometer):=*
+codename:={rd570} -> released:=[2007-2007]
+codename:={rd480} -> released:=[2006-2006]
+cpu support:={athlon 64,sempron} -> released:=[2006-2006]
+fabrication process (nanometer):=[110-110] -> released:=[2006-2006]
+southbridge:={uli-m1575,sb600} -> released:=[2006-2006]
+southbridge:={sb750,sb850,sb600} -> fabrication process (nanometer):=[65-65]
+grahic processing unit:={radeon hd 4200} -> fabrication process (nanometer):=[55-55]
+southbridge:={sb850,sb810} -> fabrication process (nanometer):=[55-55]
+cpu support:={mobile athlon,mobile turion,athlon neo} -> southbridge:={sb600,sb710,sb700}
+cpu support:={mobile athlon,mobile turion,athlon neo} -> fabrication process (nanometer):=[55-55]
+grahic processing unit:={radeon hd 3200} -> southbridge:={sb710,sb700}
+grahic processing unit:={radeon hd 3200} -> fabrication process (nanometer):=[55-55]
+grahic processing unit:={radeon 3100} -> southbridge:={sb710,sb700}
+grahic processing unit:={radeon 3100} -> fabrication process (nanometer):=[55-55]
+released:=[2009-2009] -> southbridge:={sb710}
+released:=[2009-2009] -> fabrication process (nanometer):=[55-55]
+released:=[2009-2009] -> cpu support:={athlon 64,sempron,phenom}
+released:=[2009-2009] -> cpu support:={athlon 64,sempron,phenom}
+codename:={rs690t} -> hyper transport (MHz):=[800-800]
+fabrication process (nanometer):=* -> hyper transport (MHz):=[1000-1000]
+fabrication process (nanometer):=* -> released:=[2006-2007]
+fabrication process (nanometer):=* -> cpu support:={athlon 64,sempron,phenom}
+fabrication process (nanometer):=* -> cpu support:={athlon 64,sempron,phenom}
+released:=[2006-2006] -> hyper transport (MHz):=[1000-1000]
+southbridge:={sb750,sb850} -> hyper transport (MHz):=[2600-2600]
+fabrication process (nanometer):=[65-65] -> southbridge:={sb750,sb600}
+fabrication process (nanometer):=[65-65] -> hyper transport (MHz):=[2600-2600]
+cpu support:={athlon neo} -> southbridge:={sb600}
+cpu support:={athlon neo} -> released:=[2007-2008]
+cpu support:={athlon neo} -> fabrication process (nanometer):=[55-80]
+cpu support:={turion 64 x2,athlon 64 x2 mobile} -> hyper transport (MHz):=[800-800]
+southbridge:={sb850} -> hyper transport (MHz):=[2200-2600]
+hyper transport (MHz):=[800-800] -> fabrication process (nanometer):=[80-80]
+southbridge:={sb710,sb700} -> released:=[2008-2008]
+southbridge:={sb750,sb600} -> released:=[2007-2008]
+southbridge:={sb600,sb700} -> released:=[2008-2008]
+southbridge:={sb750,sb700} -> released:=[2008-2008]
+fabrication process (nanometer):=[80-80] -> released:=[2007-2007]
+southbridge:={sb710} -> hyper transport (MHz):=[2600-2600]
+southbridge:={sb710} -> released:=[2008-2009]
+fabrication process (nanometer):=[80-110] -> released:=[2006-2007]
+fabrication process (nanometer):=[80-110] -> hyper transport (MHz):=[800-1000]
+hyper transport (MHz):=[1000-1000] -> cpu support:={sempron}
+southbridge:={sb750} -> cpu support:={athlon 64,sempron,phenom}
+southbridge:={sb750} -> cpu support:={athlon 64,sempron,phenom}
+southbridge:={sb750} -> fabrication process (nanometer):=[55-65]
+southbridge:={sb750} -> released:=[2007-2009]
+fabrication process (nanometer):=[65-80] -> released:=[2007-2008]
+hyper transport (MHz):=[2600-2600] -> released:=[2007-2009]
+fabrication process (nanometer):=[65-110] -> southbridge:={sb600}
+released:=[2006-2007] -> southbridge:={sb600}
+hyper transport (MHz):=[2200-2600] -> fabrication process (nanometer):=[55-65]
+released:=[2008-2009] -> fabrication process (nanometer):=[55-65]
+hyper transport (MHz):=[800-1000] -> southbridge:={sb600}
+fabrication process (nanometer):=[55-65] -> hyper transport (MHz):=[1000-2600]
+cpu support:={sempron} -> hyper transport (MHz):=[1000-2600]
+cpu support:={sempron} -> released:=[2006-2009]
+southbridge:={sb600} -> released:=[2006-2008]
+fabrication process (nanometer):=[55-110] -> hyper transport (MHz):=[800-2600]
+released:=[2006-2009] -> hyper transport (MHz):=[800-2600]

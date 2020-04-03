@@ -1,0 +1,15 @@
+implementation language(s):={c#,c++,asp.net} <-> first release date:=[1990-1990]
+database backend:={mariadb,ms sql server,mysql} <-> first release date:=[2013-2013]
+implementation language(s):={apex} <-> first release date:=[1999-1999]
+implementation language(s):={asp.net,asp} <-> database backend:={ms sql,oracle,db2}
+implementation language(s):={asp.net,asp} <-> first release date:=[1981-1981]
+database backend:={ms sql,oracle,db2} <-> first release date:=[1981-1981]
+last release date:=[2006-2006] <-> implementation language(s):={vbscript,javascript,asp}
+implementation language(s):={c++,javascript} <-> database backend:={ms sql,oracle,postgresql,mysql}
+implementation language(s):={c++,javascript} <-> first release date:=[2001-2001]
+database backend:={ms sql,oracle,postgresql,mysql} <-> first release date:=[2001-2001]
+license:={proprietary,saas,agpl3} <-> implementation language(s):={php,javascript}
+license:={mit} <-> database backend:={postgresql,mysql,adodb}
+last release date:=[2009-2009] <-> implementation language(s):={python,ruby on rails}
+last release date:=[2009-2009] <-> server operating system:={windows phone,android,cloud computing,ios}
+implementation language(s):={python,ruby on rails} <-> server operating system:={windows phone,android,cloud computing,ios}

@@ -1,0 +1,3 @@
+active ->! software type:={general library}
+active ->! software type:={hub linker}
+active ->! software type:={hub operator helper}

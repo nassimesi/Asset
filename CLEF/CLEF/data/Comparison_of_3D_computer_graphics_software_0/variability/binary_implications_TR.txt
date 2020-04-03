@@ -1,0 +1,6 @@
+license:={bsd} -> platforms:={bsd,microsoftwindows,linux,macosx}
+latestreleasedate:=[2004-2004] -> platforms:={amigaos,microsoftwindows,linux,macosx}
+mainlyusedfor:={subdivisionmodeling,uvmapping} -> latestreleasedate:=[2008-2008]
+mainlyusedfor:={fractalgeometry,landscapemodeling,animation} -> latestreleasedate:=[2010-2010]
+platforms:={amigaos,microsoftwindows,linux,macosx} -> license:={gnugpl}
+mainlyusedfor:={videogamecreation} -> platforms:={microsoftwindows}

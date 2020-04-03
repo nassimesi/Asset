@@ -1,0 +1,8 @@
+other:={erlangenabledplatform} -> osx
+other:={c#enabledplatform} -> windows
+other:={synologynas,gccenabledplatform,raspberrypi} -> osx
+other:={pythonenabledplatform} -> linux
+other:={solaris} -> osx
+other:={javaenabledplatform} -> osx
+osx -> linux
+linux -> windows

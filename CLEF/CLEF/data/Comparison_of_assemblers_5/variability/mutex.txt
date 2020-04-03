@@ -1,0 +1,52 @@
+os:={windows} ->! license:={proprietary}
+os:={dos} ->! license:={free}
+active development ->! os:={cp/m-86,isis,irmx,dos}
+active development ->! os:={pc/ix,unix-like,dos}
+active development ->! os:={xenix}
+open source ->! license:={proprietary}
+open source ->! os:={unix system v}
+open source ->! os:={cp/m-86,isis,irmx,dos}
+open source ->! license:={microsoft eula}
+open source ->! os:={windows,windows mobile}
+open source ->! os:={xenix}
+x86-64 ->! license:={proprietary}
+x86-64 ->! os:={minix,linux}
+x86-64 ->! os:={unix system v}
+x86-64 ->! os:={cp/m-86,isis,irmx,dos}
+x86-64 ->! os:={freebsd,linux,windows,mac os x}
+x86-64 ->! os:={pc/ix,unix-like,dos}
+x86-64 ->! os:={xenix}
+license:={proprietary} ->! os:={linux}
+license:={proprietary} ->! os:={unix-like}
+license:={proprietary} ->! os:={os/2}
+os:={linux} ->! license:={gpl}
+os:={linux} ->! license:={microsoft eula}
+os:={unix-like} ->! license:={free}
+os:={unix-like} ->! license:={sybase open watcom public license}
+os:={unix-like} ->! license:={microsoft eula}
+license:={free} ->! os:={os/2}
+license:={free} ->! os:={minix,linux}
+license:={free} ->! os:={unix system v}
+license:={free} ->! os:={xenix}
+license:={bsd} ->! os:={freebsd,linux,windows}
+license:={bsd} ->! os:={unix system v}
+license:={bsd} ->! os:={cp/m-86,isis,irmx,dos}
+license:={bsd} ->! os:={os/2,unix-like,dos,windows}
+license:={bsd} ->! os:={pc/ix,unix-like,dos}
+license:={bsd} ->! os:={windows,windows mobile}
+license:={bsd} ->! os:={xenix}
+license:={gpl} ->! os:={unix system v}
+license:={gpl} ->! os:={cp/m-86,isis,irmx,dos}
+license:={gpl} ->! os:={pc/ix,unix-like,dos}
+license:={gpl} ->! os:={windows,windows mobile}
+license:={gpl} ->! os:={xenix}
+os:={minix,linux} ->! license:={sybase open watcom public license}
+os:={linux,windows,mac os x} ->! license:={sybase open watcom public license}
+license:={sybase open watcom public license} ->! os:={unix system v}
+license:={sybase open watcom public license} ->! os:={cp/m-86,isis,irmx,dos}
+license:={sybase open watcom public license} ->! os:={windows,windows mobile}
+license:={sybase open watcom public license} ->! os:={xenix}
+os:={unix system v} ->! license:={microsoft eula}
+os:={cp/m-86,isis,irmx,dos} ->! license:={microsoft eula}
+license:={microsoft eula} ->! os:={windows,windows mobile}
+license:={microsoft eula} ->! os:={xenix}

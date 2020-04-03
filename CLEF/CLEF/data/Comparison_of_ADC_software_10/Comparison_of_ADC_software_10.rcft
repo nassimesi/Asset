@@ -1,0 +1,12 @@
+FormalContext ctx
+algo fca
+| |gui|cli|programming language:={c#}|programming language:={delphi}|programming language:={c++}|programming language:={java}|programming language:={lua}|programming language:={visual basic}|programming language:={java,lua}|based on:={embla}|based on:={coredc}|
+|adccore|||x||||||||x|
+|dcbouncer||x|||x|||||||
+|dc-hublink|x|||||||x||||
+|dcwatch||x||||x|x||x|x||
+|embla||||||x||||||
+|flowlib|||x|||||||||
+|netchatlink|x|||x||||||||
+|announcer bot|||||||x|||||
+|certmanager|x||||||x|||||

@@ -1,0 +1,14 @@
+FormalContext ctx
+algo fca
+| |windows|linux|os x|other:={java enabled platform}|other:={openvms}|other:={python enabled platform}|other:={c# enabled platform}|other:={erlang enabled platform}|other:={solaris}|other:={freebsd,solaris}|other:={synology nas,gcc enabled platform,raspberry pi}|other:={bsd,openwrt,haiku,solaris}|
+|adch++|x|x|||||||||||
+|adch++ gui|x|x||||x|||||||
+|dshub|x|x|x|x|||||||||
+|flexhub|x|x|||||||||||
+|luadch|x|x|x||||||||x||
+|nexthub|x||||||x||||||
+|uhub|x|x|x||||||x|||x|
+|erlhub|x|x|x|||||x|||||
+|starlet adc hub|||||x||||||||
+|starhub|x|x|x|x|||||||||
+|rushub|x|x|x||||||x|x|||

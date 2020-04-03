@@ -1,0 +1,14 @@
+testdouble:=[5.7-5.7] <-> testdouble:=[4.4-4.4]
+testdouble:=[5.7-5.7] <-> testdouble:=[3.1-3.1]
+testdouble:=[4.4-4.4] <-> testdouble:=[3.1-3.1]
+first public release:=[2012-2012] <-> cost:={non-free}
+first public release:=[2012-2012] <-> based framework:={core audio}
+cost:={non-free} <-> based framework:={core audio}
+first public release:=[2002-2002] <-> software license:={bsd,proprietary}
+software license:={mit} <-> written in:={c#}
+testdouble:=[1.8-3.1] <-> testdouble:=[1.8-1.8]
+based framework:={xine,directshow,mplayer,gstreamer,vlc,quicktime} <-> testdouble:=[4.4-5.7]
+based framework:={bass audio library} <-> written in:={delphi}
+based framework:={bass audio library} <-> testdouble:=[3.1-4.4]
+written in:={delphi} <-> testdouble:=[3.1-4.4]
+first public release:=[2002-2011] <-> cost:={free}

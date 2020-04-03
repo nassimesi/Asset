@@ -1,0 +1,5 @@
+programming language:={c-sharp} -> gui
+programming language:={python,java} -> cli
+programming language:={c} -> cli
+programming language:={java} -> gui
+programming language:={c++,lua} -> cli

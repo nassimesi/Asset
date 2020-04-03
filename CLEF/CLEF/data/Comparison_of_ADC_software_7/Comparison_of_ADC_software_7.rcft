@@ -1,0 +1,15 @@
+FormalContext ctx
+algo fca
+| |magnet uri|upnp|nat traversal|dht|encryption|ipv6|plugin:={eclipse rcp}|plugin:={lua}|plugin:={c++,lua}|plugin:={qml,qtscript,lua}|proxy|hash algorithms:={tiger tree hash}|protocol support:={inherits from airdc++}|protocol support:={inherits from dc++}|protocol support:={inherits from strongdc++}|protocol support:={tigr,adcs}|protocol support:={keyp,tigr,adcs}|protocol support:={keyp,tigr,sudp,adcs}|protocol support:={ucmd,tigr,blom,adcs}|protocol support:={keyp,ucmd,tigr,blom,adcs}|protocol support:={natt,ucmd,tigr,blom,sega,adcs}|protocol support:={keyp,ucmd,tigr,blom,sudp,adcs}|protocol support:={natt,pfsr,ucmd,tigr,blom,sega,adcs}|protocol support:={natt,pfsr,ucmd,tigr,blom,sega,adcs,qp}|protocol support:={natt,pfsr,keyp,blom,ucmd,tigr,sega,adcs}|protocol support:={natt,pfsr,ucmd,keyp,tigr,blom,sega,fs,adcs}|protocol support:={natt,pfsr,hbri,keyp,ubn1,blom,fo,mcn1,pbd1,ucmd,tigr,sudp,sega,asch,adcs,qp}|nmdc compatible|
+|airdc++|x|x|x||x|x|||||x|x||||x|x|x|x|x|x|x|x|x|x||x|x|
+|airdc++ nano||x|x||x|x|||||x|x|x|||||||||||||||x|
+|apexdc++|x|x|x|x|x|||x|x||x|x|||x|||||||||||||x|
+|dc++|x|x|x||x|x||x|x||x|x||||x|||x||x|||||||x|
+|jucy|x|x|||x|x|x||||x|x||||x|x|x|x|x||x||||||x|
+|linuxdc++|x|x|||x||||||x|x||x||||||||||||||x|
+|eiskaltdc++|x|x|x|x|x|||x||x|x|x||||x|x||x|x|x||x||x|x||x|
+|flylinkdc++|x|x|x|x|x||||||x|x|||x|||||||||||||x|
+|rsx++|x|x||x|x|||x|x||x|x|||x|||||||||||||x|
+|tkdc++|x|x|x||x|||x|x||x|x||||x|||x||x||x|||||x|
+|strongdc++|x|x|x|x|x||||||x|x||||x|||x||x||x|x||||x|
+|ncdc|||||x|x||||||x||||x|x|x||||||||||x|

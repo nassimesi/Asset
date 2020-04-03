@@ -1,0 +1,4 @@
+license:={mpl} <-> structure:={webbased,saas,ondemand,on-premise}
+license:={apache} <-> structure:={multi-user,webaccess,cloudhostable}
+marketfocus:={mid-market,high-market} <-> structure:={webbased,standalone}
+multiuser <-> multico

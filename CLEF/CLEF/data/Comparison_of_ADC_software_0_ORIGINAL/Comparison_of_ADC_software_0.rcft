@@ -1,0 +1,15 @@
+FormalContext ctx
+algo fca
+| |free and open source|active|software license:={gpl}|software license:={proprietary}|software license:={mit license}|software license:={agpl}|software license:={gplv2}|
+|adch++|x|x|x|||||
+|adch++ gui|x||x|||||
+|dshub|x||x|||||
+|flexhub|x|x||||x||
+|luadch|x|x|||||x|
+|nexthub|x||||x|||
+|uhub|x|x|x|||||
+|erlhub|x||x|||||
+|qhub|x||x|||||
+|starlet adc hub||x||x||||
+|starhub||||||||
+|rushub|x|x|x|||||

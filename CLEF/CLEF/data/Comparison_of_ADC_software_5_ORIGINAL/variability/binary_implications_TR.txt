@@ -1,0 +1,5 @@
+haiku -> bsd
+haiku -> os x
+haiku -> windows
+bsd -> linux
+os x -> linux

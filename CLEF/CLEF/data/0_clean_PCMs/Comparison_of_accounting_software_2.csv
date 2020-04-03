@@ -1,0 +1,19 @@
+name,programming language,first public release date,latest stable release,stable release date,development status,database
+adempiere,j2ee;jboss,2006,3.6,2010,5  production / stable,oracle;postgresql
+apache ofbiz,java;xml;freemarker;groovy;javascript,*,12.04.03,2014,5  production / stable,derby;ms sql;mysql;oracle;postgresql
+cgram software,c;java,1982,5.0.0,2009,5  production / stable,postgresql
+compiere,j2ee;jboss,2001,3.2,2008,5  production / stable,oracle;advance server;ms sql;postgresql
+frontaccounting,php,*,2.3.24,2015,5  production / stable,mysql
+gnucash,c;scheme;lisp;perl,1999,2.6.6,2015,5  production / stable,xml;sqlite;mysql;postgresql
+gnu enterprise,python,2002,1.4,2008,5  production / stable,postgresql
+homebank,c,1998,5.0.2,2015,5  production / stable,xml
+intars,objective c,1999,6.1,2012,5  production / stable,*
+jfire,j2ee;jboss;eclipse rcp;jdo,*,1.0.1,2010,*,ms sql;derby
+kmymoney,c++,2000,4.7.2,2015,5  production / stable,xml;sql;sqlite;postgresql;oracle;ibm db2
+ledgersmb,perl,2006,1.4.11,2015,5  production / stable,postgresql
+newviews,c++,1985,2.28.1,2015,5  production / stable,*
+openbravo,j2ee;jboss,2006,3.0,2013,5  production / stable,oracle;postgresql
+odoo,python;xml;javascript,*,7.0,2012,5  production / stable,postgresql
+sqlledger,perl,*,3.0.2,2012,*,postgresql
+tryton,python,2008,3.0,2013,5  production / stable,postgresql;mysql;sqlite
+weberp,php,2003,4.07.10,2012,5  production / stable,mysql;innodb

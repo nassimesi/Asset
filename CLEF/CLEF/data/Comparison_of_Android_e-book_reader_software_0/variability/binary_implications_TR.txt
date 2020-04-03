@@ -1,0 +1,82 @@
+developer:={zxstyles} -> .docx
+developer:={zxstyles} -> formats total:=[05-05]
+developer:={gigamarket ltd.} -> .epub
+formats total:=[01-01] -> .epub
+developer:={snapplify} -> formats total:=[07-07]
+developer:={snapplify} -> .pdf
+developer:={obreey products} -> formats total:=[07-07]
+developer:={obreey products} -> .chm
+developer:={obreey products} -> .djvu
+developer:={moon+} -> .oeb
+formats total:=[08-08] -> .oeb
+developer:={moon+} -> .chm
+formats total:=[08-08] -> .chm
+developer:={mantano sas} -> formats total:=[02-02]
+developer:={mantano sas} -> .pdf
+developer:={mantano sas} -> .epub
+developer:={ael data services llp} -> formats total:=[02-02]
+developer:={ael data services llp} -> .pdf
+developer:={ael data services llp} -> .epub
+developer:={kobo ebooks} -> formats total:=[05-05]
+developer:={kobo ebooks} -> .rtf
+developer:={kobo ebooks} -> .html
+developer:={amazon mobile llc} -> .mobi
+developer:={amazon mobile llc} -> formats total:=[02-02]
+developer:={amazon mobile llc} -> .pdf
+developer:={google inc.} -> formats total:=[02-02]
+developer:={google inc.} -> .pdf
+developer:={google inc.} -> .epub
+developer:={fbreader.org limited} -> .oeb
+formats total:=[11-11] -> .oeb
+developer:={fbreader.org limited} -> .djvu
+formats total:=[11-11] -> .djvu
+developer:={unidocs inc.} -> .html
+formats total:=[04-04] -> .html
+developer:={unidocs inc.} -> .pdf
+formats total:=[04-04] -> .pdf
+developer:={ebooks.com} -> formats total:=[02-02]
+developer:={ebooks.com} -> .pdf
+developer:={ebooks.com} -> .epub
+developer:={ak2} -> formats total:=[05-05]
+developer:={ak2} -> .djvu
+developer:={vadim lopatin} -> formats total:=[07-07]
+developer:={vadim lopatin} -> .chm
+developer:={vadim lopatin} -> .doc
+developer:={vadim lopatin} -> .pdb
+developer:={alan.neverland} -> .docx
+formats total:=[09-09] -> .docx
+developer:={aldiko limited} -> formats total:=[02-02]
+developer:={aldiko limited} -> .pdf
+developer:={aldiko limited} -> .epub
+.oeb -> formats total:=[08-11]
+.oeb -> .pdf
+.docx -> .fb2
+.docx -> formats total:=[05-09]
+.docx -> .html
+formats total:=[09-11] -> .doc
+formats total:=[09-11] -> .pdb
+.djvu -> .rtf
+.djvu -> .fb2
+.djvu -> .pdf
+.chm -> formats total:=[07-08]
+.chm -> .fb2
+formats total:=[08-11] -> .mobi
+formats total:=[08-11] -> .fb2
+.doc -> formats total:=[07-11]
+.pdb -> formats total:=[07-11]
+.doc -> .mobi
+.pdb -> .mobi
+.doc -> .rtf
+.pdb -> .rtf
+.doc -> .fb2
+.pdb -> .fb2
+formats total:=[07-11] -> .html
+.mobi -> .txt
+.rtf -> formats total:=[05-11]
+.fb2 -> formats total:=[05-11]
+.html -> .txt
+.html -> .epub
+formats total:=[04-11] -> .epub
+.txt -> formats total:=[02-11]
+.pdf -> formats total:=[02-11]
+.epub -> formats total:=[01-11]

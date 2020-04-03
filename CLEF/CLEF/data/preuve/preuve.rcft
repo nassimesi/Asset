@@ -1,0 +1,7 @@
+FormalContext ctx
+algo acposet
+| |A|B|C|
+|P1|x|x||
+|P2|x|x|x|
+|P3|x||x|
+|P4||x|x|

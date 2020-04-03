@@ -1,0 +1,142 @@
+<RCAExplore_Document>
+	<Step nb="0">
+		<Lattice numberObj="8" numberAtt="9" numberCpt="7" >
+			<Config algo="acposet">
+			</Config>
+			<Name>ctx</Name>
+			<Object>syma X4S Assault</Object>
+			<Object>Syma X8G</Object>
+			<Object>Parrot Bebop</Object>
+			<Object>DJI Ryze Tello</Object>
+			<Object>Hubsan X4 H502S</Object>
+			<Object>Aosenma CG035 GPS FPV</Object>
+			<Object>DJI Mavic Air</Object>
+			<Object>Yuneec Typoon H Pro</Object>
+			<Attribute>Gimbal</Attribute>
+			<Attribute>GPS</Attribute>
+			<Attribute>GLONASS</Attribute>
+			<Attribute>Avoidance</Attribute>
+			<Attribute>Headless</Attribute>
+			<Attribute>Altitude Hold</Attribute>
+			<Attribute>FT l 10</Attribute>
+			<Attribute>FT ge 10</Attribute>
+			<Attribute>FT ge 20</Attribute>
+			<Concept>
+				<ID>Concept_ctx_0</ID>
+				<Extent>
+					<Object_Ref>DJI Mavic Air</Object_Ref>
+					<Object_Ref>Yuneec Typoon H Pro</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>Gimbal</Attribute_Ref>
+					<Attribute_Ref>GLONASS</Attribute_Ref>
+					<Attribute_Ref>Headless</Attribute_Ref>
+					<Attribute_Ref>GPS</Attribute_Ref>
+					<Attribute_Ref>FT ge 20</Attribute_Ref>
+					<Attribute_Ref>Altitude Hold</Attribute_Ref>
+					<Attribute_Ref>Avoidance</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_2</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_1</ID>
+				<Extent>
+					<Object_Ref>syma X4S Assault</Object_Ref>
+					<Object_Ref>Syma X8G</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>FT l 10</Attribute_Ref>
+					<Attribute_Ref>Headless</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_6</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_2</ID>
+				<Extent>
+					<Object_Ref>Aosenma CG035 GPS FPV</Object_Ref>
+					<Object_Ref>DJI Mavic Air</Object_Ref>
+					<Object_Ref>Yuneec Typoon H Pro</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>Gimbal</Attribute_Ref>
+					<Attribute_Ref>Headless</Attribute_Ref>
+					<Attribute_Ref>GPS</Attribute_Ref>
+					<Attribute_Ref>Altitude Hold</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_4</Concept_Ref>
+					<Concept_Ref>Concept_ctx_6</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_3</ID>
+				<Extent>
+					<Object_Ref>Parrot Bebop</Object_Ref>
+					<Object_Ref>DJI Ryze Tello</Object_Ref>
+					<Object_Ref>Hubsan X4 H502S</Object_Ref>
+					<Object_Ref>Aosenma CG035 GPS FPV</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>FT ge 10</Attribute_Ref>
+					<Attribute_Ref>Altitude Hold</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_5</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_4</ID>
+				<Extent>
+					<Object_Ref>Parrot Bebop</Object_Ref>
+					<Object_Ref>Hubsan X4 H502S</Object_Ref>
+					<Object_Ref>Aosenma CG035 GPS FPV</Object_Ref>
+					<Object_Ref>DJI Mavic Air</Object_Ref>
+					<Object_Ref>Yuneec Typoon H Pro</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>GPS</Attribute_Ref>
+					<Attribute_Ref>Altitude Hold</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_5</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_6</ID>
+				<Extent>
+					<Object_Ref>syma X4S Assault</Object_Ref>
+					<Object_Ref>Syma X8G</Object_Ref>
+					<Object_Ref>Hubsan X4 H502S</Object_Ref>
+					<Object_Ref>Aosenma CG035 GPS FPV</Object_Ref>
+					<Object_Ref>DJI Mavic Air</Object_Ref>
+					<Object_Ref>Yuneec Typoon H Pro</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>Headless</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_5</ID>
+				<Extent>
+					<Object_Ref>Parrot Bebop</Object_Ref>
+					<Object_Ref>DJI Ryze Tello</Object_Ref>
+					<Object_Ref>Hubsan X4 H502S</Object_Ref>
+					<Object_Ref>Aosenma CG035 GPS FPV</Object_Ref>
+					<Object_Ref>DJI Mavic Air</Object_Ref>
+					<Object_Ref>Yuneec Typoon H Pro</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>Altitude Hold</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+				</UpperCovers>
+			</Concept>
+		</Lattice>
+	</Step >
+</RCAExplore_Document>

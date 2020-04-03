@@ -1,0 +1,7 @@
+license:={freeware} -> marketfocus:={low-market}
+marketfocus:={high-market} -> windows
+license:={softwareasaservice} -> windows
+structure:={webbased} -> windows
+linux -> windows
+marketfocus:={low-market} -> windows
+marketfocus:={mid-market} -> windows

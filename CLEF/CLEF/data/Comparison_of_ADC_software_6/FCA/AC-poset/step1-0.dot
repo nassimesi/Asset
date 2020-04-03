@@ -1,0 +1,62 @@
+digraph G { 
+	rankdir=BT;
+	margin=0;
+	node [margin="0.03,0.03",fontname="DejaVu Sans"];
+	ranksep=0.3;
+	nodesep=0.2;
+//graph[label="name:ctx,concept number:20,object number:12,attribute number:12"
+20 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_19</td></tr><tr><td><br/></td></tr><tr><td><br/></td></tr></table>>];
+21 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_17</td></tr><tr><td>gui<br/></td></tr><tr><td><br/></td></tr></table>>];
+22 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_4</td></tr><tr><td><br/></td></tr><tr><td>eiskaltdc++<br/></td></tr></table>>];
+23 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_12</td></tr><tr><td>cli<br/></td></tr><tr><td><br/></td></tr></table>>];
+24 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_9</td></tr><tr><td>webui<br/></td></tr><tr><td><br/></td></tr></table>>];
+25 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_16</td></tr><tr><td><br/></td></tr><tr><td>dc++<br/></td></tr></table>>];
+26 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_10</td></tr><tr><td><br/></td></tr><tr><td><br/></td></tr></table>>];
+27 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_18</td></tr><tr><td>programming language:={c++}<br/></td></tr><tr><td><br/></td></tr></table>>];
+28 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_0</td></tr><tr><td><br/></td></tr><tr><td><br/></td></tr></table>>];
+29 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_5</td></tr><tr><td>programming language:={java}<br/></td></tr><tr><td>jucy<br/></td></tr></table>>];
+30 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_1</td></tr><tr><td>programming language:={c}<br/></td></tr><tr><td>ncdc<br/></td></tr></table>>];
+31 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_13</td></tr><tr><td>programming language:={c++,lua}<br/></td></tr><tr><td><br/></td></tr></table>>];
+32 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_8</td></tr><tr><td><br/></td></tr><tr><td><br/></td></tr></table>>];
+33 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_14</td></tr><tr><td>based on:={dc++}<br/></td></tr><tr><td>linuxdc++<br/>strongdc++<br/></td></tr></table>>];
+34 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_2</td></tr><tr><td><br/></td></tr><tr><td>tkdc++<br/></td></tr></table>>];
+35 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_11</td></tr><tr><td><br/></td></tr><tr><td>apexdc++<br/>rsx++<br/></td></tr></table>>];
+36 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_3</td></tr><tr><td>based on:={dc++,apexdc speed mode,strongdc++}<br/></td></tr><tr><td>flylinkdc++<br/></td></tr></table>>];
+37 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_7</td></tr><tr><td>based on:={dc++,strongdc++}<br/></td></tr><tr><td><br/></td></tr></table>>];
+38 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_15</td></tr><tr><td>based on:={strongdc++}<br/></td></tr><tr><td>airdc++<br/></td></tr></table>>];
+39 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_6</td></tr><tr><td>based on:={airdc++,nanodc}<br/></td></tr><tr><td>airdc++ nano<br/></td></tr></table>>];
+	21:p -> 20:p
+	23:p -> 20:p
+	27:p -> 20:p
+	25:p -> 21:p
+	29:p -> 21:p
+	28:p -> 22:p
+	26:p -> 23:p
+	30:p -> 23:p
+	22:p -> 24:p
+	36:p -> 24:p
+	38:p -> 25:p
+	31:p -> 25:p
+	33:p -> 25:p
+	39:p -> 26:p
+	22:p -> 26:p
+	25:p -> 27:p
+	26:p -> 27:p
+	28:p -> 29:p
+	28:p -> 30:p
+	32:p -> 31:p
+	35:p -> 31:p
+	22:p -> 32:p
+	34:p -> 32:p
+	24:p -> 33:p
+	32:p -> 33:p
+	37:p -> 33:p
+	28:p -> 34:p
+	34:p -> 35:p
+	28:p -> 36:p
+	36:p -> 37:p
+	34:p -> 37:p
+	35:p -> 38:p
+	37:p -> 38:p
+	28:p -> 39:p
+}

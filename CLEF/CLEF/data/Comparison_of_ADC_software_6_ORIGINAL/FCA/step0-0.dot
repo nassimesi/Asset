@@ -1,0 +1,62 @@
+digraph G { 
+	rankdir=BT;
+	margin=0;
+	node [margin="0.03,0.03",fontname="DejaVu Sans"];
+	ranksep=0.3;
+	nodesep=0.2;
+//graph[label="name:ctx,concept number:20,object number:12,attribute number:12"
+0 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_19</td></tr><tr><td><br/></td></tr><tr><td><br/></td></tr></table>>];
+1 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_17</td></tr><tr><td>gui<br/></td></tr><tr><td><br/></td></tr></table>>];
+2 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_4</td></tr><tr><td><br/></td></tr><tr><td>eiskaltdc++<br/></td></tr></table>>];
+3 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_12</td></tr><tr><td>cli<br/></td></tr><tr><td><br/></td></tr></table>>];
+4 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_9</td></tr><tr><td>webui<br/></td></tr><tr><td><br/></td></tr></table>>];
+5 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_16</td></tr><tr><td><br/></td></tr><tr><td>dc++<br/></td></tr></table>>];
+6 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_10</td></tr><tr><td><br/></td></tr><tr><td><br/></td></tr></table>>];
+7 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_18</td></tr><tr><td>programming language:={c++}<br/></td></tr><tr><td><br/></td></tr></table>>];
+8 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_0</td></tr><tr><td><br/></td></tr><tr><td><br/></td></tr></table>>];
+9 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_5</td></tr><tr><td>programming language:={java}<br/></td></tr><tr><td>jucy<br/></td></tr></table>>];
+10 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_1</td></tr><tr><td>programming language:={c}<br/></td></tr><tr><td>ncdc<br/></td></tr></table>>];
+11 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_13</td></tr><tr><td>programming language:={c++,lua}<br/></td></tr><tr><td><br/></td></tr></table>>];
+12 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_8</td></tr><tr><td><br/></td></tr><tr><td><br/></td></tr></table>>];
+13 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_14</td></tr><tr><td>based on:={dc++}<br/></td></tr><tr><td>linuxdc++<br/>strongdc++<br/></td></tr></table>>];
+14 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_2</td></tr><tr><td><br/></td></tr><tr><td>tkdc++<br/></td></tr></table>>];
+15 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_11</td></tr><tr><td><br/></td></tr><tr><td>apexdc++<br/>rsx++<br/></td></tr></table>>];
+16 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_3</td></tr><tr><td>based on:={dc++,apexdc speed mode,strongdc++}<br/></td></tr><tr><td>flylinkdc++<br/></td></tr></table>>];
+17 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_7</td></tr><tr><td>based on:={dc++,strongdc++}<br/></td></tr><tr><td><br/></td></tr></table>>];
+18 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_15</td></tr><tr><td>based on:={strongdc++}<br/></td></tr><tr><td>airdc++<br/></td></tr></table>>];
+19 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_6</td></tr><tr><td>based on:={airdc++,nanodc}<br/></td></tr><tr><td>airdc++ nano<br/></td></tr></table>>];
+	1:p -> 0:p
+	3:p -> 0:p
+	7:p -> 0:p
+	5:p -> 1:p
+	9:p -> 1:p
+	8:p -> 2:p
+	6:p -> 3:p
+	10:p -> 3:p
+	2:p -> 4:p
+	16:p -> 4:p
+	18:p -> 5:p
+	11:p -> 5:p
+	13:p -> 5:p
+	19:p -> 6:p
+	2:p -> 6:p
+	5:p -> 7:p
+	6:p -> 7:p
+	8:p -> 9:p
+	8:p -> 10:p
+	12:p -> 11:p
+	15:p -> 11:p
+	2:p -> 12:p
+	14:p -> 12:p
+	4:p -> 13:p
+	12:p -> 13:p
+	17:p -> 13:p
+	8:p -> 14:p
+	14:p -> 15:p
+	8:p -> 16:p
+	16:p -> 17:p
+	14:p -> 17:p
+	15:p -> 18:p
+	17:p -> 18:p
+	8:p -> 19:p
+}

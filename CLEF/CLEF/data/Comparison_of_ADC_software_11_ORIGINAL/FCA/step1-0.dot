@@ -1,0 +1,34 @@
+digraph G { 
+	rankdir=BT;
+	margin=0;
+	node [margin="0.03,0.03",fontname="DejaVu Sans"];
+	ranksep=0.3;
+	nodesep=0.2;
+//graph[label="name:ctx,concept number:11,object number:8,attribute number:10"
+11 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_10</td></tr><tr><td><br/></td></tr><tr><td><br/></td></tr></table>>];
+12 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_8</td></tr><tr><td>encryption<br/></td></tr><tr><td><br/></td></tr></table>>];
+13 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_0</td></tr><tr><td>ipv6<br/></td></tr><tr><td><br/></td></tr></table>>];
+14 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_5</td></tr><tr><td>plugin extendable<br/></td></tr><tr><td>embla<br/>flowlib<br/></td></tr></table>>];
+15 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_6</td></tr><tr><td><br/></td></tr><tr><td><br/></td></tr></table>>];
+16 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_9</td></tr><tr><td>hash algorithms:={tiger tree hash}<br/></td></tr><tr><td><br/></td></tr></table>>];
+17 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_1</td></tr><tr><td>hash algorithms:=*<br/>adc support:={osnr,adcs}<br/></td></tr><tr><td>announcer bot<br/></td></tr></table>>];
+18 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_7</td></tr><tr><td>adc support:={tigr}<br/></td></tr><tr><td>dc-hublink<br/>netchatlink<br/></td></tr></table>>];
+19 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_3</td></tr><tr><td>adc support:={tigr,adcs}<br/></td></tr><tr><td>adccore<br/>dcwatch<br/></td></tr></table>>];
+20 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_4</td></tr><tr><td>adc support:={adcs}<br/></td></tr><tr><td><br/></td></tr></table>>];
+21 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_2</td></tr><tr><td>adc support:={any clients,hubs}<br/></td></tr><tr><td>dcbouncer<br/></td></tr></table>>];
+	12:p -> 11:p
+	16:p -> 11:p
+	20:p -> 12:p
+	15:p -> 12:p
+	19:p -> 14:p
+	14:p -> 15:p
+	21:p -> 15:p
+	18:p -> 16:p
+	15:p -> 16:p
+	13:p -> 17:p
+	14:p -> 18:p
+	13:p -> 19:p
+	19:p -> 20:p
+	17:p -> 20:p
+	13:p -> 21:p
+}

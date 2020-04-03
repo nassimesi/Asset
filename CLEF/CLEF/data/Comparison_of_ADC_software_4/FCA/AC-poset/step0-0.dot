@@ -1,0 +1,24 @@
+digraph G { 
+	rankdir=BT;
+	margin=0;
+	node [margin="0.03,0.03",fontname="DejaVu Sans"];
+	ranksep=0.3;
+	nodesep=0.2;
+//graph[label="name:ctx,concept number:7,object number:13,attribute number:5"
+0 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_6</td></tr><tr><td>free and open source<br/></td></tr><tr><td><br/></td></tr></table>>];
+1 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_4</td></tr><tr><td>active<br/></td></tr><tr><td><br/></td></tr></table>>];
+2 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_2</td></tr><tr><td>software license:={bsd}<br/></td></tr><tr><td>jucy<br/></td></tr></table>>];
+3 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_0</td></tr><tr><td><br/></td></tr><tr><td><br/></td></tr></table>>];
+4 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_3</td></tr><tr><td><br/></td></tr><tr><td>airdc++<br/>airdc++ nano<br/>apexdc++<br/>dc++<br/>linuxdc++<br/>eiskaltdc++<br/>flylinkdc++<br/></td></tr></table>>];
+5 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_5</td></tr><tr><td>software license:={gnu gpl}<br/></td></tr><tr><td>rsx++<br/>tkdc++<br/>strongdc++<br/>revconnect<br/></td></tr></table>>];
+6 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_1</td></tr><tr><td>software license:={mit}<br/></td></tr><tr><td>ncdc<br/></td></tr></table>>];
+	1:p -> 0:p
+	5:p -> 0:p
+	4:p -> 1:p
+	2:p -> 1:p
+	6:p -> 1:p
+	3:p -> 2:p
+	3:p -> 4:p
+	4:p -> 5:p
+	3:p -> 6:p
+}

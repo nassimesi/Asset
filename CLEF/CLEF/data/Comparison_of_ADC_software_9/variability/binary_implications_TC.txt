@@ -1,0 +1,11 @@
+other:={wine} -> windows
+other:={javaenabledplatform} -> osx
+other:={javaenabledplatform} -> linux
+other:={javaenabledplatform} -> windows
+other:={.net4enabledplatform} -> windows
+other:={c#enabledplatform} -> osx
+other:={c#enabledplatform} -> linux
+other:={c#enabledplatform} -> windows
+osx -> linux
+osx -> windows
+linux -> windows

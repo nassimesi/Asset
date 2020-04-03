@@ -1,0 +1,11 @@
+movement:={ramescape,anti mirror} <-> targeting:={guessfactor targeting,circular targeting,anti mirror,bullet shielding,linear targeting}
+movement:={wave surfing,anti gravity movement,virtual bullet dodging} <-> targeting:={bearing offset targeting,segmented last}
+movement:={stationary} <-> targeting:={fire at enemys bullet}
+movement:={randomwaves} <-> targeting:={random guessfactor targeting}
+movement:={multi buffered wavesurfing} <-> targeting:={single guessfactor gun}
+movement:={anti gravity movement,teasing movement} <-> targeting:={guessfactor targeting,head on targeting,circular targeting,linear targeting,averaged linear targeting}
+movement:={wave surfing,anti gravity movement,flat movement,shrapnel dodging} <-> targeting:={guessfactor targeting,swarm targeting,dynamic clustering,random targeting}
+targeting:={guessfactor targeting,head on targeting,circular targeting,virtual guns,single tick pattern matching,linear targeting} <-> code license:={npl}
+movement:={adapting stop and go} <-> targeting:={heading circular targeting,enemy velocity,averaged velocity,last place i hit}
+movement:={gilgalads movement} <-> targeting:={gilgalads targeting}
+targeting:={head on targeting,circular targeting,virtual guns,linear targeting} <-> targeting:={circular targeting,head on targeting,virtual guns,linear targeting}

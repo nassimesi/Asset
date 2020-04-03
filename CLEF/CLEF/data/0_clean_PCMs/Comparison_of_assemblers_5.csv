@@ -1,0 +1,28 @@
+name,os,open source,license,x86-64,active development
+a86/a386,windows;dos,,proprietary,,
+ack,linux;minix;unix-like,X,bsd,,X
+arrowsoft assembler,dos,,free,,
+ibm alp,os/2,,proprietary,,
+at&t,unix system v,,proprietary,,X
+bruce d. evans' as86,minix;linux,X,gpl,,
+digital research asm86,cp/m-86;dos;isis;irmx,,proprietary,,
+develsoftware assembler,windows;linux;unix-like,,free,,
+fasm,windows;dos;linux;unix-like,X,bsd,X,X
+gas,unix-like;windows;dos;os/2,X,gpl,X,X
+goasm,windows,,free,X,X
+hla,windows;linux;freebsd;mac os x,X,free,,X
+jwasm,windows;dos;linux;freebsd;os/2,X,sybase open watcom public license,X,X
+lzasm,windows;dos,,free,,
+masm,windows;dos;os/2,,microsoft eula,X,X
+mical a86,unix-like;dos;pc/ix,X,*,,
+nasm,windows;linux;mac os x;dos;os/2,X,bsd,X,X
+tim paterson's asm,dos,,proprietary,,
+poasm,windows;windows mobile,,free,X,X
+rosasm,windows,X,gpl,,
+slr's optasm,dos,,proprietary,,
+tasm,windows;dos,,proprietary,,*
+wasm,windows;dos;os/2,X,sybase open watcom public license,,*
+tccasm,unix-like;windows,X,gpl,X,X
+vasm,*,X,free,,X
+xenix,xenix,,proprietary,,
+yasm,windows;dos;linux;unix-like,X,bsd,X,X

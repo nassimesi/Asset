@@ -1,0 +1,30 @@
+FormalContext ctx
+algo fca
+| |os:={dos}|os:={windows}|os:={os/2}|os:={unix system v}|os:={xenix}|os:={unix-like}|os:={linux}|os:={minix,linux}|os:={windows,windows mobile}|os:={dos,windows}|os:={unix-like,windows}|os:={linux,windows}|os:={unix-like,linux}|os:={unix-like,dos}|os:={os/2,dos,windows}|os:={pc/ix,unix-like,dos}|os:={unix-like,linux,windows}|os:={minix,unix-like,linux}|os:={linux,windows,mac os x}|os:={linux,dos,windows}|os:={freebsd,linux,windows}|os:={unix-like,dos,windows}|os:={unix-like,linux,dos,windows}|os:={freebsd,linux,windows,mac os x}|os:={cp/m-86,isis,irmx,dos}|os:={os/2,unix-like,dos,windows}|os:={os/2,linux,dos,windows}|os:={os/2,freebsd,linux,dos,windows}|os:={os/2,linux,dos,windows,mac os x}|open source|license:={bsd}|license:={gpl}|license:={proprietary}|license:={sybase open watcom public license}|license:={microsoft eula}|license:={free}|x86-64|active development|
+|a86/a386|x|x||||||||x|||||||||||||||||||||||x||||||
+|ack||||||x|x|x|||||x|||||x||||||||||||x|x|||||||x|
+|arrowsoft assembler|x|||||||||||||||||||||||||||||||||||x|||
+|ibm alp|||x||||||||||||||||||||||||||||||x||||||
+|at&t||||x|||||||||||||||||||||||||||||x|||||x|
+|bruce d. evans' as86|||||||x|x||||||||||||||||||||||x||x|||||||
+|digital research asm86|x||||||||||||||||||||||||x||||||||x||||||
+|develsoftware assembler||x||||x|x||||x|x|x||||x|||||||||||||||||||x|||
+|fasm|x|x||||x|x|||x|x|x|x|x|||x|||x||x|x|||||||x|x||||||x|x|
+|gas|x|x|x|||x||||x|x|||x|x|||||||x||||x||||x||x|||||x|x|
+|goasm||x||||||||||||||||||||||||||||||||||x|x|x|
+|hla||x|||||x|||||x|||||||x||x|||x||||||x||||||x||x|
+|jwasm|x|x|x||||x|||x||x|||x|||||x|x||||||x|x||x||||x|||x|x|
+|lzasm|x|x||||||||x||||||||||||||||||||||||||x|||
+|masm|x|x|x|||||||x|||||x||||||||||||||||||||x||x|x|
+|mical a86|x|||||x||||||||x||x||||||||||||||x|||||||||
+|nasm|x|x|x||||x|||x||x|||x||||x|x|||||||x||x|x|x||||||x|x|
+|tim paterson's asm|x||||||||||||||||||||||||||||||||x||||||
+|poasm||x|||||||x|||||||||||||||||||||||||||x|x|x|
+|rosasm||x||||||||||||||||||||||||||||x||x|||||||
+|slr's optasm|x||||||||||||||||||||||||||||||||x||||||
+|tasm|x|x||||||||x|||||||||||||||||||||||x||||||
+|wasm|x|x|x|||||||x|||||x|||||||||||||||x||||x|||||
+|tccasm||x||||x|||||x|||||||||||||||||||x||x|||||x|x|
+|vasm||||||||||||||||||||||||||||||x||||||x||x|
+|xenix|||||x||||||||||||||||||||||||||||x||||||
+|yasm|x|x||||x|x|||x|x|x|x|x|||x|||x||x|x|||||||x|x||||||x|x|

@@ -1,0 +1,2478 @@
+<RCAExplore_Document>
+	<Step nb="0">
+		<Lattice numberObj="22" numberAtt="94" numberCpt="75" >
+			<Config algo="acposet">
+			</Config>
+			<Name>ctx</Name>
+			<Object>amd 480x chipset</Object>
+			<Object>amd 570x/550x chipset</Object>
+			<Object>amd 580x chipset</Object>
+			<Object>amd 690v chipset</Object>
+			<Object>amd 690g chipset</Object>
+			<Object>amd m690v chipset</Object>
+			<Object>amd m690 chipset</Object>
+			<Object>amd m690e chipset</Object>
+			<Object>amd m690t chipset</Object>
+			<Object>amd 740 chipset</Object>
+			<Object>amd 740g chipset</Object>
+			<Object>amd 760g chipset</Object>
+			<Object>amd 770 chipset</Object>
+			<Object>amd 780v chipset</Object>
+			<Object>amd 780g chipset</Object>
+			<Object>amd m780v chipset</Object>
+			<Object>amd m780g chipset</Object>
+			<Object>amd 785g chipset</Object>
+			<Object>785e</Object>
+			<Object>amd 790gx chipset</Object>
+			<Object>amd 790x chipset</Object>
+			<Object>amd 790fx chipset</Object>
+			<Attribute>codename:={rs780mc}</Attribute>
+			<Attribute>codename:={rs780d}</Attribute>
+			<Attribute>codename:={rs690c}</Attribute>
+			<Attribute>codename:={rs780c}</Attribute>
+			<Attribute>codename:={rs785e}</Attribute>
+			<Attribute>codename:={rd570}</Attribute>
+			<Attribute>codename:={rs780l}</Attribute>
+			<Attribute>codename:={rd790}</Attribute>
+			<Attribute>codename:={rs740}</Attribute>
+			<Attribute>codename:={rs780m}</Attribute>
+			<Attribute>codename:={rd780}</Attribute>
+			<Attribute>codename:={rs780i}</Attribute>
+			<Attribute>codename:={rd480}</Attribute>
+			<Attribute>codename:={rd580}</Attribute>
+			<Attribute>codename:={rx740}</Attribute>
+			<Attribute>codename:={rx780}</Attribute>
+			<Attribute>codename:={rs880}</Attribute>
+			<Attribute>codename:={rs690mc}</Attribute>
+			<Attribute>codename:={rs690}</Attribute>
+			<Attribute>codename:={rs690m}</Attribute>
+			<Attribute>codename:={rs690t}</Attribute>
+			<Attribute>released:=[2006-2009]</Attribute>
+			<Attribute>released:=[2007-2009]</Attribute>
+			<Attribute>released:=[2006-2008]</Attribute>
+			<Attribute>released:=[2008-2009]</Attribute>
+			<Attribute>released:=[2007-2008]</Attribute>
+			<Attribute>released:=[2006-2007]</Attribute>
+			<Attribute>released:=[2009-2009]</Attribute>
+			<Attribute>released:=[2008-2008]</Attribute>
+			<Attribute>released:=[2007-2007]</Attribute>
+			<Attribute>released:=[2006-2006]</Attribute>
+			<Attribute>released:=*</Attribute>
+			<Attribute>cpu support:={sempron}</Attribute>
+			<Attribute>cpu support:={athlon neo}</Attribute>
+			<Attribute>cpu support:={athlon 64,sempron}</Attribute>
+			<Attribute>cpu support:={turion 64 x2,athlon 64 x2 mobile}</Attribute>
+			<Attribute>cpu support:={athlon 64,sempron}</Attribute>
+			<Attribute>cpu support:={mobile sempron,athlon neo}</Attribute>
+			<Attribute>cpu support:={athlon 64,sempron,phenom}</Attribute>
+			<Attribute>cpu support:={athlon 64,sempron,phenom}</Attribute>
+			<Attribute>cpu support:={mobile athlon,mobile turion,athlon neo}</Attribute>
+			<Attribute>fabrication process (nanometer):=[55-110]</Attribute>
+			<Attribute>fabrication process (nanometer):=[65-110]</Attribute>
+			<Attribute>fabrication process (nanometer):=[55-80]</Attribute>
+			<Attribute>fabrication process (nanometer):=[80-110]</Attribute>
+			<Attribute>fabrication process (nanometer):=[65-80]</Attribute>
+			<Attribute>fabrication process (nanometer):=[55-65]</Attribute>
+			<Attribute>fabrication process (nanometer):=[110-110]</Attribute>
+			<Attribute>fabrication process (nanometer):=[80-80]</Attribute>
+			<Attribute>fabrication process (nanometer):=[65-65]</Attribute>
+			<Attribute>fabrication process (nanometer):=[55-55]</Attribute>
+			<Attribute>fabrication process (nanometer):=*</Attribute>
+			<Attribute>hyper transport (MHz):=[800-2600]</Attribute>
+			<Attribute>hyper transport (MHz):=[1000-2600]</Attribute>
+			<Attribute>hyper transport (MHz):=[800-2200]</Attribute>
+			<Attribute>hyper transport (MHz):=[2200-2600]</Attribute>
+			<Attribute>hyper transport (MHz):=[1000-2200]</Attribute>
+			<Attribute>hyper transport (MHz):=[800-1000]</Attribute>
+			<Attribute>hyper transport (MHz):=[2600-2600]</Attribute>
+			<Attribute>hyper transport (MHz):=[2200-2200]</Attribute>
+			<Attribute>hyper transport (MHz):=[1000-1000]</Attribute>
+			<Attribute>hyper transport (MHz):=[800-800]</Attribute>
+			<Attribute>grahic processing unit:={radeon x1250 (350mhz)}</Attribute>
+			<Attribute>grahic processing unit:={radeon hd 4200}</Attribute>
+			<Attribute>grahic processing unit:={radeon x1270 (400mhz)}</Attribute>
+			<Attribute>grahic processing unit:={radeon hd 3300}</Attribute>
+			<Attribute>grahic processing unit:={radeon hd 3200}</Attribute>
+			<Attribute>grahic processing unit:={radeon x1200 (350 mhz)}</Attribute>
+			<Attribute>grahic processing unit:={radeon 3100}</Attribute>
+			<Attribute>grahic processing unit:={radeon 3000}</Attribute>
+			<Attribute>grahic processing unit:={radeon 2100}</Attribute>
+			<Attribute>grahic processing unit:={radeon x1250 (400mhz)}</Attribute>
+			<Attribute>grahic processing unit:={radeon x1250 (350 mhz)}</Attribute>
+			<Attribute>grahic processing unit:={radeon x1200 (350mhz)}</Attribute>
+			<Attribute>southbridge:={sb750}</Attribute>
+			<Attribute>southbridge:={sb600}</Attribute>
+			<Attribute>southbridge:={sb710}</Attribute>
+			<Attribute>southbridge:={sb850}</Attribute>
+			<Attribute>southbridge:={uli-m1575,sb600}</Attribute>
+			<Attribute>southbridge:={sb750,sb850}</Attribute>
+			<Attribute>southbridge:={sb750,sb700}</Attribute>
+			<Attribute>southbridge:={sb750,sb600}</Attribute>
+			<Attribute>southbridge:={sb750,sb710}</Attribute>
+			<Attribute>southbridge:={sb600,sb700}</Attribute>
+			<Attribute>southbridge:={sb710,sb700}</Attribute>
+			<Attribute>southbridge:={sb850,sb810}</Attribute>
+			<Attribute>southbridge:={sb750,sb850,sb600}</Attribute>
+			<Attribute>southbridge:={sb600,sb710,sb700}</Attribute>
+			<Attribute>southbridge:={sb850,sb810,sb820m}</Attribute>
+			<Attribute>southbridge:={sb750,sb600,sb700}</Attribute>
+			<Attribute>southbridge:={sb750,sb710,sb700}</Attribute>
+			<Attribute>southbridge:={sb750,sb600,sb710,sb700}</Attribute>
+			<Attribute>southbridge:={sb750,sb850,sb600,sb700}</Attribute>
+			<Attribute>southbridge:={sb750,sb850,sb710,sb810}</Attribute>
+			<Concept>
+				<ID>Concept_ctx_6</ID>
+				<Extent>
+					<Object_Ref>amd m780v chipset</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>southbridge:={sb710,sb700}</Attribute_Ref>
+					<Attribute_Ref>released:=[2007-2008]</Attribute_Ref>
+					<Attribute_Ref>released:=[2007-2009]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-80]</Attribute_Ref>
+					<Attribute_Ref>cpu support:={athlon neo}</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[1000-2600]</Attribute_Ref>
+					<Attribute_Ref>southbridge:={sb600}</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-110]</Attribute_Ref>
+					<Attribute_Ref>cpu support:={mobile athlon,mobile turion,athlon neo}</Attribute_Ref>
+					<Attribute_Ref>released:=[2006-2009]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[800-2600]</Attribute_Ref>
+					<Attribute_Ref>released:=[2006-2008]</Attribute_Ref>
+					<Attribute_Ref>codename:={rs780mc}</Attribute_Ref>
+					<Attribute_Ref>southbridge:={sb600,sb700}</Attribute_Ref>
+					<Attribute_Ref>grahic processing unit:={radeon 3100}</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[2200-2600]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-65]</Attribute_Ref>
+					<Attribute_Ref>southbridge:={sb710}</Attribute_Ref>
+					<Attribute_Ref>released:=[2008-2009]</Attribute_Ref>
+					<Attribute_Ref>released:=[2008-2008]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-55]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[2600-2600]</Attribute_Ref>
+					<Attribute_Ref>southbridge:={sb600,sb710,sb700}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_26</Concept_Ref>
+					<Concept_Ref>Concept_ctx_24</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_2</ID>
+				<Extent>
+					<Object_Ref>amd 790gx chipset</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>released:=[2007-2008]</Attribute_Ref>
+					<Attribute_Ref>grahic processing unit:={radeon hd 3300}</Attribute_Ref>
+					<Attribute_Ref>released:=[2007-2009]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-80]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[1000-2600]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-110]</Attribute_Ref>
+					<Attribute_Ref>released:=[2006-2009]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[800-2600]</Attribute_Ref>
+					<Attribute_Ref>released:=[2006-2008]</Attribute_Ref>
+					<Attribute_Ref>cpu support:={sempron}</Attribute_Ref>
+					<Attribute_Ref>codename:={rs780d}</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[2200-2600]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-65]</Attribute_Ref>
+					<Attribute_Ref>released:=[2008-2009]</Attribute_Ref>
+					<Attribute_Ref>released:=[2008-2008]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-55]</Attribute_Ref>
+					<Attribute_Ref>southbridge:={sb750}</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[2600-2600]</Attribute_Ref>
+					<Attribute_Ref>cpu support:={athlon 64,sempron,phenom}</Attribute_Ref>
+					<Attribute_Ref>cpu support:={athlon 64,sempron}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_55</Concept_Ref>
+					<Concept_Ref>Concept_ctx_54</Concept_Ref>
+					<Concept_Ref>Concept_ctx_52</Concept_Ref>
+					<Concept_Ref>Concept_ctx_51</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_1</ID>
+				<Extent>
+					<Object_Ref>amd 790x chipset</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>released:=[2007-2009]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-80]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[65-110]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[1000-2600]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[65-65]</Attribute_Ref>
+					<Attribute_Ref>codename:={rd780}</Attribute_Ref>
+					<Attribute_Ref>southbridge:={sb600}</Attribute_Ref>
+					<Attribute_Ref>southbridge:={sb750,sb850}</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[800-2600]</Attribute_Ref>
+					<Attribute_Ref>southbridge:={sb750,sb600}</Attribute_Ref>
+					<Attribute_Ref>released:=[2006-2008]</Attribute_Ref>
+					<Attribute_Ref>southbridge:={sb600,sb700}</Attribute_Ref>
+					<Attribute_Ref>cpu support:={sempron}</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[2200-2600]</Attribute_Ref>
+					<Attribute_Ref>released:=[2008-2008]</Attribute_Ref>
+					<Attribute_Ref>southbridge:={sb750}</Attribute_Ref>
+					<Attribute_Ref>cpu support:={athlon 64,sempron}</Attribute_Ref>
+					<Attribute_Ref>released:=[2007-2008]</Attribute_Ref>
+					<Attribute_Ref>southbridge:={sb750,sb600,sb700}</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-110]</Attribute_Ref>
+					<Attribute_Ref>southbridge:={sb750,sb850,sb600,sb700}</Attribute_Ref>
+					<Attribute_Ref>released:=[2006-2009]</Attribute_Ref>
+					<Attribute_Ref>southbridge:={sb750,sb700}</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-65]</Attribute_Ref>
+					<Attribute_Ref>released:=[2008-2009]</Attribute_Ref>
+					<Attribute_Ref>southbridge:={sb850}</Attribute_Ref>
+					<Attribute_Ref>southbridge:={sb750,sb850,sb600}</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[2600-2600]</Attribute_Ref>
+					<Attribute_Ref>cpu support:={athlon 64,sempron,phenom}</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[65-80]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_39</Concept_Ref>
+					<Concept_Ref>Concept_ctx_22</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_7</ID>
+				<Extent>
+					<Object_Ref>amd 780g chipset</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>released:=[2007-2009]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-80]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[1000-2600]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[800-2600]</Attribute_Ref>
+					<Attribute_Ref>released:=[2006-2008]</Attribute_Ref>
+					<Attribute_Ref>cpu support:={sempron}</Attribute_Ref>
+					<Attribute_Ref>codename:={rs780i}</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[2200-2600]</Attribute_Ref>
+					<Attribute_Ref>southbridge:={sb710}</Attribute_Ref>
+					<Attribute_Ref>released:=[2008-2008]</Attribute_Ref>
+					<Attribute_Ref>southbridge:={sb750}</Attribute_Ref>
+					<Attribute_Ref>southbridge:={sb750,sb710,sb700}</Attribute_Ref>
+					<Attribute_Ref>cpu support:={athlon 64,sempron}</Attribute_Ref>
+					<Attribute_Ref>southbridge:={sb710,sb700}</Attribute_Ref>
+					<Attribute_Ref>released:=[2007-2008]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-110]</Attribute_Ref>
+					<Attribute_Ref>southbridge:={sb750,sb710}</Attribute_Ref>
+					<Attribute_Ref>released:=[2006-2009]</Attribute_Ref>
+					<Attribute_Ref>southbridge:={sb750,sb700}</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-65]</Attribute_Ref>
+					<Attribute_Ref>released:=[2008-2009]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-55]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[2600-2600]</Attribute_Ref>
+					<Attribute_Ref>grahic processing unit:={radeon hd 3200}</Attribute_Ref>
+					<Attribute_Ref>cpu support:={athlon 64,sempron,phenom}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_34</Concept_Ref>
+					<Concept_Ref>Concept_ctx_25</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_21</ID>
+				<Extent>
+					<Object_Ref>amd 480x chipset</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>cpu support:={athlon 64,sempron}</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[65-110]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[1000-2600]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[80-110]</Attribute_Ref>
+					<Attribute_Ref>codename:={rd480}</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[1000-1000]</Attribute_Ref>
+					<Attribute_Ref>southbridge:={sb600}</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[800-2200]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-110]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[800-2600]</Attribute_Ref>
+					<Attribute_Ref>released:=[2006-2009]</Attribute_Ref>
+					<Attribute_Ref>released:=[2006-2008]</Attribute_Ref>
+					<Attribute_Ref>southbridge:={uli-m1575,sb600}</Attribute_Ref>
+					<Attribute_Ref>released:=[2006-2007]</Attribute_Ref>
+					<Attribute_Ref>released:=[2006-2006]</Attribute_Ref>
+					<Attribute_Ref>cpu support:={sempron}</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[1000-2200]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[800-1000]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[110-110]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_30</Concept_Ref>
+					<Concept_Ref>Concept_ctx_47</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_19</ID>
+				<Extent>
+					<Object_Ref>amd 580x chipset</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>codename:={rd580}</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[1000-2600]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[1000-1000]</Attribute_Ref>
+					<Attribute_Ref>southbridge:={sb600}</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[800-2200]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[800-2600]</Attribute_Ref>
+					<Attribute_Ref>released:=[2006-2009]</Attribute_Ref>
+					<Attribute_Ref>released:=[2006-2008]</Attribute_Ref>
+					<Attribute_Ref>released:=[2006-2007]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=*</Attribute_Ref>
+					<Attribute_Ref>released:=[2006-2006]</Attribute_Ref>
+					<Attribute_Ref>cpu support:={sempron}</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[1000-2200]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[800-1000]</Attribute_Ref>
+					<Attribute_Ref>cpu support:={athlon 64,sempron,phenom}</Attribute_Ref>
+					<Attribute_Ref>cpu support:={athlon 64,sempron}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_30</Concept_Ref>
+					<Concept_Ref>Concept_ctx_29</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_12</ID>
+				<Extent>
+					<Object_Ref>amd 740 chipset</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>fabrication process (nanometer):=[55-80]</Attribute_Ref>
+					<Attribute_Ref>released:=[2007-2009]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[1000-2600]</Attribute_Ref>
+					<Attribute_Ref>southbridge:={sb600}</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[800-2200]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[800-2600]</Attribute_Ref>
+					<Attribute_Ref>southbridge:={sb750,sb600}</Attribute_Ref>
+					<Attribute_Ref>released:=[2006-2008]</Attribute_Ref>
+					<Attribute_Ref>cpu support:={sempron}</Attribute_Ref>
+					<Attribute_Ref>southbridge:={sb600,sb700}</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[800-1000]</Attribute_Ref>
+					<Attribute_Ref>released:=[2008-2008]</Attribute_Ref>
+					<Attribute_Ref>southbridge:={sb750}</Attribute_Ref>
+					<Attribute_Ref>cpu support:={athlon 64,sempron}</Attribute_Ref>
+					<Attribute_Ref>released:=[2007-2008]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[1000-1000]</Attribute_Ref>
+					<Attribute_Ref>southbridge:={sb750,sb600,sb700}</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-110]</Attribute_Ref>
+					<Attribute_Ref>released:=[2006-2009]</Attribute_Ref>
+					<Attribute_Ref>southbridge:={sb750,sb700}</Attribute_Ref>
+					<Attribute_Ref>codename:={rx740}</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[1000-2200]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-65]</Attribute_Ref>
+					<Attribute_Ref>released:=[2008-2009]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-55]</Attribute_Ref>
+					<Attribute_Ref>cpu support:={athlon 64,sempron,phenom}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_55</Concept_Ref>
+					<Concept_Ref>Concept_ctx_48</Concept_Ref>
+					<Concept_Ref>Concept_ctx_39</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_9</ID>
+				<Extent>
+					<Object_Ref>amd 770 chipset</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>fabrication process (nanometer):=[65-110]</Attribute_Ref>
+					<Attribute_Ref>released:=[2007-2009]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-80]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[1000-2600]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[65-65]</Attribute_Ref>
+					<Attribute_Ref>southbridge:={sb600}</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[800-2600]</Attribute_Ref>
+					<Attribute_Ref>southbridge:={sb750,sb600}</Attribute_Ref>
+					<Attribute_Ref>released:=[2006-2008]</Attribute_Ref>
+					<Attribute_Ref>southbridge:={sb600,sb700}</Attribute_Ref>
+					<Attribute_Ref>cpu support:={sempron}</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[2200-2600]</Attribute_Ref>
+					<Attribute_Ref>southbridge:={sb710}</Attribute_Ref>
+					<Attribute_Ref>released:=[2008-2008]</Attribute_Ref>
+					<Attribute_Ref>southbridge:={sb750}</Attribute_Ref>
+					<Attribute_Ref>southbridge:={sb600,sb710,sb700}</Attribute_Ref>
+					<Attribute_Ref>southbridge:={sb750,sb710,sb700}</Attribute_Ref>
+					<Attribute_Ref>cpu support:={athlon 64,sempron}</Attribute_Ref>
+					<Attribute_Ref>southbridge:={sb710,sb700}</Attribute_Ref>
+					<Attribute_Ref>released:=[2007-2008]</Attribute_Ref>
+					<Attribute_Ref>southbridge:={sb750,sb600,sb700}</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-110]</Attribute_Ref>
+					<Attribute_Ref>released:=[2006-2009]</Attribute_Ref>
+					<Attribute_Ref>southbridge:={sb750,sb710}</Attribute_Ref>
+					<Attribute_Ref>southbridge:={sb750,sb600,sb710,sb700}</Attribute_Ref>
+					<Attribute_Ref>southbridge:={sb750,sb700}</Attribute_Ref>
+					<Attribute_Ref>codename:={rx780}</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-65]</Attribute_Ref>
+					<Attribute_Ref>released:=[2008-2009]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[2600-2600]</Attribute_Ref>
+					<Attribute_Ref>cpu support:={athlon 64,sempron,phenom}</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[65-80]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_33</Concept_Ref>
+					<Concept_Ref>Concept_ctx_39</Concept_Ref>
+					<Concept_Ref>Concept_ctx_34</Concept_Ref>
+					<Concept_Ref>Concept_ctx_32</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_4</ID>
+				<Extent>
+					<Object_Ref>amd 785g chipset</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>released:=[2007-2009]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-80]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[1000-2600]</Attribute_Ref>
+					<Attribute_Ref>southbridge:={sb850,sb810}</Attribute_Ref>
+					<Attribute_Ref>grahic processing unit:={radeon hd 4200}</Attribute_Ref>
+					<Attribute_Ref>southbridge:={sb750,sb850}</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-110]</Attribute_Ref>
+					<Attribute_Ref>southbridge:={sb750,sb710}</Attribute_Ref>
+					<Attribute_Ref>released:=[2006-2009]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[800-2600]</Attribute_Ref>
+					<Attribute_Ref>cpu support:={sempron}</Attribute_Ref>
+					<Attribute_Ref>codename:={rs880}</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[2200-2600]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-65]</Attribute_Ref>
+					<Attribute_Ref>southbridge:={sb710}</Attribute_Ref>
+					<Attribute_Ref>southbridge:={sb750,sb850,sb710,sb810}</Attribute_Ref>
+					<Attribute_Ref>released:=[2008-2009]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-55]</Attribute_Ref>
+					<Attribute_Ref>southbridge:={sb850}</Attribute_Ref>
+					<Attribute_Ref>southbridge:={sb750}</Attribute_Ref>
+					<Attribute_Ref>released:=[2009-2009]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[2600-2600]</Attribute_Ref>
+					<Attribute_Ref>cpu support:={athlon 64,sempron,phenom}</Attribute_Ref>
+					<Attribute_Ref>cpu support:={athlon 64,sempron}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_38</Concept_Ref>
+					<Concept_Ref>Concept_ctx_23</Concept_Ref>
+					<Concept_Ref>Concept_ctx_27</Concept_Ref>
+					<Concept_Ref>Concept_ctx_31</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_16</ID>
+				<Extent>
+					<Object_Ref>amd m690v chipset</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>released:=[2007-2008]</Attribute_Ref>
+					<Attribute_Ref>released:=[2007-2007]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[80-80]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[65-110]</Attribute_Ref>
+					<Attribute_Ref>released:=[2007-2009]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-80]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[80-110]</Attribute_Ref>
+					<Attribute_Ref>southbridge:={sb600}</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-110]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[800-2200]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[800-800]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[800-2600]</Attribute_Ref>
+					<Attribute_Ref>released:=[2006-2009]</Attribute_Ref>
+					<Attribute_Ref>released:=[2006-2008]</Attribute_Ref>
+					<Attribute_Ref>released:=[2006-2007]</Attribute_Ref>
+					<Attribute_Ref>grahic processing unit:={radeon x1200 (350 mhz)}</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[800-1000]</Attribute_Ref>
+					<Attribute_Ref>codename:={rs690mc}</Attribute_Ref>
+					<Attribute_Ref>cpu support:={turion 64 x2,athlon 64 x2 mobile}</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[65-80]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_36</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_17</ID>
+				<Extent>
+					<Object_Ref>amd 690g chipset</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>released:=[2007-2008]</Attribute_Ref>
+					<Attribute_Ref>released:=[2007-2007]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[80-80]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[65-110]</Attribute_Ref>
+					<Attribute_Ref>released:=[2007-2009]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-80]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[1000-2600]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[80-110]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[1000-1000]</Attribute_Ref>
+					<Attribute_Ref>southbridge:={sb600}</Attribute_Ref>
+					<Attribute_Ref>grahic processing unit:={radeon x1250 (400mhz)}</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-110]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[800-2200]</Attribute_Ref>
+					<Attribute_Ref>codename:={rs690}</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[800-2600]</Attribute_Ref>
+					<Attribute_Ref>released:=[2006-2009]</Attribute_Ref>
+					<Attribute_Ref>released:=[2006-2008]</Attribute_Ref>
+					<Attribute_Ref>released:=[2006-2007]</Attribute_Ref>
+					<Attribute_Ref>cpu support:={sempron}</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[1000-2200]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[800-1000]</Attribute_Ref>
+					<Attribute_Ref>cpu support:={athlon 64,sempron,phenom}</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[65-80]</Attribute_Ref>
+					<Attribute_Ref>cpu support:={athlon 64,sempron}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_45</Concept_Ref>
+					<Concept_Ref>Concept_ctx_48</Concept_Ref>
+					<Concept_Ref>Concept_ctx_63</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_15</ID>
+				<Extent>
+					<Object_Ref>amd m690 chipset</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>released:=[2007-2008]</Attribute_Ref>
+					<Attribute_Ref>released:=[2007-2007]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[80-80]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[65-110]</Attribute_Ref>
+					<Attribute_Ref>released:=[2007-2009]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-80]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[80-110]</Attribute_Ref>
+					<Attribute_Ref>southbridge:={sb600}</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-110]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[800-2200]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[800-800]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[800-2600]</Attribute_Ref>
+					<Attribute_Ref>released:=[2006-2009]</Attribute_Ref>
+					<Attribute_Ref>released:=[2006-2008]</Attribute_Ref>
+					<Attribute_Ref>released:=[2006-2007]</Attribute_Ref>
+					<Attribute_Ref>grahic processing unit:={radeon x1250 (350 mhz)}</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[800-1000]</Attribute_Ref>
+					<Attribute_Ref>codename:={rs690m}</Attribute_Ref>
+					<Attribute_Ref>cpu support:={turion 64 x2,athlon 64 x2 mobile}</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[65-80]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_36</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_18</ID>
+				<Extent>
+					<Object_Ref>amd 690v chipset</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>released:=[2007-2008]</Attribute_Ref>
+					<Attribute_Ref>codename:={rs690c}</Attribute_Ref>
+					<Attribute_Ref>released:=[2007-2007]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[80-80]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[65-110]</Attribute_Ref>
+					<Attribute_Ref>released:=[2007-2009]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-80]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[1000-2600]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[80-110]</Attribute_Ref>
+					<Attribute_Ref>grahic processing unit:={radeon x1200 (350mhz)}</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[1000-1000]</Attribute_Ref>
+					<Attribute_Ref>southbridge:={sb600}</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-110]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[800-2200]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[800-2600]</Attribute_Ref>
+					<Attribute_Ref>released:=[2006-2009]</Attribute_Ref>
+					<Attribute_Ref>released:=[2006-2008]</Attribute_Ref>
+					<Attribute_Ref>released:=[2006-2007]</Attribute_Ref>
+					<Attribute_Ref>cpu support:={sempron}</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[1000-2200]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[800-1000]</Attribute_Ref>
+					<Attribute_Ref>cpu support:={athlon 64,sempron}</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[65-80]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_45</Concept_Ref>
+					<Concept_Ref>Concept_ctx_48</Concept_Ref>
+					<Concept_Ref>Concept_ctx_64</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_8</ID>
+				<Extent>
+					<Object_Ref>amd 780v chipset</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>released:=[2007-2009]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-80]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[1000-2600]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[800-2600]</Attribute_Ref>
+					<Attribute_Ref>released:=[2006-2008]</Attribute_Ref>
+					<Attribute_Ref>cpu support:={sempron}</Attribute_Ref>
+					<Attribute_Ref>grahic processing unit:={radeon 3100}</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[2200-2600]</Attribute_Ref>
+					<Attribute_Ref>southbridge:={sb710}</Attribute_Ref>
+					<Attribute_Ref>released:=[2008-2008]</Attribute_Ref>
+					<Attribute_Ref>codename:={rs780c}</Attribute_Ref>
+					<Attribute_Ref>southbridge:={sb750}</Attribute_Ref>
+					<Attribute_Ref>southbridge:={sb750,sb710,sb700}</Attribute_Ref>
+					<Attribute_Ref>cpu support:={athlon 64,sempron}</Attribute_Ref>
+					<Attribute_Ref>southbridge:={sb710,sb700}</Attribute_Ref>
+					<Attribute_Ref>released:=[2007-2008]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-110]</Attribute_Ref>
+					<Attribute_Ref>released:=[2006-2009]</Attribute_Ref>
+					<Attribute_Ref>southbridge:={sb750,sb710}</Attribute_Ref>
+					<Attribute_Ref>southbridge:={sb750,sb700}</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-65]</Attribute_Ref>
+					<Attribute_Ref>released:=[2008-2009]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-55]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[2600-2600]</Attribute_Ref>
+					<Attribute_Ref>cpu support:={athlon 64,sempron,phenom}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_34</Concept_Ref>
+					<Concept_Ref>Concept_ctx_26</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_14</ID>
+				<Extent>
+					<Object_Ref>amd m690e chipset</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>released:=[2007-2008]</Attribute_Ref>
+					<Attribute_Ref>released:=[2007-2007]</Attribute_Ref>
+					<Attribute_Ref>released:=[2007-2009]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-80]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[80-80]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[65-110]</Attribute_Ref>
+					<Attribute_Ref>cpu support:={athlon neo}</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[80-110]</Attribute_Ref>
+					<Attribute_Ref>grahic processing unit:={radeon x1250 (350mhz)}</Attribute_Ref>
+					<Attribute_Ref>southbridge:={sb600}</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-110]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[800-2200]</Attribute_Ref>
+					<Attribute_Ref>released:=[2006-2009]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[800-2600]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[800-800]</Attribute_Ref>
+					<Attribute_Ref>released:=[2006-2008]</Attribute_Ref>
+					<Attribute_Ref>released:=[2006-2007]</Attribute_Ref>
+					<Attribute_Ref>codename:={rs690t}</Attribute_Ref>
+					<Attribute_Ref>cpu support:={mobile sempron,athlon neo}</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[800-1000]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[65-80]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_28</Concept_Ref>
+					<Concept_Ref>Concept_ctx_35</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_3</ID>
+				<Extent>
+					<Object_Ref>785e</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>fabrication process (nanometer):=[55-80]</Attribute_Ref>
+					<Attribute_Ref>southbridge:={sb850,sb810,sb820m}</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[1000-2600]</Attribute_Ref>
+					<Attribute_Ref>southbridge:={sb850,sb810}</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[2200-2200]</Attribute_Ref>
+					<Attribute_Ref>grahic processing unit:={radeon hd 4200}</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[800-2200]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-110]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[800-2600]</Attribute_Ref>
+					<Attribute_Ref>released:=*</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[1000-2200]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[2200-2600]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-65]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-55]</Attribute_Ref>
+					<Attribute_Ref>southbridge:={sb850}</Attribute_Ref>
+					<Attribute_Ref>codename:={rs785e}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_23</Concept_Ref>
+					<Concept_Ref>Concept_ctx_50</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_20</ID>
+				<Extent>
+					<Object_Ref>amd 570x/550x chipset</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>released:=[2007-2008]</Attribute_Ref>
+					<Attribute_Ref>released:=[2007-2007]</Attribute_Ref>
+					<Attribute_Ref>released:=[2007-2009]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[1000-2600]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[1000-1000]</Attribute_Ref>
+					<Attribute_Ref>codename:={rd570}</Attribute_Ref>
+					<Attribute_Ref>southbridge:={sb600}</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[800-2200]</Attribute_Ref>
+					<Attribute_Ref>released:=[2006-2009]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[800-2600]</Attribute_Ref>
+					<Attribute_Ref>released:=[2006-2008]</Attribute_Ref>
+					<Attribute_Ref>released:=[2006-2007]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=*</Attribute_Ref>
+					<Attribute_Ref>cpu support:={sempron}</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[1000-2200]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[800-1000]</Attribute_Ref>
+					<Attribute_Ref>cpu support:={athlon 64,sempron,phenom}</Attribute_Ref>
+					<Attribute_Ref>cpu support:={athlon 64,sempron}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_49</Concept_Ref>
+					<Concept_Ref>Concept_ctx_29</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_13</ID>
+				<Extent>
+					<Object_Ref>amd m690t chipset</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>released:=[2007-2008]</Attribute_Ref>
+					<Attribute_Ref>released:=[2007-2007]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[80-80]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[65-110]</Attribute_Ref>
+					<Attribute_Ref>released:=[2007-2009]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-80]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[80-110]</Attribute_Ref>
+					<Attribute_Ref>southbridge:={sb600}</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-110]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[800-2200]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[800-800]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[800-2600]</Attribute_Ref>
+					<Attribute_Ref>released:=[2006-2009]</Attribute_Ref>
+					<Attribute_Ref>released:=[2006-2008]</Attribute_Ref>
+					<Attribute_Ref>released:=[2006-2007]</Attribute_Ref>
+					<Attribute_Ref>grahic processing unit:={radeon x1270 (400mhz)}</Attribute_Ref>
+					<Attribute_Ref>codename:={rs690t}</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[800-1000]</Attribute_Ref>
+					<Attribute_Ref>cpu support:={turion 64 x2,athlon 64 x2 mobile}</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[65-80]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_28</Concept_Ref>
+					<Concept_Ref>Concept_ctx_36</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_10</ID>
+				<Extent>
+					<Object_Ref>amd 760g chipset</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>fabrication process (nanometer):=[55-80]</Attribute_Ref>
+					<Attribute_Ref>released:=[2007-2009]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[1000-2600]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-110]</Attribute_Ref>
+					<Attribute_Ref>codename:={rs780l}</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[800-2600]</Attribute_Ref>
+					<Attribute_Ref>released:=[2006-2009]</Attribute_Ref>
+					<Attribute_Ref>cpu support:={sempron}</Attribute_Ref>
+					<Attribute_Ref>grahic processing unit:={radeon 3000}</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[2200-2600]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-65]</Attribute_Ref>
+					<Attribute_Ref>southbridge:={sb710}</Attribute_Ref>
+					<Attribute_Ref>released:=[2008-2009]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-55]</Attribute_Ref>
+					<Attribute_Ref>released:=[2009-2009]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[2600-2600]</Attribute_Ref>
+					<Attribute_Ref>cpu support:={athlon 64,sempron,phenom}</Attribute_Ref>
+					<Attribute_Ref>cpu support:={athlon 64,sempron}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_27</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_0</ID>
+				<Extent>
+					<Object_Ref>amd 790fx chipset</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>released:=[2007-2007]</Attribute_Ref>
+					<Attribute_Ref>released:=[2007-2009]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[65-110]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-80]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[1000-2600]</Attribute_Ref>
+					<Attribute_Ref>codename:={rd790}</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[65-65]</Attribute_Ref>
+					<Attribute_Ref>southbridge:={sb600}</Attribute_Ref>
+					<Attribute_Ref>southbridge:={sb750,sb850}</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[800-2600]</Attribute_Ref>
+					<Attribute_Ref>southbridge:={sb750,sb600}</Attribute_Ref>
+					<Attribute_Ref>released:=[2006-2008]</Attribute_Ref>
+					<Attribute_Ref>cpu support:={sempron}</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[2200-2600]</Attribute_Ref>
+					<Attribute_Ref>southbridge:={sb750}</Attribute_Ref>
+					<Attribute_Ref>cpu support:={athlon 64,sempron}</Attribute_Ref>
+					<Attribute_Ref>released:=[2007-2008]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-110]</Attribute_Ref>
+					<Attribute_Ref>released:=[2006-2009]</Attribute_Ref>
+					<Attribute_Ref>released:=[2006-2007]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-65]</Attribute_Ref>
+					<Attribute_Ref>southbridge:={sb850}</Attribute_Ref>
+					<Attribute_Ref>southbridge:={sb750,sb850,sb600}</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[2600-2600]</Attribute_Ref>
+					<Attribute_Ref>cpu support:={athlon 64,sempron,phenom}</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[65-80]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_49</Concept_Ref>
+					<Concept_Ref>Concept_ctx_22</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_11</ID>
+				<Extent>
+					<Object_Ref>amd 740g chipset</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>fabrication process (nanometer):=[55-80]</Attribute_Ref>
+					<Attribute_Ref>released:=[2007-2009]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[1000-2600]</Attribute_Ref>
+					<Attribute_Ref>southbridge:={sb600}</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[800-2200]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[800-2600]</Attribute_Ref>
+					<Attribute_Ref>southbridge:={sb750,sb600}</Attribute_Ref>
+					<Attribute_Ref>released:=[2006-2008]</Attribute_Ref>
+					<Attribute_Ref>codename:={rs740}</Attribute_Ref>
+					<Attribute_Ref>cpu support:={sempron}</Attribute_Ref>
+					<Attribute_Ref>southbridge:={sb600,sb700}</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[800-1000]</Attribute_Ref>
+					<Attribute_Ref>grahic processing unit:={radeon 2100}</Attribute_Ref>
+					<Attribute_Ref>released:=[2008-2008]</Attribute_Ref>
+					<Attribute_Ref>southbridge:={sb750}</Attribute_Ref>
+					<Attribute_Ref>cpu support:={athlon 64,sempron}</Attribute_Ref>
+					<Attribute_Ref>released:=[2007-2008]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[1000-1000]</Attribute_Ref>
+					<Attribute_Ref>southbridge:={sb750,sb600,sb700}</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-110]</Attribute_Ref>
+					<Attribute_Ref>released:=[2006-2009]</Attribute_Ref>
+					<Attribute_Ref>southbridge:={sb750,sb700}</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[1000-2200]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-65]</Attribute_Ref>
+					<Attribute_Ref>released:=[2008-2009]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-55]</Attribute_Ref>
+					<Attribute_Ref>cpu support:={athlon 64,sempron,phenom}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_55</Concept_Ref>
+					<Concept_Ref>Concept_ctx_48</Concept_Ref>
+					<Concept_Ref>Concept_ctx_39</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_5</ID>
+				<Extent>
+					<Object_Ref>amd m780g chipset</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>southbridge:={sb710,sb700}</Attribute_Ref>
+					<Attribute_Ref>released:=[2007-2008]</Attribute_Ref>
+					<Attribute_Ref>released:=[2007-2009]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-80]</Attribute_Ref>
+					<Attribute_Ref>cpu support:={athlon neo}</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[1000-2600]</Attribute_Ref>
+					<Attribute_Ref>southbridge:={sb600}</Attribute_Ref>
+					<Attribute_Ref>codename:={rs780m}</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-110]</Attribute_Ref>
+					<Attribute_Ref>cpu support:={mobile athlon,mobile turion,athlon neo}</Attribute_Ref>
+					<Attribute_Ref>released:=[2006-2009]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[800-2600]</Attribute_Ref>
+					<Attribute_Ref>released:=[2006-2008]</Attribute_Ref>
+					<Attribute_Ref>southbridge:={sb600,sb700}</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[2200-2600]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-65]</Attribute_Ref>
+					<Attribute_Ref>southbridge:={sb710}</Attribute_Ref>
+					<Attribute_Ref>released:=[2008-2009]</Attribute_Ref>
+					<Attribute_Ref>released:=[2008-2008]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-55]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[2600-2600]</Attribute_Ref>
+					<Attribute_Ref>grahic processing unit:={radeon hd 3200}</Attribute_Ref>
+					<Attribute_Ref>southbridge:={sb600,sb710,sb700}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_24</Concept_Ref>
+					<Concept_Ref>Concept_ctx_25</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_28</ID>
+				<Extent>
+					<Object_Ref>amd m690e chipset</Object_Ref>
+					<Object_Ref>amd m690t chipset</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>released:=[2007-2008]</Attribute_Ref>
+					<Attribute_Ref>released:=[2007-2007]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[80-80]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[65-110]</Attribute_Ref>
+					<Attribute_Ref>released:=[2007-2009]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-80]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[80-110]</Attribute_Ref>
+					<Attribute_Ref>southbridge:={sb600}</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-110]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[800-2200]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[800-800]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[800-2600]</Attribute_Ref>
+					<Attribute_Ref>released:=[2006-2009]</Attribute_Ref>
+					<Attribute_Ref>released:=[2006-2008]</Attribute_Ref>
+					<Attribute_Ref>released:=[2006-2007]</Attribute_Ref>
+					<Attribute_Ref>codename:={rs690t}</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[800-1000]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[65-80]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_40</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_27</ID>
+				<Extent>
+					<Object_Ref>amd 760g chipset</Object_Ref>
+					<Object_Ref>amd 785g chipset</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>fabrication process (nanometer):=[55-80]</Attribute_Ref>
+					<Attribute_Ref>released:=[2007-2009]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[1000-2600]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-110]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[800-2600]</Attribute_Ref>
+					<Attribute_Ref>released:=[2006-2009]</Attribute_Ref>
+					<Attribute_Ref>cpu support:={sempron}</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[2200-2600]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-65]</Attribute_Ref>
+					<Attribute_Ref>southbridge:={sb710}</Attribute_Ref>
+					<Attribute_Ref>released:=[2008-2009]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-55]</Attribute_Ref>
+					<Attribute_Ref>released:=[2009-2009]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[2600-2600]</Attribute_Ref>
+					<Attribute_Ref>cpu support:={athlon 64,sempron,phenom}</Attribute_Ref>
+					<Attribute_Ref>cpu support:={athlon 64,sempron}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_55</Concept_Ref>
+					<Concept_Ref>Concept_ctx_63</Concept_Ref>
+					<Concept_Ref>Concept_ctx_46</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_30</ID>
+				<Extent>
+					<Object_Ref>amd 480x chipset</Object_Ref>
+					<Object_Ref>amd 580x chipset</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>cpu support:={sempron}</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[1000-2600]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[1000-1000]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[1000-2200]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[800-1000]</Attribute_Ref>
+					<Attribute_Ref>southbridge:={sb600}</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[800-2200]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[800-2600]</Attribute_Ref>
+					<Attribute_Ref>released:=[2006-2009]</Attribute_Ref>
+					<Attribute_Ref>released:=[2006-2008]</Attribute_Ref>
+					<Attribute_Ref>released:=[2006-2007]</Attribute_Ref>
+					<Attribute_Ref>released:=[2006-2006]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_57</Concept_Ref>
+					<Concept_Ref>Concept_ctx_48</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_24</ID>
+				<Extent>
+					<Object_Ref>amd m780v chipset</Object_Ref>
+					<Object_Ref>amd m780g chipset</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>southbridge:={sb710,sb700}</Attribute_Ref>
+					<Attribute_Ref>released:=[2007-2008]</Attribute_Ref>
+					<Attribute_Ref>released:=[2007-2009]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-80]</Attribute_Ref>
+					<Attribute_Ref>cpu support:={athlon neo}</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[1000-2600]</Attribute_Ref>
+					<Attribute_Ref>southbridge:={sb600}</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-110]</Attribute_Ref>
+					<Attribute_Ref>cpu support:={mobile athlon,mobile turion,athlon neo}</Attribute_Ref>
+					<Attribute_Ref>released:=[2006-2009]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[800-2600]</Attribute_Ref>
+					<Attribute_Ref>released:=[2006-2008]</Attribute_Ref>
+					<Attribute_Ref>southbridge:={sb600,sb700}</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[2200-2600]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-65]</Attribute_Ref>
+					<Attribute_Ref>southbridge:={sb710}</Attribute_Ref>
+					<Attribute_Ref>released:=[2008-2009]</Attribute_Ref>
+					<Attribute_Ref>released:=[2008-2008]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-55]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[2600-2600]</Attribute_Ref>
+					<Attribute_Ref>southbridge:={sb600,sb710,sb700}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_55</Concept_Ref>
+					<Concept_Ref>Concept_ctx_33</Concept_Ref>
+					<Concept_Ref>Concept_ctx_35</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_29</ID>
+				<Extent>
+					<Object_Ref>amd 570x/550x chipset</Object_Ref>
+					<Object_Ref>amd 580x chipset</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>hyper transport (MHz):=[1000-2600]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[1000-1000]</Attribute_Ref>
+					<Attribute_Ref>southbridge:={sb600}</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[800-2200]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[800-2600]</Attribute_Ref>
+					<Attribute_Ref>released:=[2006-2009]</Attribute_Ref>
+					<Attribute_Ref>released:=[2006-2008]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=*</Attribute_Ref>
+					<Attribute_Ref>released:=[2006-2007]</Attribute_Ref>
+					<Attribute_Ref>cpu support:={sempron}</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[1000-2200]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[800-1000]</Attribute_Ref>
+					<Attribute_Ref>cpu support:={athlon 64,sempron,phenom}</Attribute_Ref>
+					<Attribute_Ref>cpu support:={athlon 64,sempron}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_57</Concept_Ref>
+					<Concept_Ref>Concept_ctx_48</Concept_Ref>
+					<Concept_Ref>Concept_ctx_63</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_23</ID>
+				<Extent>
+					<Object_Ref>amd 785g chipset</Object_Ref>
+					<Object_Ref>785e</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>fabrication process (nanometer):=[55-80]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[1000-2600]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[2200-2600]</Attribute_Ref>
+					<Attribute_Ref>southbridge:={sb850,sb810}</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-65]</Attribute_Ref>
+					<Attribute_Ref>grahic processing unit:={radeon hd 4200}</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-110]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-55]</Attribute_Ref>
+					<Attribute_Ref>southbridge:={sb850}</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[800-2600]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_55</Concept_Ref>
+					<Concept_Ref>Concept_ctx_37</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_25</ID>
+				<Extent>
+					<Object_Ref>amd 780g chipset</Object_Ref>
+					<Object_Ref>amd m780g chipset</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>southbridge:={sb710,sb700}</Attribute_Ref>
+					<Attribute_Ref>released:=[2007-2008]</Attribute_Ref>
+					<Attribute_Ref>released:=[2007-2009]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-80]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[1000-2600]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-110]</Attribute_Ref>
+					<Attribute_Ref>released:=[2006-2009]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[800-2600]</Attribute_Ref>
+					<Attribute_Ref>released:=[2006-2008]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[2200-2600]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-65]</Attribute_Ref>
+					<Attribute_Ref>southbridge:={sb710}</Attribute_Ref>
+					<Attribute_Ref>released:=[2008-2009]</Attribute_Ref>
+					<Attribute_Ref>released:=[2008-2008]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-55]</Attribute_Ref>
+					<Attribute_Ref>grahic processing unit:={radeon hd 3200}</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[2600-2600]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_55</Concept_Ref>
+					<Concept_Ref>Concept_ctx_41</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_26</ID>
+				<Extent>
+					<Object_Ref>amd 780v chipset</Object_Ref>
+					<Object_Ref>amd m780v chipset</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>southbridge:={sb710,sb700}</Attribute_Ref>
+					<Attribute_Ref>released:=[2007-2008]</Attribute_Ref>
+					<Attribute_Ref>released:=[2007-2009]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-80]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[1000-2600]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-110]</Attribute_Ref>
+					<Attribute_Ref>released:=[2006-2009]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[800-2600]</Attribute_Ref>
+					<Attribute_Ref>released:=[2006-2008]</Attribute_Ref>
+					<Attribute_Ref>grahic processing unit:={radeon 3100}</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[2200-2600]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-65]</Attribute_Ref>
+					<Attribute_Ref>southbridge:={sb710}</Attribute_Ref>
+					<Attribute_Ref>released:=[2008-2009]</Attribute_Ref>
+					<Attribute_Ref>released:=[2008-2008]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-55]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[2600-2600]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_55</Concept_Ref>
+					<Concept_Ref>Concept_ctx_41</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_22</ID>
+				<Extent>
+					<Object_Ref>amd 790x chipset</Object_Ref>
+					<Object_Ref>amd 790fx chipset</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>released:=[2007-2008]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[65-110]</Attribute_Ref>
+					<Attribute_Ref>released:=[2007-2009]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-80]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[1000-2600]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[65-65]</Attribute_Ref>
+					<Attribute_Ref>southbridge:={sb600}</Attribute_Ref>
+					<Attribute_Ref>southbridge:={sb750,sb850}</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-110]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[800-2600]</Attribute_Ref>
+					<Attribute_Ref>released:=[2006-2009]</Attribute_Ref>
+					<Attribute_Ref>southbridge:={sb750,sb600}</Attribute_Ref>
+					<Attribute_Ref>released:=[2006-2008]</Attribute_Ref>
+					<Attribute_Ref>cpu support:={sempron}</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[2200-2600]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-65]</Attribute_Ref>
+					<Attribute_Ref>southbridge:={sb850}</Attribute_Ref>
+					<Attribute_Ref>southbridge:={sb750,sb850,sb600}</Attribute_Ref>
+					<Attribute_Ref>southbridge:={sb750}</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[2600-2600]</Attribute_Ref>
+					<Attribute_Ref>cpu support:={athlon 64,sempron,phenom}</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[65-80]</Attribute_Ref>
+					<Attribute_Ref>cpu support:={athlon 64,sempron}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_32</Concept_Ref>
+					<Concept_Ref>Concept_ctx_31</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_35</ID>
+				<Extent>
+					<Object_Ref>amd m690e chipset</Object_Ref>
+					<Object_Ref>amd m780v chipset</Object_Ref>
+					<Object_Ref>amd m780g chipset</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>released:=[2007-2008]</Attribute_Ref>
+					<Attribute_Ref>released:=[2007-2009]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-80]</Attribute_Ref>
+					<Attribute_Ref>cpu support:={athlon neo}</Attribute_Ref>
+					<Attribute_Ref>southbridge:={sb600}</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-110]</Attribute_Ref>
+					<Attribute_Ref>released:=[2006-2009]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[800-2600]</Attribute_Ref>
+					<Attribute_Ref>released:=[2006-2008]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_69</Concept_Ref>
+					<Concept_Ref>Concept_ctx_67</Concept_Ref>
+					<Concept_Ref>Concept_ctx_66</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_36</ID>
+				<Extent>
+					<Object_Ref>amd m690v chipset</Object_Ref>
+					<Object_Ref>amd m690 chipset</Object_Ref>
+					<Object_Ref>amd m690t chipset</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>released:=[2007-2008]</Attribute_Ref>
+					<Attribute_Ref>released:=[2007-2007]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[80-80]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[65-110]</Attribute_Ref>
+					<Attribute_Ref>released:=[2007-2009]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-80]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[80-110]</Attribute_Ref>
+					<Attribute_Ref>southbridge:={sb600}</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-110]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[800-2200]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[800-800]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[800-2600]</Attribute_Ref>
+					<Attribute_Ref>released:=[2006-2009]</Attribute_Ref>
+					<Attribute_Ref>released:=[2006-2008]</Attribute_Ref>
+					<Attribute_Ref>released:=[2006-2007]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[800-1000]</Attribute_Ref>
+					<Attribute_Ref>cpu support:={turion 64 x2,athlon 64 x2 mobile}</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[65-80]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_40</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_32</ID>
+				<Extent>
+					<Object_Ref>amd 770 chipset</Object_Ref>
+					<Object_Ref>amd 790x chipset</Object_Ref>
+					<Object_Ref>amd 790fx chipset</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>released:=[2007-2008]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[65-110]</Attribute_Ref>
+					<Attribute_Ref>released:=[2007-2009]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-80]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[1000-2600]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[65-65]</Attribute_Ref>
+					<Attribute_Ref>southbridge:={sb600}</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-110]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[800-2600]</Attribute_Ref>
+					<Attribute_Ref>released:=[2006-2009]</Attribute_Ref>
+					<Attribute_Ref>southbridge:={sb750,sb600}</Attribute_Ref>
+					<Attribute_Ref>released:=[2006-2008]</Attribute_Ref>
+					<Attribute_Ref>cpu support:={sempron}</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[2200-2600]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-65]</Attribute_Ref>
+					<Attribute_Ref>southbridge:={sb750}</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[2600-2600]</Attribute_Ref>
+					<Attribute_Ref>cpu support:={athlon 64,sempron,phenom}</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[65-80]</Attribute_Ref>
+					<Attribute_Ref>cpu support:={athlon 64,sempron}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_54</Concept_Ref>
+					<Concept_Ref>Concept_ctx_53</Concept_Ref>
+					<Concept_Ref>Concept_ctx_42</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_31</ID>
+				<Extent>
+					<Object_Ref>amd 785g chipset</Object_Ref>
+					<Object_Ref>amd 790x chipset</Object_Ref>
+					<Object_Ref>amd 790fx chipset</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>released:=[2007-2009]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-80]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[1000-2600]</Attribute_Ref>
+					<Attribute_Ref>southbridge:={sb750,sb850}</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-110]</Attribute_Ref>
+					<Attribute_Ref>released:=[2006-2009]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[800-2600]</Attribute_Ref>
+					<Attribute_Ref>cpu support:={sempron}</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[2200-2600]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-65]</Attribute_Ref>
+					<Attribute_Ref>southbridge:={sb850}</Attribute_Ref>
+					<Attribute_Ref>southbridge:={sb750}</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[2600-2600]</Attribute_Ref>
+					<Attribute_Ref>cpu support:={athlon 64,sempron,phenom}</Attribute_Ref>
+					<Attribute_Ref>cpu support:={athlon 64,sempron}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_37</Concept_Ref>
+					<Concept_Ref>Concept_ctx_54</Concept_Ref>
+					<Concept_Ref>Concept_ctx_51</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_33</ID>
+				<Extent>
+					<Object_Ref>amd 770 chipset</Object_Ref>
+					<Object_Ref>amd m780v chipset</Object_Ref>
+					<Object_Ref>amd m780g chipset</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>southbridge:={sb710,sb700}</Attribute_Ref>
+					<Attribute_Ref>released:=[2007-2008]</Attribute_Ref>
+					<Attribute_Ref>released:=[2007-2009]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-80]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[1000-2600]</Attribute_Ref>
+					<Attribute_Ref>southbridge:={sb600}</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-110]</Attribute_Ref>
+					<Attribute_Ref>released:=[2006-2009]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[800-2600]</Attribute_Ref>
+					<Attribute_Ref>released:=[2006-2008]</Attribute_Ref>
+					<Attribute_Ref>southbridge:={sb600,sb700}</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[2200-2600]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-65]</Attribute_Ref>
+					<Attribute_Ref>southbridge:={sb710}</Attribute_Ref>
+					<Attribute_Ref>released:=[2008-2009]</Attribute_Ref>
+					<Attribute_Ref>released:=[2008-2008]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[2600-2600]</Attribute_Ref>
+					<Attribute_Ref>southbridge:={sb600,sb710,sb700}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_43</Concept_Ref>
+					<Concept_Ref>Concept_ctx_41</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_34</ID>
+				<Extent>
+					<Object_Ref>amd 770 chipset</Object_Ref>
+					<Object_Ref>amd 780v chipset</Object_Ref>
+					<Object_Ref>amd 780g chipset</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>southbridge:={sb710,sb700}</Attribute_Ref>
+					<Attribute_Ref>released:=[2007-2008]</Attribute_Ref>
+					<Attribute_Ref>released:=[2007-2009]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-80]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[1000-2600]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-110]</Attribute_Ref>
+					<Attribute_Ref>southbridge:={sb750,sb710}</Attribute_Ref>
+					<Attribute_Ref>released:=[2006-2009]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[800-2600]</Attribute_Ref>
+					<Attribute_Ref>released:=[2006-2008]</Attribute_Ref>
+					<Attribute_Ref>southbridge:={sb750,sb700}</Attribute_Ref>
+					<Attribute_Ref>cpu support:={sempron}</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[2200-2600]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-65]</Attribute_Ref>
+					<Attribute_Ref>southbridge:={sb710}</Attribute_Ref>
+					<Attribute_Ref>released:=[2008-2009]</Attribute_Ref>
+					<Attribute_Ref>released:=[2008-2008]</Attribute_Ref>
+					<Attribute_Ref>southbridge:={sb750}</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[2600-2600]</Attribute_Ref>
+					<Attribute_Ref>cpu support:={athlon 64,sempron,phenom}</Attribute_Ref>
+					<Attribute_Ref>southbridge:={sb750,sb710,sb700}</Attribute_Ref>
+					<Attribute_Ref>cpu support:={athlon 64,sempron}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_38</Concept_Ref>
+					<Concept_Ref>Concept_ctx_41</Concept_Ref>
+					<Concept_Ref>Concept_ctx_44</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_40</ID>
+				<Extent>
+					<Object_Ref>amd m690v chipset</Object_Ref>
+					<Object_Ref>amd m690 chipset</Object_Ref>
+					<Object_Ref>amd m690e chipset</Object_Ref>
+					<Object_Ref>amd m690t chipset</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>released:=[2007-2008]</Attribute_Ref>
+					<Attribute_Ref>released:=[2007-2007]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[80-80]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[65-110]</Attribute_Ref>
+					<Attribute_Ref>released:=[2007-2009]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-80]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[80-110]</Attribute_Ref>
+					<Attribute_Ref>southbridge:={sb600}</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-110]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[800-2200]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[800-800]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[800-2600]</Attribute_Ref>
+					<Attribute_Ref>released:=[2006-2009]</Attribute_Ref>
+					<Attribute_Ref>released:=[2006-2008]</Attribute_Ref>
+					<Attribute_Ref>released:=[2006-2007]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[800-1000]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[65-80]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_45</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_37</ID>
+				<Extent>
+					<Object_Ref>amd 785g chipset</Object_Ref>
+					<Object_Ref>785e</Object_Ref>
+					<Object_Ref>amd 790x chipset</Object_Ref>
+					<Object_Ref>amd 790fx chipset</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>fabrication process (nanometer):=[55-80]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[1000-2600]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[2200-2600]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-65]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-110]</Attribute_Ref>
+					<Attribute_Ref>southbridge:={sb850}</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[800-2600]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_58</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_38</ID>
+				<Extent>
+					<Object_Ref>amd 770 chipset</Object_Ref>
+					<Object_Ref>amd 780v chipset</Object_Ref>
+					<Object_Ref>amd 780g chipset</Object_Ref>
+					<Object_Ref>amd 785g chipset</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>released:=[2007-2009]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-80]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[1000-2600]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-110]</Attribute_Ref>
+					<Attribute_Ref>southbridge:={sb750,sb710}</Attribute_Ref>
+					<Attribute_Ref>released:=[2006-2009]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[800-2600]</Attribute_Ref>
+					<Attribute_Ref>cpu support:={sempron}</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[2200-2600]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-65]</Attribute_Ref>
+					<Attribute_Ref>southbridge:={sb710}</Attribute_Ref>
+					<Attribute_Ref>released:=[2008-2009]</Attribute_Ref>
+					<Attribute_Ref>southbridge:={sb750}</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[2600-2600]</Attribute_Ref>
+					<Attribute_Ref>cpu support:={athlon 64,sempron,phenom}</Attribute_Ref>
+					<Attribute_Ref>cpu support:={athlon 64,sempron}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_46</Concept_Ref>
+					<Concept_Ref>Concept_ctx_51</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_39</ID>
+				<Extent>
+					<Object_Ref>amd 740 chipset</Object_Ref>
+					<Object_Ref>amd 740g chipset</Object_Ref>
+					<Object_Ref>amd 770 chipset</Object_Ref>
+					<Object_Ref>amd 790x chipset</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>released:=[2007-2008]</Attribute_Ref>
+					<Attribute_Ref>released:=[2007-2009]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-80]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[1000-2600]</Attribute_Ref>
+					<Attribute_Ref>southbridge:={sb600}</Attribute_Ref>
+					<Attribute_Ref>southbridge:={sb750,sb600,sb700}</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-110]</Attribute_Ref>
+					<Attribute_Ref>released:=[2006-2009]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[800-2600]</Attribute_Ref>
+					<Attribute_Ref>southbridge:={sb750,sb600}</Attribute_Ref>
+					<Attribute_Ref>released:=[2006-2008]</Attribute_Ref>
+					<Attribute_Ref>southbridge:={sb750,sb700}</Attribute_Ref>
+					<Attribute_Ref>southbridge:={sb600,sb700}</Attribute_Ref>
+					<Attribute_Ref>cpu support:={sempron}</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-65]</Attribute_Ref>
+					<Attribute_Ref>released:=[2008-2009]</Attribute_Ref>
+					<Attribute_Ref>released:=[2008-2008]</Attribute_Ref>
+					<Attribute_Ref>southbridge:={sb750}</Attribute_Ref>
+					<Attribute_Ref>cpu support:={athlon 64,sempron,phenom}</Attribute_Ref>
+					<Attribute_Ref>cpu support:={athlon 64,sempron}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_43</Concept_Ref>
+					<Concept_Ref>Concept_ctx_42</Concept_Ref>
+					<Concept_Ref>Concept_ctx_44</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_42</ID>
+				<Extent>
+					<Object_Ref>amd 740 chipset</Object_Ref>
+					<Object_Ref>amd 740g chipset</Object_Ref>
+					<Object_Ref>amd 770 chipset</Object_Ref>
+					<Object_Ref>amd 790x chipset</Object_Ref>
+					<Object_Ref>amd 790fx chipset</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>released:=[2007-2008]</Attribute_Ref>
+					<Attribute_Ref>released:=[2007-2009]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-80]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[1000-2600]</Attribute_Ref>
+					<Attribute_Ref>southbridge:={sb600}</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-110]</Attribute_Ref>
+					<Attribute_Ref>southbridge:={sb750,sb600}</Attribute_Ref>
+					<Attribute_Ref>released:=[2006-2009]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[800-2600]</Attribute_Ref>
+					<Attribute_Ref>released:=[2006-2008]</Attribute_Ref>
+					<Attribute_Ref>cpu support:={sempron}</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-65]</Attribute_Ref>
+					<Attribute_Ref>southbridge:={sb750}</Attribute_Ref>
+					<Attribute_Ref>cpu support:={athlon 64,sempron,phenom}</Attribute_Ref>
+					<Attribute_Ref>cpu support:={athlon 64,sempron}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_66</Concept_Ref>
+					<Concept_Ref>Concept_ctx_67</Concept_Ref>
+					<Concept_Ref>Concept_ctx_51</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_41</ID>
+				<Extent>
+					<Object_Ref>amd 770 chipset</Object_Ref>
+					<Object_Ref>amd 780v chipset</Object_Ref>
+					<Object_Ref>amd 780g chipset</Object_Ref>
+					<Object_Ref>amd m780v chipset</Object_Ref>
+					<Object_Ref>amd m780g chipset</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>southbridge:={sb710,sb700}</Attribute_Ref>
+					<Attribute_Ref>released:=[2007-2008]</Attribute_Ref>
+					<Attribute_Ref>released:=[2007-2009]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-80]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[1000-2600]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-110]</Attribute_Ref>
+					<Attribute_Ref>released:=[2006-2009]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[800-2600]</Attribute_Ref>
+					<Attribute_Ref>released:=[2006-2008]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[2200-2600]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-65]</Attribute_Ref>
+					<Attribute_Ref>southbridge:={sb710}</Attribute_Ref>
+					<Attribute_Ref>released:=[2008-2009]</Attribute_Ref>
+					<Attribute_Ref>released:=[2008-2008]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[2600-2600]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_46</Concept_Ref>
+					<Concept_Ref>Concept_ctx_52</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_45</ID>
+				<Extent>
+					<Object_Ref>amd 690v chipset</Object_Ref>
+					<Object_Ref>amd 690g chipset</Object_Ref>
+					<Object_Ref>amd m690v chipset</Object_Ref>
+					<Object_Ref>amd m690 chipset</Object_Ref>
+					<Object_Ref>amd m690e chipset</Object_Ref>
+					<Object_Ref>amd m690t chipset</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>released:=[2007-2008]</Attribute_Ref>
+					<Attribute_Ref>released:=[2007-2007]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[80-80]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[65-110]</Attribute_Ref>
+					<Attribute_Ref>released:=[2007-2009]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-80]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[80-110]</Attribute_Ref>
+					<Attribute_Ref>southbridge:={sb600}</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-110]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[800-2200]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[800-2600]</Attribute_Ref>
+					<Attribute_Ref>released:=[2006-2009]</Attribute_Ref>
+					<Attribute_Ref>released:=[2006-2008]</Attribute_Ref>
+					<Attribute_Ref>released:=[2006-2007]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[800-1000]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[65-80]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_49</Concept_Ref>
+					<Concept_Ref>Concept_ctx_47</Concept_Ref>
+					<Concept_Ref>Concept_ctx_53</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_44</ID>
+				<Extent>
+					<Object_Ref>amd 740 chipset</Object_Ref>
+					<Object_Ref>amd 740g chipset</Object_Ref>
+					<Object_Ref>amd 770 chipset</Object_Ref>
+					<Object_Ref>amd 780v chipset</Object_Ref>
+					<Object_Ref>amd 780g chipset</Object_Ref>
+					<Object_Ref>amd 790x chipset</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>released:=[2007-2008]</Attribute_Ref>
+					<Attribute_Ref>released:=[2007-2009]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-80]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[1000-2600]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-110]</Attribute_Ref>
+					<Attribute_Ref>released:=[2006-2009]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[800-2600]</Attribute_Ref>
+					<Attribute_Ref>southbridge:={sb750,sb700}</Attribute_Ref>
+					<Attribute_Ref>released:=[2006-2008]</Attribute_Ref>
+					<Attribute_Ref>cpu support:={sempron}</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-65]</Attribute_Ref>
+					<Attribute_Ref>released:=[2008-2009]</Attribute_Ref>
+					<Attribute_Ref>released:=[2008-2008]</Attribute_Ref>
+					<Attribute_Ref>southbridge:={sb750}</Attribute_Ref>
+					<Attribute_Ref>cpu support:={athlon 64,sempron,phenom}</Attribute_Ref>
+					<Attribute_Ref>cpu support:={athlon 64,sempron}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_52</Concept_Ref>
+					<Concept_Ref>Concept_ctx_51</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_43</ID>
+				<Extent>
+					<Object_Ref>amd 740 chipset</Object_Ref>
+					<Object_Ref>amd 740g chipset</Object_Ref>
+					<Object_Ref>amd 770 chipset</Object_Ref>
+					<Object_Ref>amd m780v chipset</Object_Ref>
+					<Object_Ref>amd m780g chipset</Object_Ref>
+					<Object_Ref>amd 790x chipset</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>released:=[2007-2008]</Attribute_Ref>
+					<Attribute_Ref>released:=[2007-2009]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-80]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[1000-2600]</Attribute_Ref>
+					<Attribute_Ref>southbridge:={sb600}</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-110]</Attribute_Ref>
+					<Attribute_Ref>released:=[2006-2009]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[800-2600]</Attribute_Ref>
+					<Attribute_Ref>released:=[2006-2008]</Attribute_Ref>
+					<Attribute_Ref>southbridge:={sb600,sb700}</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-65]</Attribute_Ref>
+					<Attribute_Ref>released:=[2008-2009]</Attribute_Ref>
+					<Attribute_Ref>released:=[2008-2008]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_66</Concept_Ref>
+					<Concept_Ref>Concept_ctx_52</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_47</ID>
+				<Extent>
+					<Object_Ref>amd 480x chipset</Object_Ref>
+					<Object_Ref>amd 690v chipset</Object_Ref>
+					<Object_Ref>amd 690g chipset</Object_Ref>
+					<Object_Ref>amd m690v chipset</Object_Ref>
+					<Object_Ref>amd m690 chipset</Object_Ref>
+					<Object_Ref>amd m690e chipset</Object_Ref>
+					<Object_Ref>amd m690t chipset</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>fabrication process (nanometer):=[65-110]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[80-110]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[800-1000]</Attribute_Ref>
+					<Attribute_Ref>southbridge:={sb600}</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-110]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[800-2200]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[800-2600]</Attribute_Ref>
+					<Attribute_Ref>released:=[2006-2009]</Attribute_Ref>
+					<Attribute_Ref>released:=[2006-2008]</Attribute_Ref>
+					<Attribute_Ref>released:=[2006-2007]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_57</Concept_Ref>
+					<Concept_Ref>Concept_ctx_60</Concept_Ref>
+					<Concept_Ref>Concept_ctx_56</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_48</ID>
+				<Extent>
+					<Object_Ref>amd 480x chipset</Object_Ref>
+					<Object_Ref>amd 570x/550x chipset</Object_Ref>
+					<Object_Ref>amd 580x chipset</Object_Ref>
+					<Object_Ref>amd 690v chipset</Object_Ref>
+					<Object_Ref>amd 690g chipset</Object_Ref>
+					<Object_Ref>amd 740 chipset</Object_Ref>
+					<Object_Ref>amd 740g chipset</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>cpu support:={sempron}</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[1000-2600]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[1000-1000]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[1000-2200]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[800-1000]</Attribute_Ref>
+					<Attribute_Ref>southbridge:={sb600}</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[800-2200]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[800-2600]</Attribute_Ref>
+					<Attribute_Ref>released:=[2006-2009]</Attribute_Ref>
+					<Attribute_Ref>released:=[2006-2008]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_65</Concept_Ref>
+					<Concept_Ref>Concept_ctx_50</Concept_Ref>
+					<Concept_Ref>Concept_ctx_60</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_46</ID>
+				<Extent>
+					<Object_Ref>amd 760g chipset</Object_Ref>
+					<Object_Ref>amd 770 chipset</Object_Ref>
+					<Object_Ref>amd 780v chipset</Object_Ref>
+					<Object_Ref>amd 780g chipset</Object_Ref>
+					<Object_Ref>amd m780v chipset</Object_Ref>
+					<Object_Ref>amd m780g chipset</Object_Ref>
+					<Object_Ref>amd 785g chipset</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>released:=[2007-2009]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-80]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[1000-2600]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[2200-2600]</Attribute_Ref>
+					<Attribute_Ref>southbridge:={sb710}</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-65]</Attribute_Ref>
+					<Attribute_Ref>released:=[2008-2009]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-110]</Attribute_Ref>
+					<Attribute_Ref>released:=[2006-2009]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[800-2600]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[2600-2600]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_54</Concept_Ref>
+					<Concept_Ref>Concept_ctx_59</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_49</ID>
+				<Extent>
+					<Object_Ref>amd 570x/550x chipset</Object_Ref>
+					<Object_Ref>amd 690v chipset</Object_Ref>
+					<Object_Ref>amd 690g chipset</Object_Ref>
+					<Object_Ref>amd m690v chipset</Object_Ref>
+					<Object_Ref>amd m690 chipset</Object_Ref>
+					<Object_Ref>amd m690e chipset</Object_Ref>
+					<Object_Ref>amd m690t chipset</Object_Ref>
+					<Object_Ref>amd 790fx chipset</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>released:=[2007-2008]</Attribute_Ref>
+					<Attribute_Ref>released:=[2007-2007]</Attribute_Ref>
+					<Attribute_Ref>released:=[2007-2009]</Attribute_Ref>
+					<Attribute_Ref>southbridge:={sb600}</Attribute_Ref>
+					<Attribute_Ref>released:=[2006-2009]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[800-2600]</Attribute_Ref>
+					<Attribute_Ref>released:=[2006-2008]</Attribute_Ref>
+					<Attribute_Ref>released:=[2006-2007]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_67</Concept_Ref>
+					<Concept_Ref>Concept_ctx_57</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_50</ID>
+				<Extent>
+					<Object_Ref>amd 480x chipset</Object_Ref>
+					<Object_Ref>amd 570x/550x chipset</Object_Ref>
+					<Object_Ref>amd 580x chipset</Object_Ref>
+					<Object_Ref>amd 690v chipset</Object_Ref>
+					<Object_Ref>amd 690g chipset</Object_Ref>
+					<Object_Ref>amd 740 chipset</Object_Ref>
+					<Object_Ref>amd 740g chipset</Object_Ref>
+					<Object_Ref>785e</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>hyper transport (MHz):=[1000-2600]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[1000-2200]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[800-2200]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[800-2600]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_68</Concept_Ref>
+					<Concept_Ref>Concept_ctx_61</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_52</ID>
+				<Extent>
+					<Object_Ref>amd 740 chipset</Object_Ref>
+					<Object_Ref>amd 740g chipset</Object_Ref>
+					<Object_Ref>amd 770 chipset</Object_Ref>
+					<Object_Ref>amd 780v chipset</Object_Ref>
+					<Object_Ref>amd 780g chipset</Object_Ref>
+					<Object_Ref>amd m780v chipset</Object_Ref>
+					<Object_Ref>amd m780g chipset</Object_Ref>
+					<Object_Ref>amd 790gx chipset</Object_Ref>
+					<Object_Ref>amd 790x chipset</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>released:=[2007-2008]</Attribute_Ref>
+					<Attribute_Ref>released:=[2007-2009]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-80]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[1000-2600]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-65]</Attribute_Ref>
+					<Attribute_Ref>released:=[2008-2009]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-110]</Attribute_Ref>
+					<Attribute_Ref>released:=[2008-2008]</Attribute_Ref>
+					<Attribute_Ref>released:=[2006-2009]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[800-2600]</Attribute_Ref>
+					<Attribute_Ref>released:=[2006-2008]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_67</Concept_Ref>
+					<Concept_Ref>Concept_ctx_59</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_53</ID>
+				<Extent>
+					<Object_Ref>amd 690v chipset</Object_Ref>
+					<Object_Ref>amd 690g chipset</Object_Ref>
+					<Object_Ref>amd m690v chipset</Object_Ref>
+					<Object_Ref>amd m690 chipset</Object_Ref>
+					<Object_Ref>amd m690e chipset</Object_Ref>
+					<Object_Ref>amd m690t chipset</Object_Ref>
+					<Object_Ref>amd 770 chipset</Object_Ref>
+					<Object_Ref>amd 790x chipset</Object_Ref>
+					<Object_Ref>amd 790fx chipset</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>released:=[2007-2008]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[65-110]</Attribute_Ref>
+					<Attribute_Ref>released:=[2007-2009]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-80]</Attribute_Ref>
+					<Attribute_Ref>southbridge:={sb600}</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-110]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[800-2600]</Attribute_Ref>
+					<Attribute_Ref>released:=[2006-2009]</Attribute_Ref>
+					<Attribute_Ref>released:=[2006-2008]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[65-80]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_69</Concept_Ref>
+					<Concept_Ref>Concept_ctx_56</Concept_Ref>
+					<Concept_Ref>Concept_ctx_67</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_51</ID>
+				<Extent>
+					<Object_Ref>amd 740 chipset</Object_Ref>
+					<Object_Ref>amd 740g chipset</Object_Ref>
+					<Object_Ref>amd 770 chipset</Object_Ref>
+					<Object_Ref>amd 780v chipset</Object_Ref>
+					<Object_Ref>amd 780g chipset</Object_Ref>
+					<Object_Ref>amd 785g chipset</Object_Ref>
+					<Object_Ref>amd 790gx chipset</Object_Ref>
+					<Object_Ref>amd 790x chipset</Object_Ref>
+					<Object_Ref>amd 790fx chipset</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>cpu support:={sempron}</Attribute_Ref>
+					<Attribute_Ref>released:=[2007-2009]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-80]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[1000-2600]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-65]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-110]</Attribute_Ref>
+					<Attribute_Ref>southbridge:={sb750}</Attribute_Ref>
+					<Attribute_Ref>released:=[2006-2009]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[800-2600]</Attribute_Ref>
+					<Attribute_Ref>cpu support:={athlon 64,sempron,phenom}</Attribute_Ref>
+					<Attribute_Ref>cpu support:={athlon 64,sempron}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_63</Concept_Ref>
+					<Concept_Ref>Concept_ctx_62</Concept_Ref>
+					<Concept_Ref>Concept_ctx_70</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_57</ID>
+				<Extent>
+					<Object_Ref>amd 480x chipset</Object_Ref>
+					<Object_Ref>amd 570x/550x chipset</Object_Ref>
+					<Object_Ref>amd 580x chipset</Object_Ref>
+					<Object_Ref>amd 690v chipset</Object_Ref>
+					<Object_Ref>amd 690g chipset</Object_Ref>
+					<Object_Ref>amd m690v chipset</Object_Ref>
+					<Object_Ref>amd m690 chipset</Object_Ref>
+					<Object_Ref>amd m690e chipset</Object_Ref>
+					<Object_Ref>amd m690t chipset</Object_Ref>
+					<Object_Ref>amd 790fx chipset</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>southbridge:={sb600}</Attribute_Ref>
+					<Attribute_Ref>released:=[2006-2009]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[800-2600]</Attribute_Ref>
+					<Attribute_Ref>released:=[2006-2008]</Attribute_Ref>
+					<Attribute_Ref>released:=[2006-2007]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_66</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_56</ID>
+				<Extent>
+					<Object_Ref>amd 480x chipset</Object_Ref>
+					<Object_Ref>amd 690v chipset</Object_Ref>
+					<Object_Ref>amd 690g chipset</Object_Ref>
+					<Object_Ref>amd m690v chipset</Object_Ref>
+					<Object_Ref>amd m690 chipset</Object_Ref>
+					<Object_Ref>amd m690e chipset</Object_Ref>
+					<Object_Ref>amd m690t chipset</Object_Ref>
+					<Object_Ref>amd 770 chipset</Object_Ref>
+					<Object_Ref>amd 790x chipset</Object_Ref>
+					<Object_Ref>amd 790fx chipset</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>fabrication process (nanometer):=[65-110]</Attribute_Ref>
+					<Attribute_Ref>southbridge:={sb600}</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-110]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[800-2600]</Attribute_Ref>
+					<Attribute_Ref>released:=[2006-2009]</Attribute_Ref>
+					<Attribute_Ref>released:=[2006-2008]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_72</Concept_Ref>
+					<Concept_Ref>Concept_ctx_66</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_55</ID>
+				<Extent>
+					<Object_Ref>amd 740 chipset</Object_Ref>
+					<Object_Ref>amd 740g chipset</Object_Ref>
+					<Object_Ref>amd 760g chipset</Object_Ref>
+					<Object_Ref>amd 780v chipset</Object_Ref>
+					<Object_Ref>amd 780g chipset</Object_Ref>
+					<Object_Ref>amd m780v chipset</Object_Ref>
+					<Object_Ref>amd m780g chipset</Object_Ref>
+					<Object_Ref>amd 785g chipset</Object_Ref>
+					<Object_Ref>785e</Object_Ref>
+					<Object_Ref>amd 790gx chipset</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>fabrication process (nanometer):=[55-80]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[1000-2600]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-65]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-110]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-55]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[800-2600]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_62</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_54</ID>
+				<Extent>
+					<Object_Ref>amd 760g chipset</Object_Ref>
+					<Object_Ref>amd 770 chipset</Object_Ref>
+					<Object_Ref>amd 780v chipset</Object_Ref>
+					<Object_Ref>amd 780g chipset</Object_Ref>
+					<Object_Ref>amd m780v chipset</Object_Ref>
+					<Object_Ref>amd m780g chipset</Object_Ref>
+					<Object_Ref>amd 785g chipset</Object_Ref>
+					<Object_Ref>amd 790gx chipset</Object_Ref>
+					<Object_Ref>amd 790x chipset</Object_Ref>
+					<Object_Ref>amd 790fx chipset</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>released:=[2007-2009]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-80]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[1000-2600]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[2200-2600]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-65]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-110]</Attribute_Ref>
+					<Attribute_Ref>released:=[2006-2009]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[800-2600]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[2600-2600]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_58</Concept_Ref>
+					<Concept_Ref>Concept_ctx_70</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_59</ID>
+				<Extent>
+					<Object_Ref>amd 740 chipset</Object_Ref>
+					<Object_Ref>amd 740g chipset</Object_Ref>
+					<Object_Ref>amd 760g chipset</Object_Ref>
+					<Object_Ref>amd 770 chipset</Object_Ref>
+					<Object_Ref>amd 780v chipset</Object_Ref>
+					<Object_Ref>amd 780g chipset</Object_Ref>
+					<Object_Ref>amd m780v chipset</Object_Ref>
+					<Object_Ref>amd m780g chipset</Object_Ref>
+					<Object_Ref>amd 785g chipset</Object_Ref>
+					<Object_Ref>amd 790gx chipset</Object_Ref>
+					<Object_Ref>amd 790x chipset</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>released:=[2007-2009]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-80]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[1000-2600]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-65]</Attribute_Ref>
+					<Attribute_Ref>released:=[2008-2009]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-110]</Attribute_Ref>
+					<Attribute_Ref>released:=[2006-2009]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[800-2600]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_62</Concept_Ref>
+					<Concept_Ref>Concept_ctx_70</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_58</ID>
+				<Extent>
+					<Object_Ref>amd 760g chipset</Object_Ref>
+					<Object_Ref>amd 770 chipset</Object_Ref>
+					<Object_Ref>amd 780v chipset</Object_Ref>
+					<Object_Ref>amd 780g chipset</Object_Ref>
+					<Object_Ref>amd m780v chipset</Object_Ref>
+					<Object_Ref>amd m780g chipset</Object_Ref>
+					<Object_Ref>amd 785g chipset</Object_Ref>
+					<Object_Ref>785e</Object_Ref>
+					<Object_Ref>amd 790gx chipset</Object_Ref>
+					<Object_Ref>amd 790x chipset</Object_Ref>
+					<Object_Ref>amd 790fx chipset</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>fabrication process (nanometer):=[55-80]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[1000-2600]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[2200-2600]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-65]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-110]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[800-2600]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_62</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_60</ID>
+				<Extent>
+					<Object_Ref>amd 480x chipset</Object_Ref>
+					<Object_Ref>amd 570x/550x chipset</Object_Ref>
+					<Object_Ref>amd 580x chipset</Object_Ref>
+					<Object_Ref>amd 690v chipset</Object_Ref>
+					<Object_Ref>amd 690g chipset</Object_Ref>
+					<Object_Ref>amd m690v chipset</Object_Ref>
+					<Object_Ref>amd m690 chipset</Object_Ref>
+					<Object_Ref>amd m690e chipset</Object_Ref>
+					<Object_Ref>amd m690t chipset</Object_Ref>
+					<Object_Ref>amd 740 chipset</Object_Ref>
+					<Object_Ref>amd 740g chipset</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>hyper transport (MHz):=[800-1000]</Attribute_Ref>
+					<Attribute_Ref>southbridge:={sb600}</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[800-2200]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[800-2600]</Attribute_Ref>
+					<Attribute_Ref>released:=[2006-2009]</Attribute_Ref>
+					<Attribute_Ref>released:=[2006-2008]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_66</Concept_Ref>
+					<Concept_Ref>Concept_ctx_61</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_61</ID>
+				<Extent>
+					<Object_Ref>amd 480x chipset</Object_Ref>
+					<Object_Ref>amd 570x/550x chipset</Object_Ref>
+					<Object_Ref>amd 580x chipset</Object_Ref>
+					<Object_Ref>amd 690v chipset</Object_Ref>
+					<Object_Ref>amd 690g chipset</Object_Ref>
+					<Object_Ref>amd m690v chipset</Object_Ref>
+					<Object_Ref>amd m690 chipset</Object_Ref>
+					<Object_Ref>amd m690e chipset</Object_Ref>
+					<Object_Ref>amd m690t chipset</Object_Ref>
+					<Object_Ref>amd 740 chipset</Object_Ref>
+					<Object_Ref>amd 740g chipset</Object_Ref>
+					<Object_Ref>785e</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>hyper transport (MHz):=[800-2200]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[800-2600]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_74</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_63</ID>
+				<Extent>
+					<Object_Ref>amd 570x/550x chipset</Object_Ref>
+					<Object_Ref>amd 580x chipset</Object_Ref>
+					<Object_Ref>amd 690g chipset</Object_Ref>
+					<Object_Ref>amd 740 chipset</Object_Ref>
+					<Object_Ref>amd 740g chipset</Object_Ref>
+					<Object_Ref>amd 760g chipset</Object_Ref>
+					<Object_Ref>amd 770 chipset</Object_Ref>
+					<Object_Ref>amd 780v chipset</Object_Ref>
+					<Object_Ref>amd 780g chipset</Object_Ref>
+					<Object_Ref>amd 785g chipset</Object_Ref>
+					<Object_Ref>amd 790gx chipset</Object_Ref>
+					<Object_Ref>amd 790x chipset</Object_Ref>
+					<Object_Ref>amd 790fx chipset</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>cpu support:={sempron}</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[1000-2600]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[800-2600]</Attribute_Ref>
+					<Attribute_Ref>released:=[2006-2009]</Attribute_Ref>
+					<Attribute_Ref>cpu support:={athlon 64,sempron,phenom}</Attribute_Ref>
+					<Attribute_Ref>cpu support:={athlon 64,sempron}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_64</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_62</ID>
+				<Extent>
+					<Object_Ref>amd 740 chipset</Object_Ref>
+					<Object_Ref>amd 740g chipset</Object_Ref>
+					<Object_Ref>amd 760g chipset</Object_Ref>
+					<Object_Ref>amd 770 chipset</Object_Ref>
+					<Object_Ref>amd 780v chipset</Object_Ref>
+					<Object_Ref>amd 780g chipset</Object_Ref>
+					<Object_Ref>amd m780v chipset</Object_Ref>
+					<Object_Ref>amd m780g chipset</Object_Ref>
+					<Object_Ref>amd 785g chipset</Object_Ref>
+					<Object_Ref>785e</Object_Ref>
+					<Object_Ref>amd 790gx chipset</Object_Ref>
+					<Object_Ref>amd 790x chipset</Object_Ref>
+					<Object_Ref>amd 790fx chipset</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>fabrication process (nanometer):=[55-80]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[1000-2600]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-65]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-110]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[800-2600]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_69</Concept_Ref>
+					<Concept_Ref>Concept_ctx_68</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_64</ID>
+				<Extent>
+					<Object_Ref>amd 570x/550x chipset</Object_Ref>
+					<Object_Ref>amd 580x chipset</Object_Ref>
+					<Object_Ref>amd 690v chipset</Object_Ref>
+					<Object_Ref>amd 690g chipset</Object_Ref>
+					<Object_Ref>amd 740 chipset</Object_Ref>
+					<Object_Ref>amd 740g chipset</Object_Ref>
+					<Object_Ref>amd 760g chipset</Object_Ref>
+					<Object_Ref>amd 770 chipset</Object_Ref>
+					<Object_Ref>amd 780v chipset</Object_Ref>
+					<Object_Ref>amd 780g chipset</Object_Ref>
+					<Object_Ref>amd 785g chipset</Object_Ref>
+					<Object_Ref>amd 790gx chipset</Object_Ref>
+					<Object_Ref>amd 790x chipset</Object_Ref>
+					<Object_Ref>amd 790fx chipset</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>cpu support:={sempron}</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[1000-2600]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[800-2600]</Attribute_Ref>
+					<Attribute_Ref>released:=[2006-2009]</Attribute_Ref>
+					<Attribute_Ref>cpu support:={athlon 64,sempron}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_65</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_65</ID>
+				<Extent>
+					<Object_Ref>amd 480x chipset</Object_Ref>
+					<Object_Ref>amd 570x/550x chipset</Object_Ref>
+					<Object_Ref>amd 580x chipset</Object_Ref>
+					<Object_Ref>amd 690v chipset</Object_Ref>
+					<Object_Ref>amd 690g chipset</Object_Ref>
+					<Object_Ref>amd 740 chipset</Object_Ref>
+					<Object_Ref>amd 740g chipset</Object_Ref>
+					<Object_Ref>amd 760g chipset</Object_Ref>
+					<Object_Ref>amd 770 chipset</Object_Ref>
+					<Object_Ref>amd 780v chipset</Object_Ref>
+					<Object_Ref>amd 780g chipset</Object_Ref>
+					<Object_Ref>amd 785g chipset</Object_Ref>
+					<Object_Ref>amd 790gx chipset</Object_Ref>
+					<Object_Ref>amd 790x chipset</Object_Ref>
+					<Object_Ref>amd 790fx chipset</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>cpu support:={sempron}</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[1000-2600]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[800-2600]</Attribute_Ref>
+					<Attribute_Ref>released:=[2006-2009]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_73</Concept_Ref>
+					<Concept_Ref>Concept_ctx_68</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_66</ID>
+				<Extent>
+					<Object_Ref>amd 480x chipset</Object_Ref>
+					<Object_Ref>amd 570x/550x chipset</Object_Ref>
+					<Object_Ref>amd 580x chipset</Object_Ref>
+					<Object_Ref>amd 690v chipset</Object_Ref>
+					<Object_Ref>amd 690g chipset</Object_Ref>
+					<Object_Ref>amd m690v chipset</Object_Ref>
+					<Object_Ref>amd m690 chipset</Object_Ref>
+					<Object_Ref>amd m690e chipset</Object_Ref>
+					<Object_Ref>amd m690t chipset</Object_Ref>
+					<Object_Ref>amd 740 chipset</Object_Ref>
+					<Object_Ref>amd 740g chipset</Object_Ref>
+					<Object_Ref>amd 770 chipset</Object_Ref>
+					<Object_Ref>amd m780v chipset</Object_Ref>
+					<Object_Ref>amd m780g chipset</Object_Ref>
+					<Object_Ref>amd 790x chipset</Object_Ref>
+					<Object_Ref>amd 790fx chipset</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>southbridge:={sb600}</Attribute_Ref>
+					<Attribute_Ref>released:=[2006-2009]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[800-2600]</Attribute_Ref>
+					<Attribute_Ref>released:=[2006-2008]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_71</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_67</ID>
+				<Extent>
+					<Object_Ref>amd 570x/550x chipset</Object_Ref>
+					<Object_Ref>amd 690v chipset</Object_Ref>
+					<Object_Ref>amd 690g chipset</Object_Ref>
+					<Object_Ref>amd m690v chipset</Object_Ref>
+					<Object_Ref>amd m690 chipset</Object_Ref>
+					<Object_Ref>amd m690e chipset</Object_Ref>
+					<Object_Ref>amd m690t chipset</Object_Ref>
+					<Object_Ref>amd 740 chipset</Object_Ref>
+					<Object_Ref>amd 740g chipset</Object_Ref>
+					<Object_Ref>amd 770 chipset</Object_Ref>
+					<Object_Ref>amd 780v chipset</Object_Ref>
+					<Object_Ref>amd 780g chipset</Object_Ref>
+					<Object_Ref>amd m780v chipset</Object_Ref>
+					<Object_Ref>amd m780g chipset</Object_Ref>
+					<Object_Ref>amd 790gx chipset</Object_Ref>
+					<Object_Ref>amd 790x chipset</Object_Ref>
+					<Object_Ref>amd 790fx chipset</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>released:=[2007-2008]</Attribute_Ref>
+					<Attribute_Ref>released:=[2007-2009]</Attribute_Ref>
+					<Attribute_Ref>released:=[2006-2009]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[800-2600]</Attribute_Ref>
+					<Attribute_Ref>released:=[2006-2008]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_70</Concept_Ref>
+					<Concept_Ref>Concept_ctx_71</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_68</ID>
+				<Extent>
+					<Object_Ref>amd 480x chipset</Object_Ref>
+					<Object_Ref>amd 570x/550x chipset</Object_Ref>
+					<Object_Ref>amd 580x chipset</Object_Ref>
+					<Object_Ref>amd 690v chipset</Object_Ref>
+					<Object_Ref>amd 690g chipset</Object_Ref>
+					<Object_Ref>amd 740 chipset</Object_Ref>
+					<Object_Ref>amd 740g chipset</Object_Ref>
+					<Object_Ref>amd 760g chipset</Object_Ref>
+					<Object_Ref>amd 770 chipset</Object_Ref>
+					<Object_Ref>amd 780v chipset</Object_Ref>
+					<Object_Ref>amd 780g chipset</Object_Ref>
+					<Object_Ref>amd m780v chipset</Object_Ref>
+					<Object_Ref>amd m780g chipset</Object_Ref>
+					<Object_Ref>amd 785g chipset</Object_Ref>
+					<Object_Ref>785e</Object_Ref>
+					<Object_Ref>amd 790gx chipset</Object_Ref>
+					<Object_Ref>amd 790x chipset</Object_Ref>
+					<Object_Ref>amd 790fx chipset</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>hyper transport (MHz):=[1000-2600]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[800-2600]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_74</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_70</ID>
+				<Extent>
+					<Object_Ref>amd 570x/550x chipset</Object_Ref>
+					<Object_Ref>amd 690v chipset</Object_Ref>
+					<Object_Ref>amd 690g chipset</Object_Ref>
+					<Object_Ref>amd m690v chipset</Object_Ref>
+					<Object_Ref>amd m690 chipset</Object_Ref>
+					<Object_Ref>amd m690e chipset</Object_Ref>
+					<Object_Ref>amd m690t chipset</Object_Ref>
+					<Object_Ref>amd 740 chipset</Object_Ref>
+					<Object_Ref>amd 740g chipset</Object_Ref>
+					<Object_Ref>amd 760g chipset</Object_Ref>
+					<Object_Ref>amd 770 chipset</Object_Ref>
+					<Object_Ref>amd 780v chipset</Object_Ref>
+					<Object_Ref>amd 780g chipset</Object_Ref>
+					<Object_Ref>amd m780v chipset</Object_Ref>
+					<Object_Ref>amd m780g chipset</Object_Ref>
+					<Object_Ref>amd 785g chipset</Object_Ref>
+					<Object_Ref>amd 790gx chipset</Object_Ref>
+					<Object_Ref>amd 790x chipset</Object_Ref>
+					<Object_Ref>amd 790fx chipset</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>released:=[2007-2009]</Attribute_Ref>
+					<Attribute_Ref>released:=[2006-2009]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[800-2600]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_73</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_71</ID>
+				<Extent>
+					<Object_Ref>amd 480x chipset</Object_Ref>
+					<Object_Ref>amd 570x/550x chipset</Object_Ref>
+					<Object_Ref>amd 580x chipset</Object_Ref>
+					<Object_Ref>amd 690v chipset</Object_Ref>
+					<Object_Ref>amd 690g chipset</Object_Ref>
+					<Object_Ref>amd m690v chipset</Object_Ref>
+					<Object_Ref>amd m690 chipset</Object_Ref>
+					<Object_Ref>amd m690e chipset</Object_Ref>
+					<Object_Ref>amd m690t chipset</Object_Ref>
+					<Object_Ref>amd 740 chipset</Object_Ref>
+					<Object_Ref>amd 740g chipset</Object_Ref>
+					<Object_Ref>amd 770 chipset</Object_Ref>
+					<Object_Ref>amd 780v chipset</Object_Ref>
+					<Object_Ref>amd 780g chipset</Object_Ref>
+					<Object_Ref>amd m780v chipset</Object_Ref>
+					<Object_Ref>amd m780g chipset</Object_Ref>
+					<Object_Ref>amd 790gx chipset</Object_Ref>
+					<Object_Ref>amd 790x chipset</Object_Ref>
+					<Object_Ref>amd 790fx chipset</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>released:=[2006-2009]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[800-2600]</Attribute_Ref>
+					<Attribute_Ref>released:=[2006-2008]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_73</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_69</ID>
+				<Extent>
+					<Object_Ref>amd 690v chipset</Object_Ref>
+					<Object_Ref>amd 690g chipset</Object_Ref>
+					<Object_Ref>amd m690v chipset</Object_Ref>
+					<Object_Ref>amd m690 chipset</Object_Ref>
+					<Object_Ref>amd m690e chipset</Object_Ref>
+					<Object_Ref>amd m690t chipset</Object_Ref>
+					<Object_Ref>amd 740 chipset</Object_Ref>
+					<Object_Ref>amd 740g chipset</Object_Ref>
+					<Object_Ref>amd 760g chipset</Object_Ref>
+					<Object_Ref>amd 770 chipset</Object_Ref>
+					<Object_Ref>amd 780v chipset</Object_Ref>
+					<Object_Ref>amd 780g chipset</Object_Ref>
+					<Object_Ref>amd m780v chipset</Object_Ref>
+					<Object_Ref>amd m780g chipset</Object_Ref>
+					<Object_Ref>amd 785g chipset</Object_Ref>
+					<Object_Ref>785e</Object_Ref>
+					<Object_Ref>amd 790gx chipset</Object_Ref>
+					<Object_Ref>amd 790x chipset</Object_Ref>
+					<Object_Ref>amd 790fx chipset</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>fabrication process (nanometer):=[55-80]</Attribute_Ref>
+					<Attribute_Ref>fabrication process (nanometer):=[55-110]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[800-2600]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_72</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_72</ID>
+				<Extent>
+					<Object_Ref>amd 480x chipset</Object_Ref>
+					<Object_Ref>amd 690v chipset</Object_Ref>
+					<Object_Ref>amd 690g chipset</Object_Ref>
+					<Object_Ref>amd m690v chipset</Object_Ref>
+					<Object_Ref>amd m690 chipset</Object_Ref>
+					<Object_Ref>amd m690e chipset</Object_Ref>
+					<Object_Ref>amd m690t chipset</Object_Ref>
+					<Object_Ref>amd 740 chipset</Object_Ref>
+					<Object_Ref>amd 740g chipset</Object_Ref>
+					<Object_Ref>amd 760g chipset</Object_Ref>
+					<Object_Ref>amd 770 chipset</Object_Ref>
+					<Object_Ref>amd 780v chipset</Object_Ref>
+					<Object_Ref>amd 780g chipset</Object_Ref>
+					<Object_Ref>amd m780v chipset</Object_Ref>
+					<Object_Ref>amd m780g chipset</Object_Ref>
+					<Object_Ref>amd 785g chipset</Object_Ref>
+					<Object_Ref>785e</Object_Ref>
+					<Object_Ref>amd 790gx chipset</Object_Ref>
+					<Object_Ref>amd 790x chipset</Object_Ref>
+					<Object_Ref>amd 790fx chipset</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>fabrication process (nanometer):=[55-110]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[800-2600]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_74</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_73</ID>
+				<Extent>
+					<Object_Ref>amd 480x chipset</Object_Ref>
+					<Object_Ref>amd 570x/550x chipset</Object_Ref>
+					<Object_Ref>amd 580x chipset</Object_Ref>
+					<Object_Ref>amd 690v chipset</Object_Ref>
+					<Object_Ref>amd 690g chipset</Object_Ref>
+					<Object_Ref>amd m690v chipset</Object_Ref>
+					<Object_Ref>amd m690 chipset</Object_Ref>
+					<Object_Ref>amd m690e chipset</Object_Ref>
+					<Object_Ref>amd m690t chipset</Object_Ref>
+					<Object_Ref>amd 740 chipset</Object_Ref>
+					<Object_Ref>amd 740g chipset</Object_Ref>
+					<Object_Ref>amd 760g chipset</Object_Ref>
+					<Object_Ref>amd 770 chipset</Object_Ref>
+					<Object_Ref>amd 780v chipset</Object_Ref>
+					<Object_Ref>amd 780g chipset</Object_Ref>
+					<Object_Ref>amd m780v chipset</Object_Ref>
+					<Object_Ref>amd m780g chipset</Object_Ref>
+					<Object_Ref>amd 785g chipset</Object_Ref>
+					<Object_Ref>amd 790gx chipset</Object_Ref>
+					<Object_Ref>amd 790x chipset</Object_Ref>
+					<Object_Ref>amd 790fx chipset</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>released:=[2006-2009]</Attribute_Ref>
+					<Attribute_Ref>hyper transport (MHz):=[800-2600]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_74</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_74</ID>
+				<Extent>
+					<Object_Ref>amd 480x chipset</Object_Ref>
+					<Object_Ref>amd 570x/550x chipset</Object_Ref>
+					<Object_Ref>amd 580x chipset</Object_Ref>
+					<Object_Ref>amd 690v chipset</Object_Ref>
+					<Object_Ref>amd 690g chipset</Object_Ref>
+					<Object_Ref>amd m690v chipset</Object_Ref>
+					<Object_Ref>amd m690 chipset</Object_Ref>
+					<Object_Ref>amd m690e chipset</Object_Ref>
+					<Object_Ref>amd m690t chipset</Object_Ref>
+					<Object_Ref>amd 740 chipset</Object_Ref>
+					<Object_Ref>amd 740g chipset</Object_Ref>
+					<Object_Ref>amd 760g chipset</Object_Ref>
+					<Object_Ref>amd 770 chipset</Object_Ref>
+					<Object_Ref>amd 780v chipset</Object_Ref>
+					<Object_Ref>amd 780g chipset</Object_Ref>
+					<Object_Ref>amd m780v chipset</Object_Ref>
+					<Object_Ref>amd m780g chipset</Object_Ref>
+					<Object_Ref>amd 785g chipset</Object_Ref>
+					<Object_Ref>785e</Object_Ref>
+					<Object_Ref>amd 790gx chipset</Object_Ref>
+					<Object_Ref>amd 790x chipset</Object_Ref>
+					<Object_Ref>amd 790fx chipset</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>hyper transport (MHz):=[800-2600]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+				</UpperCovers>
+			</Concept>
+		</Lattice>
+	</Step >
+</RCAExplore_Document>

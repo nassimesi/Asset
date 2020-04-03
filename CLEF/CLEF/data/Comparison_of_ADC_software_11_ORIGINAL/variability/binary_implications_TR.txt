@@ -1,0 +1,11 @@
+ipv6 -> hash algorithms:=*
+ipv6 -> adc support:={osnr,adcs}
+ipv6 -> adc support:={any clients,hubs}
+ipv6 -> adc support:={tigr,adcs}
+adc support:={any clients,hubs} -> encryption
+adc support:={any clients,hubs} -> hash algorithms:={tiger tree hash}
+adc support:={tigr,adcs} -> plugin extendable
+adc support:={adcs} -> encryption
+plugin extendable -> encryption
+plugin extendable -> adc support:={tigr}
+adc support:={tigr} -> hash algorithms:={tiger tree hash}

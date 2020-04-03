@@ -1,0 +1,4 @@
+programminglanguage:={c} -> cli
+basedon:={dc++,apexdcspeedmode,strongdc++} -> webui
+programminglanguage:={java} -> gui
+webui -> basedon:={dc++}

@@ -1,0 +1,175 @@
++first public release:=[1997-2011] ->! cost:={non-free}
++first public release:=[1997-2011] ->! based framework:={core audio}
++first public release:=[1998-2012] ->! written in:={c++,c}
++first public release:=[1998-2012] ->! based framework:={wasabi}
+cost:={free} ->! written in:={delphi}
+cost:={free} ->! +first public release:=[2012-2012]
+cost:={free} ->! based framework:={core audio}
++first public release:=[2002-2012] ->! based framework:={original}
++first public release:=[2003-2012] ->! software license:={bsd}
++first public release:=[1997-2006] ->! written in:={objective-c}
++first public release:=[1997-2006] ->! based framework:={av foundation,quicktime}
++first public release:=[1997-2006] ->! written in:={visual basic .net}
++first public release:=[2002-2006] ->! based framework:={bass audio library}
++first public release:=[1997-2005] ->! written in:={python}
++first public release:=[1997-2005] ->! written in:={java}
++first public release:=[2004-2012] ->! written in:={delphi}
++first public release:=[2004-2012] ->! based framework:={xine,directshow,mplayer,gstreamer,vlc,quicktime}
++first public release:=[1997-2004] ->! based framework:={xmms based}
++first public release:=[1997-2004] ->! written in:={c#}
++first public release:=[1997-2004] ->! software license:={mit}
++first public release:=[2004-2009] ->! written in:={c++}
+software license:={gpl} ->! +first public release:=[1997-2002]
+software license:={gpl} ->! +first public release:=[2008-2009]
+software license:={gpl} ->! cost:={non-free}
+software license:={gpl} ->! written in:={delphi}
+software license:={gpl} ->! +first public release:=[2005-2005]
+software license:={gpl} ->! based framework:={bass audio library}
+software license:={gpl} ->! written in:={objective-c}
+software license:={gpl} ->! written in:={c++,c}
+software license:={gpl} ->! written in:={c#}
+software license:={gpl} ->! based framework:={original}
+software license:={gpl} ->! based framework:={av foundation,quicktime}
+software license:={gpl} ->! +first public release:=[2012-2012]
+software license:={gpl} ->! based framework:={core audio}
+software license:={gpl} ->! written in:={visual basic .net}
+software license:={gpl} ->! +first public release:=*
+software license:={gpl} ->! based framework:={wasabi}
++first public release:=[2005-2012] ->! written in:={c}
++first public release:=[2005-2012] ->! based framework:={xmms based}
++first public release:=[2005-2012] ->! written in:={python}
+software license:={proprietary} ->! +first public release:=[2004-2006]
+software license:={proprietary} ->! based framework:={gstreamer}
+software license:={proprietary} ->! based framework:={xmms based}
+software license:={proprietary} ->! written in:={python}
+software license:={proprietary} ->! written in:={java}
+software license:={proprietary} ->! +first public release:=[2011-2011]
++first public release:=[2004-2006] ->! based framework:={quicktime}
++first public release:=[2006-2012] ->! software license:={mit}
+written in:={c} ->! based framework:={gstreamer}
+written in:={c} ->! +first public release:=[1998-2002]
+written in:={c} ->! cost:={non-free}
+written in:={c} ->! based framework:={bass audio library}
+written in:={c} ->! +first public release:=[2004-2004]
+written in:={c} ->! based framework:={quicktime}
+written in:={c} ->! software license:={bsd}
+written in:={c} ->! based framework:={original}
+written in:={c} ->! software license:={mit}
+written in:={c} ->! based framework:={core audio}
+written in:={c} ->! +first public release:=*
++first public release:=[2006-2009] ->! based framework:={gstreamer}
++first public release:=[2006-2008] ->! written in:={c#}
+based framework:={gstreamer} ->! +first public release:=[1997-2002]
+based framework:={gstreamer} ->! cost:={non-free}
+based framework:={gstreamer} ->! written in:={delphi}
+based framework:={gstreamer} ->! +first public release:=[2004-2004]
+based framework:={gstreamer} ->! written in:={objective-c}
+based framework:={gstreamer} ->! software license:={bsd}
+based framework:={gstreamer} ->! written in:={java}
+based framework:={gstreamer} ->! +first public release:=[2012-2012]
+based framework:={gstreamer} ->! written in:={visual basic .net}
+based framework:={gstreamer} ->! +first public release:=*
+written in:={c++} ->! cost:={non-free}
+written in:={c++} ->! based framework:={bass audio library}
+written in:={c++} ->! +first public release:=[1998-1998]
+written in:={c++} ->! based framework:={xmms based}
+written in:={c++} ->! based framework:={original}
+written in:={c++} ->! software license:={mit}
+written in:={c++} ->! based framework:={av foundation,quicktime}
+written in:={c++} ->! +first public release:=[2012-2012]
+written in:={c++} ->! based framework:={core audio}
+written in:={c++} ->! +first public release:=*
++first public release:=[2008-2012] ->! written in:={java}
++first public release:=[1997-2002] ->! written in:={delphi}
++first public release:=[1997-2002] ->! based framework:={quicktime}
+cost:={non-free} ->! written in:={delphi}
+cost:={non-free} ->! based framework:={bass audio library}
+cost:={non-free} ->! based framework:={quicktime}
+cost:={non-free} ->! based framework:={xmms based}
+cost:={non-free} ->! written in:={c#}
+cost:={non-free} ->! written in:={python}
+cost:={non-free} ->! software license:={bsd}
+cost:={non-free} ->! based framework:={original}
+cost:={non-free} ->! written in:={java}
+cost:={non-free} ->! software license:={mit}
+cost:={non-free} ->! written in:={visual basic .net}
+cost:={non-free} ->! +first public release:=*
+cost:={non-free} ->! based framework:={wasabi}
++first public release:=[1997-1998] ->! software license:={bsd}
+written in:={delphi} ->! based framework:={bass audio library}
+written in:={delphi} ->! based framework:={quicktime}
+written in:={delphi} ->! based framework:={xmms based}
+written in:={delphi} ->! software license:={bsd}
+written in:={delphi} ->! based framework:={original}
+written in:={delphi} ->! software license:={mit}
+written in:={delphi} ->! based framework:={core audio}
+written in:={delphi} ->! +first public release:=*
+written in:={delphi} ->! based framework:={wasabi}
+based framework:={bass audio library} ->! +first public release:=[2009-2012]
+based framework:={bass audio library} ->! written in:={objective-c}
+based framework:={bass audio library} ->! written in:={c#}
+based framework:={bass audio library} ->! written in:={python}
+based framework:={bass audio library} ->! software license:={bsd}
+based framework:={bass audio library} ->! +first public release:=[1997-1997]
+based framework:={bass audio library} ->! written in:={java}
+based framework:={bass audio library} ->! software license:={mit}
+based framework:={bass audio library} ->! +first public release:=*
++first public release:=[2009-2012] ->! based framework:={quicktime}
++first public release:=[2009-2012] ->! written in:={visual basic .net}
+written in:={objective-c} ->! based framework:={xmms based}
+written in:={objective-c} ->! +first public release:=[2009-2011]
+written in:={objective-c} ->! software license:={bsd}
+written in:={objective-c} ->! based framework:={original}
+written in:={objective-c} ->! software license:={mit}
+written in:={objective-c} ->! +first public release:=*
+written in:={objective-c} ->! based framework:={wasabi}
+based framework:={quicktime} ->! written in:={c#}
+based framework:={quicktime} ->! written in:={python}
+based framework:={quicktime} ->! software license:={bsd}
+based framework:={quicktime} ->! written in:={java}
+based framework:={quicktime} ->! software license:={mit}
+based framework:={quicktime} ->! written in:={visual basic .net}
+based framework:={quicktime} ->! +first public release:=*
+based framework:={xmms based} ->! written in:={c#}
+based framework:={xmms based} ->! written in:={python}
+based framework:={xmms based} ->! software license:={bsd}
+based framework:={xmms based} ->! written in:={java}
+based framework:={xmms based} ->! software license:={mit}
+based framework:={xmms based} ->! written in:={visual basic .net}
+based framework:={xmms based} ->! +first public release:=*
+written in:={c#} ->! +first public release:=[2011-2012]
+written in:={c#} ->! software license:={bsd}
+written in:={c#} ->! based framework:={original}
+written in:={c#} ->! based framework:={core audio}
+written in:={c#} ->! +first public release:=*
+written in:={c#} ->! based framework:={wasabi}
+written in:={python} ->! software license:={bsd}
+written in:={python} ->! based framework:={original}
+written in:={python} ->! software license:={mit}
+written in:={python} ->! based framework:={core audio}
+written in:={python} ->! +first public release:=*
+written in:={python} ->! based framework:={wasabi}
+software license:={bsd} ->! based framework:={original}
+software license:={bsd} ->! written in:={java}
+software license:={bsd} ->! based framework:={core audio}
+software license:={bsd} ->! written in:={visual basic .net}
+software license:={bsd} ->! +first public release:=*
+software license:={bsd} ->! based framework:={wasabi}
++first public release:=[1997-1997] ->! based framework:={original}
+based framework:={original} ->! written in:={java}
+based framework:={original} ->! software license:={mit}
+based framework:={original} ->! written in:={visual basic .net}
+based framework:={original} ->! +first public release:=*
+written in:={java} ->! software license:={mit}
+written in:={java} ->! based framework:={core audio}
+written in:={java} ->! +first public release:=*
+written in:={java} ->! based framework:={wasabi}
+software license:={mit} ->! based framework:={core audio}
+software license:={mit} ->! written in:={visual basic .net}
+software license:={mit} ->! +first public release:=*
+software license:={mit} ->! based framework:={wasabi}
+based framework:={core audio} ->! written in:={visual basic .net}
+based framework:={core audio} ->! +first public release:=*
+written in:={visual basic .net} ->! +first public release:=*
+written in:={visual basic .net} ->! based framework:={wasabi}
++first public release:=* ->! based framework:={wasabi}

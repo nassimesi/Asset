@@ -1,0 +1,6 @@
+on-demand scan <-> on-access scan
+on-demand scan <-> live-update
+on-demand scan <-> first release:=[1997-2013]
+on-access scan <-> live-update
+on-access scan <-> first release:=[1997-2013]
+live-update <-> first release:=[1997-2013]

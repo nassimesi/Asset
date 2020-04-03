@@ -1,0 +1,24 @@
+plugin:={c} -> ipv6
+plugin:={c} -> adc support:={tigr,ping,adcs}
+plugin:={c} -> encryption
+plugin:={c} -> hash algorithms:={tiger tree hash}
+plugin:={c#} -> encryption
+plugin:={c#} -> adc support:={tigr,adcs}
+plugin:={c#} -> hash algorithms:={tiger tree hash}
+adc support:={keyp,tigr,ping,sudp,asch,adcs} -> plugin:={lua}
+plugin:={python,lua,ruby} -> ipv6
+plugin:={python,lua,ruby} -> bloom filter
+ipv6 -> adc support:={tigr,ping,adcs}
+ipv6 -> encryption
+ipv6 -> hash algorithms:={tiger tree hash}
+plugin:={lua} -> adc support:={tigr,ping,adcs}
+plugin:={lua} -> encryption
+plugin:={lua} -> hash algorithms:={tiger tree hash}
+bloom filter -> plugin:={python}
+bloom filter -> adc support:={tigr,ping,adcs}
+bloom filter -> encryption
+bloom filter -> hash algorithms:={tiger tree hash}
+plugin:={python} -> adc support:={tigr,ping,adcs}
+plugin:={python} -> encryption
+plugin:={python} -> hash algorithms:={tiger tree hash}
+encryption -> hash algorithms:={tiger tree hash}

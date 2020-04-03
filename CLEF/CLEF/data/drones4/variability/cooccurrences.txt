@@ -1,0 +1,3 @@
+GLONASS <-> Avoidance
+GLONASS <-> FT ge 20
+Avoidance <-> FT ge 20

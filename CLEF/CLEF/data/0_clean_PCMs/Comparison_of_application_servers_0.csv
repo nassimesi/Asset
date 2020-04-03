@@ -1,0 +1,27 @@
+name,vendor,last release date,java ee compatibility,Servlet spec,Jsp spec,license
+coldfusion,adobe systems,2013,6,2.5,2.1,proprietary
+dynamo as,atg,2005,1.3,2.3,1.2,proprietary
+enhydra,lutris,2005,*,*,*,gpl
+enterprise server,borland,2007,1.4,2.4,2.0,proprietary
+geronimo,asf,2013,6,3.0,2.2,apache
+glassfish,glassfish community,2014,7,3.1,2.3,cddl;gpl
+iplanet web server,oracle corporation,2015,7,2.5,2.1,proprietary
+jboss enterprise application platform,red hat,2014,6,3.0,2.2,lgpl
+jetty,eclipse foundation,2014,7,3.1,2.3,apache;epl
+jeus,tmaxsoft,2012,6,3.0,2.2,proprietary
+jonas,ow2 consortium,2013,6,3.0,2.2,lgpl
+jrun,adobe systems,2007,1.3,2.3,1.2,proprietary
+netweaver application server,sap ag,2013,6,2.5,2.1,proprietary
+oracle containers for j2ee,oracle corporation,2009,1.4,2.4,2.0,proprietary
+orion application server,ironflare,2006,1.3,2.3,1.2,proprietary
+resin servlet container (open source),caucho technology,2013,6,3.0,2.2,gpl
+resin professional application server,caucho technology,2013,6,3.0,2.2,proprietary
+ruby,ruby,2015,*,*,*,lgpl
+siwpas,mechsoft,2011,7,3.0,2.2,proprietary
+tomee,asf,2014,6,3.0,2.2,apache
+weblogic server,oracle corporation,2014,6,3.0,2.2,proprietary
+webobjects,apple inc.,2008,*,*,*,proprietary
+ibm websphere application server,ibm,2014,6,3.1,2.2,proprietary
+ibm websphere application server liberty core,ibm,2012,6,3.1,2.2,proprietary
+websphere as community edition,ibm,2013,6,3.0,2.2,proprietary
+wildfly,red hat,2014,7,3.1,2.3,lgpl

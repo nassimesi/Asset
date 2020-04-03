@@ -1,0 +1,3 @@
+A_attr_a2 ->! class_B
+A_method_m2 ->! class_B
+A_method_m3 ->! class_B

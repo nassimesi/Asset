@@ -1,0 +1,4 @@
+linux ->! other:={.net4 enabled platform}
+linux ->! other:={wine}
+os x ->! other:={.net4 enabled platform}
+os x ->! other:={wine}

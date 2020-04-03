@@ -1,0 +1,5 @@
+FirstRelease:=[1998-1998] <-> ProgrammingLanguage:={C++}
+FirstRelease:=* <-> ProgrammingLanguage:={C,java,perl}
+FirstRelease:=[2005-2005] <-> Distributed
+FirstRelease:=[2005-2005] <-> ProgrammingLanguage:={C,shell scripts}
+Distributed <-> ProgrammingLanguage:={C,shell scripts}

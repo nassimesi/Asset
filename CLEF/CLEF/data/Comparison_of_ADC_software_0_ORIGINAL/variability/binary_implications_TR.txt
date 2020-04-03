@@ -1,0 +1,7 @@
+software license:={proprietary} -> active
+software license:={mit license} -> free and open source
+software license:={gplv2} -> active
+software license:={gplv2} -> free and open source
+software license:={agpl} -> active
+software license:={agpl} -> free and open source
+software license:={gpl} -> free and open source

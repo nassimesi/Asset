@@ -1,0 +1,76 @@
+name,company,on-demand scan,on-access scan,boot-time scans,heuristics,cloudav,firewall,ids,ips,email security,antispam,web protection,macro protection,live update,support,virus bulletin vb100,av comparatives,av test,license,price,first release,country of origin
+outpost antivirus pro,agnitum,X,X,X,X,,,X,X,X,,,X,X,X,,,,proprietary,non-free,2007,russia
+outpost security suite,agnitum,X,X,X,X,,X,X,X,X,,X,X,X,X,X,,,proprietary,non-free,2008,russia
+ahnlab v3 internet security,ahnlab,X,X,,X,,,,,X,,X,,X,X,X,X,X,proprietary,non-free,1988,south korea
+avast free antivirus,avast,X,X,X,X,X,,X,,X,,X,X,X,X,X,X,X,proprietary,free,1988,czech republic
+avast pro antivirus,avast,X,X,X,X,X,,X,,X,,X,X,X,X,X,,X,proprietary,trialware,1997,czech republic
+avast internet security,avast,X,X,X,X,X,X,X,,X,X,X,X,X,X,,,,proprietary,trialware,2009,czech republic
+avast premier,avast,X,X,X,X,X,X,X,,X,X,X,X,X,X,,,,proprietary,trialware,2012,czech republic
+avetix free,avetix,X,X,,X,,,,,,,X,,X,X,X,,,proprietary,free,2012,italy
+avetix pro,avetix,X,X,,X,,,,,,,X,,X,X,X,,,proprietary,non-free,2012,italy
+avg antivirus free,avg technologies (grisoft),X,X,X,X,,,,,,,X,X,X,X,X,X,X,proprietary,free,1992,czech republic
+avg antivirus,avg technologies (grisoft),X,X,X,X,X,,,,X,,X,X,X,X,X,X,X,proprietary,non-free,2006,czech republic
+avg internet security,avg technologies (grisoft),X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,proprietary,non-free,2008,czech republic
+avira antivirus free (formerly antivir),avira,X,X,X,X,,,,,X,X,X,X,X,X,X,X,X,proprietary,free,1988,germany
+avira internet security,avira,X,X,X,X,,,,,X,X,X,X,X,X,X,X,X,proprietary,non-free,2002,germany
+bitdefender antivirus free,bitdefender,X,X,X,X,X,,,,,,X,,X,X,X,,,proprietary,free,2013,romania
+bitdefender antivirus plus,bitdefender,X,X,X,X,X,,,,,,X,,X,X,X,X,X,proprietary,non-free,1996,romania
+bitdefender internet security,bitdefender,X,X,X,X,X,X,X,X,X,X,X,,X,X,X,X,X,proprietary,non-free,2008,romania
+bullguard antivirus,bullguard,X,X,X,X,,,,,,,,,X,X,X,X,X,proprietary,non-free,2002,united kingdom
+bullguard internet security,bullguard,X,X,X,X,,X,,,X,X,X,,X,X,X,X,X,proprietary,non-free,2004,united kingdom
+zonealarm pro antivirus + firewall,check point,X,X,,,,X,X,X,,,,,X,X,X,,,proprietary,non-free,2002,united states
+zonealarm internet security suite,check point,X,X,,,,X,X,X,X,,X,,X,X,X,,,proprietary,non-free,2012,united states
+clamwin,clamwin,X,X,X,X,,,,,X,,,,X,,,,,gnu gpl,free,2002,australia
+comodo antivirus,comodo group,X,X,,,,,,,,,,,X,,,,,proprietary,free,2008,united states
+comodo antivirus advanced,comodo group,X,X,,X,,,,,,,X,,X,,,,,proprietary,non-free,2008,united states
+cysec antivirus free,cysec,X,X,,,,,,,X,,,,X,,,,,proprietary,free,2007,united kingdom
+comodo internet security,comodo group,X,X,,X,,X,,,,,X,,X,X,,,,proprietary,non-free,2010,united states
+dr. web anti-virus (formerly spiderweb),dr. web,X,X,,,,,,,,,,,X,X,,,,proprietary,trialware,1992,russia
+dr. web security space,dr. web,X,X,,,,X,,,,,X,,X,X,,,,proprietary,non-free,2006,russia
+eset nod32 antivirus,eset,X,X,X,X,X,,,,X,,X,X,X,X,X,,,proprietary,trialware,1987,slovakia
+eset smart security,eset,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,proprietary,trialware,2007,slovakia
+f-secure antivirus,f-secure,X,X,X,X,,,,,X,,,X,X,X,X,X,X,proprietary,non-free,1991,finland
+f-secure internet security,f-secure,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,proprietary,non-free,2004,finland
+f-prot antivirus,frisk software,X,X,X,X,,,,,X,,,X,X,X,X,,,proprietary,trialware,1989,iceland
+fortinet antivirus and anti-spyware,fortinet,X,X,,,,,,,,,,,X,X,,,,proprietary,non-free,2004,united states
+g data antivirus,g data software,X,X,X,X,,,,,,,X,X,X,X,X,X,X,proprietary,non-free,1987,germany
+g data internetsecurity,g data software,X,X,X,X,X,X,X,,X,X,X,X,X,X,X,X,X,proprietary,non-free,2004,germany
+vipre antivirus,gfi software,X,X,,X,X,X,X,X,,X,X,X,X,X,X,X,X,proprietary,trialware,1994,malta
+vipre internet security,gfi software,X,X,,X,X,X,X,X,X,X,X,X,X,X,X,X,X,proprietary,non-free,2010,malta
+ikarus anti.virus,ikarus,X,X,,X,,,,,X,,X,,X,X,X,X,X,proprietary,non-free,1998,australia
+advanced systemcare,iobit,X,X,,,,,,,,,,,,,,,,proprietary,free,2010,united states
+iolo system shield antivirus & antispyware,iolo technologies,X,X,,,,,,,,,,,X,X,,,,proprietary,non-free,2012,united states
+stopzilla antimalware,is3,X,X,,,,,,,,,,,X,X,,,,proprietary,trialware,2003,united states
+k7 antivirus plus,k7 computing,X,X,,,,,,,X,,,X,X,X,,,,proprietary,non-free,1996,india
+k7 total security,k7 computing,X,X,,,,,,,X,,X,X,X,X,,,,proprietary,non-free,2004,india
+kaspersky anti-virus,kaspersky lab,X,X,X,X,,,,,X,,X,,X,X,X,X,X,proprietary,non-free,1997,russia
+kaspersky internet security,kaspersky lab,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,proprietary,non-free,2007,russia
+kingsoft antivirus,kingsoft,X,X,,,,X,,,,,,,X,,X,X,X,proprietary,shareware,2000,china
+mcafee antivirus,mcafee,X,X,X,X,,,,,X,,,X,X,X,X,X,X,proprietary,non-free,1987,united states
+mcafee internet security,mcafee,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,proprietary,non-free,2006,united states
+windows defender,microsoft,X,X,,,,,,,,,,,X,X,X,,,proprietary,free,2012,united states
+nano antivirus,nano security,X,X,,X,,,,,X,,X,X,X,X,,,,proprietary,free,2009,russia
+panda antivirus pro,panda security,X,X,X,X,X,X,,,,,,X,X,X,X,X,X,proprietary,non-free,1990,spain
+panda internet security,panda security,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,proprietary,non-free,2002,spain
+psafe total windows,psafe,X,X,,X,,,,,,,X,X,X,X,,X,X,proprietary,free,2011,brazil
+360 total security,qihoo 360,X,X,X,X,X,,,,,,X,X,X,X,X,X,X,proprietary,free,2006,china
+quick heal total security 2015,quick heal,X,X,X,X,,X,X,,,X,,X,X,X,X,,,proprietary,non-free,1995,india
+unthreat professional antivirus,scandium security,X,X,,,,,,,,,,,X,,X,,,proprietary,free,2010,cyprus
+unthreat internet security,scandium security,X,X,,,,,,,X,,X,,X,X,X,,,proprietary,non-free,2010,cyprus
+sophos anti-virus,sophos,X,X,X,X,X,X,X,,X,,,X,X,X,X,X,X,proprietary,non-free,1988,united kingdom
+sophos enduser protection,sophos,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,proprietary,non-free,2000,united kingdom
+immunet,cisco (originally immunet),X,X,,,X,,,,X,,,,X,X,,,,proprietary,free,2010,united states
+element anti-virus,strayspark computing,X,X,,,,,,,,,,,X,X,,,,proprietary,non-free,2002,united kingdom
+norton antivirus,symantec,X,X,X,X,,,,,X,,,,X,X,X,,X,proprietary,non-free,1991,united states
+norton internet security,symantec,X,X,X,X,X,X,X,X,X,X,X,,X,X,X,,X,proprietary,non-free,2000,united states
+spyware doctor with antivirus,symantec (originally pc tools),X,X,,,,,,,,,X,,X,,X,,X,proprietary,non-free,2003,united states
+virit explorer lite,tg soft,X,X,,X,,,X,,,,X,X,X,,,,,proprietary,free,1991,italy
+virit explorer pro,tg soft,X,X,,X,X,X,X,,X,,X,X,X,X,,,,proprietary,non-free,1991,italy
+titanium antivirus plus,trend micro,X,X,X,X,,,,,,X,,,X,X,X,X,X,proprietary,non-free,1990,japan
+titanium internet security,trend micro,X,X,X,X,X,,,,,,X,,X,X,X,X,X,proprietary,non-free,2008,japan
+trustport antivirus,trustport,X,X,,,,,,,,,,,X,X,,,,proprietary,trialware,2008,czech republic
+trustport internet security,trustport,X,X,,,,,,,X,,X,,X,X,,,,proprietary,non-free,2008,czech republic
+vba32 antivirus,virusblokada,X,X,,,,,,,,,,,,,,,,proprietary,non-free,2010,belarus
+secureanywhere antivirus,webroot,X,X,,,,,,,,,,,X,X,X,X,X,proprietary,trialware,2006,united states
+secureanywhere internet security plus,webroot,X,X,,,,,,,X,,X,,X,X,X,X,X,proprietary,non-free,2008,united states
+zemana antilogger and antimalware,zemana,X,X,,,,,,,,,,,X,X,,,,proprietary,trialware,*,turkey

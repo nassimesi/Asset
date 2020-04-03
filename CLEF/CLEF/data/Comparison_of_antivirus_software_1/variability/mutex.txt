@@ -1,0 +1,186 @@
+license:={proprietary} ->! first release:=[2000-2000]
+first release:=[1997-2012] ->! country of origin:={slovakia}
+first release:=[1997-2012] ->! firewall
+first release:=[1997-2012] ->! country of origin:={brazil}
+first release:=[2007-2013] ->! country of origin:={united states}
+first release:=[2007-2013] ->! firewall
+first release:=[2007-2013] ->! license:={gnu gpl}
+first release:=[2010-2013] ->! antispam
+first release:=[2010-2013] ->! country of origin:={finland}
+first release:=[2010-2013] ->! country of origin:={spain}
+web protection ->! country of origin:={united states}
+web protection ->! first release:=[1997-2007]
+web protection ->! price:={trialware}
+web protection ->! country of origin:={russia}
+web protection ->! license:={gnu gpl}
+support ->! price:={trialware}
+support ->! first release:=[2000-2000]
+support ->! country of origin:={russia}
+support ->! first release:=[2010-2010]
+support ->! country of origin:={germany}
+support ->! license:={gnu gpl}
+support ->! ips
+first release:=[2011-2013] ->! ids
+first release:=[2011-2013] ->! country of origin:={russia}
+first release:=[2011-2013] ->! country of origin:={united kingdom}
+first release:=[2011-2013] ->! ips
+heuristics ->! country of origin:={united states}
+heuristics ->! first release:=[1997-2007]
+heuristics ->! price:={trialware}
+heuristics ->! country of origin:={russia}
+heuristics ->! firewall
+heuristics ->! first release:=[2013-2013]
+heuristics ->! license:={gnu gpl}
+heuristics ->! country of origin:={brazil}
+heuristics ->! country of origin:={india}
+av comparatives ->! country of origin:={united states}
+av comparatives ->! first release:=[1997-2000]
+av comparatives ->! price:={trialware}
+av comparatives ->! country of origin:={russia}
+av comparatives ->! country of origin:={slovakia}
+av comparatives ->! firewall
+av comparatives ->! license:={gnu gpl}
+av comparatives ->! country of origin:={india}
+price:={non-free} ->! first release:=[2000-2000]
+price:={non-free} ->! country of origin:={russia}
+price:={non-free} ->! first release:=[2013-2013]
+price:={non-free} ->! first release:=[2010-2010]
+price:={non-free} ->! country of origin:={czech republic}
+price:={non-free} ->! country of origin:={germany}
+price:={non-free} ->! license:={gnu gpl}
+price:={non-free} ->! country of origin:={brazil}
+price:={non-free} ->! ips
+first release:=[2011-2012] ->! cloudav
+first release:=[1997-2011] ->! price:={trialware}
+first release:=[1997-2011] ->! country of origin:={russia}
+first release:=[1997-2011] ->! country of origin:={czech republic}
+first release:=[1997-2011] ->! country of origin:={india}
+first release:=[2012-2013] ->! country of origin:={slovakia}
+first release:=[2012-2013] ->! country of origin:={germany}
+first release:=[2012-2013] ->! country of origin:={romania}
+first release:=[2012-2013] ->! country of origin:={japan}
+email security ->! price:={trialware}
+email security ->! country of origin:={russia}
+email security ->! country of origin:={slovakia}
+email security ->! firewall
+email security ->! first release:=[2013-2013]
+email security ->! country of origin:={romania}
+email security ->! first release:=[1997-1997]
+email security ->! first release:=[2007-2007]
+email security ->! country of origin:={brazil}
+email security ->! country of origin:={india}
+email security ->! country of origin:={japan}
+country of origin:={united states} ->! cloudav
+country of origin:={united states} ->! price:={trialware}
+country of origin:={united states} ->! ids
+country of origin:={united states} ->! antispam
+country of origin:={united states} ->! firewall
+country of origin:={united states} ->! ips
+first release:=[1997-2010] ->! country of origin:={germany}
+first release:=[1997-2010] ->! country of origin:={romania}
+first release:=[1997-2010] ->! country of origin:={japan}
+cloudav ->! first release:=[1997-2007]
+cloudav ->! price:={trialware}
+cloudav ->! country of origin:={russia}
+cloudav ->! firewall
+cloudav ->! country of origin:={czech republic}
+cloudav ->! country of origin:={germany}
+cloudav ->! country of origin:={romania}
+cloudav ->! license:={gnu gpl}
+cloudav ->! country of origin:={india}
+cloudav ->! country of origin:={japan}
+price:={free} ->! first release:=[2007-2008]
+price:={free} ->! antispam
+price:={free} ->! country of origin:={russia}
+price:={free} ->! country of origin:={slovakia}
+price:={free} ->! firewall
+price:={free} ->! country of origin:={romania}
+price:={free} ->! country of origin:={finland}
+price:={free} ->! first release:=[1997-1997]
+price:={free} ->! country of origin:={spain}
+price:={free} ->! country of origin:={india}
+price:={free} ->! country of origin:={japan}
+first release:=[1997-2008] ->! ips
+first release:=[1997-2007] ->! ids
+first release:=[1997-2007] ->! antispam
+first release:=[1997-2007] ->! country of origin:={finland}
+first release:=[1997-2007] ->! country of origin:={spain}
+first release:=[1997-2000] ->! country of origin:={united kingdom}
+price:={trialware} ->! ids
+price:={trialware} ->! antispam
+price:={trialware} ->! country of origin:={russia}
+price:={trialware} ->! country of origin:={slovakia}
+price:={trialware} ->! firewall
+price:={trialware} ->! first release:=[2013-2013]
+price:={trialware} ->! country of origin:={united kingdom}
+price:={trialware} ->! country of origin:={czech republic}
+price:={trialware} ->! country of origin:={germany}
+price:={trialware} ->! country of origin:={romania}
+price:={trialware} ->! license:={gnu gpl}
+price:={trialware} ->! country of origin:={finland}
+price:={trialware} ->! country of origin:={spain}
+price:={trialware} ->! country of origin:={brazil}
+price:={trialware} ->! country of origin:={india}
+price:={trialware} ->! ips
+price:={trialware} ->! country of origin:={japan}
+ids ->! country of origin:={russia}
+ids ->! country of origin:={slovakia}
+ids ->! firewall
+ids ->! country of origin:={czech republic}
+ids ->! country of origin:={germany}
+ids ->! country of origin:={romania}
+ids ->! license:={gnu gpl}
+ids ->! country of origin:={brazil}
+ids ->! country of origin:={india}
+ids ->! country of origin:={japan}
+antispam ->! country of origin:={russia}
+antispam ->! country of origin:={slovakia}
+antispam ->! firewall
+antispam ->! country of origin:={united kingdom}
+antispam ->! country of origin:={czech republic}
+antispam ->! country of origin:={germany}
+antispam ->! country of origin:={romania}
+antispam ->! license:={gnu gpl}
+antispam ->! country of origin:={brazil}
+antispam ->! country of origin:={india}
+antispam ->! ips
+antispam ->! country of origin:={japan}
+country of origin:={russia} ->! firewall
+country of origin:={russia} ->! license:={gnu gpl}
+country of origin:={russia} ->! ips
+country of origin:={slovakia} ->! firewall
+country of origin:={slovakia} ->! license:={gnu gpl}
+country of origin:={slovakia} ->! ips
+firewall ->! country of origin:={united kingdom}
+firewall ->! country of origin:={czech republic}
+firewall ->! country of origin:={germany}
+firewall ->! country of origin:={romania}
+firewall ->! license:={gnu gpl}
+firewall ->! country of origin:={finland}
+firewall ->! country of origin:={spain}
+firewall ->! country of origin:={brazil}
+firewall ->! country of origin:={india}
+firewall ->! ips
+firewall ->! country of origin:={japan}
+first release:=[2013-2013] ->! country of origin:={czech republic}
+first release:=[2013-2013] ->! country of origin:={india}
+first release:=[2008-2008] ->! country of origin:={united kingdom}
+country of origin:={united kingdom} ->! license:={gnu gpl}
+country of origin:={czech republic} ->! license:={gnu gpl}
+country of origin:={czech republic} ->! ips
+country of origin:={germany} ->! license:={gnu gpl}
+country of origin:={germany} ->! ips
+country of origin:={romania} ->! license:={gnu gpl}
+country of origin:={romania} ->! ips
+license:={gnu gpl} ->! country of origin:={finland}
+license:={gnu gpl} ->! first release:=[1997-1997]
+license:={gnu gpl} ->! country of origin:={spain}
+license:={gnu gpl} ->! country of origin:={brazil}
+license:={gnu gpl} ->! country of origin:={india}
+license:={gnu gpl} ->! ips
+license:={gnu gpl} ->! country of origin:={japan}
+country of origin:={finland} ->! ips
+country of origin:={spain} ->! ips
+country of origin:={brazil} ->! ips
+country of origin:={india} ->! ips
+ips ->! country of origin:={japan}

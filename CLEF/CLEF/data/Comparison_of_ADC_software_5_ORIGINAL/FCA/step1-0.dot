@@ -1,0 +1,26 @@
+digraph G { 
+	rankdir=BT;
+	margin=0;
+	node [margin="0.03,0.03",fontname="DejaVu Sans"];
+	ranksep=0.3;
+	nodesep=0.2;
+//graph[label="name:ctx,concept number:8,object number:12,attribute number:5"
+8 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_7</td></tr><tr><td><br/></td></tr><tr><td><br/></td></tr></table>>];
+9 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_6</td></tr><tr><td>windows<br/></td></tr><tr><td>airdc++<br/>apexdc++<br/>dc++<br/>flylinkdc++<br/>rsx++<br/>tkdc++<br/>strongdc++<br/></td></tr></table>>];
+10 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_2</td></tr><tr><td><br/></td></tr><tr><td>jucy<br/></td></tr></table>>];
+11 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_5</td></tr><tr><td>linux<br/></td></tr><tr><td><br/></td></tr></table>>];
+12 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_4</td></tr><tr><td>os x<br/></td></tr><tr><td>airdc++ nano<br/></td></tr></table>>];
+13 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_0</td></tr><tr><td>haiku<br/></td></tr><tr><td>eiskaltdc++<br/></td></tr></table>>];
+14 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_1</td></tr><tr><td><br/></td></tr><tr><td>ncdc<br/></td></tr></table>>];
+15 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_3</td></tr><tr><td>bsd<br/></td></tr><tr><td>linuxdc++<br/></td></tr></table>>];
+	9:p -> 8:p
+	11:p -> 8:p
+	10:p -> 9:p
+	13:p -> 10:p
+	12:p -> 11:p
+	15:p -> 11:p
+	10:p -> 12:p
+	14:p -> 12:p
+	13:p -> 14:p
+	14:p -> 15:p
+}

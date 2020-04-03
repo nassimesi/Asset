@@ -1,0 +1,15 @@
+FormalContext ctx
+algo fca
+| |windows|linux|os x|bsd|haiku|
+|airdc++|x|||||
+|airdc++ nano||x|x|||
+|apexdc++|x|||||
+|dc++|x|||||
+|jucy|x|x|x|||
+|linuxdc++||x||x||
+|eiskaltdc++|x|x|x|x|x|
+|flylinkdc++|x|||||
+|rsx++|x|||||
+|tkdc++|x|||||
+|strongdc++|x|||||
+|ncdc||x|x|x||

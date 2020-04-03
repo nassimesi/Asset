@@ -1,0 +1,29 @@
+name,last release date,license,implementation language(s),server operating system,database backend,first release date
+addresstwo,2015,saas,asp;vbscript,windows;linux;unix;mac os,sql server,2008
+adempiere,*,gpl,java,windows;linux;unix;mac os,*,2006
+base crm,2009,saas,ruby on rails;python,cloud computing;ios;android;windows phone,mysql,2009
+casengo,2013,saas,java,cloud computing,mysql,2012
+civicrm,2014,agpl3,php,cross-platform,mysql,2004
+dynamics crm,2014,proprietary;saas,.net;asp.net,windows,ms sql,2003
+epesicrm,2014,mit,php,cross-platform,mysql;postgresql;adodb,2006
+gnu enterprise,*,gpl,python,linux;unix;mac os;windows,firebird;interbase;mysql;maxdb;ms sql server;oracle;postgresql;sqlite;sqlite3;csv files;dbf files,2003
+group-office,2012,agpl3;saas;proprietary,php;javascript,windows;linux;unix;mac os,mysql,2003
+leadmaster,2012,saas,asp.net,windows,ms sql,1998
+neolane,2012,proprietary;saas,c++;javascript,windows;linux,ms sql;oracle;postgresql;mysql,2001
+nutshell crm,2014,saas,php,web;ios;android,mysql,2010
+odoo,2015,agpl3,python,windows;linux;unix;mac os,postgresql,2005
+pivotal crm,2012,proprietary,.net,windows,ms sql;oracle,1996
+really simple systems,2006,saas,vbscript;javascript;asp,cloud computing,mysql,2006
+sagecrm,2014,proprietary;saas,asp.net;asp,windows,ms sql;oracle;db2,1981
+salesforce.com,*,proprietary,apex,cloud computing,proprietary,1999
+streak,*,proprietary,java,windows;mac os,google app engine,2012
+sugarcrm,2015,proprietary;saas,php,cross-platform,mysql;ms sql server;db2,2004
+suitecrm,2015,agpl3,php,cross-platform,mariadb;mysql;ms sql server,2013
+superofficecrm,2013,proprietary,c++;c#;asp.net,windows,ms sql server,1990
+teamlab,2011,gpl;saas,asp.net,windows,ms sql server;amazon server,2010
+teamwox,2011,proprietary;saas,c++,windows,firebird,2009
+tryton,2014,gpl,python,cross-platform,postgresql;mysql;sqlite,2008
+vtiger crm,2015,saas,php,cross-platform,mysql,2003
+workbooks.com,2015,saas,ruby on rails,windows;linux;unix;mac os,mysql,2009
+worketc,2013,saas,c#;.net,windows,ms sql server;amazon server,2009
+zoho crm,2012,saas,java,windows;linux;unix;mac os,proprietary,2009

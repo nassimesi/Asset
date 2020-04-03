@@ -1,0 +1,11 @@
+name,windows,linux,os x,other
+adccore,X,,,.net4 enabled platform
+dcbouncer,X,X,,*
+dc-hublink,X,,,*
+dcwatch,X,X,,*
+embla,X,X,X,java enabled platform
+flowlib,X,X,X,c# enabled platform
+netchatlink,X,,,wine
+announcer bot,X,,,*
+certmanager,X,,,*
+seriebot,X,X,X,c# enabled platform

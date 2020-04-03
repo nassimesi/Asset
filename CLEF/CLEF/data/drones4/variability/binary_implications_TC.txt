@@ -1,0 +1,18 @@
+GLONASS -> Gimbal
+GLONASS -> GPS
+GLONASS -> Altitude Hold
+GLONASS -> Headless
+Avoidance -> Gimbal
+Avoidance -> GPS
+Avoidance -> Altitude Hold
+Avoidance -> Headless
+FT ge 20 -> Gimbal
+FT ge 20 -> GPS
+FT ge 20 -> Altitude Hold
+FT ge 20 -> Headless
+FT l 10 -> Headless
+Gimbal -> GPS
+Gimbal -> Altitude Hold
+Gimbal -> Headless
+FT ge 10 -> Altitude Hold
+GPS -> Altitude Hold

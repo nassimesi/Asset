@@ -1,0 +1,26 @@
+usual environment:={java} <-> license:={lgpl}
+usual environment:={plan 9,posix} <-> usually invoked:={rc}
+usual environment:={plan 9,posix} <-> license:={lpl}
+usually invoked:={rc} <-> license:={lpl}
+usual environment:={.net} <-> usually invoked:={powershell}
+usual environment:={.net} <-> introduced:=[2006-2006]
+usual environment:={.net} <-> user interface:={graphical cli}
+usual environment:={.net} <-> native cim/wbem support
+usually invoked:={powershell} <-> introduced:=[2006-2006]
+usually invoked:={powershell} <-> user interface:={graphical cli}
+usually invoked:={powershell} <-> native cim/wbem support
+introduced:=[2006-2006] <-> user interface:={graphical cli}
+introduced:=[2006-2006] <-> native cim/wbem support
+user interface:={graphical cli} <-> native cim/wbem support
+usually invoked:={tcc} <-> license:={shareware}
+usual environment:={se,windows 95,me,dos,windows 98} <-> usually invoked:={ndos,4dos}
+introduced:=[1987-1987] <-> license:={ibm-eula}
+introduced:=[1980-1980] <-> license:={ms-eula,bsd,gpl}
+usual environment:={mp/m,cp/m} <-> usually invoked:={ccp}
+usual environment:={mp/m,cp/m} <-> introduced:=[1975-1975]
+usually invoked:={ccp} <-> introduced:=[1975-1975]
+usually invoked:={zsh} <-> introduced:=[1990-1990]
+usually invoked:={scsh} <-> introduced:=[1994-1994]
+usual environment:={os/2,win32} <-> introduced:=[1988-1988]
+usually invoked:={ksh} <-> license:={common public license}
+introduced:=[1977-2006] <-> stream redirection

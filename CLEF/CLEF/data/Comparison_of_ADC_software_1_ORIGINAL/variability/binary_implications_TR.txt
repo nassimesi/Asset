@@ -1,0 +1,8 @@
+other:={erlang enabled platform} -> os x
+other:={c# enabled platform} -> windows
+other:={synology nas,gcc enabled platform,raspberry pi} -> os x
+other:={python enabled platform} -> linux
+other:={solaris} -> os x
+other:={java enabled platform} -> os x
+os x -> linux
+linux -> windows

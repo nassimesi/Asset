@@ -1,0 +1,5 @@
+plugin:={qml,qtscript,lua} <-> protocol support:={natt,pfsr,ucmd,keyp,tigr,blom,sega,fs,adcs}
+upnp <-> proxy
+encryption <-> hash algorithms:={tiger tree hash}
+encryption <-> nmdc compatible
+hash algorithms:={tiger tree hash} <-> nmdc compatible

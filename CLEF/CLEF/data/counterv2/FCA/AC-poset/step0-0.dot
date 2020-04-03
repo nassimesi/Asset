@@ -1,0 +1,16 @@
+digraph G { 
+	rankdir=BT;
+	margin=0;
+	node [margin="0.03,0.03",fontname="DejaVu Sans"];
+	ranksep=0.3;
+	nodesep=0.2;
+//graph[label="name:ctx,concept number:4,object number:2,attribute number:8"
+0 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_3</td></tr><tr><td>class:={x}<br/>attributN:={x}<br/></td></tr><tr><td><br/></td></tr></table>>];
+1 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_2</td></tr><tr><td>m1:={x}<br/>m2:=*<br/>m3:=*<br/></td></tr><tr><td>counter1<br/></td></tr></table>>];
+2 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_0</td></tr><tr><td><br/></td></tr><tr><td><br/></td></tr></table>>];
+3 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_1</td></tr><tr><td>m1:=*<br/>m2:={x}<br/>m3:={x}<br/></td></tr><tr><td>counter2<br/></td></tr></table>>];
+	1:p -> 0:p
+	3:p -> 0:p
+	2:p -> 1:p
+	2:p -> 3:p
+}

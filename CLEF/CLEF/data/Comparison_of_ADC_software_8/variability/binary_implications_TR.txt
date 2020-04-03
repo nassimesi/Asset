@@ -1,0 +1,12 @@
+softwaretype:={seriebot} -> active
+softwaretype:={managesslcertificates} -> active
+softwaretype:={announcenewreleases} -> active
+softwaretype:={huboperatorhelper} -> freeandopensource
+softwaretype:={huboperatorhelper} -> softwarelicense:={gnugpl}
+softwaretype:={relay} -> active
+softwaretype:={hublinker} -> freeandopensource
+softwaretype:={hublinker} -> softwarelicense:={gnugpl}
+softwaretype:={generallibrary} -> freeandopensource
+softwaretype:={generallibrary} -> softwarelicense:={gnugpl}
+active -> freeandopensource
+active -> softwarelicense:={gnugpl}

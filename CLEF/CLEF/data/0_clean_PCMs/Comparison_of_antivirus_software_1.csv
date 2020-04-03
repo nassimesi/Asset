@@ -1,0 +1,23 @@
+name,on-demand scan,on-access scan,heuristics,cloudav,firewall,ids,ips,email security,antispam,web protection,live-update,support,av comparatives,license,price,first release,country of origin
+avast mac security,X,X,X,,,,,X,,X,X,X,X,proprietary,free,2012,czech republic
+avira free mac security,X,X,X,,,,,X,,X,X,,X,proprietary,free,2011,germany
+bitdefender antivirus for mac,X,X,X,,,,,,,X,X,X,X,proprietary,non-free,2011,romania
+clam antivirus,X,X,,,,,,X,,,X,,,gnu gpl,free,2000,united states
+comodo mac security,X,X,X,,,,,,,,X,,,proprietary,free,2012,united states
+dr. web anti-virus for mac os x,X,X,,,,,,,,,X,,,proprietary,trialware,2012,russia
+eset cyber security,X,X,X,X,,,,,,X,X,X,,proprietary,non-free,2011,slovakia
+eset cyber security pro,X,X,X,X,X,,,X,,X,X,X,X,proprietary,non-free,2013,slovakia
+f-secure anti-virus for mac,X,X,X,X,,X,,X,X,X,X,X,X,proprietary,non-free,2008,finland
+virusbarrier,X,X,,,,,,,,,X,X,,proprietary,non-free,1997,united states
+mac internet security,X,X,,,X,,,,,X,X,X,,proprietary,non-free,2000,united states
+kaspersky internet security,X,X,X,X,,,,X,,X,X,X,X,proprietary,non-free,2010,russia
+panda antivirus for mac,X,X,X,X,,X,,X,X,X,X,X,X,proprietary,non-free,2008,spain
+protectmac antivirus,X,X,,,,,,,,,X,X,X,proprietary,non-free,2007,united kingdom
+psafe total mac,X,X,,X,,,,,,X,X,X,X,proprietary,free,2013,brazil
+quick heal total security for mac,X,X,,,,,,,,X,X,X,,proprietary,non-free,2012,india
+sophos anti-virus for mac,X,X,X,X,,X,X,X,,X,X,,X,proprietary,free,2010,united kingdom
+symantec endpoint protection,X,X,X,X,,,,X,X,X,X,X,X,proprietary,non-free,2012,united states
+norton antivirus for mac,X,X,X,,,,,,,,X,X,X,proprietary,non-free,2012,united states
+titanium internet security for mac,X,X,X,,,,,,,X,X,X,X,proprietary,non-free,2011,japan
+secureanywhere antivirus,X,X,,,,,,,,X,X,,,proprietary,trialware,2012,united states
+secureanywhere internet security plus,X,X,,,,,,,,X,X,,,proprietary,trialware,2012,united states

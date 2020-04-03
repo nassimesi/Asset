@@ -1,0 +1,3 @@
+softwarelicense:={proprietary} -> active
+softwarelicense:={mitlicense} -> freeandopensource
+softwarelicense:={gpl} -> freeandopensource

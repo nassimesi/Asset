@@ -1,0 +1,6 @@
+software license:={mit} -> active
+software license:={mit} -> free and open source
+software license:={bsd} -> active
+software license:={bsd} -> free and open source
+active -> free and open source
+software license:={gnu gpl} -> free and open source

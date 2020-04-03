@@ -1,0 +1,54 @@
+digraph G { 
+	rankdir=BT;
+	margin=0;
+	node [margin="0.03,0.03",fontname="DejaVu Sans"];
+	ranksep=0.3;
+	nodesep=0.2;
+//graph[label="name:ctx,concept number:19,object number:13,attribute number:119"
+29 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_0</td></tr><tr><td>515898624<br/>-56678647<br/>228521999<br/>-482727050<br/>-1530104422<br/>-84146620<br/>-275147298<br/></td></tr><tr><td>00004/<br/></td></tr></table>>];
+21 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_4</td></tr><tr><td>-1046008504<br/>-487598134<br/>-420091702<br/></td></tr><tr><td>00001<br/>00003/<br/></td></tr></table>>];
+26 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_5</td></tr><tr><td>2000741711<br/>-1335837331<br/>-74787520<br/></td></tr><tr><td>00002<br/>00005/<br/></td></tr></table>>];
+32 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_2</td></tr><tr><td>490179952<br/>-567055493<br/>1913931141<br/></td></tr><tr><td>00009/<br/>00006/<br/></td></tr></table>>];
+34 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_1</td></tr><tr><td>-1561009880<br/>381141626<br/>-859301046<br/></td></tr><tr><td>00007/<br/>00012/<br/></td></tr></table>>];
+36 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_3</td></tr><tr><td>-99327697<br/>-1484940545<br/>-374714346<br/>-497575769<br/></td></tr><tr><td>00008/<br/>00013/<br/></td></tr></table>>];
+37 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_6</td></tr><tr><td>1077136247<br/>318575070<br/>1765090555<br/></td></tr><tr><td>00010/<br/>00011/<br/></td></tr></table>>];
+30 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_7</td></tr><tr><td>1499132914<br/></td></tr><tr><td><br/></td></tr></table>>];
+22 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_10</td></tr><tr><td>724397874<br/>1457819254<br/>328066329<br/>3052098<br/></td></tr><tr><td><br/></td></tr></table>>];
+23 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_9</td></tr><tr><td>-918125062<br/>485067704<br/></td></tr><tr><td><br/></td></tr></table>>];
+27 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_12</td></tr><tr><td>-1027756943<br/>-1344926995<br/></td></tr><tr><td><br/></td></tr></table>>];
+33 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_11</td></tr><tr><td>516104244<br/>-735469094<br/>-833707954<br/>499531038<br/></td></tr><tr><td><br/></td></tr></table>>];
+35 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_8</td></tr><tr><td>-770777232<br/>-2064532938<br/>1949235833<br/>1812767234<br/></td></tr><tr><td><br/></td></tr></table>>];
+25 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_13</td></tr><tr><td>-1378317670<br/>-1436303926<br/>-1608965110<br/>1771435592<br/>1733308554<br/>742302823<br/>-1389805711<br/>209799577<br/>306846586<br/></td></tr><tr><td><br/></td></tr></table>>];
+24 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_14</td></tr><tr><td>-27379270<br/></td></tr><tr><td><br/></td></tr></table>>];
+20 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_16</td></tr><tr><td>1174889545<br/>-1541017831<br/>510977645<br/>-1782631767<br/>1771159668<br/>-88420861<br/>2336756<br/></td></tr><tr><td><br/></td></tr></table>>];
+31 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_15</td></tr><tr><td>-1459085573<br/>-898232613<br/>659042234<br/>1166996764<br/>-659351312<br/>-225088193<br/>1578459409<br/>-1582481294<br/>89566776<br/>-203835270<br/>1889090132<br/>892540220<br/>-1479121252<br/>127743785<br/>-903199687<br/>-386349478<br/>-10341214<br/>-2054528549<br/>223387651<br/>2511332<br/></td></tr><tr><td><br/></td></tr></table>>];
+28 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_17</td></tr><tr><td>1172740312<br/></td></tr><tr><td><br/></td></tr></table>>];
+19 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_18</td></tr><tr><td>-1273185922<br/>718430920<br/>-1871632036<br/>-431165293<br/>-908812346<br/>369397697<br/>663653828<br/>103183761<br/>1835914137<br/>435603265<br/>1636805563<br/>1717558552<br/>40099091<br/>1702870591<br/>-1299799055<br/>260862799<br/>-1385323111<br/>-1357833701<br/>1272530710<br/>639154491<br/>632951490<br/>-1954623819<br/>1020632890<br/>957573048<br/>1123206294<br/>122657019<br/>949478732<br/>72702436<br/>433644180<br/>-523699395<br/>-1916972171<br/>826581808<br/>2402104<br/>-2127141992<br/>2121681109<br/>1228606669<br/>-697615801<br/>124490773<br/></td></tr><tr><td><br/></td></tr></table>>];
+	29:p -> 30:p
+	34:p -> 30:p
+	26:p -> 22:p
+	21:p -> 22:p
+	32:p -> 23:p
+	21:p -> 23:p
+	26:p -> 27:p
+	37:p -> 27:p
+	32:p -> 33:p
+	37:p -> 33:p
+	34:p -> 35:p
+	36:p -> 35:p
+	36:p -> 25:p
+	27:p -> 25:p
+	23:p -> 24:p
+	30:p -> 24:p
+	23:p -> 20:p
+	22:p -> 20:p
+	27:p -> 20:p
+	33:p -> 20:p
+	35:p -> 31:p
+	33:p -> 31:p
+	31:p -> 28:p
+	25:p -> 28:p
+	24:p -> 19:p
+	20:p -> 19:p
+	28:p -> 19:p
+}

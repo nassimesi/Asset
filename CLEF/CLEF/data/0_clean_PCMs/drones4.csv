@@ -1,0 +1,9 @@
+name,Gimbal,GPS,GLONASS,Avoidance,Headless,Altitude Hold,FT l 10,FT ge 10,FT ge 20
+syma X4S Assault,,,,,X,,X,,
+Syma X8G,,,,,X,,X,,
+Parrot Bebop,,X,,,,X,,X,
+DJI Ryze Tello,,,,,,X,,X,
+Hubsan X4 H502S,,X,,,X,X,,X,
+Aosenma CG035 GPS FPV,X,X,,,X,X,,X,
+DJI Mavic Air,X,X,X,X,X,X,,,X
+Yuneec Typoon H Pro,X,X,X,X,X,X,,,X

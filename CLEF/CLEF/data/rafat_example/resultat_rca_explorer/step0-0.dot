@@ -1,0 +1,124 @@
+digraph G { 
+	rankdir=BT;
+	margin=0;
+	node [margin="0.03,0.03",fontname="DejaVu Sans"];
+	ranksep=0.3;
+	nodesep=0.2;
+//graph[label="name:Rafat_example,concept number:37,object number:16,attribute number:13"
+0 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_Rafat_example_36</td></tr><tr><td>Cell_Phone<br/>Accu_Cell<br/>Display<br/>Games<br/></td></tr><tr><td><br/></td></tr></table>>];
+1 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_Rafat_example_35</td></tr><tr><td>Wireless<br/></td></tr><tr><td><br/></td></tr></table>>];
+2 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_Rafat_example_32</td></tr><tr><td>Infrared<br/></td></tr><tr><td><br/></td></tr></table>>];
+3 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_Rafat_example_15</td></tr><tr><td><br/></td></tr><tr><td><br/></td></tr></table>>];
+4 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_Rafat_example_23</td></tr><tr><td>Bluethooth<br/></td></tr><tr><td><br/></td></tr></table>>];
+5 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_Rafat_example_24</td></tr><tr><td><br/></td></tr><tr><td><br/></td></tr></table>>];
+6 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_Rafat_example_31</td></tr><tr><td><br/></td></tr><tr><td><br/></td></tr></table>>];
+7 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_Rafat_example_33</td></tr><tr><td>Strong<br/></td></tr><tr><td><br/></td></tr></table>>];
+8 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_Rafat_example_0</td></tr><tr><td><br/></td></tr><tr><td><br/></td></tr></table>>];
+9 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_Rafat_example_14</td></tr><tr><td><br/></td></tr><tr><td><br/></td></tr></table>>];
+10 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_Rafat_example_19</td></tr><tr><td>Medium<br/></td></tr><tr><td><br/></td></tr></table>>];
+11 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_Rafat_example_3</td></tr><tr><td><br/></td></tr><tr><td>Product-12<br/></td></tr></table>>];
+12 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_Rafat_example_8</td></tr><tr><td>Weak<br/></td></tr><tr><td>Product-5<br/></td></tr></table>>];
+13 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_Rafat_example_10</td></tr><tr><td><br/></td></tr><tr><td>Product-3<br/></td></tr></table>>];
+14 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_Rafat_example_21</td></tr><tr><td><br/></td></tr><tr><td>Product-1<br/></td></tr></table>>];
+15 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_Rafat_example_9</td></tr><tr><td><br/></td></tr><tr><td>Product-4<br/></td></tr></table>>];
+16 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_Rafat_example_25</td></tr><tr><td><br/></td></tr><tr><td><br/></td></tr></table>>];
+17 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_Rafat_example_20</td></tr><tr><td><br/></td></tr><tr><td>Product-2<br/></td></tr></table>>];
+18 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_Rafat_example_26</td></tr><tr><td><br/></td></tr><tr><td><br/></td></tr></table>>];
+19 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_Rafat_example_29</td></tr><tr><td>Multi_player<br/></td></tr><tr><td><br/></td></tr></table>>];
+20 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_Rafat_example_2</td></tr><tr><td><br/></td></tr><tr><td>Product-13<br/></td></tr></table>>];
+21 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_Rafat_example_6</td></tr><tr><td><br/></td></tr><tr><td>Product-11<br/></td></tr></table>>];
+22 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_Rafat_example_13</td></tr><tr><td><br/></td></tr><tr><td>Product-10<br/></td></tr></table>>];
+23 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_Rafat_example_1</td></tr><tr><td><br/></td></tr><tr><td>Product-16<br/></td></tr></table>>];
+24 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_Rafat_example_5</td></tr><tr><td><br/></td></tr><tr><td>Product-14<br/></td></tr></table>>];
+25 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_Rafat_example_7</td></tr><tr><td><br/></td></tr><tr><td>Product-9<br/></td></tr></table>>];
+26 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_Rafat_example_18</td></tr><tr><td><br/></td></tr><tr><td>Product-7<br/></td></tr></table>>];
+27 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_Rafat_example_12</td></tr><tr><td><br/></td></tr><tr><td><br/></td></tr></table>>];
+28 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_Rafat_example_27</td></tr><tr><td><br/></td></tr><tr><td><br/></td></tr></table>>];
+29 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_Rafat_example_4</td></tr><tr><td><br/></td></tr><tr><td>Product-15<br/></td></tr></table>>];
+30 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_Rafat_example_17</td></tr><tr><td><br/></td></tr><tr><td>Product-8<br/></td></tr></table>>];
+31 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_Rafat_example_11</td></tr><tr><td><br/></td></tr><tr><td><br/></td></tr></table>>];
+32 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_Rafat_example_22</td></tr><tr><td><br/></td></tr><tr><td><br/></td></tr></table>>];
+33 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_Rafat_example_16</td></tr><tr><td><br/></td></tr><tr><td><br/></td></tr></table>>];
+34 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_Rafat_example_30</td></tr><tr><td><br/></td></tr><tr><td><br/></td></tr></table>>];
+35 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_Rafat_example_28</td></tr><tr><td><br/></td></tr><tr><td>Product-6<br/></td></tr></table>>];
+36 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_Rafat_example_34</td></tr><tr><td>Single_Player<br/>Artificial_Opponnent<br/></td></tr><tr><td><br/></td></tr></table>>];
+	10:p -> 0:p
+	36:p -> 0:p
+	1:p -> 0:p
+	7:p -> 0:p
+	2:p -> 1:p
+	34:p -> 1:p
+	6:p -> 1:p
+	19:p -> 1:p
+	5:p -> 2:p
+	16:p -> 2:p
+	9:p -> 2:p
+	28:p -> 2:p
+	13:p -> 3:p
+	25:p -> 3:p
+	17:p -> 4:p
+	3:p -> 4:p
+	30:p -> 4:p
+	14:p -> 5:p
+	3:p -> 5:p
+	26:p -> 5:p
+	5:p -> 6:p
+	32:p -> 6:p
+	4:p -> 6:p
+	18:p -> 6:p
+	6:p -> 7:p
+	35:p -> 7:p
+	15:p -> 9:p
+	21:p -> 9:p
+	9:p -> 10:p
+	22:p -> 10:p
+	8:p -> 11:p
+	11:p -> 12:p
+	23:p -> 13:p
+	13:p -> 14:p
+	24:p -> 14:p
+	20:p -> 15:p
+	14:p -> 16:p
+	15:p -> 16:p
+	27:p -> 16:p
+	13:p -> 17:p
+	29:p -> 17:p
+	14:p -> 18:p
+	17:p -> 18:p
+	31:p -> 18:p
+	16:p -> 19:p
+	18:p -> 19:p
+	33:p -> 19:p
+	8:p -> 20:p
+	20:p -> 21:p
+	21:p -> 22:p
+	8:p -> 23:p
+	23:p -> 24:p
+	23:p -> 25:p
+	24:p -> 26:p
+	25:p -> 26:p
+	24:p -> 27:p
+	20:p -> 27:p
+	26:p -> 28:p
+	27:p -> 28:p
+	21:p -> 28:p
+	11:p -> 28:p
+	23:p -> 29:p
+	29:p -> 30:p
+	25:p -> 30:p
+	24:p -> 31:p
+	29:p -> 31:p
+	26:p -> 32:p
+	30:p -> 32:p
+	31:p -> 32:p
+	27:p -> 33:p
+	31:p -> 33:p
+	28:p -> 34:p
+	32:p -> 34:p
+	33:p -> 34:p
+	32:p -> 35:p
+	22:p -> 36:p
+	12:p -> 36:p
+	34:p -> 36:p
+	35:p -> 36:p
+}

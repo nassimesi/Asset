@@ -1,0 +1,20 @@
+gui ->! programming language:={lua}
+gui ->! programming language:={c#}
+gui ->! cli
+gui ->! programming language:={java}
+gui ->! based on:={coredc}
+gui ->! programming language:={c++}
+gui ->! based on:={embla}
+programming language:={lua} ->! based on:={coredc}
+programming language:={c#} ->! cli
+programming language:={c#} ->! based on:={embla}
+cli ->! based on:={coredc}
+cli ->! programming language:={visual basic}
+cli ->! programming language:={delphi}
+programming language:={java} ->! based on:={coredc}
+based on:={coredc} ->! programming language:={c++}
+based on:={coredc} ->! programming language:={visual basic}
+based on:={coredc} ->! programming language:={delphi}
+programming language:={c++} ->! based on:={embla}
+programming language:={visual basic} ->! based on:={embla}
+based on:={embla} ->! programming language:={delphi}

@@ -1,0 +1,481 @@
+digraph G { 
+	rankdir=BT;
+	margin=0;
+	node [margin="0.03,0.03",fontname="DejaVu Sans"];
+	ranksep=0.3;
+	nodesep=0.2;
+//graph[label="name:ctx,concept number:142,object number:24,attribute number:160"
+1 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_1</td></tr><tr><td>usual environment:={java}<br/>license:={lgpl}<br/></td></tr><tr><td>beanshell<br/></td></tr></table>>];
+10 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_2</td></tr><tr><td>usual environment:={plan 9,posix}<br/>usually invoked:={rc}<br/>license:={lpl}<br/></td></tr><tr><td>rc<br/></td></tr></table>>];
+11 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_7</td></tr><tr><td>usual environment:={se,windows 95,me,dos,windows 98}<br/>usually invoked:={ndos,4dos}<br/></td></tr><tr><td>4dos ndos<br/></td></tr></table>>];
+119 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_8</td></tr><tr><td>introduced:=[1987-1987]<br/>license:={ibm-eula}<br/></td></tr><tr><td>os/2 cmd.exe<br/></td></tr></table>>];
+121 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_9</td></tr><tr><td>introduced:=[1980-1980]<br/>license:={ms-eula,bsd,gpl}<br/></td></tr><tr><td>command.com<br/></td></tr></table>>];
+122 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_16</td></tr><tr><td>introduced:=[1978-1978]<br/></td></tr><tr><td>csh<br/></td></tr></table>>];
+13 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_6</td></tr><tr><td>usually invoked:={4os2}<br/></td></tr><tr><td>4os2<br/></td></tr></table>>];
+14 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_11</td></tr><tr><td>usually invoked:={zsh}<br/>introduced:=[1990-1990]<br/></td></tr><tr><td>zsh<br/></td></tr></table>>];
+15 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_13</td></tr><tr><td>usually invoked:={scsh}<br/>introduced:=[1994-1994]<br/></td></tr><tr><td>scsh<br/></td></tr></table>>];
+17 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_5</td></tr><tr><td>usually invoked:={tcc}<br/>license:={shareware}<br/></td></tr><tr><td>tcc (formerly 4nt)<br/></td></tr></table>>];
+18 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_0</td></tr><tr><td>usually invoked:={fish}<br/></td></tr><tr><td>fish<br/></td></tr></table>>];
+21 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_15</td></tr><tr><td>usually invoked:={tcsh,csh}<br/></td></tr><tr><td>tcsh<br/></td></tr></table>>];
+22 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_12</td></tr><tr><td>usually invoked:={ksh,sh}<br/></td></tr><tr><td>pdksh<br/></td></tr></table>>];
+23 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_17</td></tr><tr><td>usually invoked:={sh,bash}<br/></td></tr><tr><td>bash (v4)<br/></td></tr></table>>];
+3 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_4</td></tr><tr><td>usual environment:={openvms}<br/></td></tr><tr><td>vms dcl<br/></td></tr></table>>];
+5 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_3</td></tr><tr><td>usual environment:={.net}<br/>usually invoked:={powershell}<br/>introduced:=[2006-2006]<br/>user interface:={graphical cli}<br/>native cim/wbem support<br/></td></tr><tr><td>windows powershell<br/></td></tr></table>>];
+8 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_10</td></tr><tr><td>usual environment:={mp/m,cp/m}<br/>usually invoked:={ccp}<br/>introduced:=[1975-1975]<br/></td></tr><tr><td>ccp<br/></td></tr></table>>];
+9 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_14</td></tr><tr><td>usual environment:={os/2,win32}<br/>introduced:=[1988-1988]<br/></td></tr><tr><td>hamilton c shell<br/></td></tr></table>>];
+109 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_23</td></tr><tr><td>introduced:=[1987-1988]<br/></td></tr><tr><td><br/></td></tr></table>>];
+112 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_25</td></tr><tr><td>introduced:=[1978-1980]<br/></td></tr><tr><td><br/></td></tr></table>>];
+115 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_18</td></tr><tr><td>introduced:=[2005-2005]<br/></td></tr><tr><td><br/></td></tr></table>>];
+116 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_19</td></tr><tr><td>introduced:=[1993-1993]<br/></td></tr><tr><td>windows cmd.exe<br/></td></tr></table>>];
+117 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_26</td></tr><tr><td>introduced:=[1992-1992]<br/></td></tr><tr><td>posix shell<br/></td></tr></table>>];
+12 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_22</td></tr><tr><td>usually invoked:={ksh}<br/>license:={common public license}<br/></td></tr><tr><td>ksh (ksh93t+)<br/></td></tr></table>>];
+120 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_24</td></tr><tr><td>introduced:=[1983-1983]<br/></td></tr><tr><td>ksh (ksh93t+)<br/></td></tr></table>>];
+128 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_27</td></tr><tr><td>license:={proprietary}<br/></td></tr><tr><td>bourne shell 1977 version<br/></td></tr></table>>];
+129 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_21</td></tr><tr><td>license:={mit}<br/></td></tr><tr><td><br/></td></tr></table>>];
+4 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_20</td></tr><tr><td>usual environment:={dos}<br/></td></tr><tr><td><br/></td></tr></table>>];
+7 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_28</td></tr><tr><td>usual environment:={unix}<br/></td></tr><tr><td>bourne shell 1977 version<br/>bourne shell current version<br/></td></tr></table>>];
+0 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_35</td></tr><tr><td>usual environment:={os/2}<br/></td></tr><tr><td><br/></td></tr></table>>];
+102 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_29</td></tr><tr><td>introduced:=[2005-2006]<br/></td></tr><tr><td><br/></td></tr></table>>];
+103 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_32</td></tr><tr><td>introduced:=[1994-2005]<br/></td></tr><tr><td><br/></td></tr></table>>];
+104 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_33</td></tr><tr><td>introduced:=[1993-1994]<br/></td></tr><tr><td><br/></td></tr></table>>];
+106 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_40</td></tr><tr><td>introduced:=[1990-1992]<br/></td></tr><tr><td><br/></td></tr></table>>];
+110 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_36</td></tr><tr><td>introduced:=[1983-1987]<br/></td></tr><tr><td><br/></td></tr></table>>];
+111 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_37</td></tr><tr><td>introduced:=[1980-1983]<br/></td></tr><tr><td><br/></td></tr></table>>];
+123 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_42</td></tr><tr><td>introduced:=[1977-1977]<br/></td></tr><tr><td><br/></td></tr></table>>];
+125 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_39</td></tr><tr><td>license:={gpl}<br/></td></tr><tr><td><br/></td></tr></table>>];
+126 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_30</td></tr><tr><td>license:={ms-eula}<br/></td></tr><tr><td>windows cmd.exe<br/></td></tr></table>>];
+130 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_41</td></tr><tr><td>license:={free}<br/></td></tr><tr><td>bourne shell current version<br/></td></tr></table>>];
+19 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_38</td></tr><tr><td>usually invoked:={csh}<br/></td></tr><tr><td><br/></td></tr></table>>];
+2 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_34</td></tr><tr><td>usual environment:={win32}<br/></td></tr><tr><td><br/></td></tr></table>>];
+20 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_31</td></tr><tr><td>usually invoked:={cmd}<br/></td></tr><tr><td>windows cmd.exe<br/></td></tr></table>>];
+105 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_48</td></tr><tr><td>introduced:=[1992-1993]<br/></td></tr><tr><td><br/></td></tr></table>>];
+113 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_50</td></tr><tr><td>introduced:=[1977-1978]<br/></td></tr><tr><td><br/></td></tr></table>>];
+114 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_49</td></tr><tr><td>introduced:=[1975-1977]<br/></td></tr><tr><td><br/></td></tr></table>>];
+133 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_43</td></tr><tr><td>mouse support<br/></td></tr><tr><td><br/></td></tr></table>>];
+90 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_44</td></tr><tr><td>introduced:=[1994-2006]<br/></td></tr><tr><td><br/></td></tr></table>>];
+97 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_46</td></tr><tr><td>introduced:=[1983-1988]<br/></td></tr><tr><td><br/></td></tr></table>>];
+98 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_45</td></tr><tr><td>introduced:=[1980-1987]<br/></td></tr><tr><td><br/></td></tr></table>>];
+99 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_47</td></tr><tr><td>introduced:=[1978-1983]<br/></td></tr><tr><td><br/></td></tr></table>>];
+100 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_58</td></tr><tr><td>introduced:=[1977-1980]<br/></td></tr><tr><td><br/></td></tr></table>>];
+101 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_59</td></tr><tr><td>introduced:=[1975-1978]<br/></td></tr><tr><td><br/></td></tr></table>>];
+118 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_55</td></tr><tr><td>introduced:=[1989-1989]<br/></td></tr><tr><td>ash<br/></td></tr></table>>];
+127 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_54</td></tr><tr><td>license:={bsd}<br/></td></tr><tr><td>ash<br/></td></tr></table>>];
+86 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_52</td></tr><tr><td>introduced:=[1980-1988]<br/></td></tr><tr><td><br/></td></tr></table>>];
+87 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_53</td></tr><tr><td>introduced:=[1978-1987]<br/></td></tr><tr><td><br/></td></tr></table>>];
+91 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_51</td></tr><tr><td>introduced:=[1993-2005]<br/></td></tr><tr><td><br/></td></tr></table>>];
+92 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_57</td></tr><tr><td>introduced:=[1992-1994]<br/></td></tr><tr><td><br/></td></tr></table>>];
+93 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_56</td></tr><tr><td>introduced:=[1990-1993]<br/></td></tr><tr><td><br/></td></tr></table>>];
+107 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_62</td></tr><tr><td>introduced:=[1989-1990]<br/></td></tr><tr><td><br/></td></tr></table>>];
+108 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_63</td></tr><tr><td>introduced:=[1988-1989]<br/></td></tr><tr><td><br/></td></tr></table>>];
+16 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_66</td></tr><tr><td>usually invoked:={sh}<br/></td></tr><tr><td>posix shell<br/>ash<br/></td></tr></table>>];
+76 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_61</td></tr><tr><td>introduced:=[1978-1988]<br/></td></tr><tr><td><br/></td></tr></table>>];
+79 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_60</td></tr><tr><td>introduced:=[1993-2006]<br/></td></tr><tr><td><br/></td></tr></table>>];
+81 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_64</td></tr><tr><td>introduced:=[1990-1994]<br/></td></tr><tr><td><br/></td></tr></table>>];
+89 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_65</td></tr><tr><td>introduced:=[1975-1980]<br/></td></tr><tr><td><br/></td></tr></table>>];
+80 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_69</td></tr><tr><td>introduced:=[1992-2005]<br/></td></tr><tr><td><br/></td></tr></table>>];
+88 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_70</td></tr><tr><td>introduced:=[1977-1983]<br/></td></tr><tr><td><br/></td></tr></table>>];
+95 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_68</td></tr><tr><td>introduced:=[1988-1990]<br/></td></tr><tr><td><br/></td></tr></table>>];
+96 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_67</td></tr><tr><td>introduced:=[1987-1989]<br/></td></tr><tr><td><br/></td></tr></table>>];
+69 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_72</td></tr><tr><td>introduced:=[1992-2006]<br/></td></tr><tr><td><br/></td></tr></table>>];
+70 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_73</td></tr><tr><td>introduced:=[1990-2005]<br/></td></tr><tr><td><br/></td></tr></table>>];
+77 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_75</td></tr><tr><td>introduced:=[1977-1987]<br/></td></tr><tr><td><br/></td></tr></table>>];
+78 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_76</td></tr><tr><td>introduced:=[1975-1983]<br/></td></tr><tr><td><br/></td></tr></table>>];
+84 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_71</td></tr><tr><td>introduced:=[1987-1990]<br/></td></tr><tr><td><br/></td></tr></table>>];
+94 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_74</td></tr><tr><td>introduced:=[1989-1992]<br/></td></tr><tr><td><br/></td></tr></table>>];
+135 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_80</td></tr><tr><td>iso 8601 support<br/></td></tr><tr><td>posix shell<br/>ksh (ksh93t+)<br/>ash<br/></td></tr></table>>];
+60 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_78</td></tr><tr><td>introduced:=[1990-2006]<br/></td></tr><tr><td><br/></td></tr></table>>];
+67 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_82</td></tr><tr><td>introduced:=[1977-1988]<br/></td></tr><tr><td><br/></td></tr></table>>];
+68 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_81</td></tr><tr><td>introduced:=[1975-1987]<br/></td></tr><tr><td><br/></td></tr></table>>];
+83 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_79</td></tr><tr><td>introduced:=[1988-1992]<br/></td></tr><tr><td><br/></td></tr></table>>];
+85 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_77</td></tr><tr><td>introduced:=[1983-1989]<br/></td></tr><tr><td><br/></td></tr></table>>];
+59 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_87</td></tr><tr><td>introduced:=[1975-1988]<br/></td></tr><tr><td><br/></td></tr></table>>];
+73 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_86</td></tr><tr><td>introduced:=[1987-1992]<br/></td></tr><tr><td><br/></td></tr></table>>];
+74 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_84</td></tr><tr><td>introduced:=[1983-1990]<br/></td></tr><tr><td><br/></td></tr></table>>];
+75 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_83</td></tr><tr><td>introduced:=[1980-1989]<br/></td></tr><tr><td><br/></td></tr></table>>];
+82 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_85</td></tr><tr><td>introduced:=[1989-1993]<br/></td></tr><tr><td><br/></td></tr></table>>];
+134 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_93</td></tr><tr><td>unicode support<br/></td></tr><tr><td>bourne shell current version<br/>posix shell<br/></td></tr></table>>];
+6 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_92</td></tr><tr><td>usual environment:={posix}<br/></td></tr><tr><td>posix shell<br/>ash<br/></td></tr></table>>];
+65 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_88</td></tr><tr><td>introduced:=[1980-1990]<br/></td></tr><tr><td><br/></td></tr></table>>];
+66 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_89</td></tr><tr><td>introduced:=[1978-1989]<br/></td></tr><tr><td><br/></td></tr></table>>];
+71 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_90</td></tr><tr><td>introduced:=[1989-1994]<br/></td></tr><tr><td><br/></td></tr></table>>];
+72 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_91</td></tr><tr><td>introduced:=[1988-1993]<br/></td></tr><tr><td><br/></td></tr></table>>];
+57 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_94</td></tr><tr><td>introduced:=[1978-1990]<br/></td></tr><tr><td><br/></td></tr></table>>];
+62 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_96</td></tr><tr><td>introduced:=[1988-1994]<br/></td></tr><tr><td><br/></td></tr></table>>];
+63 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_95</td></tr><tr><td>introduced:=[1987-1993]<br/></td></tr><tr><td><br/></td></tr></table>>];
+64 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_97</td></tr><tr><td>introduced:=[1983-1992]<br/></td></tr><tr><td><br/></td></tr></table>>];
+136 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_101</td></tr><tr><td>console redirection<br/></td></tr><tr><td><br/></td></tr></table>>];
+54 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_99</td></tr><tr><td>introduced:=[1987-1994]<br/></td></tr><tr><td><br/></td></tr></table>>];
+56 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_100</td></tr><tr><td>introduced:=[1980-1992]<br/></td></tr><tr><td><br/></td></tr></table>>];
+61 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_98</td></tr><tr><td>introduced:=[1989-2005]<br/></td></tr><tr><td><br/></td></tr></table>>];
+131 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_106</td></tr><tr><td>source code availability<br/></td></tr><tr><td>ash<br/></td></tr></table>>];
+49 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_105</td></tr><tr><td>introduced:=[1978-1992]<br/></td></tr><tr><td><br/></td></tr></table>>];
+52 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_102</td></tr><tr><td>introduced:=[1989-2006]<br/></td></tr><tr><td><br/></td></tr></table>>];
+53 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_103</td></tr><tr><td>introduced:=[1988-2005]<br/></td></tr><tr><td><br/></td></tr></table>>];
+55 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_104</td></tr><tr><td>introduced:=[1983-1993]<br/></td></tr><tr><td><br/></td></tr></table>>];
+58 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_107</td></tr><tr><td>introduced:=[1977-1989]<br/></td></tr><tr><td><br/></td></tr></table>>];
+124 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_115</td></tr><tr><td>platform-independent<br/></td></tr><tr><td>ash<br/></td></tr></table>>];
+140 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_112</td></tr><tr><td>logging<br/></td></tr><tr><td>bourne shell current version<br/></td></tr></table>>];
+45 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_108</td></tr><tr><td>introduced:=[1988-2006]<br/></td></tr><tr><td><br/></td></tr></table>>];
+46 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_109</td></tr><tr><td>introduced:=[1987-2005]<br/></td></tr><tr><td><br/></td></tr></table>>];
+47 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_111</td></tr><tr><td>introduced:=[1983-1994]<br/></td></tr><tr><td><br/></td></tr></table>>];
+48 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_110</td></tr><tr><td>introduced:=[1980-1993]<br/></td></tr><tr><td><br/></td></tr></table>>];
+50 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_114</td></tr><tr><td>introduced:=[1977-1990]<br/></td></tr><tr><td><br/></td></tr></table>>];
+51 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_113</td></tr><tr><td>introduced:=[1975-1989]<br/></td></tr><tr><td><br/></td></tr></table>>];
+39 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_116</td></tr><tr><td>introduced:=[1987-2006]<br/></td></tr><tr><td><br/></td></tr></table>>];
+41 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_117</td></tr><tr><td>introduced:=[1980-1994]<br/></td></tr><tr><td><br/></td></tr></table>>];
+42 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_118</td></tr><tr><td>introduced:=[1978-1993]<br/></td></tr><tr><td><br/></td></tr></table>>];
+44 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_119</td></tr><tr><td>introduced:=[1975-1990]<br/></td></tr><tr><td><br/></td></tr></table>>];
+137 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_123</td></tr><tr><td>configurability<br/></td></tr><tr><td><br/></td></tr></table>>];
+36 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_121</td></tr><tr><td>introduced:=[1978-1994]<br/></td></tr><tr><td><br/></td></tr></table>>];
+40 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_120</td></tr><tr><td>introduced:=[1983-2005]<br/></td></tr><tr><td><br/></td></tr></table>>];
+43 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_124</td></tr><tr><td>introduced:=[1977-1992]<br/></td></tr><tr><td><br/></td></tr></table>>];
+34 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_125</td></tr><tr><td>introduced:=[1983-2006]<br/></td></tr><tr><td><br/></td></tr></table>>];
+35 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_126</td></tr><tr><td>introduced:=[1980-2005]<br/></td></tr><tr><td><br/></td></tr></table>>];
+38 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_127</td></tr><tr><td>introduced:=[1975-1992]<br/></td></tr><tr><td><br/></td></tr></table>>];
+132 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_133</td></tr><tr><td>user interface:={text-based cli}<br/></td></tr><tr><td><br/></td></tr></table>>];
+138 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_130</td></tr><tr><td>startup/shutdown scripts<br/></td></tr><tr><td>ash<br/></td></tr></table>>];
+139 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_132</td></tr><tr><td>batch scripts<br/></td></tr><tr><td><br/></td></tr></table>>];
+30 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_128</td></tr><tr><td>introduced:=[1980-2006]<br/></td></tr><tr><td><br/></td></tr></table>>];
+31 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_129</td></tr><tr><td>introduced:=[1978-2005]<br/></td></tr><tr><td><br/></td></tr></table>>];
+37 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_131</td></tr><tr><td>introduced:=[1977-1993]<br/></td></tr><tr><td><br/></td></tr></table>>];
+27 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_134</td></tr><tr><td>introduced:=[1978-2006]<br/></td></tr><tr><td><br/></td></tr></table>>];
+32 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_136</td></tr><tr><td>introduced:=[1977-1994]<br/></td></tr><tr><td><br/></td></tr></table>>];
+33 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_135</td></tr><tr><td>introduced:=[1975-1993]<br/></td></tr><tr><td><br/></td></tr></table>>];
+29 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_137</td></tr><tr><td>introduced:=[1975-1994]<br/></td></tr><tr><td><br/></td></tr></table>>];
+28 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_138</td></tr><tr><td>introduced:=[1977-2005]<br/></td></tr><tr><td><br/></td></tr></table>>];
+25 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_139</td></tr><tr><td>introduced:=[1977-2006]<br/>stream redirection<br/></td></tr><tr><td><br/></td></tr></table>>];
+26 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_140</td></tr><tr><td>introduced:=[1975-2005]<br/></td></tr><tr><td><br/></td></tr></table>>];
+24 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_141</td></tr><tr><td>introduced:=[1975-2006]<br/></td></tr><tr><td><br/></td></tr></table>>];
+141 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_122</td></tr><tr><td>single file executable<br/></td></tr><tr><td>windows cmd.exe<br/></td></tr></table>>];
+	119:p -> 109:p
+	9:p -> 109:p
+	121:p -> 112:p
+	122:p -> 112:p
+	18:p -> 115:p
+	1:p -> 115:p
+	17:p -> 116:p
+	13:p -> 117:p
+	22:p -> 12:p
+	21:p -> 120:p
+	9:p -> 128:p
+	11:p -> 129:p
+	14:p -> 129:p
+	11:p -> 4:p
+	121:p -> 4:p
+	109:p -> 0:p
+	13:p -> 0:p
+	115:p -> 102:p
+	5:p -> 102:p
+	15:p -> 103:p
+	115:p -> 103:p
+	15:p -> 104:p
+	116:p -> 104:p
+	117:p -> 106:p
+	14:p -> 106:p
+	120:p -> 110:p
+	119:p -> 110:p
+	120:p -> 111:p
+	121:p -> 111:p
+	3:p -> 123:p
+	7:p -> 123:p
+	23:p -> 125:p
+	18:p -> 125:p
+	121:p -> 125:p
+	121:p -> 126:p
+	5:p -> 126:p
+	8:p -> 130:p
+	13:p -> 130:p
+	21:p -> 19:p
+	122:p -> 19:p
+	9:p -> 19:p
+	116:p -> 2:p
+	9:p -> 2:p
+	119:p -> 20:p
+	121:p -> 20:p
+	116:p -> 105:p
+	117:p -> 105:p
+	123:p -> 113:p
+	122:p -> 113:p
+	123:p -> 114:p
+	8:p -> 114:p
+	17:p -> 133:p
+	129:p -> 133:p
+	5:p -> 133:p
+	102:p -> 90:p
+	103:p -> 90:p
+	110:p -> 97:p
+	109:p -> 97:p
+	110:p -> 98:p
+	111:p -> 98:p
+	111:p -> 99:p
+	112:p -> 99:p
+	113:p -> 100:p
+	112:p -> 100:p
+	113:p -> 101:p
+	114:p -> 101:p
+	22:p -> 118:p
+	23:p -> 118:p
+	10:p -> 118:p
+	11:p -> 118:p
+	15:p -> 127:p
+	21:p -> 127:p
+	112:p -> 127:p
+	98:p -> 86:p
+	97:p -> 86:p
+	98:p -> 87:p
+	99:p -> 87:p
+	103:p -> 91:p
+	104:p -> 91:p
+	104:p -> 92:p
+	105:p -> 92:p
+	105:p -> 93:p
+	106:p -> 93:p
+	129:p -> 107:p
+	118:p -> 107:p
+	9:p -> 108:p
+	118:p -> 108:p
+	22:p -> 16:p
+	23:p -> 16:p
+	7:p -> 16:p
+	19:p -> 76:p
+	87:p -> 76:p
+	86:p -> 76:p
+	91:p -> 79:p
+	90:p -> 79:p
+	92:p -> 81:p
+	93:p -> 81:p
+	100:p -> 89:p
+	101:p -> 89:p
+	91:p -> 80:p
+	92:p -> 80:p
+	99:p -> 88:p
+	100:p -> 88:p
+	107:p -> 95:p
+	108:p -> 95:p
+	109:p -> 96:p
+	108:p -> 96:p
+	79:p -> 69:p
+	80:p -> 69:p
+	80:p -> 70:p
+	81:p -> 70:p
+	87:p -> 77:p
+	88:p -> 77:p
+	88:p -> 78:p
+	89:p -> 78:p
+	95:p -> 84:p
+	96:p -> 84:p
+	107:p -> 94:p
+	106:p -> 94:p
+	23:p -> 135:p
+	133:p -> 135:p
+	9:p -> 135:p
+	69:p -> 60:p
+	70:p -> 60:p
+	77:p -> 67:p
+	128:p -> 67:p
+	76:p -> 67:p
+	77:p -> 68:p
+	78:p -> 68:p
+	95:p -> 83:p
+	94:p -> 83:p
+	97:p -> 85:p
+	12:p -> 85:p
+	96:p -> 85:p
+	68:p -> 59:p
+	67:p -> 59:p
+	83:p -> 73:p
+	84:p -> 73:p
+	0:p -> 73:p
+	84:p -> 74:p
+	85:p -> 74:p
+	86:p -> 75:p
+	4:p -> 75:p
+	85:p -> 75:p
+	93:p -> 82:p
+	94:p -> 82:p
+	17:p -> 134:p
+	23:p -> 134:p
+	120:p -> 134:p
+	102:p -> 134:p
+	14:p -> 134:p
+	10:p -> 134:p
+	23:p -> 6:p
+	12:p -> 6:p
+	10:p -> 6:p
+	15:p -> 6:p
+	120:p -> 6:p
+	18:p -> 6:p
+	14:p -> 6:p
+	122:p -> 6:p
+	75:p -> 65:p
+	74:p -> 65:p
+	75:p -> 66:p
+	76:p -> 66:p
+	81:p -> 71:p
+	82:p -> 71:p
+	2:p -> 72:p
+	83:p -> 72:p
+	82:p -> 72:p
+	65:p -> 57:p
+	66:p -> 57:p
+	72:p -> 62:p
+	71:p -> 62:p
+	72:p -> 63:p
+	73:p -> 63:p
+	74:p -> 64:p
+	73:p -> 64:p
+	99:p -> 136:p
+	16:p -> 136:p
+	12:p -> 136:p
+	129:p -> 136:p
+	19:p -> 136:p
+	4:p -> 136:p
+	128:p -> 136:p
+	62:p -> 54:p
+	63:p -> 54:p
+	65:p -> 56:p
+	64:p -> 56:p
+	70:p -> 61:p
+	71:p -> 61:p
+	23:p -> 131:p
+	12:p -> 131:p
+	129:p -> 131:p
+	120:p -> 131:p
+	15:p -> 131:p
+	7:p -> 131:p
+	18:p -> 131:p
+	130:p -> 131:p
+	122:p -> 131:p
+	56:p -> 49:p
+	57:p -> 49:p
+	61:p -> 52:p
+	133:p -> 52:p
+	60:p -> 52:p
+	61:p -> 53:p
+	62:p -> 53:p
+	63:p -> 55:p
+	64:p -> 55:p
+	66:p -> 58:p
+	67:p -> 58:p
+	23:p -> 124:p
+	12:p -> 124:p
+	10:p -> 124:p
+	120:p -> 124:p
+	19:p -> 124:p
+	103:p -> 124:p
+	113:p -> 124:p
+	14:p -> 124:p
+	128:p -> 124:p
+	120:p -> 140:p
+	19:p -> 140:p
+	3:p -> 140:p
+	106:p -> 140:p
+	135:p -> 140:p
+	12:p -> 140:p
+	52:p -> 45:p
+	53:p -> 45:p
+	54:p -> 46:p
+	53:p -> 46:p
+	55:p -> 47:p
+	54:p -> 47:p
+	55:p -> 48:p
+	56:p -> 48:p
+	20:p -> 48:p
+	58:p -> 50:p
+	57:p -> 50:p
+	58:p -> 51:p
+	59:p -> 51:p
+	46:p -> 39:p
+	45:p -> 39:p
+	47:p -> 41:p
+	48:p -> 41:p
+	49:p -> 42:p
+	48:p -> 42:p
+	51:p -> 44:p
+	50:p -> 44:p
+	136:p -> 137:p
+	135:p -> 137:p
+	93:p -> 137:p
+	126:p -> 137:p
+	2:p -> 137:p
+	42:p -> 36:p
+	127:p -> 36:p
+	41:p -> 36:p
+	46:p -> 40:p
+	47:p -> 40:p
+	49:p -> 43:p
+	50:p -> 43:p
+	136:p -> 43:p
+	135:p -> 34:p
+	39:p -> 34:p
+	40:p -> 34:p
+	41:p -> 35:p
+	40:p -> 35:p
+	125:p -> 35:p
+	44:p -> 38:p
+	43:p -> 38:p
+	130:p -> 38:p
+	93:p -> 132:p
+	2:p -> 132:p
+	136:p -> 132:p
+	130:p -> 132:p
+	20:p -> 132:p
+	0:p -> 132:p
+	59:p -> 132:p
+	12:p -> 138:p
+	133:p -> 138:p
+	126:p -> 138:p
+	2:p -> 138:p
+	19:p -> 138:p
+	78:p -> 138:p
+	4:p -> 138:p
+	130:p -> 138:p
+	125:p -> 138:p
+	128:p -> 138:p
+	20:p -> 139:p
+	0:p -> 139:p
+	137:p -> 139:p
+	67:p -> 139:p
+	140:p -> 139:p
+	34:p -> 30:p
+	35:p -> 30:p
+	126:p -> 30:p
+	36:p -> 31:p
+	35:p -> 31:p
+	6:p -> 31:p
+	42:p -> 37:p
+	43:p -> 37:p
+	30:p -> 27:p
+	31:p -> 27:p
+	36:p -> 32:p
+	37:p -> 32:p
+	37:p -> 33:p
+	38:p -> 33:p
+	132:p -> 33:p
+	33:p -> 29:p
+	32:p -> 29:p
+	124:p -> 28:p
+	32:p -> 28:p
+	31:p -> 28:p
+	139:p -> 25:p
+	28:p -> 25:p
+	134:p -> 25:p
+	27:p -> 25:p
+	131:p -> 26:p
+	29:p -> 26:p
+	28:p -> 26:p
+	141:p -> 26:p
+	26:p -> 24:p
+	138:p -> 24:p
+	25:p -> 24:p
+	99:p -> 141:p
+	1:p -> 141:p
+	12:p -> 141:p
+	127:p -> 141:p
+	19:p -> 141:p
+	8:p -> 141:p
+	7:p -> 141:p
+	95:p -> 141:p
+	4:p -> 141:p
+	128:p -> 141:p
+}

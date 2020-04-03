@@ -1,0 +1,7 @@
+Single_Player <-> Artificial_Opponnent
+Cell_phone <-> Accu_Cell
+Cell_phone <-> Display
+Cell_phone <-> Games
+Accu_Cell <-> Display
+Accu_Cell <-> Games
+Display <-> Games

@@ -1,0 +1,28 @@
+plugin:={qml,qtscript,lua} -> dht
+protocol support:={natt,pfsr,ucmd,keyp,tigr,blom,sega,fs,adcs} -> dht
+protocol support:={inherits from dc++} -> magnet uri
+plugin:={eclipse rcp} -> protocol support:={keyp,ucmd,tigr,blom,sudp,adcs}
+protocol support:={inherits from airdc++} -> ipv6
+protocol support:={inherits from airdc++} -> nat traversal
+protocol support:={inherits from strongdc++} -> dht
+protocol support:={keyp,tigr,sudp,adcs} -> ipv6
+dht -> magnet uri
+plugin:={lua} -> magnet uri
+protocol support:={natt,ucmd,tigr,blom,sega,adcs} -> nat traversal
+ipv6 -> encryption
+ipv6 -> hash algorithms:={tiger tree hash}
+ipv6 -> nmdc compatible
+protocol support:={ucmd,tigr,blom,adcs} -> magnet uri
+protocol support:={tigr,adcs} -> encryption
+protocol support:={tigr,adcs} -> hash algorithms:={tiger tree hash}
+protocol support:={tigr,adcs} -> nmdc compatible
+nat traversal -> upnp
+nat traversal -> proxy
+magnet uri -> upnp
+magnet uri -> proxy
+upnp -> encryption
+upnp -> hash algorithms:={tiger tree hash}
+upnp -> nmdc compatible
+proxy -> encryption
+proxy -> hash algorithms:={tiger tree hash}
+proxy -> nmdc compatible

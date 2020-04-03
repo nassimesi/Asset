@@ -1,0 +1,26 @@
+digraph G { 
+	rankdir=BT;
+	margin=0;
+	node [margin="0.03,0.03",fontname="DejaVu Sans"];
+	ranksep=0.3;
+	nodesep=0.2;
+//graph[label="name:ctx,concept number:9,object number:16,attribute number:13"
+6 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_0</td></tr><tr><td>Weak<br/></td></tr><tr><td>Product-5<br/>Product-12<br/></td></tr></table>>];
+5 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_1</td></tr><tr><td>Medium<br/></td></tr><tr><td>Product-4<br/>Product-10<br/>Product-11<br/>Product-13<br/></td></tr></table>>];
+3 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_2</td></tr><tr><td>Bluethooth<br/></td></tr><tr><td>Product-2<br/>Product-3<br/>Product-8<br/>Product-9<br/>Product-15<br/>Product-16<br/></td></tr></table>>];
+7 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_3</td></tr><tr><td>Multi_Player<br/></td></tr><tr><td>Product-1<br/>Product-2<br/>Product-3<br/>Product-4<br/>Product-13<br/>Product-14<br/>Product-15<br/>Product-16<br/></td></tr></table>>];
+2 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_4</td></tr><tr><td>Infrared<br/></td></tr><tr><td>Product-1<br/>Product-3<br/>Product-4<br/>Product-7<br/>Product-9<br/>Product-11<br/>Product-12<br/>Product-13<br/>Product-14<br/>Product-16<br/></td></tr></table>>];
+4 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_5</td></tr><tr><td>Strong<br/></td></tr><tr><td>Product-1<br/>Product-6<br/>Product-7<br/>Product-14<br/></td></tr></table>>];
+8 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_6</td></tr><tr><td>Single_Player<br/>Artificial_Opponnent<br/></td></tr><tr><td>Product-6<br/>Product-7<br/>Product-8<br/>Product-9<br/>Product-10<br/>Product-11<br/>Product-13<br/>Product-14<br/>Product-15<br/>Product-16<br/></td></tr></table>>];
+1 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_7</td></tr><tr><td>Wireless<br/></td></tr><tr><td><br/></td></tr></table>>];
+0 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_8</td></tr><tr><td>Cell_phone<br/>Accu_Cell<br/>Display<br/>Games<br/></td></tr><tr><td><br/></td></tr></table>>];
+	3:p -> 4:p
+	6:p -> 8:p
+	3:p -> 1:p
+	2:p -> 1:p
+	7:p -> 1:p
+	4:p -> 0:p
+	8:p -> 0:p
+	1:p -> 0:p
+	5:p -> 0:p
+}

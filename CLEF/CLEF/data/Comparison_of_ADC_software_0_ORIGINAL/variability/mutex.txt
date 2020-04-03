@@ -1,0 +1,3 @@
+free and open source ->! software license:={proprietary}
+software license:={gpl} ->! active
+active ->! software license:={mit license}

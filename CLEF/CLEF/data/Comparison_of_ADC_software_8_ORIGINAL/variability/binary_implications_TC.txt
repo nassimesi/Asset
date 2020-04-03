@@ -1,0 +1,20 @@
+software type:={seriebot} -> active
+software type:={seriebot} -> free and open source
+software type:={seriebot} -> software license:={gnu gpl}
+software type:={manage ssl certificates} -> active
+software type:={manage ssl certificates} -> free and open source
+software type:={manage ssl certificates} -> software license:={gnu gpl}
+software type:={announce new releases} -> active
+software type:={announce new releases} -> free and open source
+software type:={announce new releases} -> software license:={gnu gpl}
+software type:={hub operator helper} -> free and open source
+software type:={hub operator helper} -> software license:={gnu gpl}
+software type:={relay} -> active
+software type:={relay} -> free and open source
+software type:={relay} -> software license:={gnu gpl}
+software type:={hub linker} -> free and open source
+software type:={hub linker} -> software license:={gnu gpl}
+software type:={general library} -> free and open source
+software type:={general library} -> software license:={gnu gpl}
+active -> free and open source
+active -> software license:={gnu gpl}

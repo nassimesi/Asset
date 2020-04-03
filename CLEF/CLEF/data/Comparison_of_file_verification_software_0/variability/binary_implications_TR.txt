@@ -1,0 +1,47 @@
+framework:={gtk} -> first public release:=[2003-2003]
+framework:={gtk} -> license:={gpl}
+framework:={gtk} -> linux
+first public release:=[2004-2004] -> license:={gpl}
+first public release:=[1999-1999] -> license:={freeware}
+framework:={delphi} -> first public release:=*
+framework:={delphi} -> license:={gpl}
+framework:={delphi} -> windows
+license:={public domain} -> first public release:=[2003-2003]
+license:={public domain} -> mac os x
+license:={public domain} -> linux
+license:={public domain} -> open source
+license:={bsd} -> first public release:=[2008-2008]
+license:={bsd} -> open source
+license:={freeware,donationware} -> first public release:=[2007-2007]
+license:={freeware,donationware} -> cost:={free}
+framework:={qt} -> first public release:=[2012-2012]
+framework:={qt} -> license:={gpl}
+framework:={qt} -> linux
+first public release:=[2011-2011] -> framework:={.net}
+first public release:=[2010-2010] -> framework:={vcl}
+first public release:=[2000-2000] -> license:={gpl}
+framework:={python} -> license:={gpl}
+first public release:=[2014-2014] -> license:={freeware}
+first public release:=[2014-2014] -> cost:={free}
+framework:={c} -> first public release:=*
+framework:={c} -> linux
+framework:={c} -> open source
+first public release:=[2010-2011] -> license:={freeware}
+first public release:=[1999-2000] -> linux
+framework:={vcl} -> first public release:=[2006-2010]
+framework:={vcl} -> license:={freeware}
+framework:={vcl} -> cost:={free}
+first public release:=[2004-2006] -> cost:={free}
+first public release:=[1999-2002] -> cost:={free}
+license:={proprietary} -> cost:={non-free}
+framework:={java} -> first public release:=[2002-2013]
+first public release:=[2013-2014] -> windows
+license:={freeware,shareware} -> first public release:=[2003-2014]
+first public release:=[2008-2011] -> cost:={free}
+first public release:=[2008-2011] -> windows
+framework:={.net} -> windows
+cost:={non-free} -> windows
+first public release:=[1999-2006] -> windows
+license:={gpl} -> open source
+open source -> cost:={free}
+license:={freeware} -> windows

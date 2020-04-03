@@ -1,0 +1,6 @@
+windows ->! other:={openvms}
+linux ->! other:={c# enabled platform}
+linux ->! other:={openvms}
+os x ->! other:={python enabled platform}
+os x ->! other:={c# enabled platform}
+os x ->! other:={openvms}

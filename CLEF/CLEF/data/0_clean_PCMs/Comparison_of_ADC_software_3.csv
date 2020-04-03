@@ -1,0 +1,12 @@
+name,encryption,ipv6,plugin,hash algorithms,bloom filter,adc support
+adch++,X,X,lua;python;ruby,tiger tree hash,X,tigr;ping;adcs
+adch++ gui,X,,python,tiger tree hash,X,tigr;ping;adcs
+dshub,X,,java;python,tiger tree hash,,tigr;ping;adcs
+flexhub,X,,*,tiger tree hash,,tigr;ping;adcs
+luadch,X,,lua,tiger tree hash,,tigr;ping;adcs;keyp;asch;sudp
+nexthub,X,,c#,tiger tree hash,,tigr;adcs
+uhub,X,X,c,tiger tree hash,,tigr;ping;adcs
+qhub,,,*,tiger tree hash,,tigr
+starlet adc hub,,,*,tiger tree hash,,tigr
+starhub,,,*,tiger tree hash,,tigr
+rushub,,,*,tiger tree hash,,tigr

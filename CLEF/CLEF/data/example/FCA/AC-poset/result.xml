@@ -1,0 +1,1834 @@
+<RCAExplore_Document>
+	<Step nb="0">
+		<Lattice numberObj="16" numberAtt="68" numberCpt="57" >
+			<Config algo="acposet">
+			</Config>
+			<Name>ctx</Name>
+			<Object>aimp</Object>
+			<Object>amarok</Object>
+			<Object>aqualung</Object>
+			<Object>atunes</Object>
+			<Object>audacious</Object>
+			<Object>banshee</Object>
+			<Object>beep media player</Object>
+			<Object>clementine</Object>
+			<Object>cmus</Object>
+			<Object>cog</Object>
+			<Object>exaile</Object>
+			<Object>ecoute</Object>
+			<Object>flash mp3 player</Object>
+			<Object>foobar2000</Object>
+			<Object>guayadeque music player</Object>
+			<Object>gear player</Object>
+			<Attribute>first public release:=[2002-2012]</Attribute>
+			<Attribute>first public release:=[2003-2012]</Attribute>
+			<Attribute>first public release:=[2002-2011]</Attribute>
+			<Attribute>first public release:=[2004-2012]</Attribute>
+			<Attribute>first public release:=[2003-2011]</Attribute>
+			<Attribute>first public release:=[2002-2008]</Attribute>
+			<Attribute>first public release:=[2005-2012]</Attribute>
+			<Attribute>first public release:=[2004-2011]</Attribute>
+			<Attribute>first public release:=[2003-2008]</Attribute>
+			<Attribute>first public release:=[2002-2006]</Attribute>
+			<Attribute>first public release:=[2006-2012]</Attribute>
+			<Attribute>first public release:=[2005-2011]</Attribute>
+			<Attribute>first public release:=[2004-2008]</Attribute>
+			<Attribute>first public release:=[2003-2006]</Attribute>
+			<Attribute>first public release:=[2002-2005]</Attribute>
+			<Attribute>first public release:=[2008-2012]</Attribute>
+			<Attribute>first public release:=[2006-2011]</Attribute>
+			<Attribute>first public release:=[2005-2008]</Attribute>
+			<Attribute>first public release:=[2004-2006]</Attribute>
+			<Attribute>first public release:=[2003-2005]</Attribute>
+			<Attribute>first public release:=[2002-2004]</Attribute>
+			<Attribute>first public release:=[2011-2012]</Attribute>
+			<Attribute>first public release:=[2008-2011]</Attribute>
+			<Attribute>first public release:=[2006-2008]</Attribute>
+			<Attribute>first public release:=[2005-2006]</Attribute>
+			<Attribute>first public release:=[2004-2005]</Attribute>
+			<Attribute>first public release:=[2003-2004]</Attribute>
+			<Attribute>first public release:=[2002-2003]</Attribute>
+			<Attribute>first public release:=[2012-2012]</Attribute>
+			<Attribute>first public release:=[2011-2011]</Attribute>
+			<Attribute>first public release:=[2008-2008]</Attribute>
+			<Attribute>first public release:=[2006-2006]</Attribute>
+			<Attribute>first public release:=[2005-2005]</Attribute>
+			<Attribute>first public release:=[2004-2004]</Attribute>
+			<Attribute>first public release:=[2003-2003]</Attribute>
+			<Attribute>first public release:=[2002-2002]</Attribute>
+			<Attribute>cost:={non-free}</Attribute>
+			<Attribute>cost:={free}</Attribute>
+			<Attribute>software license:={gpl}</Attribute>
+			<Attribute>software license:={proprietary}</Attribute>
+			<Attribute>software license:={mit}</Attribute>
+			<Attribute>software license:={bsd,proprietary}</Attribute>
+			<Attribute>based framework:={core audio}</Attribute>
+			<Attribute>based framework:={xmms based}</Attribute>
+			<Attribute>based framework:={bass audio library}</Attribute>
+			<Attribute>based framework:={gstreamer}</Attribute>
+			<Attribute>based framework:={quicktime}</Attribute>
+			<Attribute>based framework:={av foundation,quicktime}</Attribute>
+			<Attribute>based framework:={xine,directshow,mplayer,gstreamer,vlc,quicktime}</Attribute>
+			<Attribute>written in:={delphi}</Attribute>
+			<Attribute>written in:={c#}</Attribute>
+			<Attribute>written in:={c++}</Attribute>
+			<Attribute>written in:={objective-c}</Attribute>
+			<Attribute>written in:={python}</Attribute>
+			<Attribute>written in:={c}</Attribute>
+			<Attribute>written in:={java}</Attribute>
+			<Attribute>written in:={c++,c}</Attribute>
+			<Attribute>testdouble:=[1.8-5.7]</Attribute>
+			<Attribute>testdouble:=[3.1-5.7]</Attribute>
+			<Attribute>testdouble:=[1.8-4.4]</Attribute>
+			<Attribute>testdouble:=[4.4-5.7]</Attribute>
+			<Attribute>testdouble:=[3.1-4.4]</Attribute>
+			<Attribute>testdouble:=[1.8-3.1]</Attribute>
+			<Attribute>testdouble:=[5.7-5.7]</Attribute>
+			<Attribute>testdouble:=[4.4-4.4]</Attribute>
+			<Attribute>testdouble:=[3.1-3.1]</Attribute>
+			<Attribute>testdouble:=[1.8-1.8]</Attribute>
+			<Attribute>testdouble:=*</Attribute>
+			<Concept>
+				<ID>Concept_ctx_0</ID>
+				<Extent>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>first public release:=[2008-2012]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2011-2012]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2008-2008]</Attribute_Ref>
+					<Attribute_Ref>testdouble:=[4.4-5.7]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2006-2006]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2006]</Attribute_Ref>
+					<Attribute_Ref>based framework:={xine,directshow,mplayer,gstreamer,vlc,quicktime}</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2005]</Attribute_Ref>
+					<Attribute_Ref>based framework:={av foundation,quicktime}</Attribute_Ref>
+					<Attribute_Ref>testdouble:=[3.1-4.4]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2005-2012]</Attribute_Ref>
+					<Attribute_Ref>based framework:={bass audio library}</Attribute_Ref>
+					<Attribute_Ref>written in:={c#}</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2004-2011]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2005-2008]</Attribute_Ref>
+					<Attribute_Ref>testdouble:=[1.8-4.4]</Attribute_Ref>
+					<Attribute_Ref>based framework:={gstreamer}</Attribute_Ref>
+					<Attribute_Ref>written in:={python}</Attribute_Ref>
+					<Attribute_Ref>written in:={c}</Attribute_Ref>
+					<Attribute_Ref>written in:={delphi}</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2012]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2011]</Attribute_Ref>
+					<Attribute_Ref>based framework:={quicktime}</Attribute_Ref>
+					<Attribute_Ref>based framework:={xmms based}</Attribute_Ref>
+					<Attribute_Ref>testdouble:=[1.8-1.8]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2003]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2008]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2011-2011]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2006-2011]</Attribute_Ref>
+					<Attribute_Ref>written in:={c++,c}</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2004]</Attribute_Ref>
+					<Attribute_Ref>software license:={bsd,proprietary}</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2004-2006]</Attribute_Ref>
+					<Attribute_Ref>software license:={gpl}</Attribute_Ref>
+					<Attribute_Ref>written in:={c++}</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2005-2005]</Attribute_Ref>
+					<Attribute_Ref>cost:={free}</Attribute_Ref>
+					<Attribute_Ref>software license:={proprietary}</Attribute_Ref>
+					<Attribute_Ref>testdouble:=[5.7-5.7]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2011]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2006-2008]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2012]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2004]</Attribute_Ref>
+					<Attribute_Ref>software license:={mit}</Attribute_Ref>
+					<Attribute_Ref>testdouble:=[3.1-5.7]</Attribute_Ref>
+					<Attribute_Ref>testdouble:=[4.4-4.4]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2008]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2003]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2006-2012]</Attribute_Ref>
+					<Attribute_Ref>written in:={objective-c}</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2004-2005]</Attribute_Ref>
+					<Attribute_Ref>testdouble:=[3.1-3.1]</Attribute_Ref>
+					<Attribute_Ref>testdouble:=[1.8-5.7]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2005-2006]</Attribute_Ref>
+					<Attribute_Ref>testdouble:=[1.8-3.1]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2002]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2012-2012]</Attribute_Ref>
+					<Attribute_Ref>based framework:={core audio}</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2005]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2006]</Attribute_Ref>
+					<Attribute_Ref>cost:={non-free}</Attribute_Ref>
+					<Attribute_Ref>testdouble:=*</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2004-2008]</Attribute_Ref>
+					<Attribute_Ref>written in:={java}</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2005-2011]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2004-2004]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2008-2011]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2004-2012]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_2</Concept_Ref>
+					<Concept_Ref>Concept_ctx_1</Concept_Ref>
+					<Concept_Ref>Concept_ctx_4</Concept_Ref>
+					<Concept_Ref>Concept_ctx_10</Concept_Ref>
+					<Concept_Ref>Concept_ctx_7</Concept_Ref>
+					<Concept_Ref>Concept_ctx_11</Concept_Ref>
+					<Concept_Ref>Concept_ctx_9</Concept_Ref>
+					<Concept_Ref>Concept_ctx_12</Concept_Ref>
+					<Concept_Ref>Concept_ctx_6</Concept_Ref>
+					<Concept_Ref>Concept_ctx_3</Concept_Ref>
+					<Concept_Ref>Concept_ctx_8</Concept_Ref>
+					<Concept_Ref>Concept_ctx_5</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_1</ID>
+				<Extent>
+					<Object_Ref>gear player</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>first public release:=[2002-2012]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2008-2012]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2012-2012]</Attribute_Ref>
+					<Attribute_Ref>based framework:={core audio}</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2011-2012]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2012]</Attribute_Ref>
+					<Attribute_Ref>cost:={non-free}</Attribute_Ref>
+					<Attribute_Ref>testdouble:=*</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2006-2012]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2005-2012]</Attribute_Ref>
+					<Attribute_Ref>written in:={objective-c}</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2004-2012]</Attribute_Ref>
+					<Attribute_Ref>software license:={proprietary}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_14</Concept_Ref>
+					<Concept_Ref>Concept_ctx_32</Concept_Ref>
+					<Concept_Ref>Concept_ctx_20</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_5</ID>
+				<Extent>
+					<Object_Ref>clementine</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>first public release:=[2002-2012]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2008-2012]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2011-2012]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2011]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2011]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2012]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2011-2011]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2006-2011]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2006-2012]</Attribute_Ref>
+					<Attribute_Ref>testdouble:=*</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2005-2012]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2005-2011]</Attribute_Ref>
+					<Attribute_Ref>written in:={c++}</Attribute_Ref>
+					<Attribute_Ref>software license:={gpl}</Attribute_Ref>
+					<Attribute_Ref>cost:={free}</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2004-2011]</Attribute_Ref>
+					<Attribute_Ref>based framework:={gstreamer}</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2008-2011]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2004-2012]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_30</Concept_Ref>
+					<Concept_Ref>Concept_ctx_31</Concept_Ref>
+					<Concept_Ref>Concept_ctx_14</Concept_Ref>
+					<Concept_Ref>Concept_ctx_21</Concept_Ref>
+					<Concept_Ref>Concept_ctx_41</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_6</ID>
+				<Extent>
+					<Object_Ref>beep media player</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>first public release:=[2002-2012]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2011]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2011]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2012]</Attribute_Ref>
+					<Attribute_Ref>based framework:={xmms based}</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2004]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2005]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2006]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2008]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2005]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2008]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2006]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2004]</Attribute_Ref>
+					<Attribute_Ref>testdouble:=*</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2004-2008]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2004-2005]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2004-2006]</Attribute_Ref>
+					<Attribute_Ref>software license:={gpl}</Attribute_Ref>
+					<Attribute_Ref>cost:={free}</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2004-2011]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2004-2004]</Attribute_Ref>
+					<Attribute_Ref>written in:={c}</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2004-2012]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_24</Concept_Ref>
+					<Concept_Ref>Concept_ctx_15</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_2</ID>
+				<Extent>
+					<Object_Ref>foobar2000</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>first public release:=[2002-2012]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2002]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2011]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2008]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2005]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2006]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2003]</Attribute_Ref>
+					<Attribute_Ref>testdouble:=*</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2004]</Attribute_Ref>
+					<Attribute_Ref>software license:={bsd,proprietary}</Attribute_Ref>
+					<Attribute_Ref>written in:={c++}</Attribute_Ref>
+					<Attribute_Ref>cost:={free}</Attribute_Ref>
+					<Attribute_Ref>software license:={proprietary}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_32</Concept_Ref>
+					<Concept_Ref>Concept_ctx_49</Concept_Ref>
+					<Concept_Ref>Concept_ctx_23</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_7</ID>
+				<Extent>
+					<Object_Ref>banshee</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>first public release:=[2002-2011]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2012]</Attribute_Ref>
+					<Attribute_Ref>software license:={mit}</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2006]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2005]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2008]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2005-2012]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2004-2005]</Attribute_Ref>
+					<Attribute_Ref>written in:={c#}</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2004-2011]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2005-2008]</Attribute_Ref>
+					<Attribute_Ref>based framework:={gstreamer}</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2005-2006]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2012]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2011]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2005]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2008]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2006]</Attribute_Ref>
+					<Attribute_Ref>testdouble:=*</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2004-2008]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2005-2011]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2004-2006]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2005-2005]</Attribute_Ref>
+					<Attribute_Ref>cost:={free}</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2004-2012]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_22</Concept_Ref>
+					<Concept_Ref>Concept_ctx_30</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_12</ID>
+				<Extent>
+					<Object_Ref>aimp</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>first public release:=[2002-2011]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2006-2008]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2012]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2006-2006]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2006]</Attribute_Ref>
+					<Attribute_Ref>testdouble:=[3.1-5.7]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2008]</Attribute_Ref>
+					<Attribute_Ref>testdouble:=[3.1-4.4]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2006-2012]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2005-2012]</Attribute_Ref>
+					<Attribute_Ref>based framework:={bass audio library}</Attribute_Ref>
+					<Attribute_Ref>testdouble:=[1.8-5.7]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2004-2011]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2005-2008]</Attribute_Ref>
+					<Attribute_Ref>testdouble:=[1.8-4.4]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2005-2006]</Attribute_Ref>
+					<Attribute_Ref>written in:={delphi}</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2012]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2011]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2008]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2006-2011]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2006]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2004-2008]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2005-2011]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2004-2006]</Attribute_Ref>
+					<Attribute_Ref>cost:={free}</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2004-2012]</Attribute_Ref>
+					<Attribute_Ref>software license:={proprietary}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_18</Concept_Ref>
+					<Concept_Ref>Concept_ctx_32</Concept_Ref>
+					<Concept_Ref>Concept_ctx_19</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_3</ID>
+				<Extent>
+					<Object_Ref>ecoute</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>first public release:=[2002-2012]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2008-2012]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2011]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2006-2008]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2011]</Attribute_Ref>
+					<Attribute_Ref>based framework:={quicktime}</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2012]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2008-2008]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2008]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2006-2011]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2008]</Attribute_Ref>
+					<Attribute_Ref>based framework:={av foundation,quicktime}</Attribute_Ref>
+					<Attribute_Ref>testdouble:=*</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2006-2012]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2005-2012]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2005-2011]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2004-2008]</Attribute_Ref>
+					<Attribute_Ref>written in:={objective-c}</Attribute_Ref>
+					<Attribute_Ref>cost:={free}</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2004-2011]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2005-2008]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2008-2011]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2004-2012]</Attribute_Ref>
+					<Attribute_Ref>software license:={proprietary}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_13</Concept_Ref>
+					<Concept_Ref>Concept_ctx_17</Concept_Ref>
+					<Concept_Ref>Concept_ctx_20</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_11</ID>
+				<Extent>
+					<Object_Ref>amarok</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>first public release:=[2002-2012]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2011]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2011]</Attribute_Ref>
+					<Attribute_Ref>based framework:={quicktime}</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2012]</Attribute_Ref>
+					<Attribute_Ref>testdouble:=[4.4-5.7]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2003]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2004]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2005]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2006]</Attribute_Ref>
+					<Attribute_Ref>testdouble:=[3.1-5.7]</Attribute_Ref>
+					<Attribute_Ref>based framework:={xine,directshow,mplayer,gstreamer,vlc,quicktime}</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2008]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2005]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2008]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2006]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2003]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2004]</Attribute_Ref>
+					<Attribute_Ref>written in:={c++}</Attribute_Ref>
+					<Attribute_Ref>software license:={gpl}</Attribute_Ref>
+					<Attribute_Ref>cost:={free}</Attribute_Ref>
+					<Attribute_Ref>testdouble:=[1.8-5.7]</Attribute_Ref>
+					<Attribute_Ref>based framework:={gstreamer}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_19</Concept_Ref>
+					<Concept_Ref>Concept_ctx_17</Concept_Ref>
+					<Concept_Ref>Concept_ctx_16</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_4</ID>
+				<Extent>
+					<Object_Ref>exaile</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>first public release:=[2002-2011]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2006-2008]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2012]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2006-2006]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2006]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2008]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2006-2012]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2005-2012]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2004-2011]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2005-2008]</Attribute_Ref>
+					<Attribute_Ref>based framework:={gstreamer}</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2005-2006]</Attribute_Ref>
+					<Attribute_Ref>written in:={python}</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2012]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2011]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2008]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2006-2011]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2006]</Attribute_Ref>
+					<Attribute_Ref>testdouble:=*</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2004-2008]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2005-2011]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2004-2006]</Attribute_Ref>
+					<Attribute_Ref>software license:={gpl}</Attribute_Ref>
+					<Attribute_Ref>cost:={free}</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2004-2012]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_49</Concept_Ref>
+					<Concept_Ref>Concept_ctx_30</Concept_Ref>
+					<Concept_Ref>Concept_ctx_33</Concept_Ref>
+					<Concept_Ref>Concept_ctx_41</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_9</ID>
+				<Extent>
+					<Object_Ref>atunes</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>first public release:=[2002-2012]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2011]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2006-2008]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2011]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2012]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2006-2006]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2006]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2008]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2006-2011]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2008]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2006]</Attribute_Ref>
+					<Attribute_Ref>testdouble:=*</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2006-2012]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2005-2012]</Attribute_Ref>
+					<Attribute_Ref>written in:={java}</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2004-2008]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2005-2011]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2004-2006]</Attribute_Ref>
+					<Attribute_Ref>software license:={gpl}</Attribute_Ref>
+					<Attribute_Ref>cost:={free}</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2004-2011]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2005-2008]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2005-2006]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2004-2012]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_33</Concept_Ref>
+					<Concept_Ref>Concept_ctx_49</Concept_Ref>
+					<Concept_Ref>Concept_ctx_41</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_8</ID>
+				<Extent>
+					<Object_Ref>audacious</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>first public release:=[2002-2011]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2012]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2006]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2005]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2008]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2005-2012]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2004-2005]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2004-2011]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2005-2008]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2005-2006]</Attribute_Ref>
+					<Attribute_Ref>written in:={c}</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2012]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2011]</Attribute_Ref>
+					<Attribute_Ref>based framework:={xmms based}</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2005]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2008]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2006]</Attribute_Ref>
+					<Attribute_Ref>written in:={c++,c}</Attribute_Ref>
+					<Attribute_Ref>testdouble:=*</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2004-2008]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2005-2011]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2004-2006]</Attribute_Ref>
+					<Attribute_Ref>written in:={c++}</Attribute_Ref>
+					<Attribute_Ref>software license:={gpl}</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2005-2005]</Attribute_Ref>
+					<Attribute_Ref>cost:={free}</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2004-2012]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_22</Concept_Ref>
+					<Concept_Ref>Concept_ctx_15</Concept_Ref>
+					<Concept_Ref>Concept_ctx_31</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_10</ID>
+				<Extent>
+					<Object_Ref>aqualung</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>first public release:=[2002-2011]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2006-2008]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2012]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2006]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2006-2006]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2008]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2006-2012]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2005-2012]</Attribute_Ref>
+					<Attribute_Ref>testdouble:=[1.8-5.7]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2004-2011]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2005-2008]</Attribute_Ref>
+					<Attribute_Ref>testdouble:=[1.8-4.4]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2005-2006]</Attribute_Ref>
+					<Attribute_Ref>written in:={c}</Attribute_Ref>
+					<Attribute_Ref>testdouble:=[1.8-3.1]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2012]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2011]</Attribute_Ref>
+					<Attribute_Ref>testdouble:=[1.8-1.8]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2008]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2006-2011]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2006]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2004-2008]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2005-2011]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2004-2006]</Attribute_Ref>
+					<Attribute_Ref>software license:={gpl}</Attribute_Ref>
+					<Attribute_Ref>cost:={free}</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2004-2012]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_18</Concept_Ref>
+					<Concept_Ref>Concept_ctx_28</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_14</ID>
+				<Extent>
+					<Object_Ref>clementine</Object_Ref>
+					<Object_Ref>gear player</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>first public release:=[2005-2012]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2012]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2008-2012]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2011-2012]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2012]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2004-2012]</Attribute_Ref>
+					<Attribute_Ref>testdouble:=*</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2006-2012]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_26</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_13</ID>
+				<Extent>
+					<Object_Ref>ecoute</Object_Ref>
+					<Object_Ref>flash mp3 player</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>first public release:=[2002-2012]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2008-2012]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2011]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2006-2008]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2011]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2012]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2008-2008]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2008]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2006-2011]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2008]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2006-2012]</Attribute_Ref>
+					<Attribute_Ref>testdouble:=*</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2005-2012]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2005-2011]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2004-2008]</Attribute_Ref>
+					<Attribute_Ref>cost:={free}</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2004-2011]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2005-2008]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2008-2011]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2004-2012]</Attribute_Ref>
+					<Attribute_Ref>software license:={proprietary}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_32</Concept_Ref>
+					<Concept_Ref>Concept_ctx_21</Concept_Ref>
+					<Concept_Ref>Concept_ctx_36</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_16</ID>
+				<Extent>
+					<Object_Ref>amarok</Object_Ref>
+					<Object_Ref>guayadeque music player</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>first public release:=[2002-2012]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2011]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2011]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2012]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2003]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2004]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2005]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2006]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2008]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2005]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2008]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2006]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2003]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2004]</Attribute_Ref>
+					<Attribute_Ref>written in:={c++}</Attribute_Ref>
+					<Attribute_Ref>software license:={gpl}</Attribute_Ref>
+					<Attribute_Ref>cost:={free}</Attribute_Ref>
+					<Attribute_Ref>based framework:={gstreamer}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_24</Concept_Ref>
+					<Concept_Ref>Concept_ctx_23</Concept_Ref>
+					<Concept_Ref>Concept_ctx_30</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_15</ID>
+				<Extent>
+					<Object_Ref>audacious</Object_Ref>
+					<Object_Ref>beep media player</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>first public release:=[2002-2012]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2011]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2011]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2012]</Attribute_Ref>
+					<Attribute_Ref>based framework:={xmms based}</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2005]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2006]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2008]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2005]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2008]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2006]</Attribute_Ref>
+					<Attribute_Ref>testdouble:=*</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2004-2008]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2004-2005]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2004-2006]</Attribute_Ref>
+					<Attribute_Ref>software license:={gpl}</Attribute_Ref>
+					<Attribute_Ref>cost:={free}</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2004-2011]</Attribute_Ref>
+					<Attribute_Ref>written in:={c}</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2004-2012]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_28</Concept_Ref>
+					<Concept_Ref>Concept_ctx_27</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_17</ID>
+				<Extent>
+					<Object_Ref>amarok</Object_Ref>
+					<Object_Ref>ecoute</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>first public release:=[2002-2012]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2011]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2011]</Attribute_Ref>
+					<Attribute_Ref>based framework:={quicktime}</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2012]</Attribute_Ref>
+					<Attribute_Ref>cost:={free}</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2008]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2008]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_51</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_19</ID>
+				<Extent>
+					<Object_Ref>aimp</Object_Ref>
+					<Object_Ref>amarok</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>first public release:=[2002-2012]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2011]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2011]</Attribute_Ref>
+					<Attribute_Ref>cost:={free}</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2012]</Attribute_Ref>
+					<Attribute_Ref>testdouble:=[1.8-5.7]</Attribute_Ref>
+					<Attribute_Ref>testdouble:=[3.1-5.7]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2006]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2008]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2008]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2006]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_25</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_18</ID>
+				<Extent>
+					<Object_Ref>aimp</Object_Ref>
+					<Object_Ref>aqualung</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>first public release:=[2002-2012]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2011]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2006-2008]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2011]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2012]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2006-2006]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2006]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2008]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2006-2011]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2008]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2006]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2006-2012]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2005-2012]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2004-2008]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2005-2011]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2004-2006]</Attribute_Ref>
+					<Attribute_Ref>cost:={free}</Attribute_Ref>
+					<Attribute_Ref>testdouble:=[1.8-5.7]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2004-2011]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2005-2008]</Attribute_Ref>
+					<Attribute_Ref>testdouble:=[1.8-4.4]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2005-2006]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2004-2012]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_33</Concept_Ref>
+					<Concept_Ref>Concept_ctx_25</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_21</ID>
+				<Extent>
+					<Object_Ref>clementine</Object_Ref>
+					<Object_Ref>ecoute</Object_Ref>
+					<Object_Ref>flash mp3 player</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>first public release:=[2002-2012]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2008-2012]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2011]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2011]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2012]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2006-2011]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2006-2012]</Attribute_Ref>
+					<Attribute_Ref>testdouble:=*</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2005-2012]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2005-2011]</Attribute_Ref>
+					<Attribute_Ref>cost:={free}</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2004-2011]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2008-2011]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2004-2012]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_37</Concept_Ref>
+					<Concept_Ref>Concept_ctx_26</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_24</ID>
+				<Extent>
+					<Object_Ref>amarok</Object_Ref>
+					<Object_Ref>beep media player</Object_Ref>
+					<Object_Ref>guayadeque music player</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>first public release:=[2002-2012]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2011]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2011]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2012]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2004]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2005]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2006]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2008]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2005]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2008]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2006]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2004]</Attribute_Ref>
+					<Attribute_Ref>software license:={gpl}</Attribute_Ref>
+					<Attribute_Ref>cost:={free}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_29</Concept_Ref>
+					<Concept_Ref>Concept_ctx_34</Concept_Ref>
+					<Concept_Ref>Concept_ctx_41</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_23</ID>
+				<Extent>
+					<Object_Ref>amarok</Object_Ref>
+					<Object_Ref>foobar2000</Object_Ref>
+					<Object_Ref>guayadeque music player</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>first public release:=[2002-2012]</Attribute_Ref>
+					<Attribute_Ref>written in:={c++}</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2011]</Attribute_Ref>
+					<Attribute_Ref>cost:={free}</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2008]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2005]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2006]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2003]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2004]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_29</Concept_Ref>
+					<Concept_Ref>Concept_ctx_31</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_22</ID>
+				<Extent>
+					<Object_Ref>audacious</Object_Ref>
+					<Object_Ref>banshee</Object_Ref>
+					<Object_Ref>cmus</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>first public release:=[2002-2012]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2011]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2011]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2012]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2005]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2006]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2008]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2005]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2008]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2006]</Attribute_Ref>
+					<Attribute_Ref>testdouble:=*</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2005-2012]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2004-2008]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2005-2011]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2004-2005]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2004-2006]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2005-2005]</Attribute_Ref>
+					<Attribute_Ref>cost:={free}</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2004-2011]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2005-2008]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2005-2006]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2004-2012]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_27</Concept_Ref>
+					<Concept_Ref>Concept_ctx_38</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_20</ID>
+				<Extent>
+					<Object_Ref>cog</Object_Ref>
+					<Object_Ref>ecoute</Object_Ref>
+					<Object_Ref>gear player</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>first public release:=[2005-2012]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2012]</Attribute_Ref>
+					<Attribute_Ref>written in:={objective-c}</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2012]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2004-2012]</Attribute_Ref>
+					<Attribute_Ref>testdouble:=*</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2006-2012]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_39</Concept_Ref>
+					<Concept_Ref>Concept_ctx_49</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_25</ID>
+				<Extent>
+					<Object_Ref>aimp</Object_Ref>
+					<Object_Ref>amarok</Object_Ref>
+					<Object_Ref>aqualung</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>first public release:=[2002-2012]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2011]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2011]</Attribute_Ref>
+					<Attribute_Ref>cost:={free}</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2012]</Attribute_Ref>
+					<Attribute_Ref>testdouble:=[1.8-5.7]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2006]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2008]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2008]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2006]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_45</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_26</ID>
+				<Extent>
+					<Object_Ref>clementine</Object_Ref>
+					<Object_Ref>ecoute</Object_Ref>
+					<Object_Ref>flash mp3 player</Object_Ref>
+					<Object_Ref>gear player</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>first public release:=[2005-2012]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2012]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2008-2012]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2012]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2004-2012]</Attribute_Ref>
+					<Attribute_Ref>testdouble:=*</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2006-2012]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_39</Concept_Ref>
+					<Concept_Ref>Concept_ctx_49</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_29</ID>
+				<Extent>
+					<Object_Ref>amarok</Object_Ref>
+					<Object_Ref>beep media player</Object_Ref>
+					<Object_Ref>foobar2000</Object_Ref>
+					<Object_Ref>guayadeque music player</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>first public release:=[2002-2012]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2011]</Attribute_Ref>
+					<Attribute_Ref>cost:={free}</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2008]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2005]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2006]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2004]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_35</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_27</ID>
+				<Extent>
+					<Object_Ref>audacious</Object_Ref>
+					<Object_Ref>banshee</Object_Ref>
+					<Object_Ref>beep media player</Object_Ref>
+					<Object_Ref>cmus</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>first public release:=[2002-2012]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2011]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2011]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2012]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2005]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2006]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2008]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2005]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2008]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2006]</Attribute_Ref>
+					<Attribute_Ref>testdouble:=*</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2004-2008]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2004-2005]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2004-2006]</Attribute_Ref>
+					<Attribute_Ref>cost:={free}</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2004-2011]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2004-2012]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_34</Concept_Ref>
+					<Concept_Ref>Concept_ctx_40</Concept_Ref>
+					<Concept_Ref>Concept_ctx_49</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_28</ID>
+				<Extent>
+					<Object_Ref>aqualung</Object_Ref>
+					<Object_Ref>audacious</Object_Ref>
+					<Object_Ref>beep media player</Object_Ref>
+					<Object_Ref>cmus</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>first public release:=[2002-2012]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2011]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2011]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2012]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2006]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2008]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2008]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2006]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2004-2008]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2004-2006]</Attribute_Ref>
+					<Attribute_Ref>software license:={gpl}</Attribute_Ref>
+					<Attribute_Ref>cost:={free}</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2004-2011]</Attribute_Ref>
+					<Attribute_Ref>written in:={c}</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2004-2012]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_40</Concept_Ref>
+					<Concept_Ref>Concept_ctx_41</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_33</ID>
+				<Extent>
+					<Object_Ref>aimp</Object_Ref>
+					<Object_Ref>aqualung</Object_Ref>
+					<Object_Ref>atunes</Object_Ref>
+					<Object_Ref>cog</Object_Ref>
+					<Object_Ref>exaile</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>first public release:=[2002-2012]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2011]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2006-2008]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2011]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2012]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2006-2006]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2006]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2008]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2006-2011]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2008]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2006]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2006-2012]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2005-2012]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2004-2008]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2005-2011]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2004-2006]</Attribute_Ref>
+					<Attribute_Ref>cost:={free}</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2004-2011]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2005-2008]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2005-2006]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2004-2012]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_38</Concept_Ref>
+					<Concept_Ref>Concept_ctx_36</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_32</ID>
+				<Extent>
+					<Object_Ref>aimp</Object_Ref>
+					<Object_Ref>ecoute</Object_Ref>
+					<Object_Ref>flash mp3 player</Object_Ref>
+					<Object_Ref>foobar2000</Object_Ref>
+					<Object_Ref>gear player</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>first public release:=[2002-2012]</Attribute_Ref>
+					<Attribute_Ref>software license:={proprietary}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_56</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_30</ID>
+				<Extent>
+					<Object_Ref>amarok</Object_Ref>
+					<Object_Ref>banshee</Object_Ref>
+					<Object_Ref>clementine</Object_Ref>
+					<Object_Ref>exaile</Object_Ref>
+					<Object_Ref>guayadeque music player</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>first public release:=[2002-2012]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2011]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2011]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2012]</Attribute_Ref>
+					<Attribute_Ref>cost:={free}</Attribute_Ref>
+					<Attribute_Ref>based framework:={gstreamer}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_53</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_31</ID>
+				<Extent>
+					<Object_Ref>amarok</Object_Ref>
+					<Object_Ref>audacious</Object_Ref>
+					<Object_Ref>clementine</Object_Ref>
+					<Object_Ref>foobar2000</Object_Ref>
+					<Object_Ref>guayadeque music player</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>first public release:=[2002-2012]</Attribute_Ref>
+					<Attribute_Ref>written in:={c++}</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2011]</Attribute_Ref>
+					<Attribute_Ref>cost:={free}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_55</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_34</ID>
+				<Extent>
+					<Object_Ref>amarok</Object_Ref>
+					<Object_Ref>audacious</Object_Ref>
+					<Object_Ref>banshee</Object_Ref>
+					<Object_Ref>beep media player</Object_Ref>
+					<Object_Ref>cmus</Object_Ref>
+					<Object_Ref>guayadeque music player</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>first public release:=[2002-2012]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2011]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2011]</Attribute_Ref>
+					<Attribute_Ref>cost:={free}</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2012]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2005]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2006]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2008]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2005]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2008]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2006]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_35</Concept_Ref>
+					<Concept_Ref>Concept_ctx_45</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_35</ID>
+				<Extent>
+					<Object_Ref>amarok</Object_Ref>
+					<Object_Ref>audacious</Object_Ref>
+					<Object_Ref>banshee</Object_Ref>
+					<Object_Ref>beep media player</Object_Ref>
+					<Object_Ref>cmus</Object_Ref>
+					<Object_Ref>foobar2000</Object_Ref>
+					<Object_Ref>guayadeque music player</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>first public release:=[2002-2012]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2011]</Attribute_Ref>
+					<Attribute_Ref>cost:={free}</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2008]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2005]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2006]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_48</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_36</ID>
+				<Extent>
+					<Object_Ref>aimp</Object_Ref>
+					<Object_Ref>aqualung</Object_Ref>
+					<Object_Ref>atunes</Object_Ref>
+					<Object_Ref>cog</Object_Ref>
+					<Object_Ref>exaile</Object_Ref>
+					<Object_Ref>ecoute</Object_Ref>
+					<Object_Ref>flash mp3 player</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>first public release:=[2002-2012]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2011]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2006-2008]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2011]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2012]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2008]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2006-2011]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2008]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2006-2012]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2005-2012]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2005-2011]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2004-2008]</Attribute_Ref>
+					<Attribute_Ref>cost:={free}</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2004-2011]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2005-2008]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2004-2012]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_37</Concept_Ref>
+					<Concept_Ref>Concept_ctx_42</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_37</ID>
+				<Extent>
+					<Object_Ref>aimp</Object_Ref>
+					<Object_Ref>aqualung</Object_Ref>
+					<Object_Ref>atunes</Object_Ref>
+					<Object_Ref>clementine</Object_Ref>
+					<Object_Ref>cog</Object_Ref>
+					<Object_Ref>exaile</Object_Ref>
+					<Object_Ref>ecoute</Object_Ref>
+					<Object_Ref>flash mp3 player</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>first public release:=[2005-2012]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2012]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2005-2011]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2011]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2011]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2012]</Attribute_Ref>
+					<Attribute_Ref>cost:={free}</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2004-2011]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2006-2011]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2004-2012]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2006-2012]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_39</Concept_Ref>
+					<Concept_Ref>Concept_ctx_43</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_38</ID>
+				<Extent>
+					<Object_Ref>aimp</Object_Ref>
+					<Object_Ref>aqualung</Object_Ref>
+					<Object_Ref>atunes</Object_Ref>
+					<Object_Ref>audacious</Object_Ref>
+					<Object_Ref>banshee</Object_Ref>
+					<Object_Ref>cmus</Object_Ref>
+					<Object_Ref>cog</Object_Ref>
+					<Object_Ref>exaile</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>first public release:=[2002-2012]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2011]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2011]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2012]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2006]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2008]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2008]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2006]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2005-2012]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2004-2008]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2005-2011]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2004-2006]</Attribute_Ref>
+					<Attribute_Ref>cost:={free}</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2004-2011]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2005-2008]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2005-2006]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2004-2012]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_40</Concept_Ref>
+					<Concept_Ref>Concept_ctx_42</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_39</ID>
+				<Extent>
+					<Object_Ref>aimp</Object_Ref>
+					<Object_Ref>aqualung</Object_Ref>
+					<Object_Ref>atunes</Object_Ref>
+					<Object_Ref>clementine</Object_Ref>
+					<Object_Ref>cog</Object_Ref>
+					<Object_Ref>exaile</Object_Ref>
+					<Object_Ref>ecoute</Object_Ref>
+					<Object_Ref>flash mp3 player</Object_Ref>
+					<Object_Ref>gear player</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>first public release:=[2005-2012]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2012]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2012]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2004-2012]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2006-2012]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_46</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_40</ID>
+				<Extent>
+					<Object_Ref>aimp</Object_Ref>
+					<Object_Ref>aqualung</Object_Ref>
+					<Object_Ref>atunes</Object_Ref>
+					<Object_Ref>audacious</Object_Ref>
+					<Object_Ref>banshee</Object_Ref>
+					<Object_Ref>beep media player</Object_Ref>
+					<Object_Ref>cmus</Object_Ref>
+					<Object_Ref>cog</Object_Ref>
+					<Object_Ref>exaile</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>first public release:=[2002-2012]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2011]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2011]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2012]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2006]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2008]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2008]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2006]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2004-2008]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2004-2006]</Attribute_Ref>
+					<Attribute_Ref>cost:={free}</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2004-2011]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2004-2012]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_44</Concept_Ref>
+					<Concept_Ref>Concept_ctx_45</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_42</ID>
+				<Extent>
+					<Object_Ref>aimp</Object_Ref>
+					<Object_Ref>aqualung</Object_Ref>
+					<Object_Ref>atunes</Object_Ref>
+					<Object_Ref>audacious</Object_Ref>
+					<Object_Ref>banshee</Object_Ref>
+					<Object_Ref>cmus</Object_Ref>
+					<Object_Ref>cog</Object_Ref>
+					<Object_Ref>exaile</Object_Ref>
+					<Object_Ref>ecoute</Object_Ref>
+					<Object_Ref>flash mp3 player</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>first public release:=[2002-2012]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2011]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2011]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2012]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2008]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2008]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2005-2012]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2004-2008]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2005-2011]</Attribute_Ref>
+					<Attribute_Ref>cost:={free}</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2005-2008]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2004-2011]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2004-2012]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_44</Concept_Ref>
+					<Concept_Ref>Concept_ctx_43</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_41</ID>
+				<Extent>
+					<Object_Ref>amarok</Object_Ref>
+					<Object_Ref>aqualung</Object_Ref>
+					<Object_Ref>atunes</Object_Ref>
+					<Object_Ref>audacious</Object_Ref>
+					<Object_Ref>beep media player</Object_Ref>
+					<Object_Ref>clementine</Object_Ref>
+					<Object_Ref>cmus</Object_Ref>
+					<Object_Ref>cog</Object_Ref>
+					<Object_Ref>exaile</Object_Ref>
+					<Object_Ref>guayadeque music player</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>first public release:=[2002-2012]</Attribute_Ref>
+					<Attribute_Ref>software license:={gpl}</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2011]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2011]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2012]</Attribute_Ref>
+					<Attribute_Ref>cost:={free}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_53</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_43</ID>
+				<Extent>
+					<Object_Ref>aimp</Object_Ref>
+					<Object_Ref>aqualung</Object_Ref>
+					<Object_Ref>atunes</Object_Ref>
+					<Object_Ref>audacious</Object_Ref>
+					<Object_Ref>banshee</Object_Ref>
+					<Object_Ref>clementine</Object_Ref>
+					<Object_Ref>cmus</Object_Ref>
+					<Object_Ref>cog</Object_Ref>
+					<Object_Ref>exaile</Object_Ref>
+					<Object_Ref>ecoute</Object_Ref>
+					<Object_Ref>flash mp3 player</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>first public release:=[2005-2012]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2012]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2005-2011]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2011]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2011]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2012]</Attribute_Ref>
+					<Attribute_Ref>cost:={free}</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2004-2011]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2004-2012]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_47</Concept_Ref>
+					<Concept_Ref>Concept_ctx_46</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_44</ID>
+				<Extent>
+					<Object_Ref>aimp</Object_Ref>
+					<Object_Ref>aqualung</Object_Ref>
+					<Object_Ref>atunes</Object_Ref>
+					<Object_Ref>audacious</Object_Ref>
+					<Object_Ref>banshee</Object_Ref>
+					<Object_Ref>beep media player</Object_Ref>
+					<Object_Ref>cmus</Object_Ref>
+					<Object_Ref>cog</Object_Ref>
+					<Object_Ref>exaile</Object_Ref>
+					<Object_Ref>ecoute</Object_Ref>
+					<Object_Ref>flash mp3 player</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>first public release:=[2002-2012]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2004-2008]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2011]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2011]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2012]</Attribute_Ref>
+					<Attribute_Ref>cost:={free}</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2004-2011]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2008]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2008]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2004-2012]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_47</Concept_Ref>
+					<Concept_Ref>Concept_ctx_51</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_45</ID>
+				<Extent>
+					<Object_Ref>aimp</Object_Ref>
+					<Object_Ref>amarok</Object_Ref>
+					<Object_Ref>aqualung</Object_Ref>
+					<Object_Ref>atunes</Object_Ref>
+					<Object_Ref>audacious</Object_Ref>
+					<Object_Ref>banshee</Object_Ref>
+					<Object_Ref>beep media player</Object_Ref>
+					<Object_Ref>cmus</Object_Ref>
+					<Object_Ref>cog</Object_Ref>
+					<Object_Ref>exaile</Object_Ref>
+					<Object_Ref>guayadeque music player</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>first public release:=[2002-2012]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2011]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2011]</Attribute_Ref>
+					<Attribute_Ref>cost:={free}</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2012]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2006]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2008]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2008]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2006]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_48</Concept_Ref>
+					<Concept_Ref>Concept_ctx_51</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_46</ID>
+				<Extent>
+					<Object_Ref>aimp</Object_Ref>
+					<Object_Ref>aqualung</Object_Ref>
+					<Object_Ref>atunes</Object_Ref>
+					<Object_Ref>audacious</Object_Ref>
+					<Object_Ref>banshee</Object_Ref>
+					<Object_Ref>clementine</Object_Ref>
+					<Object_Ref>cmus</Object_Ref>
+					<Object_Ref>cog</Object_Ref>
+					<Object_Ref>exaile</Object_Ref>
+					<Object_Ref>ecoute</Object_Ref>
+					<Object_Ref>flash mp3 player</Object_Ref>
+					<Object_Ref>gear player</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>first public release:=[2005-2012]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2012]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2012]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2004-2012]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_50</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_47</ID>
+				<Extent>
+					<Object_Ref>aimp</Object_Ref>
+					<Object_Ref>aqualung</Object_Ref>
+					<Object_Ref>atunes</Object_Ref>
+					<Object_Ref>audacious</Object_Ref>
+					<Object_Ref>banshee</Object_Ref>
+					<Object_Ref>beep media player</Object_Ref>
+					<Object_Ref>clementine</Object_Ref>
+					<Object_Ref>cmus</Object_Ref>
+					<Object_Ref>cog</Object_Ref>
+					<Object_Ref>exaile</Object_Ref>
+					<Object_Ref>ecoute</Object_Ref>
+					<Object_Ref>flash mp3 player</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>first public release:=[2002-2012]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2011]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2011]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2012]</Attribute_Ref>
+					<Attribute_Ref>cost:={free}</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2004-2011]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2004-2012]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_50</Concept_Ref>
+					<Concept_Ref>Concept_ctx_53</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_48</ID>
+				<Extent>
+					<Object_Ref>aimp</Object_Ref>
+					<Object_Ref>amarok</Object_Ref>
+					<Object_Ref>aqualung</Object_Ref>
+					<Object_Ref>atunes</Object_Ref>
+					<Object_Ref>audacious</Object_Ref>
+					<Object_Ref>banshee</Object_Ref>
+					<Object_Ref>beep media player</Object_Ref>
+					<Object_Ref>cmus</Object_Ref>
+					<Object_Ref>cog</Object_Ref>
+					<Object_Ref>exaile</Object_Ref>
+					<Object_Ref>foobar2000</Object_Ref>
+					<Object_Ref>guayadeque music player</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>first public release:=[2002-2012]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2011]</Attribute_Ref>
+					<Attribute_Ref>cost:={free}</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2008]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2006]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_52</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_50</ID>
+				<Extent>
+					<Object_Ref>aimp</Object_Ref>
+					<Object_Ref>aqualung</Object_Ref>
+					<Object_Ref>atunes</Object_Ref>
+					<Object_Ref>audacious</Object_Ref>
+					<Object_Ref>banshee</Object_Ref>
+					<Object_Ref>beep media player</Object_Ref>
+					<Object_Ref>clementine</Object_Ref>
+					<Object_Ref>cmus</Object_Ref>
+					<Object_Ref>cog</Object_Ref>
+					<Object_Ref>exaile</Object_Ref>
+					<Object_Ref>ecoute</Object_Ref>
+					<Object_Ref>flash mp3 player</Object_Ref>
+					<Object_Ref>gear player</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>first public release:=[2002-2012]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2012]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2004-2012]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_54</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_51</ID>
+				<Extent>
+					<Object_Ref>aimp</Object_Ref>
+					<Object_Ref>amarok</Object_Ref>
+					<Object_Ref>aqualung</Object_Ref>
+					<Object_Ref>atunes</Object_Ref>
+					<Object_Ref>audacious</Object_Ref>
+					<Object_Ref>banshee</Object_Ref>
+					<Object_Ref>beep media player</Object_Ref>
+					<Object_Ref>cmus</Object_Ref>
+					<Object_Ref>cog</Object_Ref>
+					<Object_Ref>exaile</Object_Ref>
+					<Object_Ref>ecoute</Object_Ref>
+					<Object_Ref>flash mp3 player</Object_Ref>
+					<Object_Ref>guayadeque music player</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>first public release:=[2002-2012]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2011]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2011]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2012]</Attribute_Ref>
+					<Attribute_Ref>cost:={free}</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2008]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2008]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_53</Concept_Ref>
+					<Concept_Ref>Concept_ctx_52</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_53</ID>
+				<Extent>
+					<Object_Ref>aimp</Object_Ref>
+					<Object_Ref>amarok</Object_Ref>
+					<Object_Ref>aqualung</Object_Ref>
+					<Object_Ref>atunes</Object_Ref>
+					<Object_Ref>audacious</Object_Ref>
+					<Object_Ref>banshee</Object_Ref>
+					<Object_Ref>beep media player</Object_Ref>
+					<Object_Ref>clementine</Object_Ref>
+					<Object_Ref>cmus</Object_Ref>
+					<Object_Ref>cog</Object_Ref>
+					<Object_Ref>exaile</Object_Ref>
+					<Object_Ref>ecoute</Object_Ref>
+					<Object_Ref>flash mp3 player</Object_Ref>
+					<Object_Ref>guayadeque music player</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>first public release:=[2002-2012]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2011]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2011]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2012]</Attribute_Ref>
+					<Attribute_Ref>cost:={free}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_55</Concept_Ref>
+					<Concept_Ref>Concept_ctx_54</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_52</ID>
+				<Extent>
+					<Object_Ref>aimp</Object_Ref>
+					<Object_Ref>amarok</Object_Ref>
+					<Object_Ref>aqualung</Object_Ref>
+					<Object_Ref>atunes</Object_Ref>
+					<Object_Ref>audacious</Object_Ref>
+					<Object_Ref>banshee</Object_Ref>
+					<Object_Ref>beep media player</Object_Ref>
+					<Object_Ref>cmus</Object_Ref>
+					<Object_Ref>cog</Object_Ref>
+					<Object_Ref>exaile</Object_Ref>
+					<Object_Ref>ecoute</Object_Ref>
+					<Object_Ref>flash mp3 player</Object_Ref>
+					<Object_Ref>foobar2000</Object_Ref>
+					<Object_Ref>guayadeque music player</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>first public release:=[2002-2012]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2011]</Attribute_Ref>
+					<Attribute_Ref>cost:={free}</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2008]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_55</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_54</ID>
+				<Extent>
+					<Object_Ref>aimp</Object_Ref>
+					<Object_Ref>amarok</Object_Ref>
+					<Object_Ref>aqualung</Object_Ref>
+					<Object_Ref>atunes</Object_Ref>
+					<Object_Ref>audacious</Object_Ref>
+					<Object_Ref>banshee</Object_Ref>
+					<Object_Ref>beep media player</Object_Ref>
+					<Object_Ref>clementine</Object_Ref>
+					<Object_Ref>cmus</Object_Ref>
+					<Object_Ref>cog</Object_Ref>
+					<Object_Ref>exaile</Object_Ref>
+					<Object_Ref>ecoute</Object_Ref>
+					<Object_Ref>flash mp3 player</Object_Ref>
+					<Object_Ref>guayadeque music player</Object_Ref>
+					<Object_Ref>gear player</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>first public release:=[2002-2012]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2003-2012]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_56</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_55</ID>
+				<Extent>
+					<Object_Ref>aimp</Object_Ref>
+					<Object_Ref>amarok</Object_Ref>
+					<Object_Ref>aqualung</Object_Ref>
+					<Object_Ref>atunes</Object_Ref>
+					<Object_Ref>audacious</Object_Ref>
+					<Object_Ref>banshee</Object_Ref>
+					<Object_Ref>beep media player</Object_Ref>
+					<Object_Ref>clementine</Object_Ref>
+					<Object_Ref>cmus</Object_Ref>
+					<Object_Ref>cog</Object_Ref>
+					<Object_Ref>exaile</Object_Ref>
+					<Object_Ref>ecoute</Object_Ref>
+					<Object_Ref>flash mp3 player</Object_Ref>
+					<Object_Ref>foobar2000</Object_Ref>
+					<Object_Ref>guayadeque music player</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>first public release:=[2002-2012]</Attribute_Ref>
+					<Attribute_Ref>first public release:=[2002-2011]</Attribute_Ref>
+					<Attribute_Ref>cost:={free}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_56</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_56</ID>
+				<Extent>
+					<Object_Ref>aimp</Object_Ref>
+					<Object_Ref>amarok</Object_Ref>
+					<Object_Ref>aqualung</Object_Ref>
+					<Object_Ref>atunes</Object_Ref>
+					<Object_Ref>audacious</Object_Ref>
+					<Object_Ref>banshee</Object_Ref>
+					<Object_Ref>beep media player</Object_Ref>
+					<Object_Ref>clementine</Object_Ref>
+					<Object_Ref>cmus</Object_Ref>
+					<Object_Ref>cog</Object_Ref>
+					<Object_Ref>exaile</Object_Ref>
+					<Object_Ref>ecoute</Object_Ref>
+					<Object_Ref>flash mp3 player</Object_Ref>
+					<Object_Ref>foobar2000</Object_Ref>
+					<Object_Ref>guayadeque music player</Object_Ref>
+					<Object_Ref>gear player</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>first public release:=[2002-2012]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_49</ID>
+				<Extent>
+					<Object_Ref>atunes</Object_Ref>
+					<Object_Ref>audacious</Object_Ref>
+					<Object_Ref>banshee</Object_Ref>
+					<Object_Ref>beep media player</Object_Ref>
+					<Object_Ref>clementine</Object_Ref>
+					<Object_Ref>cmus</Object_Ref>
+					<Object_Ref>cog</Object_Ref>
+					<Object_Ref>exaile</Object_Ref>
+					<Object_Ref>ecoute</Object_Ref>
+					<Object_Ref>flash mp3 player</Object_Ref>
+					<Object_Ref>foobar2000</Object_Ref>
+					<Object_Ref>guayadeque music player</Object_Ref>
+					<Object_Ref>gear player</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>first public release:=[2002-2012]</Attribute_Ref>
+					<Attribute_Ref>testdouble:=*</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_56</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+		</Lattice>
+	</Step >
+</RCAExplore_Document>

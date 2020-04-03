@@ -1,0 +1,1921 @@
+<RCAExplore_Document>
+	<Step nb="0">
+		<Lattice numberObj="19" numberAtt="66" numberCpt="60" >
+			<Config algo="acposet">
+			</Config>
+			<Name>ctx</Name>
+			<Object>aldiko book reader</Object>
+			<Object>alreader</Object>
+			<Object>bookbox</Object>
+			<Object>cool reader</Object>
+			<Object>ebookdroid</Object>
+			<Object>ebook reader</Object>
+			<Object>ezpdf reader</Object>
+			<Object>fbreader</Object>
+			<Object>google play books</Object>
+			<Object>ireader</Object>
+			<Object>kindle</Object>
+			<Object>kobo books</Object>
+			<Object>lektz ebook reader</Object>
+			<Object>mantano ebook reader</Object>
+			<Object>moon+ reader pro</Object>
+			<Object>pocketbook</Object>
+			<Object>snapplify</Object>
+			<Object>socio ereader</Object>
+			<Object>zxreader</Object>
+			<Attribute>developer:={ael data services llp}</Attribute>
+			<Attribute>developer:={snapplify}</Attribute>
+			<Attribute>developer:={alan.neverland}</Attribute>
+			<Attribute>developer:={amazon mobile llc}</Attribute>
+			<Attribute>developer:={unidocs inc.}</Attribute>
+			<Attribute>developer:={ak2}</Attribute>
+			<Attribute>developer:={kobo ebooks}</Attribute>
+			<Attribute>developer:={aldiko limited}</Attribute>
+			<Attribute>developer:={obreey products}</Attribute>
+			<Attribute>developer:={mantano sas}</Attribute>
+			<Attribute>developer:={zxstyles}</Attribute>
+			<Attribute>developer:={fbreader.org limited}</Attribute>
+			<Attribute>developer:={gigamarket ltd.}</Attribute>
+			<Attribute>developer:={vadim lopatin}</Attribute>
+			<Attribute>developer:={google inc.}</Attribute>
+			<Attribute>developer:={ebooks.com}</Attribute>
+			<Attribute>developer:={moon+}</Attribute>
+			<Attribute>formats total:=[01-11]</Attribute>
+			<Attribute>formats total:=[02-11]</Attribute>
+			<Attribute>formats total:=[01-09]</Attribute>
+			<Attribute>formats total:=[04-11]</Attribute>
+			<Attribute>formats total:=[02-09]</Attribute>
+			<Attribute>formats total:=[01-08]</Attribute>
+			<Attribute>formats total:=[05-11]</Attribute>
+			<Attribute>formats total:=[04-09]</Attribute>
+			<Attribute>formats total:=[02-08]</Attribute>
+			<Attribute>formats total:=[01-07]</Attribute>
+			<Attribute>formats total:=[07-11]</Attribute>
+			<Attribute>formats total:=[05-09]</Attribute>
+			<Attribute>formats total:=[04-08]</Attribute>
+			<Attribute>formats total:=[02-07]</Attribute>
+			<Attribute>formats total:=[01-05]</Attribute>
+			<Attribute>formats total:=[08-11]</Attribute>
+			<Attribute>formats total:=[07-09]</Attribute>
+			<Attribute>formats total:=[05-08]</Attribute>
+			<Attribute>formats total:=[04-07]</Attribute>
+			<Attribute>formats total:=[02-05]</Attribute>
+			<Attribute>formats total:=[01-04]</Attribute>
+			<Attribute>formats total:=[09-11]</Attribute>
+			<Attribute>formats total:=[08-09]</Attribute>
+			<Attribute>formats total:=[07-08]</Attribute>
+			<Attribute>formats total:=[05-07]</Attribute>
+			<Attribute>formats total:=[04-05]</Attribute>
+			<Attribute>formats total:=[02-04]</Attribute>
+			<Attribute>formats total:=[01-02]</Attribute>
+			<Attribute>formats total:=[11-11]</Attribute>
+			<Attribute>formats total:=[09-09]</Attribute>
+			<Attribute>formats total:=[08-08]</Attribute>
+			<Attribute>formats total:=[07-07]</Attribute>
+			<Attribute>formats total:=[05-05]</Attribute>
+			<Attribute>formats total:=[04-04]</Attribute>
+			<Attribute>formats total:=[02-02]</Attribute>
+			<Attribute>formats total:=[01-01]</Attribute>
+			<Attribute>.chm</Attribute>
+			<Attribute>.djvu</Attribute>
+			<Attribute>.epub</Attribute>
+			<Attribute>.fb2</Attribute>
+			<Attribute>.html</Attribute>
+			<Attribute>.mobi</Attribute>
+			<Attribute>.oeb</Attribute>
+			<Attribute>.rtf</Attribute>
+			<Attribute>.pdf</Attribute>
+			<Attribute>.txt</Attribute>
+			<Attribute>.doc</Attribute>
+			<Attribute>.docx</Attribute>
+			<Attribute>.pdb</Attribute>
+			<Concept>
+				<ID>Concept_ctx_6</ID>
+				<Extent>
+					<Object_Ref>lektz ebook reader</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>formats total:=[01-11]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-05]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-04]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-02]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-09]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-08]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-07]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-11]</Attribute_Ref>
+					<Attribute_Ref>.epub</Attribute_Ref>
+					<Attribute_Ref>.pdf</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-02]</Attribute_Ref>
+					<Attribute_Ref>developer:={ael data services llp}</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-08]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-07]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-09]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-04]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-05]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_39</Concept_Ref>
+					<Concept_Ref>Concept_ctx_57</Concept_Ref>
+					<Concept_Ref>Concept_ctx_50</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_2</ID>
+				<Extent>
+					<Object_Ref>snapplify</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>formats total:=[05-08]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[07-09]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[07-07]</Attribute_Ref>
+					<Attribute_Ref>developer:={snapplify}</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-08]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[07-11]</Attribute_Ref>
+					<Attribute_Ref>.epub</Attribute_Ref>
+					<Attribute_Ref>.pdf</Attribute_Ref>
+					<Attribute_Ref>formats total:=[04-07]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[04-09]</Attribute_Ref>
+					<Attribute_Ref>.txt</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-08]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[04-11]</Attribute_Ref>
+					<Attribute_Ref>.html</Attribute_Ref>
+					<Attribute_Ref>formats total:=[05-09]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[05-07]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-11]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[07-08]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[05-11]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-09]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-07]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-11]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[04-08]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-07]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-09]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_50</Concept_Ref>
+					<Concept_Ref>Concept_ctx_23</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_0</ID>
+				<Extent>
+					<Object_Ref>zxreader</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>formats total:=[05-08]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-08]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[04-05]</Attribute_Ref>
+					<Attribute_Ref>.epub</Attribute_Ref>
+					<Attribute_Ref>developer:={zxstyles}</Attribute_Ref>
+					<Attribute_Ref>formats total:=[04-07]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[04-09]</Attribute_Ref>
+					<Attribute_Ref>.txt</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-08]</Attribute_Ref>
+					<Attribute_Ref>.docx</Attribute_Ref>
+					<Attribute_Ref>formats total:=[04-11]</Attribute_Ref>
+					<Attribute_Ref>.fb2</Attribute_Ref>
+					<Attribute_Ref>.html</Attribute_Ref>
+					<Attribute_Ref>formats total:=[05-09]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[05-07]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-11]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-05]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[05-11]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-09]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[05-05]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-07]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-11]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[04-08]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-07]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-09]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-05]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_21</Concept_Ref>
+					<Concept_Ref>Concept_ctx_18</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_10</ID>
+				<Extent>
+					<Object_Ref>fbreader</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>.rtf</Attribute_Ref>
+					<Attribute_Ref>.html</Attribute_Ref>
+					<Attribute_Ref>developer:={fbreader.org limited}</Attribute_Ref>
+					<Attribute_Ref>.djvu</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-11]</Attribute_Ref>
+					<Attribute_Ref>.oeb</Attribute_Ref>
+					<Attribute_Ref>formats total:=[05-11]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[11-11]</Attribute_Ref>
+					<Attribute_Ref>.mobi</Attribute_Ref>
+					<Attribute_Ref>formats total:=[09-11]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[07-11]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-11]</Attribute_Ref>
+					<Attribute_Ref>.epub</Attribute_Ref>
+					<Attribute_Ref>.pdf</Attribute_Ref>
+					<Attribute_Ref>.txt</Attribute_Ref>
+					<Attribute_Ref>.pdb</Attribute_Ref>
+					<Attribute_Ref>formats total:=[04-11]</Attribute_Ref>
+					<Attribute_Ref>.doc</Attribute_Ref>
+					<Attribute_Ref>.fb2</Attribute_Ref>
+					<Attribute_Ref>formats total:=[08-11]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_20</Concept_Ref>
+					<Concept_Ref>Concept_ctx_17</Concept_Ref>
+					<Concept_Ref>Concept_ctx_22</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_1</ID>
+				<Extent>
+					<Object_Ref>socio ereader</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>.epub</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-01]</Attribute_Ref>
+					<Attribute_Ref>developer:={gigamarket ltd.}</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-11]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-05]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-04]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-02]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-09]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-08]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-07]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_57</Concept_Ref>
+					<Concept_Ref>Concept_ctx_42</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_14</ID>
+				<Extent>
+					<Object_Ref>cool reader</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>formats total:=[05-08]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[07-09]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[07-07]</Attribute_Ref>
+					<Attribute_Ref>developer:={vadim lopatin}</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-08]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[07-11]</Attribute_Ref>
+					<Attribute_Ref>.epub</Attribute_Ref>
+					<Attribute_Ref>formats total:=[04-07]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[04-09]</Attribute_Ref>
+					<Attribute_Ref>.txt</Attribute_Ref>
+					<Attribute_Ref>.pdb</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-08]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[04-11]</Attribute_Ref>
+					<Attribute_Ref>.doc</Attribute_Ref>
+					<Attribute_Ref>.fb2</Attribute_Ref>
+					<Attribute_Ref>.rtf</Attribute_Ref>
+					<Attribute_Ref>.html</Attribute_Ref>
+					<Attribute_Ref>formats total:=[05-09]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[05-07]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-11]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[07-08]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[05-11]</Attribute_Ref>
+					<Attribute_Ref>.chm</Attribute_Ref>
+					<Attribute_Ref>.mobi</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-09]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-07]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-11]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[04-08]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-07]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-09]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_23</Concept_Ref>
+					<Concept_Ref>Concept_ctx_24</Concept_Ref>
+					<Concept_Ref>Concept_ctx_26</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_9</ID>
+				<Extent>
+					<Object_Ref>google play books</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>formats total:=[01-11]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-05]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-04]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-02]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-09]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-08]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-07]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-11]</Attribute_Ref>
+					<Attribute_Ref>.epub</Attribute_Ref>
+					<Attribute_Ref>.pdf</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-02]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-08]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-07]</Attribute_Ref>
+					<Attribute_Ref>developer:={google inc.}</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-09]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-04]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-05]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_39</Concept_Ref>
+					<Concept_Ref>Concept_ctx_57</Concept_Ref>
+					<Concept_Ref>Concept_ctx_50</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_12</ID>
+				<Extent>
+					<Object_Ref>ebook reader</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>formats total:=[01-11]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-05]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-04]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-02]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-09]</Attribute_Ref>
+					<Attribute_Ref>developer:={ebooks.com}</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-08]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-07]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-11]</Attribute_Ref>
+					<Attribute_Ref>.epub</Attribute_Ref>
+					<Attribute_Ref>.pdf</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-02]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-08]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-07]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-09]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-04]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-05]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_39</Concept_Ref>
+					<Concept_Ref>Concept_ctx_57</Concept_Ref>
+					<Concept_Ref>Concept_ctx_50</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_4</ID>
+				<Extent>
+					<Object_Ref>moon+ reader pro</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>formats total:=[05-08]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[07-09]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[08-09]</Attribute_Ref>
+					<Attribute_Ref>.oeb</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-08]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[07-11]</Attribute_Ref>
+					<Attribute_Ref>.epub</Attribute_Ref>
+					<Attribute_Ref>.pdf</Attribute_Ref>
+					<Attribute_Ref>formats total:=[04-09]</Attribute_Ref>
+					<Attribute_Ref>.txt</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-08]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[04-11]</Attribute_Ref>
+					<Attribute_Ref>.fb2</Attribute_Ref>
+					<Attribute_Ref>formats total:=[08-11]</Attribute_Ref>
+					<Attribute_Ref>.html</Attribute_Ref>
+					<Attribute_Ref>formats total:=[05-09]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-11]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[07-08]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[08-08]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[05-11]</Attribute_Ref>
+					<Attribute_Ref>.chm</Attribute_Ref>
+					<Attribute_Ref>.mobi</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-09]</Attribute_Ref>
+					<Attribute_Ref>developer:={moon+}</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-11]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[04-08]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-09]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_19</Concept_Ref>
+					<Concept_Ref>Concept_ctx_17</Concept_Ref>
+					<Concept_Ref>Concept_ctx_24</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_15</ID>
+				<Extent>
+					<Object_Ref>alreader</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>.rtf</Attribute_Ref>
+					<Attribute_Ref>.html</Attribute_Ref>
+					<Attribute_Ref>formats total:=[05-09]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-11]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[07-09]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[08-09]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[05-11]</Attribute_Ref>
+					<Attribute_Ref>.mobi</Attribute_Ref>
+					<Attribute_Ref>formats total:=[09-11]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-09]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[07-11]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-11]</Attribute_Ref>
+					<Attribute_Ref>.epub</Attribute_Ref>
+					<Attribute_Ref>formats total:=[04-09]</Attribute_Ref>
+					<Attribute_Ref>.txt</Attribute_Ref>
+					<Attribute_Ref>formats total:=[09-09]</Attribute_Ref>
+					<Attribute_Ref>.pdb</Attribute_Ref>
+					<Attribute_Ref>.docx</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-09]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[04-11]</Attribute_Ref>
+					<Attribute_Ref>.doc</Attribute_Ref>
+					<Attribute_Ref>developer:={alan.neverland}</Attribute_Ref>
+					<Attribute_Ref>.fb2</Attribute_Ref>
+					<Attribute_Ref>formats total:=[08-11]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_20</Concept_Ref>
+					<Concept_Ref>Concept_ctx_19</Concept_Ref>
+					<Concept_Ref>Concept_ctx_18</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_8</ID>
+				<Extent>
+					<Object_Ref>kindle</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>formats total:=[01-11]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-05]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-04]</Attribute_Ref>
+					<Attribute_Ref>developer:={amazon mobile llc}</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-02]</Attribute_Ref>
+					<Attribute_Ref>.mobi</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-09]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-08]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-07]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-11]</Attribute_Ref>
+					<Attribute_Ref>.pdf</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-02]</Attribute_Ref>
+					<Attribute_Ref>.txt</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-08]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-07]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-09]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-04]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-05]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_39</Concept_Ref>
+					<Concept_Ref>Concept_ctx_32</Concept_Ref>
+					<Concept_Ref>Concept_ctx_50</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_11</ID>
+				<Extent>
+					<Object_Ref>ezpdf reader</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>.html</Attribute_Ref>
+					<Attribute_Ref>developer:={unidocs inc.}</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-11]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-05]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-04]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-09]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-08]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-07]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[04-05]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-11]</Attribute_Ref>
+					<Attribute_Ref>.epub</Attribute_Ref>
+					<Attribute_Ref>.pdf</Attribute_Ref>
+					<Attribute_Ref>formats total:=[04-07]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[04-08]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[04-09]</Attribute_Ref>
+					<Attribute_Ref>.txt</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-08]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-07]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-09]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[04-11]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-04]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[04-04]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-05]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_50</Concept_Ref>
+					<Concept_Ref>Concept_ctx_27</Concept_Ref>
+					<Concept_Ref>Concept_ctx_43</Concept_Ref>
+					<Concept_Ref>Concept_ctx_44</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_13</ID>
+				<Extent>
+					<Object_Ref>ebookdroid</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>formats total:=[05-08]</Attribute_Ref>
+					<Attribute_Ref>.djvu</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-08]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[04-05]</Attribute_Ref>
+					<Attribute_Ref>.epub</Attribute_Ref>
+					<Attribute_Ref>.pdf</Attribute_Ref>
+					<Attribute_Ref>formats total:=[04-07]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[04-09]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-08]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[04-11]</Attribute_Ref>
+					<Attribute_Ref>.fb2</Attribute_Ref>
+					<Attribute_Ref>.rtf</Attribute_Ref>
+					<Attribute_Ref>formats total:=[05-09]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[05-07]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-11]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-05]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[05-11]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-09]</Attribute_Ref>
+					<Attribute_Ref>developer:={ak2}</Attribute_Ref>
+					<Attribute_Ref>formats total:=[05-05]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-07]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-11]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[04-08]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-07]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-09]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-05]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_21</Concept_Ref>
+					<Concept_Ref>Concept_ctx_22</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_7</ID>
+				<Extent>
+					<Object_Ref>kobo books</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>formats total:=[05-08]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-08]</Attribute_Ref>
+					<Attribute_Ref>developer:={kobo ebooks}</Attribute_Ref>
+					<Attribute_Ref>formats total:=[04-05]</Attribute_Ref>
+					<Attribute_Ref>.epub</Attribute_Ref>
+					<Attribute_Ref>formats total:=[04-07]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[04-09]</Attribute_Ref>
+					<Attribute_Ref>.txt</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-08]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[04-11]</Attribute_Ref>
+					<Attribute_Ref>.rtf</Attribute_Ref>
+					<Attribute_Ref>.html</Attribute_Ref>
+					<Attribute_Ref>formats total:=[05-09]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[05-07]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-11]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-05]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[05-11]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-09]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[05-05]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-07]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-11]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[04-08]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-07]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-09]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-05]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_21</Concept_Ref>
+					<Concept_Ref>Concept_ctx_33</Concept_Ref>
+					<Concept_Ref>Concept_ctx_44</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_16</ID>
+				<Extent>
+					<Object_Ref>aldiko book reader</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>formats total:=[01-11]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-05]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-04]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-02]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-09]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-08]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-07]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-11]</Attribute_Ref>
+					<Attribute_Ref>.epub</Attribute_Ref>
+					<Attribute_Ref>.pdf</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-02]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-08]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-07]</Attribute_Ref>
+					<Attribute_Ref>developer:={aldiko limited}</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-09]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-04]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-05]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_39</Concept_Ref>
+					<Concept_Ref>Concept_ctx_57</Concept_Ref>
+					<Concept_Ref>Concept_ctx_50</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_3</ID>
+				<Extent>
+					<Object_Ref>pocketbook</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>formats total:=[05-08]</Attribute_Ref>
+					<Attribute_Ref>.djvu</Attribute_Ref>
+					<Attribute_Ref>formats total:=[07-09]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[07-07]</Attribute_Ref>
+					<Attribute_Ref>developer:={obreey products}</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-08]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[07-11]</Attribute_Ref>
+					<Attribute_Ref>.epub</Attribute_Ref>
+					<Attribute_Ref>.pdf</Attribute_Ref>
+					<Attribute_Ref>formats total:=[04-07]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[04-09]</Attribute_Ref>
+					<Attribute_Ref>.txt</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-08]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[04-11]</Attribute_Ref>
+					<Attribute_Ref>.fb2</Attribute_Ref>
+					<Attribute_Ref>.rtf</Attribute_Ref>
+					<Attribute_Ref>.html</Attribute_Ref>
+					<Attribute_Ref>formats total:=[05-09]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[05-07]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-11]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[07-08]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[05-11]</Attribute_Ref>
+					<Attribute_Ref>.chm</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-09]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-07]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-11]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[04-08]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-07]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-09]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_23</Concept_Ref>
+					<Concept_Ref>Concept_ctx_22</Concept_Ref>
+					<Concept_Ref>Concept_ctx_24</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_5</ID>
+				<Extent>
+					<Object_Ref>mantano ebook reader</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>developer:={mantano sas}</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-11]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-05]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-04]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-02]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-09]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-08]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-07]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-11]</Attribute_Ref>
+					<Attribute_Ref>.epub</Attribute_Ref>
+					<Attribute_Ref>.pdf</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-02]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-08]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-07]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-09]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-04]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-05]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_39</Concept_Ref>
+					<Concept_Ref>Concept_ctx_57</Concept_Ref>
+					<Concept_Ref>Concept_ctx_50</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_20</ID>
+				<Extent>
+					<Object_Ref>alreader</Object_Ref>
+					<Object_Ref>fbreader</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>.rtf</Attribute_Ref>
+					<Attribute_Ref>.html</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-11]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[05-11]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[09-11]</Attribute_Ref>
+					<Attribute_Ref>.mobi</Attribute_Ref>
+					<Attribute_Ref>formats total:=[07-11]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-11]</Attribute_Ref>
+					<Attribute_Ref>.epub</Attribute_Ref>
+					<Attribute_Ref>.txt</Attribute_Ref>
+					<Attribute_Ref>.pdb</Attribute_Ref>
+					<Attribute_Ref>formats total:=[04-11]</Attribute_Ref>
+					<Attribute_Ref>.doc</Attribute_Ref>
+					<Attribute_Ref>.fb2</Attribute_Ref>
+					<Attribute_Ref>formats total:=[08-11]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_25</Concept_Ref>
+					<Concept_Ref>Concept_ctx_26</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_19</ID>
+				<Extent>
+					<Object_Ref>alreader</Object_Ref>
+					<Object_Ref>moon+ reader pro</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>.html</Attribute_Ref>
+					<Attribute_Ref>formats total:=[05-09]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-11]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[07-09]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[08-09]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[05-11]</Attribute_Ref>
+					<Attribute_Ref>.mobi</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-09]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[07-11]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-11]</Attribute_Ref>
+					<Attribute_Ref>.epub</Attribute_Ref>
+					<Attribute_Ref>.txt</Attribute_Ref>
+					<Attribute_Ref>formats total:=[04-09]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-09]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[04-11]</Attribute_Ref>
+					<Attribute_Ref>.fb2</Attribute_Ref>
+					<Attribute_Ref>formats total:=[08-11]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_25</Concept_Ref>
+					<Concept_Ref>Concept_ctx_29</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_17</ID>
+				<Extent>
+					<Object_Ref>fbreader</Object_Ref>
+					<Object_Ref>moon+ reader pro</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>.html</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-11]</Attribute_Ref>
+					<Attribute_Ref>.oeb</Attribute_Ref>
+					<Attribute_Ref>formats total:=[05-11]</Attribute_Ref>
+					<Attribute_Ref>.mobi</Attribute_Ref>
+					<Attribute_Ref>formats total:=[07-11]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-11]</Attribute_Ref>
+					<Attribute_Ref>.epub</Attribute_Ref>
+					<Attribute_Ref>.pdf</Attribute_Ref>
+					<Attribute_Ref>.txt</Attribute_Ref>
+					<Attribute_Ref>formats total:=[04-11]</Attribute_Ref>
+					<Attribute_Ref>.fb2</Attribute_Ref>
+					<Attribute_Ref>formats total:=[08-11]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_25</Concept_Ref>
+					<Concept_Ref>Concept_ctx_50</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_18</ID>
+				<Extent>
+					<Object_Ref>alreader</Object_Ref>
+					<Object_Ref>zxreader</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>.html</Attribute_Ref>
+					<Attribute_Ref>formats total:=[05-09]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-11]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[05-11]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-09]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-11]</Attribute_Ref>
+					<Attribute_Ref>.epub</Attribute_Ref>
+					<Attribute_Ref>formats total:=[04-09]</Attribute_Ref>
+					<Attribute_Ref>.txt</Attribute_Ref>
+					<Attribute_Ref>.docx</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-09]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[04-11]</Attribute_Ref>
+					<Attribute_Ref>.fb2</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_36</Concept_Ref>
+					<Concept_Ref>Concept_ctx_38</Concept_Ref>
+					<Concept_Ref>Concept_ctx_44</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_25</ID>
+				<Extent>
+					<Object_Ref>alreader</Object_Ref>
+					<Object_Ref>fbreader</Object_Ref>
+					<Object_Ref>moon+ reader pro</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>formats total:=[02-11]</Attribute_Ref>
+					<Attribute_Ref>.html</Attribute_Ref>
+					<Attribute_Ref>.epub</Attribute_Ref>
+					<Attribute_Ref>.txt</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-11]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[05-11]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[04-11]</Attribute_Ref>
+					<Attribute_Ref>.mobi</Attribute_Ref>
+					<Attribute_Ref>.fb2</Attribute_Ref>
+					<Attribute_Ref>formats total:=[07-11]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[08-11]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_36</Concept_Ref>
+					<Concept_Ref>Concept_ctx_31</Concept_Ref>
+					<Concept_Ref>Concept_ctx_32</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_23</ID>
+				<Extent>
+					<Object_Ref>cool reader</Object_Ref>
+					<Object_Ref>pocketbook</Object_Ref>
+					<Object_Ref>snapplify</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>formats total:=[05-08]</Attribute_Ref>
+					<Attribute_Ref>.html</Attribute_Ref>
+					<Attribute_Ref>formats total:=[05-09]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[05-07]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-11]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[07-08]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[07-09]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[05-11]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[07-07]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-09]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-08]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-07]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[07-11]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-11]</Attribute_Ref>
+					<Attribute_Ref>.epub</Attribute_Ref>
+					<Attribute_Ref>formats total:=[04-07]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[04-08]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[04-09]</Attribute_Ref>
+					<Attribute_Ref>.txt</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-08]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-07]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-09]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[04-11]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_30</Concept_Ref>
+					<Concept_Ref>Concept_ctx_28</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_21</ID>
+				<Extent>
+					<Object_Ref>ebookdroid</Object_Ref>
+					<Object_Ref>kobo books</Object_Ref>
+					<Object_Ref>zxreader</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>formats total:=[05-08]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[05-09]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[05-07]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-11]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-05]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[05-11]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-09]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[05-05]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-08]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-07]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[04-05]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-11]</Attribute_Ref>
+					<Attribute_Ref>.epub</Attribute_Ref>
+					<Attribute_Ref>formats total:=[04-07]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[04-08]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[04-09]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-08]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-07]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-09]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[04-11]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-05]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_30</Concept_Ref>
+					<Concept_Ref>Concept_ctx_27</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_24</ID>
+				<Extent>
+					<Object_Ref>cool reader</Object_Ref>
+					<Object_Ref>moon+ reader pro</Object_Ref>
+					<Object_Ref>pocketbook</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>formats total:=[05-08]</Attribute_Ref>
+					<Attribute_Ref>.html</Attribute_Ref>
+					<Attribute_Ref>formats total:=[05-09]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-11]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[07-08]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[07-09]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[05-11]</Attribute_Ref>
+					<Attribute_Ref>.chm</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-09]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-08]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[07-11]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-11]</Attribute_Ref>
+					<Attribute_Ref>.epub</Attribute_Ref>
+					<Attribute_Ref>formats total:=[04-08]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[04-09]</Attribute_Ref>
+					<Attribute_Ref>.txt</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-08]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-09]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[04-11]</Attribute_Ref>
+					<Attribute_Ref>.fb2</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_36</Concept_Ref>
+					<Concept_Ref>Concept_ctx_28</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_22</ID>
+				<Extent>
+					<Object_Ref>ebookdroid</Object_Ref>
+					<Object_Ref>fbreader</Object_Ref>
+					<Object_Ref>pocketbook</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>formats total:=[02-11]</Attribute_Ref>
+					<Attribute_Ref>.rtf</Attribute_Ref>
+					<Attribute_Ref>.epub</Attribute_Ref>
+					<Attribute_Ref>.pdf</Attribute_Ref>
+					<Attribute_Ref>.djvu</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-11]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[05-11]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[04-11]</Attribute_Ref>
+					<Attribute_Ref>.fb2</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_36</Concept_Ref>
+					<Concept_Ref>Concept_ctx_33</Concept_Ref>
+					<Concept_Ref>Concept_ctx_50</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_26</ID>
+				<Extent>
+					<Object_Ref>alreader</Object_Ref>
+					<Object_Ref>cool reader</Object_Ref>
+					<Object_Ref>fbreader</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>.rtf</Attribute_Ref>
+					<Attribute_Ref>.html</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-11]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[05-11]</Attribute_Ref>
+					<Attribute_Ref>.mobi</Attribute_Ref>
+					<Attribute_Ref>formats total:=[07-11]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-11]</Attribute_Ref>
+					<Attribute_Ref>.epub</Attribute_Ref>
+					<Attribute_Ref>.txt</Attribute_Ref>
+					<Attribute_Ref>.pdb</Attribute_Ref>
+					<Attribute_Ref>formats total:=[04-11]</Attribute_Ref>
+					<Attribute_Ref>.doc</Attribute_Ref>
+					<Attribute_Ref>.fb2</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_33</Concept_Ref>
+					<Concept_Ref>Concept_ctx_36</Concept_Ref>
+					<Concept_Ref>Concept_ctx_31</Concept_Ref>
+					<Concept_Ref>Concept_ctx_32</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_28</ID>
+				<Extent>
+					<Object_Ref>cool reader</Object_Ref>
+					<Object_Ref>moon+ reader pro</Object_Ref>
+					<Object_Ref>pocketbook</Object_Ref>
+					<Object_Ref>snapplify</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>formats total:=[05-08]</Attribute_Ref>
+					<Attribute_Ref>.html</Attribute_Ref>
+					<Attribute_Ref>formats total:=[05-09]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-11]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[07-08]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[07-09]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[05-11]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-09]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-08]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[07-11]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-11]</Attribute_Ref>
+					<Attribute_Ref>.epub</Attribute_Ref>
+					<Attribute_Ref>formats total:=[04-08]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[04-09]</Attribute_Ref>
+					<Attribute_Ref>.txt</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-08]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-09]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[04-11]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_34</Concept_Ref>
+					<Concept_Ref>Concept_ctx_29</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_27</ID>
+				<Extent>
+					<Object_Ref>ebookdroid</Object_Ref>
+					<Object_Ref>ezpdf reader</Object_Ref>
+					<Object_Ref>kobo books</Object_Ref>
+					<Object_Ref>zxreader</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>formats total:=[01-11]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-05]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-09]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-08]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-07]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[04-05]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-11]</Attribute_Ref>
+					<Attribute_Ref>.epub</Attribute_Ref>
+					<Attribute_Ref>formats total:=[04-07]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[04-08]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[04-09]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-08]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-07]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-09]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[04-11]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-05]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_48</Concept_Ref>
+					<Concept_Ref>Concept_ctx_35</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_29</ID>
+				<Extent>
+					<Object_Ref>alreader</Object_Ref>
+					<Object_Ref>cool reader</Object_Ref>
+					<Object_Ref>moon+ reader pro</Object_Ref>
+					<Object_Ref>pocketbook</Object_Ref>
+					<Object_Ref>snapplify</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>.html</Attribute_Ref>
+					<Attribute_Ref>formats total:=[05-09]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-11]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[07-09]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[05-11]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-09]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[07-11]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-11]</Attribute_Ref>
+					<Attribute_Ref>.epub</Attribute_Ref>
+					<Attribute_Ref>formats total:=[04-09]</Attribute_Ref>
+					<Attribute_Ref>.txt</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-09]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[04-11]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_38</Concept_Ref>
+					<Concept_Ref>Concept_ctx_31</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_31</ID>
+				<Extent>
+					<Object_Ref>alreader</Object_Ref>
+					<Object_Ref>cool reader</Object_Ref>
+					<Object_Ref>fbreader</Object_Ref>
+					<Object_Ref>moon+ reader pro</Object_Ref>
+					<Object_Ref>pocketbook</Object_Ref>
+					<Object_Ref>snapplify</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>.html</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-11]</Attribute_Ref>
+					<Attribute_Ref>.epub</Attribute_Ref>
+					<Attribute_Ref>.txt</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-11]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[05-11]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[04-11]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[07-11]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_40</Concept_Ref>
+					<Concept_Ref>Concept_ctx_44</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_30</ID>
+				<Extent>
+					<Object_Ref>cool reader</Object_Ref>
+					<Object_Ref>ebookdroid</Object_Ref>
+					<Object_Ref>kobo books</Object_Ref>
+					<Object_Ref>pocketbook</Object_Ref>
+					<Object_Ref>snapplify</Object_Ref>
+					<Object_Ref>zxreader</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>formats total:=[05-08]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[05-09]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[05-07]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-11]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[05-11]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-09]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-08]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-07]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-11]</Attribute_Ref>
+					<Attribute_Ref>.epub</Attribute_Ref>
+					<Attribute_Ref>formats total:=[04-07]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[04-08]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[04-09]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-08]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-07]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-09]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[04-11]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_34</Concept_Ref>
+					<Concept_Ref>Concept_ctx_35</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_32</ID>
+				<Extent>
+					<Object_Ref>alreader</Object_Ref>
+					<Object_Ref>cool reader</Object_Ref>
+					<Object_Ref>fbreader</Object_Ref>
+					<Object_Ref>ireader</Object_Ref>
+					<Object_Ref>kindle</Object_Ref>
+					<Object_Ref>moon+ reader pro</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>formats total:=[02-11]</Attribute_Ref>
+					<Attribute_Ref>.txt</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-11]</Attribute_Ref>
+					<Attribute_Ref>.mobi</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_47</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_33</ID>
+				<Extent>
+					<Object_Ref>alreader</Object_Ref>
+					<Object_Ref>cool reader</Object_Ref>
+					<Object_Ref>ebookdroid</Object_Ref>
+					<Object_Ref>fbreader</Object_Ref>
+					<Object_Ref>kobo books</Object_Ref>
+					<Object_Ref>pocketbook</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>.rtf</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-11]</Attribute_Ref>
+					<Attribute_Ref>.epub</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-11]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[05-11]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[04-11]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_40</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_34</ID>
+				<Extent>
+					<Object_Ref>cool reader</Object_Ref>
+					<Object_Ref>ebookdroid</Object_Ref>
+					<Object_Ref>kobo books</Object_Ref>
+					<Object_Ref>moon+ reader pro</Object_Ref>
+					<Object_Ref>pocketbook</Object_Ref>
+					<Object_Ref>snapplify</Object_Ref>
+					<Object_Ref>zxreader</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>formats total:=[05-08]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[05-09]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-11]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[05-11]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-09]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-08]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-11]</Attribute_Ref>
+					<Attribute_Ref>.epub</Attribute_Ref>
+					<Attribute_Ref>formats total:=[04-08]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[04-09]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-08]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-09]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[04-11]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_38</Concept_Ref>
+					<Concept_Ref>Concept_ctx_37</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_35</ID>
+				<Extent>
+					<Object_Ref>cool reader</Object_Ref>
+					<Object_Ref>ebookdroid</Object_Ref>
+					<Object_Ref>ezpdf reader</Object_Ref>
+					<Object_Ref>kobo books</Object_Ref>
+					<Object_Ref>pocketbook</Object_Ref>
+					<Object_Ref>snapplify</Object_Ref>
+					<Object_Ref>zxreader</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>formats total:=[01-11]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-09]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-08]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-07]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-11]</Attribute_Ref>
+					<Attribute_Ref>.epub</Attribute_Ref>
+					<Attribute_Ref>formats total:=[04-07]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[04-08]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[04-09]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-08]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-07]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-09]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[04-11]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_37</Concept_Ref>
+					<Concept_Ref>Concept_ctx_51</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_36</ID>
+				<Extent>
+					<Object_Ref>alreader</Object_Ref>
+					<Object_Ref>cool reader</Object_Ref>
+					<Object_Ref>ebookdroid</Object_Ref>
+					<Object_Ref>fbreader</Object_Ref>
+					<Object_Ref>moon+ reader pro</Object_Ref>
+					<Object_Ref>pocketbook</Object_Ref>
+					<Object_Ref>zxreader</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>formats total:=[02-11]</Attribute_Ref>
+					<Attribute_Ref>.epub</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-11]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[05-11]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[04-11]</Attribute_Ref>
+					<Attribute_Ref>.fb2</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_40</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_38</ID>
+				<Extent>
+					<Object_Ref>alreader</Object_Ref>
+					<Object_Ref>cool reader</Object_Ref>
+					<Object_Ref>ebookdroid</Object_Ref>
+					<Object_Ref>kobo books</Object_Ref>
+					<Object_Ref>moon+ reader pro</Object_Ref>
+					<Object_Ref>pocketbook</Object_Ref>
+					<Object_Ref>snapplify</Object_Ref>
+					<Object_Ref>zxreader</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>formats total:=[02-11]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[05-09]</Attribute_Ref>
+					<Attribute_Ref>.epub</Attribute_Ref>
+					<Attribute_Ref>formats total:=[04-09]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-11]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[05-11]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-09]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[04-11]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-09]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_41</Concept_Ref>
+					<Concept_Ref>Concept_ctx_40</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_37</ID>
+				<Extent>
+					<Object_Ref>cool reader</Object_Ref>
+					<Object_Ref>ebookdroid</Object_Ref>
+					<Object_Ref>ezpdf reader</Object_Ref>
+					<Object_Ref>kobo books</Object_Ref>
+					<Object_Ref>moon+ reader pro</Object_Ref>
+					<Object_Ref>pocketbook</Object_Ref>
+					<Object_Ref>snapplify</Object_Ref>
+					<Object_Ref>zxreader</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>formats total:=[02-11]</Attribute_Ref>
+					<Attribute_Ref>.epub</Attribute_Ref>
+					<Attribute_Ref>formats total:=[04-08]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[04-09]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-11]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-08]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-09]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[04-11]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-09]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-08]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_53</Concept_Ref>
+					<Concept_Ref>Concept_ctx_41</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_39</ID>
+				<Extent>
+					<Object_Ref>aldiko book reader</Object_Ref>
+					<Object_Ref>bookbox</Object_Ref>
+					<Object_Ref>ebook reader</Object_Ref>
+					<Object_Ref>google play books</Object_Ref>
+					<Object_Ref>ireader</Object_Ref>
+					<Object_Ref>kindle</Object_Ref>
+					<Object_Ref>lektz ebook reader</Object_Ref>
+					<Object_Ref>mantano ebook reader</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>formats total:=[01-11]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-05]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-04]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-02]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-09]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-08]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-07]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-11]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-02]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-08]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-07]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-09]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-04]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-05]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_42</Concept_Ref>
+					<Concept_Ref>Concept_ctx_43</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_40</ID>
+				<Extent>
+					<Object_Ref>alreader</Object_Ref>
+					<Object_Ref>cool reader</Object_Ref>
+					<Object_Ref>ebookdroid</Object_Ref>
+					<Object_Ref>fbreader</Object_Ref>
+					<Object_Ref>kobo books</Object_Ref>
+					<Object_Ref>moon+ reader pro</Object_Ref>
+					<Object_Ref>pocketbook</Object_Ref>
+					<Object_Ref>snapplify</Object_Ref>
+					<Object_Ref>zxreader</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>formats total:=[02-11]</Attribute_Ref>
+					<Attribute_Ref>.epub</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-11]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[05-11]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[04-11]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_45</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_41</ID>
+				<Extent>
+					<Object_Ref>alreader</Object_Ref>
+					<Object_Ref>cool reader</Object_Ref>
+					<Object_Ref>ebookdroid</Object_Ref>
+					<Object_Ref>ezpdf reader</Object_Ref>
+					<Object_Ref>kobo books</Object_Ref>
+					<Object_Ref>moon+ reader pro</Object_Ref>
+					<Object_Ref>pocketbook</Object_Ref>
+					<Object_Ref>snapplify</Object_Ref>
+					<Object_Ref>zxreader</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>formats total:=[02-11]</Attribute_Ref>
+					<Attribute_Ref>.epub</Attribute_Ref>
+					<Attribute_Ref>formats total:=[04-09]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-11]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-09]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[04-11]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-09]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_55</Concept_Ref>
+					<Concept_Ref>Concept_ctx_45</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_43</ID>
+				<Extent>
+					<Object_Ref>aldiko book reader</Object_Ref>
+					<Object_Ref>bookbox</Object_Ref>
+					<Object_Ref>ebook reader</Object_Ref>
+					<Object_Ref>ezpdf reader</Object_Ref>
+					<Object_Ref>google play books</Object_Ref>
+					<Object_Ref>ireader</Object_Ref>
+					<Object_Ref>kindle</Object_Ref>
+					<Object_Ref>lektz ebook reader</Object_Ref>
+					<Object_Ref>mantano ebook reader</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>formats total:=[02-11]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-11]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-08]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-05]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-04]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-07]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-09]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-04]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-09]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-08]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-07]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-05]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_46</Concept_Ref>
+					<Concept_Ref>Concept_ctx_48</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_42</ID>
+				<Extent>
+					<Object_Ref>aldiko book reader</Object_Ref>
+					<Object_Ref>bookbox</Object_Ref>
+					<Object_Ref>ebook reader</Object_Ref>
+					<Object_Ref>google play books</Object_Ref>
+					<Object_Ref>ireader</Object_Ref>
+					<Object_Ref>kindle</Object_Ref>
+					<Object_Ref>lektz ebook reader</Object_Ref>
+					<Object_Ref>mantano ebook reader</Object_Ref>
+					<Object_Ref>socio ereader</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>formats total:=[01-11]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-05]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-04]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-02]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-09]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-08]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-07]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_46</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_45</ID>
+				<Extent>
+					<Object_Ref>alreader</Object_Ref>
+					<Object_Ref>cool reader</Object_Ref>
+					<Object_Ref>ebookdroid</Object_Ref>
+					<Object_Ref>ezpdf reader</Object_Ref>
+					<Object_Ref>fbreader</Object_Ref>
+					<Object_Ref>kobo books</Object_Ref>
+					<Object_Ref>moon+ reader pro</Object_Ref>
+					<Object_Ref>pocketbook</Object_Ref>
+					<Object_Ref>snapplify</Object_Ref>
+					<Object_Ref>zxreader</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>formats total:=[02-11]</Attribute_Ref>
+					<Attribute_Ref>.epub</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-11]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[04-11]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_57</Concept_Ref>
+					<Concept_Ref>Concept_ctx_58</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_46</ID>
+				<Extent>
+					<Object_Ref>aldiko book reader</Object_Ref>
+					<Object_Ref>bookbox</Object_Ref>
+					<Object_Ref>ebook reader</Object_Ref>
+					<Object_Ref>ezpdf reader</Object_Ref>
+					<Object_Ref>google play books</Object_Ref>
+					<Object_Ref>ireader</Object_Ref>
+					<Object_Ref>kindle</Object_Ref>
+					<Object_Ref>lektz ebook reader</Object_Ref>
+					<Object_Ref>mantano ebook reader</Object_Ref>
+					<Object_Ref>socio ereader</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>formats total:=[01-11]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-05]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-04]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-09]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-08]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-07]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_49</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_44</ID>
+				<Extent>
+					<Object_Ref>alreader</Object_Ref>
+					<Object_Ref>cool reader</Object_Ref>
+					<Object_Ref>ezpdf reader</Object_Ref>
+					<Object_Ref>fbreader</Object_Ref>
+					<Object_Ref>ireader</Object_Ref>
+					<Object_Ref>kobo books</Object_Ref>
+					<Object_Ref>moon+ reader pro</Object_Ref>
+					<Object_Ref>pocketbook</Object_Ref>
+					<Object_Ref>snapplify</Object_Ref>
+					<Object_Ref>zxreader</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>.html</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-11]</Attribute_Ref>
+					<Attribute_Ref>.epub</Attribute_Ref>
+					<Attribute_Ref>.txt</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-11]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_57</Concept_Ref>
+					<Concept_Ref>Concept_ctx_47</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_48</ID>
+				<Extent>
+					<Object_Ref>aldiko book reader</Object_Ref>
+					<Object_Ref>bookbox</Object_Ref>
+					<Object_Ref>ebookdroid</Object_Ref>
+					<Object_Ref>ebook reader</Object_Ref>
+					<Object_Ref>ezpdf reader</Object_Ref>
+					<Object_Ref>google play books</Object_Ref>
+					<Object_Ref>ireader</Object_Ref>
+					<Object_Ref>kindle</Object_Ref>
+					<Object_Ref>kobo books</Object_Ref>
+					<Object_Ref>lektz ebook reader</Object_Ref>
+					<Object_Ref>mantano ebook reader</Object_Ref>
+					<Object_Ref>zxreader</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>formats total:=[02-11]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-11]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-08]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-05]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-07]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-09]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-09]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-08]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-07]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-05]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_49</Concept_Ref>
+					<Concept_Ref>Concept_ctx_51</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_47</ID>
+				<Extent>
+					<Object_Ref>alreader</Object_Ref>
+					<Object_Ref>bookbox</Object_Ref>
+					<Object_Ref>cool reader</Object_Ref>
+					<Object_Ref>ezpdf reader</Object_Ref>
+					<Object_Ref>fbreader</Object_Ref>
+					<Object_Ref>ireader</Object_Ref>
+					<Object_Ref>kindle</Object_Ref>
+					<Object_Ref>kobo books</Object_Ref>
+					<Object_Ref>moon+ reader pro</Object_Ref>
+					<Object_Ref>pocketbook</Object_Ref>
+					<Object_Ref>snapplify</Object_Ref>
+					<Object_Ref>zxreader</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>formats total:=[02-11]</Attribute_Ref>
+					<Attribute_Ref>.txt</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-11]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_58</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_49</ID>
+				<Extent>
+					<Object_Ref>aldiko book reader</Object_Ref>
+					<Object_Ref>bookbox</Object_Ref>
+					<Object_Ref>ebookdroid</Object_Ref>
+					<Object_Ref>ebook reader</Object_Ref>
+					<Object_Ref>ezpdf reader</Object_Ref>
+					<Object_Ref>google play books</Object_Ref>
+					<Object_Ref>ireader</Object_Ref>
+					<Object_Ref>kindle</Object_Ref>
+					<Object_Ref>kobo books</Object_Ref>
+					<Object_Ref>lektz ebook reader</Object_Ref>
+					<Object_Ref>mantano ebook reader</Object_Ref>
+					<Object_Ref>socio ereader</Object_Ref>
+					<Object_Ref>zxreader</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>formats total:=[01-11]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-05]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-09]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-08]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-07]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_52</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_50</ID>
+				<Extent>
+					<Object_Ref>aldiko book reader</Object_Ref>
+					<Object_Ref>bookbox</Object_Ref>
+					<Object_Ref>ebookdroid</Object_Ref>
+					<Object_Ref>ebook reader</Object_Ref>
+					<Object_Ref>ezpdf reader</Object_Ref>
+					<Object_Ref>fbreader</Object_Ref>
+					<Object_Ref>google play books</Object_Ref>
+					<Object_Ref>kindle</Object_Ref>
+					<Object_Ref>lektz ebook reader</Object_Ref>
+					<Object_Ref>mantano ebook reader</Object_Ref>
+					<Object_Ref>moon+ reader pro</Object_Ref>
+					<Object_Ref>pocketbook</Object_Ref>
+					<Object_Ref>snapplify</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>formats total:=[02-11]</Attribute_Ref>
+					<Attribute_Ref>.pdf</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-11]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_58</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_51</ID>
+				<Extent>
+					<Object_Ref>aldiko book reader</Object_Ref>
+					<Object_Ref>bookbox</Object_Ref>
+					<Object_Ref>cool reader</Object_Ref>
+					<Object_Ref>ebookdroid</Object_Ref>
+					<Object_Ref>ebook reader</Object_Ref>
+					<Object_Ref>ezpdf reader</Object_Ref>
+					<Object_Ref>google play books</Object_Ref>
+					<Object_Ref>ireader</Object_Ref>
+					<Object_Ref>kindle</Object_Ref>
+					<Object_Ref>kobo books</Object_Ref>
+					<Object_Ref>lektz ebook reader</Object_Ref>
+					<Object_Ref>mantano ebook reader</Object_Ref>
+					<Object_Ref>pocketbook</Object_Ref>
+					<Object_Ref>snapplify</Object_Ref>
+					<Object_Ref>zxreader</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>formats total:=[02-11]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-11]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-08]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-07]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-09]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-09]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-08]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-07]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_53</Concept_Ref>
+					<Concept_Ref>Concept_ctx_52</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_53</ID>
+				<Extent>
+					<Object_Ref>aldiko book reader</Object_Ref>
+					<Object_Ref>bookbox</Object_Ref>
+					<Object_Ref>cool reader</Object_Ref>
+					<Object_Ref>ebookdroid</Object_Ref>
+					<Object_Ref>ebook reader</Object_Ref>
+					<Object_Ref>ezpdf reader</Object_Ref>
+					<Object_Ref>google play books</Object_Ref>
+					<Object_Ref>ireader</Object_Ref>
+					<Object_Ref>kindle</Object_Ref>
+					<Object_Ref>kobo books</Object_Ref>
+					<Object_Ref>lektz ebook reader</Object_Ref>
+					<Object_Ref>mantano ebook reader</Object_Ref>
+					<Object_Ref>moon+ reader pro</Object_Ref>
+					<Object_Ref>pocketbook</Object_Ref>
+					<Object_Ref>snapplify</Object_Ref>
+					<Object_Ref>zxreader</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>formats total:=[02-11]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-11]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-08]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-09]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-09]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-08]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_55</Concept_Ref>
+					<Concept_Ref>Concept_ctx_54</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_52</ID>
+				<Extent>
+					<Object_Ref>aldiko book reader</Object_Ref>
+					<Object_Ref>bookbox</Object_Ref>
+					<Object_Ref>cool reader</Object_Ref>
+					<Object_Ref>ebookdroid</Object_Ref>
+					<Object_Ref>ebook reader</Object_Ref>
+					<Object_Ref>ezpdf reader</Object_Ref>
+					<Object_Ref>google play books</Object_Ref>
+					<Object_Ref>ireader</Object_Ref>
+					<Object_Ref>kindle</Object_Ref>
+					<Object_Ref>kobo books</Object_Ref>
+					<Object_Ref>lektz ebook reader</Object_Ref>
+					<Object_Ref>mantano ebook reader</Object_Ref>
+					<Object_Ref>pocketbook</Object_Ref>
+					<Object_Ref>snapplify</Object_Ref>
+					<Object_Ref>socio ereader</Object_Ref>
+					<Object_Ref>zxreader</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>formats total:=[01-11]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-09]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-08]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-07]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_54</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_55</ID>
+				<Extent>
+					<Object_Ref>aldiko book reader</Object_Ref>
+					<Object_Ref>alreader</Object_Ref>
+					<Object_Ref>bookbox</Object_Ref>
+					<Object_Ref>cool reader</Object_Ref>
+					<Object_Ref>ebookdroid</Object_Ref>
+					<Object_Ref>ebook reader</Object_Ref>
+					<Object_Ref>ezpdf reader</Object_Ref>
+					<Object_Ref>google play books</Object_Ref>
+					<Object_Ref>ireader</Object_Ref>
+					<Object_Ref>kindle</Object_Ref>
+					<Object_Ref>kobo books</Object_Ref>
+					<Object_Ref>lektz ebook reader</Object_Ref>
+					<Object_Ref>mantano ebook reader</Object_Ref>
+					<Object_Ref>moon+ reader pro</Object_Ref>
+					<Object_Ref>pocketbook</Object_Ref>
+					<Object_Ref>snapplify</Object_Ref>
+					<Object_Ref>zxreader</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>formats total:=[02-11]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-11]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[02-09]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-09]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_56</Concept_Ref>
+					<Concept_Ref>Concept_ctx_58</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_54</ID>
+				<Extent>
+					<Object_Ref>aldiko book reader</Object_Ref>
+					<Object_Ref>bookbox</Object_Ref>
+					<Object_Ref>cool reader</Object_Ref>
+					<Object_Ref>ebookdroid</Object_Ref>
+					<Object_Ref>ebook reader</Object_Ref>
+					<Object_Ref>ezpdf reader</Object_Ref>
+					<Object_Ref>google play books</Object_Ref>
+					<Object_Ref>ireader</Object_Ref>
+					<Object_Ref>kindle</Object_Ref>
+					<Object_Ref>kobo books</Object_Ref>
+					<Object_Ref>lektz ebook reader</Object_Ref>
+					<Object_Ref>mantano ebook reader</Object_Ref>
+					<Object_Ref>moon+ reader pro</Object_Ref>
+					<Object_Ref>pocketbook</Object_Ref>
+					<Object_Ref>snapplify</Object_Ref>
+					<Object_Ref>socio ereader</Object_Ref>
+					<Object_Ref>zxreader</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>formats total:=[01-11]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-09]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-08]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_56</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_58</ID>
+				<Extent>
+					<Object_Ref>aldiko book reader</Object_Ref>
+					<Object_Ref>alreader</Object_Ref>
+					<Object_Ref>bookbox</Object_Ref>
+					<Object_Ref>cool reader</Object_Ref>
+					<Object_Ref>ebookdroid</Object_Ref>
+					<Object_Ref>ebook reader</Object_Ref>
+					<Object_Ref>ezpdf reader</Object_Ref>
+					<Object_Ref>fbreader</Object_Ref>
+					<Object_Ref>google play books</Object_Ref>
+					<Object_Ref>ireader</Object_Ref>
+					<Object_Ref>kindle</Object_Ref>
+					<Object_Ref>kobo books</Object_Ref>
+					<Object_Ref>lektz ebook reader</Object_Ref>
+					<Object_Ref>mantano ebook reader</Object_Ref>
+					<Object_Ref>moon+ reader pro</Object_Ref>
+					<Object_Ref>pocketbook</Object_Ref>
+					<Object_Ref>snapplify</Object_Ref>
+					<Object_Ref>zxreader</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>formats total:=[02-11]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-11]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_59</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_56</ID>
+				<Extent>
+					<Object_Ref>aldiko book reader</Object_Ref>
+					<Object_Ref>alreader</Object_Ref>
+					<Object_Ref>bookbox</Object_Ref>
+					<Object_Ref>cool reader</Object_Ref>
+					<Object_Ref>ebookdroid</Object_Ref>
+					<Object_Ref>ebook reader</Object_Ref>
+					<Object_Ref>ezpdf reader</Object_Ref>
+					<Object_Ref>google play books</Object_Ref>
+					<Object_Ref>ireader</Object_Ref>
+					<Object_Ref>kindle</Object_Ref>
+					<Object_Ref>kobo books</Object_Ref>
+					<Object_Ref>lektz ebook reader</Object_Ref>
+					<Object_Ref>mantano ebook reader</Object_Ref>
+					<Object_Ref>moon+ reader pro</Object_Ref>
+					<Object_Ref>pocketbook</Object_Ref>
+					<Object_Ref>snapplify</Object_Ref>
+					<Object_Ref>socio ereader</Object_Ref>
+					<Object_Ref>zxreader</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>formats total:=[01-11]</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-09]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_59</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_57</ID>
+				<Extent>
+					<Object_Ref>aldiko book reader</Object_Ref>
+					<Object_Ref>alreader</Object_Ref>
+					<Object_Ref>bookbox</Object_Ref>
+					<Object_Ref>cool reader</Object_Ref>
+					<Object_Ref>ebookdroid</Object_Ref>
+					<Object_Ref>ebook reader</Object_Ref>
+					<Object_Ref>ezpdf reader</Object_Ref>
+					<Object_Ref>fbreader</Object_Ref>
+					<Object_Ref>google play books</Object_Ref>
+					<Object_Ref>ireader</Object_Ref>
+					<Object_Ref>kobo books</Object_Ref>
+					<Object_Ref>lektz ebook reader</Object_Ref>
+					<Object_Ref>mantano ebook reader</Object_Ref>
+					<Object_Ref>moon+ reader pro</Object_Ref>
+					<Object_Ref>pocketbook</Object_Ref>
+					<Object_Ref>snapplify</Object_Ref>
+					<Object_Ref>socio ereader</Object_Ref>
+					<Object_Ref>zxreader</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>.epub</Attribute_Ref>
+					<Attribute_Ref>formats total:=[01-11]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_59</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_59</ID>
+				<Extent>
+					<Object_Ref>aldiko book reader</Object_Ref>
+					<Object_Ref>alreader</Object_Ref>
+					<Object_Ref>bookbox</Object_Ref>
+					<Object_Ref>cool reader</Object_Ref>
+					<Object_Ref>ebookdroid</Object_Ref>
+					<Object_Ref>ebook reader</Object_Ref>
+					<Object_Ref>ezpdf reader</Object_Ref>
+					<Object_Ref>fbreader</Object_Ref>
+					<Object_Ref>google play books</Object_Ref>
+					<Object_Ref>ireader</Object_Ref>
+					<Object_Ref>kindle</Object_Ref>
+					<Object_Ref>kobo books</Object_Ref>
+					<Object_Ref>lektz ebook reader</Object_Ref>
+					<Object_Ref>mantano ebook reader</Object_Ref>
+					<Object_Ref>moon+ reader pro</Object_Ref>
+					<Object_Ref>pocketbook</Object_Ref>
+					<Object_Ref>snapplify</Object_Ref>
+					<Object_Ref>socio ereader</Object_Ref>
+					<Object_Ref>zxreader</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>formats total:=[01-11]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+				</UpperCovers>
+			</Concept>
+		</Lattice>
+	</Step >
+</RCAExplore_Document>

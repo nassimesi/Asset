@@ -1,0 +1,4 @@
+softwarelicense:={mit} -> active
+softwarelicense:={bsd} -> active
+active -> freeandopensource
+softwarelicense:={gnugpl} -> freeandopensource

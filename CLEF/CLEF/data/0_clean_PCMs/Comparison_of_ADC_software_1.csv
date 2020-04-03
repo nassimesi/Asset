@@ -1,0 +1,12 @@
+name,windows,linux,os x,other
+adch++,X,X,,*
+adch++ gui,X,X,,python enabled platform
+dshub,X,X,X,java enabled platform
+flexhub,X,X,,*
+luadch,X,X,X,raspberry pi;synology nas;gcc enabled platform
+nexthub,X,,,c# enabled platform
+uhub,X,X,X,bsd;haiku;openwrt;solaris
+erlhub,X,X,X,erlang enabled platform
+starlet adc hub,,,,openvms
+starhub,X,X,X,java enabled platform
+rushub,X,X,X,freebsd;solaris

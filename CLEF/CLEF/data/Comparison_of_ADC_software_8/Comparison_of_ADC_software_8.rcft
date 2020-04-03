@@ -1,0 +1,13 @@
+FormalContext ctx
+algo fca
+| |software type:={general library}|software type:={manage ssl certificates}|software type:={announce new releases}|software type:={relay}|software type:={seriebot}|software type:={hub operator helper}|software type:={hub linker}|free and open source|software license:={gnu gpl}|active|
+|adccore|x|||||||x|x|x|
+|dcbouncer||||x||||x|x|x|
+|dc-hublink|||||||x|x|x||
+|dcwatch||||||x||x|x||
+|embla|x|||||||x|x||
+|flowlib|x|||||||x|x|x|
+|netchatlink|||||||x|x|x|x|
+|announcer bot|||x|||||x|x|x|
+|certmanager||x||||||x|x|x|
+|seriebot|||||x|||x|x|x|

@@ -1,0 +1,10 @@
+Wireless ->! Single_Player
+Wireless ->! Artificial_Opponnent
+Wireless ->! Medium
+Wireless ->! Weak
+Strong ->! Medium
+Strong ->! Weak
+Multi_Player ->! Weak
+Bluethooth ->! Medium
+Bluethooth ->! Weak
+Medium ->! Weak

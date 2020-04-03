@@ -1,0 +1,867 @@
+<RCAExplore_Document>
+	<Step nb="0">
+		<Lattice numberObj="27" numberAtt="38" numberCpt="38" >
+			<Config algo="acposet">
+			</Config>
+			<Name>ctx</Name>
+			<Object>a86/a386</Object>
+			<Object>ack</Object>
+			<Object>arrowsoft assembler</Object>
+			<Object>ibm alp</Object>
+			<Object>at&t</Object>
+			<Object>bruce d. evans' as86</Object>
+			<Object>digital research asm86</Object>
+			<Object>develsoftware assembler</Object>
+			<Object>fasm</Object>
+			<Object>gas</Object>
+			<Object>goasm</Object>
+			<Object>hla</Object>
+			<Object>jwasm</Object>
+			<Object>lzasm</Object>
+			<Object>masm</Object>
+			<Object>mical a86</Object>
+			<Object>nasm</Object>
+			<Object>tim paterson's asm</Object>
+			<Object>poasm</Object>
+			<Object>rosasm</Object>
+			<Object>slr's optasm</Object>
+			<Object>tasm</Object>
+			<Object>wasm</Object>
+			<Object>tccasm</Object>
+			<Object>vasm</Object>
+			<Object>xenix</Object>
+			<Object>yasm</Object>
+			<Attribute>os:={dos}</Attribute>
+			<Attribute>os:={windows}</Attribute>
+			<Attribute>os:={os/2}</Attribute>
+			<Attribute>os:={unix system v}</Attribute>
+			<Attribute>os:={xenix}</Attribute>
+			<Attribute>os:={unix-like}</Attribute>
+			<Attribute>os:={linux}</Attribute>
+			<Attribute>os:={minix,linux}</Attribute>
+			<Attribute>os:={windows,windows mobile}</Attribute>
+			<Attribute>os:={dos,windows}</Attribute>
+			<Attribute>os:={unix-like,windows}</Attribute>
+			<Attribute>os:={linux,windows}</Attribute>
+			<Attribute>os:={unix-like,linux}</Attribute>
+			<Attribute>os:={unix-like,dos}</Attribute>
+			<Attribute>os:={os/2,dos,windows}</Attribute>
+			<Attribute>os:={pc/ix,unix-like,dos}</Attribute>
+			<Attribute>os:={unix-like,linux,windows}</Attribute>
+			<Attribute>os:={minix,unix-like,linux}</Attribute>
+			<Attribute>os:={linux,windows,mac os x}</Attribute>
+			<Attribute>os:={linux,dos,windows}</Attribute>
+			<Attribute>os:={freebsd,linux,windows}</Attribute>
+			<Attribute>os:={unix-like,dos,windows}</Attribute>
+			<Attribute>os:={unix-like,linux,dos,windows}</Attribute>
+			<Attribute>os:={freebsd,linux,windows,mac os x}</Attribute>
+			<Attribute>os:={cp/m-86,isis,irmx,dos}</Attribute>
+			<Attribute>os:={os/2,unix-like,dos,windows}</Attribute>
+			<Attribute>os:={os/2,linux,dos,windows}</Attribute>
+			<Attribute>os:={os/2,freebsd,linux,dos,windows}</Attribute>
+			<Attribute>os:={os/2,linux,dos,windows,mac os x}</Attribute>
+			<Attribute>open source</Attribute>
+			<Attribute>license:={bsd}</Attribute>
+			<Attribute>license:={gpl}</Attribute>
+			<Attribute>license:={proprietary}</Attribute>
+			<Attribute>license:={sybase open watcom public license}</Attribute>
+			<Attribute>license:={microsoft eula}</Attribute>
+			<Attribute>license:={free}</Attribute>
+			<Attribute>x86-64</Attribute>
+			<Attribute>active development</Attribute>
+			<Concept>
+				<ID>Concept_ctx_3</ID>
+				<Extent>
+					<Object_Ref>mical a86</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>os:={dos}</Attribute_Ref>
+					<Attribute_Ref>os:={unix-like}</Attribute_Ref>
+					<Attribute_Ref>open source</Attribute_Ref>
+					<Attribute_Ref>os:={unix-like,dos}</Attribute_Ref>
+					<Attribute_Ref>os:={pc/ix,unix-like,dos}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_20</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_10</ID>
+				<Extent>
+					<Object_Ref>ack</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>os:={minix,linux}</Attribute_Ref>
+					<Attribute_Ref>license:={bsd}</Attribute_Ref>
+					<Attribute_Ref>os:={unix-like}</Attribute_Ref>
+					<Attribute_Ref>open source</Attribute_Ref>
+					<Attribute_Ref>os:={minix,unix-like,linux}</Attribute_Ref>
+					<Attribute_Ref>os:={linux}</Attribute_Ref>
+					<Attribute_Ref>active development</Attribute_Ref>
+					<Attribute_Ref>os:={unix-like,linux}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_23</Concept_Ref>
+					<Concept_Ref>Concept_ctx_22</Concept_Ref>
+					<Concept_Ref>Concept_ctx_16</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_6</ID>
+				<Extent>
+					<Object_Ref>hla</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>os:={freebsd,linux,windows}</Attribute_Ref>
+					<Attribute_Ref>open source</Attribute_Ref>
+					<Attribute_Ref>os:={freebsd,linux,windows,mac os x}</Attribute_Ref>
+					<Attribute_Ref>os:={linux,windows}</Attribute_Ref>
+					<Attribute_Ref>os:={linux}</Attribute_Ref>
+					<Attribute_Ref>active development</Attribute_Ref>
+					<Attribute_Ref>license:={free}</Attribute_Ref>
+					<Attribute_Ref>os:={linux,windows,mac os x}</Attribute_Ref>
+					<Attribute_Ref>os:={windows}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_28</Concept_Ref>
+					<Concept_Ref>Concept_ctx_13</Concept_Ref>
+					<Concept_Ref>Concept_ctx_14</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_8</ID>
+				<Extent>
+					<Object_Ref>digital research asm86</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>os:={cp/m-86,isis,irmx,dos}</Attribute_Ref>
+					<Attribute_Ref>os:={dos}</Attribute_Ref>
+					<Attribute_Ref>license:={proprietary}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_36</Concept_Ref>
+					<Concept_Ref>Concept_ctx_31</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_7</ID>
+				<Extent>
+					<Object_Ref>gas</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>os:={dos}</Attribute_Ref>
+					<Attribute_Ref>os:={os/2,dos,windows}</Attribute_Ref>
+					<Attribute_Ref>os:={unix-like}</Attribute_Ref>
+					<Attribute_Ref>os:={unix-like,windows}</Attribute_Ref>
+					<Attribute_Ref>x86-64</Attribute_Ref>
+					<Attribute_Ref>license:={gpl}</Attribute_Ref>
+					<Attribute_Ref>active development</Attribute_Ref>
+					<Attribute_Ref>os:={os/2}</Attribute_Ref>
+					<Attribute_Ref>os:={os/2,unix-like,dos,windows}</Attribute_Ref>
+					<Attribute_Ref>os:={unix-like,dos,windows}</Attribute_Ref>
+					<Attribute_Ref>open source</Attribute_Ref>
+					<Attribute_Ref>os:={dos,windows}</Attribute_Ref>
+					<Attribute_Ref>os:={unix-like,dos}</Attribute_Ref>
+					<Attribute_Ref>os:={windows}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_17</Concept_Ref>
+					<Concept_Ref>Concept_ctx_21</Concept_Ref>
+					<Concept_Ref>Concept_ctx_24</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_5</ID>
+				<Extent>
+					<Object_Ref>jwasm</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>license:={sybase open watcom public license}</Attribute_Ref>
+					<Attribute_Ref>os:={dos}</Attribute_Ref>
+					<Attribute_Ref>os:={os/2,dos,windows}</Attribute_Ref>
+					<Attribute_Ref>os:={os/2,freebsd,linux,dos,windows}</Attribute_Ref>
+					<Attribute_Ref>x86-64</Attribute_Ref>
+					<Attribute_Ref>os:={linux}</Attribute_Ref>
+					<Attribute_Ref>active development</Attribute_Ref>
+					<Attribute_Ref>os:={os/2}</Attribute_Ref>
+					<Attribute_Ref>os:={linux,dos,windows}</Attribute_Ref>
+					<Attribute_Ref>os:={freebsd,linux,windows}</Attribute_Ref>
+					<Attribute_Ref>open source</Attribute_Ref>
+					<Attribute_Ref>os:={os/2,linux,dos,windows}</Attribute_Ref>
+					<Attribute_Ref>os:={dos,windows}</Attribute_Ref>
+					<Attribute_Ref>os:={linux,windows}</Attribute_Ref>
+					<Attribute_Ref>os:={windows}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_11</Concept_Ref>
+					<Concept_Ref>Concept_ctx_14</Concept_Ref>
+					<Concept_Ref>Concept_ctx_12</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_2</ID>
+				<Extent>
+					<Object_Ref>nasm</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>os:={dos}</Attribute_Ref>
+					<Attribute_Ref>os:={os/2,dos,windows}</Attribute_Ref>
+					<Attribute_Ref>x86-64</Attribute_Ref>
+					<Attribute_Ref>os:={linux}</Attribute_Ref>
+					<Attribute_Ref>active development</Attribute_Ref>
+					<Attribute_Ref>os:={os/2}</Attribute_Ref>
+					<Attribute_Ref>os:={linux,windows,mac os x}</Attribute_Ref>
+					<Attribute_Ref>os:={linux,dos,windows}</Attribute_Ref>
+					<Attribute_Ref>os:={os/2,linux,dos,windows,mac os x}</Attribute_Ref>
+					<Attribute_Ref>license:={bsd}</Attribute_Ref>
+					<Attribute_Ref>open source</Attribute_Ref>
+					<Attribute_Ref>os:={os/2,linux,dos,windows}</Attribute_Ref>
+					<Attribute_Ref>os:={dos,windows}</Attribute_Ref>
+					<Attribute_Ref>os:={linux,windows}</Attribute_Ref>
+					<Attribute_Ref>os:={windows}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_22</Concept_Ref>
+					<Concept_Ref>Concept_ctx_13</Concept_Ref>
+					<Concept_Ref>Concept_ctx_12</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_9</ID>
+				<Extent>
+					<Object_Ref>at&t</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>active development</Attribute_Ref>
+					<Attribute_Ref>os:={unix system v}</Attribute_Ref>
+					<Attribute_Ref>license:={proprietary}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_35</Concept_Ref>
+					<Concept_Ref>Concept_ctx_31</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_4</ID>
+				<Extent>
+					<Object_Ref>masm</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>os:={os/2,dos,windows}</Attribute_Ref>
+					<Attribute_Ref>os:={dos}</Attribute_Ref>
+					<Attribute_Ref>os:={dos,windows}</Attribute_Ref>
+					<Attribute_Ref>x86-64</Attribute_Ref>
+					<Attribute_Ref>active development</Attribute_Ref>
+					<Attribute_Ref>os:={os/2}</Attribute_Ref>
+					<Attribute_Ref>os:={windows}</Attribute_Ref>
+					<Attribute_Ref>license:={microsoft eula}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_24</Concept_Ref>
+					<Concept_Ref>Concept_ctx_32</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_0</ID>
+				<Extent>
+					<Object_Ref>xenix</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>os:={xenix}</Attribute_Ref>
+					<Attribute_Ref>license:={proprietary}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_31</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_1</ID>
+				<Extent>
+					<Object_Ref>poasm</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>os:={windows,windows mobile}</Attribute_Ref>
+					<Attribute_Ref>x86-64</Attribute_Ref>
+					<Attribute_Ref>active development</Attribute_Ref>
+					<Attribute_Ref>license:={free}</Attribute_Ref>
+					<Attribute_Ref>os:={windows}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_28</Concept_Ref>
+					<Concept_Ref>Concept_ctx_32</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_13</ID>
+				<Extent>
+					<Object_Ref>hla</Object_Ref>
+					<Object_Ref>nasm</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>open source</Attribute_Ref>
+					<Attribute_Ref>os:={linux,windows}</Attribute_Ref>
+					<Attribute_Ref>os:={linux}</Attribute_Ref>
+					<Attribute_Ref>active development</Attribute_Ref>
+					<Attribute_Ref>os:={linux,windows,mac os x}</Attribute_Ref>
+					<Attribute_Ref>os:={windows}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_26</Concept_Ref>
+					<Concept_Ref>Concept_ctx_34</Concept_Ref>
+					<Concept_Ref>Concept_ctx_35</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_14</ID>
+				<Extent>
+					<Object_Ref>hla</Object_Ref>
+					<Object_Ref>jwasm</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>os:={freebsd,linux,windows}</Attribute_Ref>
+					<Attribute_Ref>open source</Attribute_Ref>
+					<Attribute_Ref>os:={linux,windows}</Attribute_Ref>
+					<Attribute_Ref>os:={linux}</Attribute_Ref>
+					<Attribute_Ref>active development</Attribute_Ref>
+					<Attribute_Ref>os:={windows}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_26</Concept_Ref>
+					<Concept_Ref>Concept_ctx_34</Concept_Ref>
+					<Concept_Ref>Concept_ctx_35</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_15</ID>
+				<Extent>
+					<Object_Ref>fasm</Object_Ref>
+					<Object_Ref>yasm</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>os:={dos}</Attribute_Ref>
+					<Attribute_Ref>os:={unix-like}</Attribute_Ref>
+					<Attribute_Ref>os:={unix-like,linux,dos,windows}</Attribute_Ref>
+					<Attribute_Ref>os:={unix-like,windows}</Attribute_Ref>
+					<Attribute_Ref>x86-64</Attribute_Ref>
+					<Attribute_Ref>os:={linux}</Attribute_Ref>
+					<Attribute_Ref>active development</Attribute_Ref>
+					<Attribute_Ref>os:={linux,dos,windows}</Attribute_Ref>
+					<Attribute_Ref>os:={unix-like,dos,windows}</Attribute_Ref>
+					<Attribute_Ref>license:={bsd}</Attribute_Ref>
+					<Attribute_Ref>open source</Attribute_Ref>
+					<Attribute_Ref>os:={unix-like,linux,windows}</Attribute_Ref>
+					<Attribute_Ref>os:={dos,windows}</Attribute_Ref>
+					<Attribute_Ref>os:={linux,windows}</Attribute_Ref>
+					<Attribute_Ref>os:={unix-like,linux}</Attribute_Ref>
+					<Attribute_Ref>os:={unix-like,dos}</Attribute_Ref>
+					<Attribute_Ref>os:={windows}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_17</Concept_Ref>
+					<Concept_Ref>Concept_ctx_18</Concept_Ref>
+					<Concept_Ref>Concept_ctx_22</Concept_Ref>
+					<Concept_Ref>Concept_ctx_19</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_12</ID>
+				<Extent>
+					<Object_Ref>jwasm</Object_Ref>
+					<Object_Ref>nasm</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>os:={dos}</Attribute_Ref>
+					<Attribute_Ref>os:={os/2,dos,windows}</Attribute_Ref>
+					<Attribute_Ref>os:={os/2,linux,dos,windows}</Attribute_Ref>
+					<Attribute_Ref>open source</Attribute_Ref>
+					<Attribute_Ref>os:={dos,windows}</Attribute_Ref>
+					<Attribute_Ref>x86-64</Attribute_Ref>
+					<Attribute_Ref>os:={linux,windows}</Attribute_Ref>
+					<Attribute_Ref>os:={linux}</Attribute_Ref>
+					<Attribute_Ref>active development</Attribute_Ref>
+					<Attribute_Ref>os:={os/2}</Attribute_Ref>
+					<Attribute_Ref>os:={windows}</Attribute_Ref>
+					<Attribute_Ref>os:={linux,dos,windows}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_19</Concept_Ref>
+					<Concept_Ref>Concept_ctx_24</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_11</ID>
+				<Extent>
+					<Object_Ref>jwasm</Object_Ref>
+					<Object_Ref>wasm</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>license:={sybase open watcom public license}</Attribute_Ref>
+					<Attribute_Ref>os:={os/2,dos,windows}</Attribute_Ref>
+					<Attribute_Ref>os:={dos}</Attribute_Ref>
+					<Attribute_Ref>open source</Attribute_Ref>
+					<Attribute_Ref>os:={dos,windows}</Attribute_Ref>
+					<Attribute_Ref>os:={os/2}</Attribute_Ref>
+					<Attribute_Ref>os:={windows}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_34</Concept_Ref>
+					<Concept_Ref>Concept_ctx_24</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_16</ID>
+				<Extent>
+					<Object_Ref>ack</Object_Ref>
+					<Object_Ref>bruce d. evans' as86</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>os:={minix,linux}</Attribute_Ref>
+					<Attribute_Ref>open source</Attribute_Ref>
+					<Attribute_Ref>os:={linux}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_34</Concept_Ref>
+					<Concept_Ref>Concept_ctx_30</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_18</ID>
+				<Extent>
+					<Object_Ref>develsoftware assembler</Object_Ref>
+					<Object_Ref>fasm</Object_Ref>
+					<Object_Ref>yasm</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>os:={unix-like}</Attribute_Ref>
+					<Attribute_Ref>os:={unix-like,linux,windows}</Attribute_Ref>
+					<Attribute_Ref>os:={unix-like,windows}</Attribute_Ref>
+					<Attribute_Ref>os:={linux,windows}</Attribute_Ref>
+					<Attribute_Ref>os:={linux}</Attribute_Ref>
+					<Attribute_Ref>os:={unix-like,linux}</Attribute_Ref>
+					<Attribute_Ref>os:={windows}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_23</Concept_Ref>
+					<Concept_Ref>Concept_ctx_26</Concept_Ref>
+					<Concept_Ref>Concept_ctx_25</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_17</ID>
+				<Extent>
+					<Object_Ref>fasm</Object_Ref>
+					<Object_Ref>gas</Object_Ref>
+					<Object_Ref>yasm</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>os:={unix-like,dos,windows}</Attribute_Ref>
+					<Attribute_Ref>os:={dos}</Attribute_Ref>
+					<Attribute_Ref>os:={unix-like}</Attribute_Ref>
+					<Attribute_Ref>open source</Attribute_Ref>
+					<Attribute_Ref>os:={dos,windows}</Attribute_Ref>
+					<Attribute_Ref>os:={unix-like,windows}</Attribute_Ref>
+					<Attribute_Ref>x86-64</Attribute_Ref>
+					<Attribute_Ref>active development</Attribute_Ref>
+					<Attribute_Ref>os:={unix-like,dos}</Attribute_Ref>
+					<Attribute_Ref>os:={windows}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_20</Concept_Ref>
+					<Concept_Ref>Concept_ctx_33</Concept_Ref>
+					<Concept_Ref>Concept_ctx_25</Concept_Ref>
+					<Concept_Ref>Concept_ctx_32</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_23</ID>
+				<Extent>
+					<Object_Ref>ack</Object_Ref>
+					<Object_Ref>develsoftware assembler</Object_Ref>
+					<Object_Ref>fasm</Object_Ref>
+					<Object_Ref>yasm</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>os:={unix-like}</Attribute_Ref>
+					<Attribute_Ref>os:={linux}</Attribute_Ref>
+					<Attribute_Ref>os:={unix-like,linux}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_30</Concept_Ref>
+					<Concept_Ref>Concept_ctx_29</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_20</ID>
+				<Extent>
+					<Object_Ref>fasm</Object_Ref>
+					<Object_Ref>gas</Object_Ref>
+					<Object_Ref>mical a86</Object_Ref>
+					<Object_Ref>yasm</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>os:={dos}</Attribute_Ref>
+					<Attribute_Ref>os:={unix-like}</Attribute_Ref>
+					<Attribute_Ref>open source</Attribute_Ref>
+					<Attribute_Ref>os:={unix-like,dos}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_34</Concept_Ref>
+					<Concept_Ref>Concept_ctx_29</Concept_Ref>
+					<Concept_Ref>Concept_ctx_36</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_19</ID>
+				<Extent>
+					<Object_Ref>fasm</Object_Ref>
+					<Object_Ref>jwasm</Object_Ref>
+					<Object_Ref>nasm</Object_Ref>
+					<Object_Ref>yasm</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>os:={dos}</Attribute_Ref>
+					<Attribute_Ref>open source</Attribute_Ref>
+					<Attribute_Ref>os:={dos,windows}</Attribute_Ref>
+					<Attribute_Ref>x86-64</Attribute_Ref>
+					<Attribute_Ref>os:={linux,windows}</Attribute_Ref>
+					<Attribute_Ref>os:={linux}</Attribute_Ref>
+					<Attribute_Ref>active development</Attribute_Ref>
+					<Attribute_Ref>os:={windows}</Attribute_Ref>
+					<Attribute_Ref>os:={linux,dos,windows}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_33</Concept_Ref>
+					<Concept_Ref>Concept_ctx_26</Concept_Ref>
+					<Concept_Ref>Concept_ctx_34</Concept_Ref>
+					<Concept_Ref>Concept_ctx_32</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_22</ID>
+				<Extent>
+					<Object_Ref>ack</Object_Ref>
+					<Object_Ref>fasm</Object_Ref>
+					<Object_Ref>nasm</Object_Ref>
+					<Object_Ref>yasm</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>license:={bsd}</Attribute_Ref>
+					<Attribute_Ref>open source</Attribute_Ref>
+					<Attribute_Ref>os:={linux}</Attribute_Ref>
+					<Attribute_Ref>active development</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_34</Concept_Ref>
+					<Concept_Ref>Concept_ctx_30</Concept_Ref>
+					<Concept_Ref>Concept_ctx_35</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_21</ID>
+				<Extent>
+					<Object_Ref>bruce d. evans' as86</Object_Ref>
+					<Object_Ref>gas</Object_Ref>
+					<Object_Ref>rosasm</Object_Ref>
+					<Object_Ref>tccasm</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>open source</Attribute_Ref>
+					<Attribute_Ref>license:={gpl}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_34</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_25</ID>
+				<Extent>
+					<Object_Ref>develsoftware assembler</Object_Ref>
+					<Object_Ref>fasm</Object_Ref>
+					<Object_Ref>gas</Object_Ref>
+					<Object_Ref>tccasm</Object_Ref>
+					<Object_Ref>yasm</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>os:={unix-like}</Attribute_Ref>
+					<Attribute_Ref>os:={unix-like,windows}</Attribute_Ref>
+					<Attribute_Ref>os:={windows}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_37</Concept_Ref>
+					<Concept_Ref>Concept_ctx_29</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_24</ID>
+				<Extent>
+					<Object_Ref>gas</Object_Ref>
+					<Object_Ref>jwasm</Object_Ref>
+					<Object_Ref>masm</Object_Ref>
+					<Object_Ref>nasm</Object_Ref>
+					<Object_Ref>wasm</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>os:={os/2,dos,windows}</Attribute_Ref>
+					<Attribute_Ref>os:={dos}</Attribute_Ref>
+					<Attribute_Ref>os:={dos,windows}</Attribute_Ref>
+					<Attribute_Ref>os:={os/2}</Attribute_Ref>
+					<Attribute_Ref>os:={windows}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_33</Concept_Ref>
+					<Concept_Ref>Concept_ctx_27</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_26</ID>
+				<Extent>
+					<Object_Ref>develsoftware assembler</Object_Ref>
+					<Object_Ref>fasm</Object_Ref>
+					<Object_Ref>hla</Object_Ref>
+					<Object_Ref>jwasm</Object_Ref>
+					<Object_Ref>nasm</Object_Ref>
+					<Object_Ref>yasm</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>os:={linux,windows}</Attribute_Ref>
+					<Attribute_Ref>os:={linux}</Attribute_Ref>
+					<Attribute_Ref>os:={windows}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_37</Concept_Ref>
+					<Concept_Ref>Concept_ctx_30</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_27</ID>
+				<Extent>
+					<Object_Ref>ibm alp</Object_Ref>
+					<Object_Ref>gas</Object_Ref>
+					<Object_Ref>jwasm</Object_Ref>
+					<Object_Ref>masm</Object_Ref>
+					<Object_Ref>nasm</Object_Ref>
+					<Object_Ref>wasm</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>os:={os/2}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_28</ID>
+				<Extent>
+					<Object_Ref>arrowsoft assembler</Object_Ref>
+					<Object_Ref>develsoftware assembler</Object_Ref>
+					<Object_Ref>goasm</Object_Ref>
+					<Object_Ref>hla</Object_Ref>
+					<Object_Ref>lzasm</Object_Ref>
+					<Object_Ref>poasm</Object_Ref>
+					<Object_Ref>vasm</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>license:={free}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_29</ID>
+				<Extent>
+					<Object_Ref>ack</Object_Ref>
+					<Object_Ref>develsoftware assembler</Object_Ref>
+					<Object_Ref>fasm</Object_Ref>
+					<Object_Ref>gas</Object_Ref>
+					<Object_Ref>mical a86</Object_Ref>
+					<Object_Ref>tccasm</Object_Ref>
+					<Object_Ref>yasm</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>os:={unix-like}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_31</ID>
+				<Extent>
+					<Object_Ref>a86/a386</Object_Ref>
+					<Object_Ref>ibm alp</Object_Ref>
+					<Object_Ref>at&t</Object_Ref>
+					<Object_Ref>digital research asm86</Object_Ref>
+					<Object_Ref>tim paterson's asm</Object_Ref>
+					<Object_Ref>slr's optasm</Object_Ref>
+					<Object_Ref>tasm</Object_Ref>
+					<Object_Ref>xenix</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>license:={proprietary}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_30</ID>
+				<Extent>
+					<Object_Ref>ack</Object_Ref>
+					<Object_Ref>bruce d. evans' as86</Object_Ref>
+					<Object_Ref>develsoftware assembler</Object_Ref>
+					<Object_Ref>fasm</Object_Ref>
+					<Object_Ref>hla</Object_Ref>
+					<Object_Ref>jwasm</Object_Ref>
+					<Object_Ref>nasm</Object_Ref>
+					<Object_Ref>yasm</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>os:={linux}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_32</ID>
+				<Extent>
+					<Object_Ref>fasm</Object_Ref>
+					<Object_Ref>gas</Object_Ref>
+					<Object_Ref>goasm</Object_Ref>
+					<Object_Ref>jwasm</Object_Ref>
+					<Object_Ref>masm</Object_Ref>
+					<Object_Ref>nasm</Object_Ref>
+					<Object_Ref>poasm</Object_Ref>
+					<Object_Ref>tccasm</Object_Ref>
+					<Object_Ref>yasm</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>x86-64</Attribute_Ref>
+					<Attribute_Ref>active development</Attribute_Ref>
+					<Attribute_Ref>os:={windows}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_37</Concept_Ref>
+					<Concept_Ref>Concept_ctx_35</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_33</ID>
+				<Extent>
+					<Object_Ref>a86/a386</Object_Ref>
+					<Object_Ref>fasm</Object_Ref>
+					<Object_Ref>gas</Object_Ref>
+					<Object_Ref>jwasm</Object_Ref>
+					<Object_Ref>lzasm</Object_Ref>
+					<Object_Ref>masm</Object_Ref>
+					<Object_Ref>nasm</Object_Ref>
+					<Object_Ref>tasm</Object_Ref>
+					<Object_Ref>wasm</Object_Ref>
+					<Object_Ref>yasm</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>os:={dos}</Attribute_Ref>
+					<Attribute_Ref>os:={dos,windows}</Attribute_Ref>
+					<Attribute_Ref>os:={windows}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_37</Concept_Ref>
+					<Concept_Ref>Concept_ctx_36</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_34</ID>
+				<Extent>
+					<Object_Ref>ack</Object_Ref>
+					<Object_Ref>bruce d. evans' as86</Object_Ref>
+					<Object_Ref>fasm</Object_Ref>
+					<Object_Ref>gas</Object_Ref>
+					<Object_Ref>hla</Object_Ref>
+					<Object_Ref>jwasm</Object_Ref>
+					<Object_Ref>mical a86</Object_Ref>
+					<Object_Ref>nasm</Object_Ref>
+					<Object_Ref>rosasm</Object_Ref>
+					<Object_Ref>wasm</Object_Ref>
+					<Object_Ref>tccasm</Object_Ref>
+					<Object_Ref>vasm</Object_Ref>
+					<Object_Ref>yasm</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>open source</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_36</ID>
+				<Extent>
+					<Object_Ref>a86/a386</Object_Ref>
+					<Object_Ref>arrowsoft assembler</Object_Ref>
+					<Object_Ref>digital research asm86</Object_Ref>
+					<Object_Ref>fasm</Object_Ref>
+					<Object_Ref>gas</Object_Ref>
+					<Object_Ref>jwasm</Object_Ref>
+					<Object_Ref>lzasm</Object_Ref>
+					<Object_Ref>masm</Object_Ref>
+					<Object_Ref>mical a86</Object_Ref>
+					<Object_Ref>nasm</Object_Ref>
+					<Object_Ref>tim paterson's asm</Object_Ref>
+					<Object_Ref>slr's optasm</Object_Ref>
+					<Object_Ref>tasm</Object_Ref>
+					<Object_Ref>wasm</Object_Ref>
+					<Object_Ref>yasm</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>os:={dos}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_37</ID>
+				<Extent>
+					<Object_Ref>a86/a386</Object_Ref>
+					<Object_Ref>develsoftware assembler</Object_Ref>
+					<Object_Ref>fasm</Object_Ref>
+					<Object_Ref>gas</Object_Ref>
+					<Object_Ref>goasm</Object_Ref>
+					<Object_Ref>hla</Object_Ref>
+					<Object_Ref>jwasm</Object_Ref>
+					<Object_Ref>lzasm</Object_Ref>
+					<Object_Ref>masm</Object_Ref>
+					<Object_Ref>nasm</Object_Ref>
+					<Object_Ref>poasm</Object_Ref>
+					<Object_Ref>rosasm</Object_Ref>
+					<Object_Ref>tasm</Object_Ref>
+					<Object_Ref>wasm</Object_Ref>
+					<Object_Ref>tccasm</Object_Ref>
+					<Object_Ref>yasm</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>os:={windows}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_35</ID>
+				<Extent>
+					<Object_Ref>ack</Object_Ref>
+					<Object_Ref>at&t</Object_Ref>
+					<Object_Ref>fasm</Object_Ref>
+					<Object_Ref>gas</Object_Ref>
+					<Object_Ref>goasm</Object_Ref>
+					<Object_Ref>hla</Object_Ref>
+					<Object_Ref>jwasm</Object_Ref>
+					<Object_Ref>masm</Object_Ref>
+					<Object_Ref>nasm</Object_Ref>
+					<Object_Ref>poasm</Object_Ref>
+					<Object_Ref>tccasm</Object_Ref>
+					<Object_Ref>vasm</Object_Ref>
+					<Object_Ref>yasm</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>active development</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+				</UpperCovers>
+			</Concept>
+		</Lattice>
+	</Step >
+</RCAExplore_Document>

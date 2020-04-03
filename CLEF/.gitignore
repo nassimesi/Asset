@@ -1,0 +1,7 @@
+./CLEF/bin
+./CLEF/test/
+*~
+./CLEF/.settings
+*#
+.metadata
+.recommenders

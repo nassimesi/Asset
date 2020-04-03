@@ -1,0 +1,43 @@
+name,latest release date,platforms,mainly used for,license
+3ds max,2015,microsoft windows,modeling;animation;lighting;rendering,proprietary
+ac3d,2014,linux;mac os x;microsoft windows,modeling,proprietary
+aoi,2013,java virtual machine,animation;lighting;modeling;rendering,gnu gpl
+blender,2015,microsoft windows;mac os x;linux;bsd;solaris;amiga os;morphos,animation;lighting;modeling;rendering;video game creation;visual 3d effects;sculpting;basic post-production video editing,gnu gpl
+bryce,2010,microsoft windows;mac os x,animation;landscape modeling;fractal geometry,proprietary
+carrara,2010,microsoft windows;mac os x,animation;modeling,proprietary
+cheetah 3d,2013,mac os x,animation;modeling,proprietary
+cinema 4d,*,mac os x;microsoft windows;amiga os,animation;lighting;modeling;visual 3d effects;rendering;simulation,proprietary
+cityengine,2013,mac os x;microsoft windows;linux,modeling,proprietary
+clara.io,2013,mozilla firefox;google chrome;microsoft internet explorer,modeling;animation;rendering,proprietary
+cobalt,2009,mac os x;microsoft windows,modeling;computer aided design;animation,proprietary
+electric image animation system,2009,mac os x;microsoft windows,animation;lighting;rendering;film;television;visual 3d effects,proprietary
+Form-z,2013,mac os x;microsoft windows,animation;modeling;lighting;rendering;fabrication;set design,proprietary
+hexagon,2008,microsoft windows;mac os x,subdivision modeling;uv mapping,proprietary
+houdini,2015,microsoft windows;mac os x;linux,animation;lighting;modeling;visual 3d effects,proprietary
+iclone,2014,microsoft windows,animation;film;television;video game creation;lighting;visual 3d effects,proprietary
+lightwave 3d,2014,mac os x;microsoft windows;amiga os,modeling;animation;lighting;rendering;film;television;video game creation,proprietary
+massive,*,microsoft windows;linux,artificial intelligence in models,proprietary
+maya,2014,microsoft windows;mac os x;linux,modeling;animation;lighting;rendering;visual 3d effects,proprietary
+metasequoia,2011,microsoft windows,modeling,proprietary
+modo,2014,mac os x;microsoft windows;linux,modeling;animation;rendering,proprietary
+mudbox,2015,mac os x;microsoft windows;linux,lighting;sculpting,proprietary
+pov-ray,2004,mac os x;microsoft windows;linux;amiga os,lighting;visual 3d effects,gnu gpl
+pro/engineer,2009,microsoft windows;hp-ux;unix,modeling,proprietary
+remo 3d,*,microsoft windows;linux,modeling;virtual reality;real-time modeling;video game creation;computer aided design,proprietary
+rhinoceros 3d,*,microsoft windows;mac os x,modeling;computer aided design,proprietary
+sculptris,2011,mac os x;microsoft windows,sculpting;texturing,proprietary
+shade 3d,2014,mac os x;microsoft windows,modeling;rendering;animation,proprietary
+silo,2008,mac os x;microsoft windows,modeling,proprietary
+sketchup,2015,mac os x;microsoft windows,computer aided design,proprietary
+softimage,2015,microsoft windows;linux,modeling;animation;video game creation;lighting;rendering;visual 3d effects,proprietary
+solid edge,2014,microsoft windows,computer aided design,proprietary
+solidthinking,2014,mac os x;microsoft windows,modeling,proprietary
+solidworks,2015,microsoft windows,computer aided design,proprietary
+spaceclaim,2015,microsoft windows,computer aided design,proprietary
+swift 3d,2009,mac os x;microsoft windows,modeling;animation,proprietary
+topsolid,2014,microsoft windows,computer aided design,proprietary
+truespace,2009,microsoft windows;amiga os,animation;modeling,proprietary
+e-on vue,2014,mac os x;microsoft windows,animation;landscape modeling;lighting,proprietary
+verto studio 3d,2012,mac os x;ios,mobile modeling;texturing;lighting,proprietary
+zbrush,2015,mac os x;microsoft windows;bsd;linux,modeling;texturing;lighting;sculpting;rendering,proprietary
+wings3d,2014,mac os x;microsoft windows;bsd;linux,modeling;sculpting;uv mapping,bsd

@@ -1,0 +1,22 @@
+FormalContext ctx
+algo fca
+| |developer:={ael data services llp}|developer:={snapplify}|developer:={alan.neverland}|developer:={amazon mobile llc}|developer:={unidocs inc.}|developer:={ak2}|developer:={kobo ebooks}|developer:={aldiko limited}|developer:={obreey products}|developer:={mantano sas}|developer:={zxstyles}|developer:={fbreader.org limited}|developer:={gigamarket ltd.}|developer:={vadim lopatin}|developer:={google inc.}|developer:={ebooks.com}|developer:={moon+}|formats total:=[01-11]|formats total:=[02-11]|formats total:=[01-09]|formats total:=[04-11]|formats total:=[02-09]|formats total:=[01-08]|formats total:=[05-11]|formats total:=[04-09]|formats total:=[02-08]|formats total:=[01-07]|formats total:=[07-11]|formats total:=[05-09]|formats total:=[04-08]|formats total:=[02-07]|formats total:=[01-05]|formats total:=[08-11]|formats total:=[07-09]|formats total:=[05-08]|formats total:=[04-07]|formats total:=[02-05]|formats total:=[01-04]|formats total:=[09-11]|formats total:=[08-09]|formats total:=[07-08]|formats total:=[05-07]|formats total:=[04-05]|formats total:=[02-04]|formats total:=[01-02]|formats total:=[11-11]|formats total:=[09-09]|formats total:=[08-08]|formats total:=[07-07]|formats total:=[05-05]|formats total:=[04-04]|formats total:=[02-02]|formats total:=[01-01]|.chm|.djvu|.epub|.fb2|.html|.mobi|.oeb|.rtf|.pdf|.txt|.doc|.docx|.pdb|
+|aldiko book reader||||||||x||||||||||x|x|x||x|x|||x|x||||x|x|||||x|x||||||x|x|||||||x||||x||||||x|||||
+|alreader|||x|||||||||||||||x|x|x|x|x||x|x|||x|x||||x|x|||||x|x|||||||x|||||||||x|x|x|x||x||x|x|x|x|
+|bookbox||||||||||||||||||x|x|x||x|x|||x|x||||x|x|||||x|x||||||x|x|||||||x||||x||||||x|x||||
+|cool reader||||||||||||||x||||x|x|x|x|x|x|x|x|x|x|x|x|x|x|||x|x|x|||||x|x|||||||x|||||x||x|x|x|x||x||x|x||x|
+|ebookdroid||||||x||||||||||||x|x|x|x|x|x|x|x|x|x||x|x|x|x|||x|x|x|||||x|x|||||||x|||||x|x|x||||x|x|||||
+|ebook reader||||||||||||||||x||x|x|x||x|x|||x|x||||x|x|||||x|x||||||x|x|||||||x||||x||||||x|||||
+|ezpdf reader|||||x|||||||||||||x|x|x|x|x|x||x|x|x|||x|x|x||||x|x|x|||||x|x|||||||x|||||x||x||||x|x||||
+|fbreader||||||||||||x||||||x|x||x|||x||||x|||||x||||||x|||||||x|||||||||x|x|x|x|x|x|x|x|x|x||x|
+|google play books|||||||||||||||x|||x|x|x||x|x|||x|x||||x|x|||||x|x||||||x|x|||||||x||||x||||||x|||||
+|ireader||||||||||||||||||x|x|x||x|x|||x|x||||x|x|||||x|x||||||x|x|||||||x||||x||x|x||||x||||
+|kindle||||x||||||||||||||x|x|x||x|x|||x|x||||x|x|||||x|x||||||x|x|||||||x|||||||x|||x|x||||
+|kobo books|||||||x|||||||||||x|x|x|x|x|x|x|x|x|x||x|x|x|x|||x|x|x|||||x|x|||||||x||||||x||x|||x||x||||
+|lektz ebook reader|x|||||||||||||||||x|x|x||x|x|||x|x||||x|x|||||x|x||||||x|x|||||||x||||x||||||x|||||
+|mantano ebook reader||||||||||x||||||||x|x|x||x|x|||x|x||||x|x|||||x|x||||||x|x|||||||x||||x||||||x|||||
+|moon+ reader pro|||||||||||||||||x|x|x|x|x|x|x|x|x|x||x|x|x|||x|x|x|||||x|x|||||||x||||||x||x|x|x|x|x||x|x||||
+|pocketbook|||||||||x|||||||||x|x|x|x|x|x|x|x|x|x|x|x|x|x|||x|x|x|||||x|x|||||||x|||||x|x|x|x|x|||x|x|x||||
+|snapplify||x||||||||||||||||x|x|x|x|x|x|x|x|x|x|x|x|x|x|||x|x|x|||||x|x|||||||x|||||||x||x||||x|x||||
+|socio ereader|||||||||||||x|||||x||x|||x||||x|||||x||||||x|||||||x||||||||x|||x|||||||||||
+|zxreader|||||||||||x|||||||x|x|x|x|x|x|x|x|x|x||x|x|x|x|||x|x|x|||||x|x|||||||x||||||x|x|x|||||x||x||

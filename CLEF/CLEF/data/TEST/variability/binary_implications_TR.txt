@@ -1,0 +1,10 @@
+class_B -> A_attr_a1
+class_B -> A_method_m1
+A_method_m3 -> A_attr_a2
+A_method_m3 -> A_method_m2
+A_method_m3 -> A_attr_a1
+A_method_m3 -> A_method_m1
+A_attr_a2 -> class_A
+A_method_m2 -> class_A
+A_attr_a1 -> class_A
+A_method_m1 -> class_A

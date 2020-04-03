@@ -1,0 +1,23 @@
+name,codename,released,cpu support,fabrication process (nanometer),hyper transport (MHz),grahic processing unit,southbridge
+amd 480x chipset,rd480,2006,athlon 64;sempron,110,1000,*,sb600;uli-m1575
+amd 570x/550x chipset,rd570,2007,phenom;athlon 64;sempron,*,1000,*,sb600
+amd 580x chipset,rd580,2006,phenom;athlon 64;sempron,*,1000,*,sb600
+amd 690v chipset,rs690c,2007,athlon 64;sempron,80,1000,radeon x1200 (350mhz),sb600
+amd 690g chipset,rs690,2007,phenom;athlon 64;sempron,80,1000,radeon x1250 (400mhz),sb600
+amd m690v chipset,rs690mc,2007,turion 64 x2;athlon 64 x2 mobile,80,800,radeon x1200 (350 mhz),sb600
+amd m690 chipset,rs690m,2007,turion 64 x2;athlon 64 x2 mobile,80,800,radeon x1250 (350 mhz),sb600
+amd m690e chipset,rs690t,2007,athlon neo;mobile sempron,80,800,radeon x1250 (350mhz),sb600
+amd m690t chipset,rs690t,2007,turion 64 x2;athlon 64 x2 mobile,80,800,radeon x1270 (400mhz),sb600
+amd 740 chipset,rx740,2008,athlon 64;phenom;sempron,55,1000,*,sb600;sb700;sb750
+amd 740g chipset,rs740,2008,athlon 64;phenom;sempron,55,1000,radeon 2100,sb600;sb700;sb750
+amd 760g chipset,rs780l,2009,athlon 64;phenom;sempron,55,2600,radeon 3000,sb710
+amd 770 chipset,rx780,2008,athlon 64;phenom;sempron,65,2600,*,sb600;sb700;sb710;sb750
+amd 780v chipset,rs780c,2008,athlon 64;phenom;sempron,55,2600,radeon 3100,sb700;sb710;sb750
+amd 780g chipset,rs780i,2008,athlon 64;phenom;sempron,55,2600,radeon hd 3200,sb700;sb710;sb750
+amd m780v chipset,rs780mc,2008,mobile turion;mobile athlon;athlon neo,55,2600,radeon 3100,sb600;sb700;sb710
+amd m780g chipset,rs780m,2008,mobile turion;mobile athlon;athlon neo,55,2600,radeon hd 3200,sb600;sb700;sb710
+amd 785g chipset,rs880,2009,athlon 64;phenom;sempron,55,2600,radeon hd 4200,sb710;sb750;sb810;sb850
+785e,rs785e,*,*,55,2200,radeon hd 4200,sb810;sb850;sb820m
+amd 790gx chipset,rs780d,2008,athlon 64;phenom;sempron,55,2600,radeon hd 3300,sb750
+amd 790x chipset,rd780,2008,athlon 64;phenom;sempron,65,2600,*,sb600;sb700;sb750;sb850
+amd 790fx chipset,rd790,2007,athlon 64;phenom;sempron,65,2600,*,sb600;sb750;sb850

@@ -1,0 +1,191 @@
+digraph G { 
+	rankdir=BT;
+	margin=0;
+	node [margin="0.03,0.03",fontname="DejaVu Sans"];
+	ranksep=0.3;
+	nodesep=0.2;
+//graph[label="name:ctx,concept number:60,object number:19,attribute number:66"
+0 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_6</td></tr><tr><td>developer:={ael data services llp}<br/></td></tr><tr><td>lektz ebook reader<br/></td></tr></table>>];
+1 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_2</td></tr><tr><td>developer:={snapplify}<br/></td></tr><tr><td>snapplify<br/></td></tr></table>>];
+10 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_0</td></tr><tr><td>developer:={zxstyles}<br/></td></tr><tr><td>zxreader<br/></td></tr></table>>];
+11 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_10</td></tr><tr><td>developer:={fbreader.org limited}<br/>formats total:=[11-11]<br/></td></tr><tr><td>fbreader<br/></td></tr></table>>];
+12 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_1</td></tr><tr><td>developer:={gigamarket ltd.}<br/>formats total:=[01-01]<br/></td></tr><tr><td>socio ereader<br/></td></tr></table>>];
+13 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_14</td></tr><tr><td>developer:={vadim lopatin}<br/></td></tr><tr><td>cool reader<br/></td></tr></table>>];
+14 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_9</td></tr><tr><td>developer:={google inc.}<br/></td></tr><tr><td>google play books<br/></td></tr></table>>];
+15 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_12</td></tr><tr><td>developer:={ebooks.com}<br/></td></tr><tr><td>ebook reader<br/></td></tr></table>>];
+16 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_4</td></tr><tr><td>developer:={moon+}<br/>formats total:=[08-08]<br/></td></tr><tr><td>moon+ reader pro<br/></td></tr></table>>];
+2 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_15</td></tr><tr><td>developer:={alan.neverland}<br/>formats total:=[09-09]<br/></td></tr><tr><td>alreader<br/></td></tr></table>>];
+3 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_8</td></tr><tr><td>developer:={amazon mobile llc}<br/></td></tr><tr><td>kindle<br/></td></tr></table>>];
+4 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_11</td></tr><tr><td>developer:={unidocs inc.}<br/>formats total:=[04-04]<br/></td></tr><tr><td>ezpdf reader<br/></td></tr></table>>];
+5 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_13</td></tr><tr><td>developer:={ak2}<br/></td></tr><tr><td>ebookdroid<br/></td></tr></table>>];
+6 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_7</td></tr><tr><td>developer:={kobo ebooks}<br/></td></tr><tr><td>kobo books<br/></td></tr></table>>];
+7 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_16</td></tr><tr><td>developer:={aldiko limited}<br/></td></tr><tr><td>aldiko book reader<br/></td></tr></table>>];
+8 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_3</td></tr><tr><td>developer:={obreey products}<br/></td></tr><tr><td>pocketbook<br/></td></tr></table>>];
+9 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_5</td></tr><tr><td>developer:={mantano sas}<br/></td></tr><tr><td>mantano ebook reader<br/></td></tr></table>>];
+38 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_20</td></tr><tr><td>formats total:=[09-11]<br/></td></tr><tr><td><br/></td></tr></table>>];
+39 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_19</td></tr><tr><td>formats total:=[08-09]<br/></td></tr><tr><td><br/></td></tr></table>>];
+54 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_17</td></tr><tr><td>.oeb<br/></td></tr><tr><td><br/></td></tr></table>>];
+59 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_18</td></tr><tr><td>.docx<br/></td></tr><tr><td><br/></td></tr></table>>];
+32 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_25</td></tr><tr><td>formats total:=[08-11]<br/></td></tr><tr><td><br/></td></tr></table>>];
+45 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_23</td></tr><tr><td>formats total:=[07-07]<br/></td></tr><tr><td><br/></td></tr></table>>];
+46 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_21</td></tr><tr><td>formats total:=[05-05]<br/></td></tr><tr><td><br/></td></tr></table>>];
+48 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_24</td></tr><tr><td>.chm<br/></td></tr><tr><td><br/></td></tr></table>>];
+49 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_22</td></tr><tr><td>.djvu<br/></td></tr><tr><td><br/></td></tr></table>>];
+58 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_26</td></tr><tr><td>.doc<br/>.pdb<br/></td></tr><tr><td><br/></td></tr></table>>];
+40 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_28</td></tr><tr><td>formats total:=[07-08]<br/></td></tr><tr><td><br/></td></tr></table>>];
+42 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_27</td></tr><tr><td>formats total:=[04-05]<br/></td></tr><tr><td><br/></td></tr></table>>];
+33 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_29</td></tr><tr><td>formats total:=[07-09]<br/></td></tr><tr><td><br/></td></tr></table>>];
+27 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_31</td></tr><tr><td>formats total:=[07-11]<br/></td></tr><tr><td><br/></td></tr></table>>];
+41 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_30</td></tr><tr><td>formats total:=[05-07]<br/></td></tr><tr><td><br/></td></tr></table>>];
+53 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_32</td></tr><tr><td>.mobi<br/></td></tr><tr><td>ireader<br/></td></tr></table>>];
+55 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_33</td></tr><tr><td>.rtf<br/></td></tr><tr><td><br/></td></tr></table>>];
+34 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_34</td></tr><tr><td>formats total:=[05-08]<br/></td></tr><tr><td><br/></td></tr></table>>];
+35 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_35</td></tr><tr><td>formats total:=[04-07]<br/></td></tr><tr><td><br/></td></tr></table>>];
+51 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_36</td></tr><tr><td>.fb2<br/></td></tr><tr><td><br/></td></tr></table>>];
+28 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_38</td></tr><tr><td>formats total:=[05-09]<br/></td></tr><tr><td><br/></td></tr></table>>];
+29 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_37</td></tr><tr><td>formats total:=[04-08]<br/></td></tr><tr><td><br/></td></tr></table>>];
+47 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_39</td></tr><tr><td>formats total:=[02-02]<br/></td></tr><tr><td>bookbox<br/>ireader<br/></td></tr></table>>];
+23 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_40</td></tr><tr><td>formats total:=[05-11]<br/></td></tr><tr><td><br/></td></tr></table>>];
+24 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_41</td></tr><tr><td>formats total:=[04-09]<br/></td></tr><tr><td><br/></td></tr></table>>];
+43 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_43</td></tr><tr><td>formats total:=[02-04]<br/></td></tr><tr><td><br/></td></tr></table>>];
+44 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_42</td></tr><tr><td>formats total:=[01-02]<br/></td></tr><tr><td><br/></td></tr></table>>];
+20 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_45</td></tr><tr><td>formats total:=[04-11]<br/></td></tr><tr><td><br/></td></tr></table>>];
+37 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_46</td></tr><tr><td>formats total:=[01-04]<br/></td></tr><tr><td><br/></td></tr></table>>];
+52 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_44</td></tr><tr><td>.html<br/></td></tr><tr><td>ireader<br/></td></tr></table>>];
+36 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_48</td></tr><tr><td>formats total:=[02-05]<br/></td></tr><tr><td><br/></td></tr></table>>];
+57 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_47</td></tr><tr><td>.txt<br/></td></tr><tr><td>bookbox<br/></td></tr></table>>];
+31 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_49</td></tr><tr><td>formats total:=[01-05]<br/></td></tr><tr><td><br/></td></tr></table>>];
+56 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_50</td></tr><tr><td>.pdf<br/></td></tr><tr><td>bookbox<br/></td></tr></table>>];
+30 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_51</td></tr><tr><td>formats total:=[02-07]<br/></td></tr><tr><td><br/></td></tr></table>>];
+25 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_53</td></tr><tr><td>formats total:=[02-08]<br/></td></tr><tr><td><br/></td></tr></table>>];
+26 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_52</td></tr><tr><td>formats total:=[01-07]<br/></td></tr><tr><td><br/></td></tr></table>>];
+21 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_55</td></tr><tr><td>formats total:=[02-09]<br/></td></tr><tr><td><br/></td></tr></table>>];
+22 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_54</td></tr><tr><td>formats total:=[01-08]<br/></td></tr><tr><td><br/></td></tr></table>>];
+18 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_58</td></tr><tr><td>formats total:=[02-11]<br/></td></tr><tr><td><br/></td></tr></table>>];
+19 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_56</td></tr><tr><td>formats total:=[01-09]<br/></td></tr><tr><td><br/></td></tr></table>>];
+50 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_57</td></tr><tr><td>.epub<br/></td></tr><tr><td>bookbox<br/></td></tr></table>>];
+17 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_59</td></tr><tr><td>formats total:=[01-11]<br/></td></tr><tr><td><br/></td></tr></table>>];
+	11:p -> 38:p
+	2:p -> 38:p
+	16:p -> 39:p
+	2:p -> 39:p
+	16:p -> 54:p
+	11:p -> 54:p
+	10:p -> 59:p
+	2:p -> 59:p
+	38:p -> 32:p
+	39:p -> 32:p
+	54:p -> 32:p
+	13:p -> 45:p
+	8:p -> 45:p
+	1:p -> 45:p
+	10:p -> 46:p
+	6:p -> 46:p
+	5:p -> 46:p
+	16:p -> 48:p
+	13:p -> 48:p
+	8:p -> 48:p
+	11:p -> 49:p
+	5:p -> 49:p
+	8:p -> 49:p
+	38:p -> 58:p
+	13:p -> 58:p
+	45:p -> 40:p
+	48:p -> 40:p
+	46:p -> 42:p
+	4:p -> 42:p
+	39:p -> 33:p
+	40:p -> 33:p
+	32:p -> 27:p
+	33:p -> 27:p
+	58:p -> 27:p
+	46:p -> 41:p
+	45:p -> 41:p
+	32:p -> 53:p
+	3:p -> 53:p
+	58:p -> 53:p
+	6:p -> 55:p
+	49:p -> 55:p
+	58:p -> 55:p
+	40:p -> 34:p
+	41:p -> 34:p
+	42:p -> 35:p
+	41:p -> 35:p
+	32:p -> 51:p
+	49:p -> 51:p
+	48:p -> 51:p
+	59:p -> 51:p
+	58:p -> 51:p
+	34:p -> 28:p
+	59:p -> 28:p
+	33:p -> 28:p
+	35:p -> 29:p
+	34:p -> 29:p
+	9:p -> 47:p
+	0:p -> 47:p
+	7:p -> 47:p
+	15:p -> 47:p
+	3:p -> 47:p
+	14:p -> 47:p
+	28:p -> 23:p
+	51:p -> 23:p
+	27:p -> 23:p
+	55:p -> 23:p
+	28:p -> 24:p
+	29:p -> 24:p
+	4:p -> 43:p
+	47:p -> 43:p
+	12:p -> 44:p
+	47:p -> 44:p
+	24:p -> 20:p
+	23:p -> 20:p
+	44:p -> 37:p
+	43:p -> 37:p
+	6:p -> 52:p
+	4:p -> 52:p
+	27:p -> 52:p
+	59:p -> 52:p
+	42:p -> 36:p
+	43:p -> 36:p
+	53:p -> 57:p
+	52:p -> 57:p
+	36:p -> 31:p
+	37:p -> 31:p
+	9:p -> 56:p
+	15:p -> 56:p
+	49:p -> 56:p
+	4:p -> 56:p
+	7:p -> 56:p
+	0:p -> 56:p
+	54:p -> 56:p
+	3:p -> 56:p
+	14:p -> 56:p
+	1:p -> 56:p
+	35:p -> 30:p
+	36:p -> 30:p
+	29:p -> 25:p
+	30:p -> 25:p
+	30:p -> 26:p
+	31:p -> 26:p
+	25:p -> 21:p
+	24:p -> 21:p
+	26:p -> 22:p
+	25:p -> 22:p
+	57:p -> 18:p
+	21:p -> 18:p
+	20:p -> 18:p
+	56:p -> 18:p
+	21:p -> 19:p
+	22:p -> 19:p
+	9:p -> 50:p
+	15:p -> 50:p
+	12:p -> 50:p
+	7:p -> 50:p
+	0:p -> 50:p
+	14:p -> 50:p
+	20:p -> 50:p
+	52:p -> 50:p
+	50:p -> 17:p
+	18:p -> 17:p
+	19:p -> 17:p
+}

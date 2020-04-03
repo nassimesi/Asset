@@ -1,0 +1,2 @@
+encryption <-> adc support:={tigr,adcs}
+hash algorithms:={tiger tree hash} <-> adc support:={tigr}

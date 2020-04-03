@@ -1,0 +1,8 @@
+mainlyusedfor:={sculpting,uvmapping,modeling} <-> license:={bsd}
+latestreleasedate:=[2012-2012] <-> platforms:={ios,macosx}
+latestreleasedate:=[2012-2012] <-> mainlyusedfor:={texturing,lighting,mobilemodeling}
+platforms:={ios,macosx} <-> mainlyusedfor:={texturing,lighting,mobilemodeling}
+platforms:={morphos,bsd,amigaos,microsoftwindows,linux,solaris,macosx} <-> mainlyusedfor:={sculpting,basicpost-productionvideoediting,modeling,rendering,videogamecreation,lighting,visual3deffects,animation}
+platforms:={bsd,microsoftwindows,linux,macosx} <-> mainlyusedfor:={sculpting,modeling}
+platforms:={linux,microsoftwindows,macosx} <-> platforms:={microsoftwindows,linux,macosx}
+platforms:={linux,microsoftwindows,macosx} <-> platforms:={microsoftwindows,linux,macosx}

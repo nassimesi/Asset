@@ -1,0 +1,10 @@
+creator:={unify corporation} <-> release date:=*
+creator:={talend} <-> software license:={gpl,apache software license}
+creator:={openlink software} <-> release date:=[2001-2001]
+creator:={openlink software} <-> software license:={gpl,proprietary}
+release date:=[2001-2001] <-> software license:={gpl,proprietary}
+creator:={openesb community} <-> software license:={cddl}
+creator:={mulesoft} <-> software license:={cpal}
+creator:={the software conservancy} <-> software license:={mit}
+creator:={jitterbit} <-> software license:={jpl}
+creator:={adroitlogic} <-> software license:={agpl}

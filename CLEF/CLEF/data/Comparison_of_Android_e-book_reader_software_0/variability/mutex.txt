@@ -1,0 +1,198 @@
+formats total:=[02-11] ->! developer:={gigamarket ltd.}
+.epub ->! developer:={amazon mobile llc}
+formats total:=[01-09] ->! developer:={fbreader.org limited}
+formats total:=[01-08] ->! developer:={alan.neverland}
+formats total:=[01-07] ->! .oeb
+formats total:=[01-07] ->! developer:={moon+}
+.pdf ->! .docx
+.pdf ->! developer:={alan.neverland}
+.pdf ->! formats total:=[09-09]
+.pdf ->! developer:={vadim lopatin}
+.pdf ->! developer:={kobo ebooks}
+.pdf ->! developer:={gigamarket ltd.}
+.pdf ->! formats total:=[01-01]
+.pdf ->! developer:={zxstyles}
+formats total:=[01-05] ->! .doc
+formats total:=[01-05] ->! .pdb
+formats total:=[01-05] ->! .chm
+formats total:=[01-05] ->! developer:={vadim lopatin}
+formats total:=[01-05] ->! developer:={obreey products}
+formats total:=[01-05] ->! developer:={snapplify}
+.txt ->! developer:={aldiko limited}
+.txt ->! developer:={ak2}
+.txt ->! developer:={ebooks.com}
+.txt ->! developer:={google inc.}
+.txt ->! developer:={ael data services llp}
+.txt ->! developer:={mantano sas}
+.txt ->! developer:={gigamarket ltd.}
+.txt ->! formats total:=[01-01]
+formats total:=[01-04] ->! .fb2
+formats total:=[01-04] ->! .rtf
+formats total:=[01-04] ->! .djvu
+formats total:=[01-04] ->! .docx
+formats total:=[01-04] ->! developer:={ak2}
+formats total:=[01-04] ->! developer:={kobo ebooks}
+formats total:=[01-04] ->! developer:={zxstyles}
+formats total:=[04-11] ->! developer:={aldiko limited}
+formats total:=[04-11] ->! developer:={ebooks.com}
+formats total:=[04-11] ->! developer:={google inc.}
+formats total:=[04-11] ->! developer:={amazon mobile llc}
+formats total:=[04-11] ->! developer:={ael data services llp}
+formats total:=[04-11] ->! developer:={mantano sas}
+.html ->! formats total:=[01-02]
+.html ->! developer:={aldiko limited}
+.html ->! developer:={ak2}
+.html ->! developer:={ebooks.com}
+.html ->! developer:={google inc.}
+.html ->! developer:={amazon mobile llc}
+.html ->! developer:={ael data services llp}
+.html ->! developer:={mantano sas}
+.html ->! developer:={gigamarket ltd.}
+formats total:=[01-02] ->! developer:={unidocs inc.}
+formats total:=[05-11] ->! developer:={unidocs inc.}
+.fb2 ->! developer:={aldiko limited}
+.fb2 ->! developer:={ebooks.com}
+.fb2 ->! developer:={unidocs inc.}
+.fb2 ->! developer:={google inc.}
+.fb2 ->! developer:={amazon mobile llc}
+.fb2 ->! developer:={kobo ebooks}
+.fb2 ->! developer:={ael data services llp}
+.fb2 ->! developer:={mantano sas}
+.fb2 ->! developer:={snapplify}
+.fb2 ->! developer:={gigamarket ltd.}
+.rtf ->! developer:={aldiko limited}
+.rtf ->! developer:={ebooks.com}
+.rtf ->! developer:={unidocs inc.}
+.rtf ->! developer:={google inc.}
+.rtf ->! developer:={amazon mobile llc}
+.rtf ->! developer:={ael data services llp}
+.rtf ->! developer:={mantano sas}
+.rtf ->! developer:={moon+}
+.rtf ->! formats total:=[08-08]
+.rtf ->! developer:={snapplify}
+.rtf ->! developer:={gigamarket ltd.}
+.rtf ->! developer:={zxstyles}
+.mobi ->! formats total:=[04-05]
+.mobi ->! developer:={aldiko limited}
+.mobi ->! developer:={ak2}
+.mobi ->! developer:={ebooks.com}
+.mobi ->! developer:={unidocs inc.}
+.mobi ->! developer:={google inc.}
+.mobi ->! developer:={kobo ebooks}
+.mobi ->! developer:={ael data services llp}
+.mobi ->! developer:={mantano sas}
+.mobi ->! developer:={obreey products}
+.mobi ->! developer:={snapplify}
+.mobi ->! developer:={gigamarket ltd.}
+.mobi ->! formats total:=[01-01]
+.mobi ->! developer:={zxstyles}
+formats total:=[07-11] ->! developer:={ak2}
+formats total:=[07-11] ->! developer:={kobo ebooks}
+formats total:=[07-11] ->! developer:={zxstyles}
+formats total:=[07-08] ->! .docx
+.doc ->! developer:={aldiko limited}
+.pdb ->! developer:={aldiko limited}
+.doc ->! developer:={ak2}
+.pdb ->! developer:={ak2}
+.doc ->! developer:={ebooks.com}
+.pdb ->! developer:={ebooks.com}
+.doc ->! developer:={unidocs inc.}
+.pdb ->! developer:={unidocs inc.}
+.doc ->! developer:={google inc.}
+.pdb ->! developer:={google inc.}
+.doc ->! developer:={amazon mobile llc}
+.pdb ->! developer:={amazon mobile llc}
+.doc ->! developer:={kobo ebooks}
+.pdb ->! developer:={kobo ebooks}
+.doc ->! developer:={ael data services llp}
+.pdb ->! developer:={ael data services llp}
+.doc ->! developer:={mantano sas}
+.pdb ->! developer:={mantano sas}
+.doc ->! developer:={moon+}
+.doc ->! formats total:=[08-08]
+.pdb ->! developer:={moon+}
+.pdb ->! formats total:=[08-08]
+.doc ->! developer:={obreey products}
+.pdb ->! developer:={obreey products}
+.doc ->! developer:={snapplify}
+.pdb ->! developer:={snapplify}
+.doc ->! developer:={gigamarket ltd.}
+.pdb ->! developer:={gigamarket ltd.}
+.doc ->! developer:={zxstyles}
+.pdb ->! developer:={zxstyles}
+formats total:=[08-11] ->! developer:={vadim lopatin}
+formats total:=[08-11] ->! developer:={obreey products}
+formats total:=[08-11] ->! developer:={snapplify}
+.chm ->! formats total:=[09-11]
+.chm ->! .docx
+.chm ->! developer:={aldiko limited}
+.chm ->! developer:={alan.neverland}
+.chm ->! developer:={ak2}
+.chm ->! developer:={ebooks.com}
+.chm ->! developer:={unidocs inc.}
+.chm ->! developer:={fbreader.org limited}
+.chm ->! developer:={google inc.}
+.chm ->! developer:={amazon mobile llc}
+.chm ->! developer:={kobo ebooks}
+.chm ->! developer:={ael data services llp}
+.chm ->! developer:={mantano sas}
+.chm ->! developer:={snapplify}
+.chm ->! developer:={gigamarket ltd.}
+.chm ->! developer:={zxstyles}
+.djvu ->! formats total:=[08-09]
+.djvu ->! .docx
+.djvu ->! developer:={aldiko limited}
+.djvu ->! developer:={alan.neverland}
+.djvu ->! developer:={vadim lopatin}
+.djvu ->! developer:={ebooks.com}
+.djvu ->! developer:={unidocs inc.}
+.djvu ->! developer:={google inc.}
+.djvu ->! developer:={amazon mobile llc}
+.djvu ->! developer:={kobo ebooks}
+.djvu ->! developer:={ael data services llp}
+.djvu ->! developer:={mantano sas}
+.djvu ->! developer:={moon+}
+.djvu ->! developer:={snapplify}
+.djvu ->! developer:={gigamarket ltd.}
+.djvu ->! developer:={zxstyles}
+formats total:=[09-11] ->! developer:={moon+}
+.docx ->! .oeb
+.docx ->! developer:={aldiko limited}
+.docx ->! developer:={vadim lopatin}
+.docx ->! developer:={ak2}
+.docx ->! developer:={ebooks.com}
+.docx ->! developer:={unidocs inc.}
+.docx ->! developer:={fbreader.org limited}
+.docx ->! formats total:=[11-11]
+.docx ->! developer:={google inc.}
+.docx ->! developer:={amazon mobile llc}
+.docx ->! developer:={kobo ebooks}
+.docx ->! developer:={ael data services llp}
+.docx ->! developer:={mantano sas}
+.docx ->! developer:={moon+}
+.docx ->! developer:={obreey products}
+.docx ->! developer:={snapplify}
+.docx ->! developer:={gigamarket ltd.}
+.oeb ->! developer:={aldiko limited}
+.oeb ->! developer:={alan.neverland}
+.oeb ->! formats total:=[09-09]
+.oeb ->! developer:={vadim lopatin}
+.oeb ->! developer:={ak2}
+.oeb ->! developer:={ebooks.com}
+.oeb ->! developer:={unidocs inc.}
+.oeb ->! developer:={google inc.}
+.oeb ->! developer:={amazon mobile llc}
+.oeb ->! developer:={kobo ebooks}
+.oeb ->! developer:={ael data services llp}
+.oeb ->! developer:={mantano sas}
+.oeb ->! developer:={obreey products}
+.oeb ->! developer:={snapplify}
+.oeb ->! developer:={gigamarket ltd.}
+.oeb ->! developer:={zxstyles}
+developer:={aldiko limited} ->! formats total:=[01-01]
+developer:={alan.neverland} ->! formats total:=[11-11]
+developer:={ebooks.com} ->! formats total:=[01-01]
+developer:={google inc.} ->! formats total:=[01-01]
+developer:={amazon mobile llc} ->! formats total:=[01-01]
+developer:={ael data services llp} ->! formats total:=[01-01]
+developer:={mantano sas} ->! formats total:=[01-01]

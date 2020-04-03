@@ -1,0 +1,594 @@
+digraph G { 
+	rankdir=BT;
+	margin=0;
+	node [margin="0.03,0.03",fontname="DejaVu Sans"];
+	ranksep=0.3;
+	nodesep=0.2;
+//graph[label="name:ctx,concept number:183,object number:304,attribute number:203"
+0 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_32</td></tr><tr><td>movement:={statistical bullet dodging}<br/></td></tr><tr><td>NP<br/></td></tr></table>>];
+100 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_5</td></tr><tr><td>targeting:={reduced linear targeting}<br/></td></tr><tr><td>TybaltMelee<br/></td></tr></table>>];
+101 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_48</td></tr><tr><td>targeting:={corner targeting}<br/></td></tr><tr><td>Insomnia<br/></td></tr></table>>];
+109 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_15</td></tr><tr><td>targeting:={linear circular targeting}<br/></td></tr><tr><td>Simpler<br/></td></tr></table>>];
+116 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_50</td></tr><tr><td>targeting:={neural targeting,gaffs targeting}<br/></td></tr><tr><td>Holden<br/></td></tr></table>>];
+12 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_34</td></tr><tr><td>movement:={one way}<br/></td></tr><tr><td>Mosquito<br/></td></tr></table>>];
+120 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_37</td></tr><tr><td>targeting:={virtual guns,statistical targeting}<br/></td></tr><tr><td>Marshmallow<br/></td></tr></table>>];
+126 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_74</td></tr><tr><td>targeting:={shadow,melee gun}<br/></td></tr><tr><td>BrokenSword<br/></td></tr></table>>];
+13 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_28</td></tr><tr><td>movement:={adapting oscillator movement}<br/></td></tr><tr><td>Pugio<br/></td></tr></table>>];
+130 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_6</td></tr><tr><td>targeting:={guessfactor targeting,dynamic segmentation}<br/></td></tr><tr><td>Toad<br/></td></tr></table>>];
+131 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_31</td></tr><tr><td>targeting:={pattern matching,singletick}<br/></td></tr><tr><td>Numbat<br/></td></tr></table>>];
+132 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_49</td></tr><tr><td>targeting:={guessfactor targeting,dynamic clustering}<br/></td></tr><tr><td>Hydra<br/></td></tr></table>>];
+136 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_65</td></tr><tr><td>targeting:={guessfactor targeting,dynamic clustering,displacement vectors}<br/></td></tr><tr><td>Diamond<br/></td></tr></table>>];
+137 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_29</td></tr><tr><td>targeting:={guessfactor targeting,dynamic clustering,semi circular targeting}<br/></td></tr><tr><td>Portia<br/></td></tr></table>>];
+138 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_23</td></tr><tr><td>targeting:={guessfactor targeting,dynamic clustering,anti surfer targeting}<br/></td></tr><tr><td>Roborio<br/></td></tr></table>>];
+147 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_8</td></tr><tr><td>targeting:={head on targeting,mean linear targeting,circular targeting,virtual guns}<br/></td></tr><tr><td>TheArtOfWar<br/></td></tr></table>>];
+150 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_7</td></tr><tr><td>targeting:={guessfactor targeting,play it forward,crowd targeting,dynamic clustering}<br/></td></tr><tr><td>TheRiver<br/></td></tr></table>>];
+153 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_35</td></tr><tr><td>targeting:={guessfactor targeting,anti aliased,interpolated,visit count stats}<br/></td></tr><tr><td>Midboss<br/></td></tr></table>>];
+154 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_21</td></tr><tr><td>targeting:={guessfactor targeting,pattern matching,dynamic clustering,crowd targeting}<br/></td></tr><tr><td>RougeDC<br/></td></tr></table>>];
+155 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_75</td></tr><tr><td>targeting:={guessfactor targeting,head on targeting,circular targeting,virtual guns,single tick pattern matching,linear targeting}<br/>code license:={npl}<br/></td></tr><tr><td>BlackHole/Old/Old<br/></td></tr></table>>];
+157 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_54</td></tr><tr><td>targeting:={guessfactor targeting,circular targeting,pattern matching,tidalwave targeting,lateral velocity,linear targeting,random targeting}<br/></td></tr><tr><td>Gladiator<br/></td></tr></table>>];
+158 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_66</td></tr><tr><td>targeting:={guessfactor targeting,head on targeting,circular targeting,pattern matching,lateral velocity,linear targeting,random targeting}<br/></td></tr><tr><td>DeltaSquad<br/></td></tr></table>>];
+16 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_20</td></tr><tr><td>movement:={randomwaves}<br/>targeting:={random guessfactor targeting}<br/></td></tr><tr><td>SecondBot<br/></td></tr></table>>];
+165 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_43</td></tr><tr><td>code license:={qkpl}<br/></td></tr><tr><td>Lib<br/></td></tr></table>>];
+166 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_16</td></tr><tr><td>code license:={gpl}<br/></td></tr><tr><td>SimpleBot<br/></td></tr></table>>];
+168 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_55</td></tr><tr><td>code license:={freebsd}<br/></td></tr><tr><td>Gilgalad<br/></td></tr></table>>];
+17 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_80</td></tr><tr><td>movement:={anti pattern at distance}<br/></td></tr><tr><td>Acero<br/></td></tr></table>>];
+176 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_52</td></tr><tr><td>code license:={bsd}<br/></td></tr><tr><td>GreatWolf<br/></td></tr></table>>];
+181 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_76</td></tr><tr><td>code license:={accsl}<br/></td></tr><tr><td>AlphaAurora<br/></td></tr></table>>];
+19 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_58</td></tr><tr><td>movement:={multi buffered wavesurfing}<br/>targeting:={single guessfactor gun}<br/></td></tr><tr><td>Garm<br/></td></tr></table>>];
+2 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_71</td></tr><tr><td>movement:={behind the snow}<br/></td></tr><tr><td>ChristmasCard<br/></td></tr></table>>];
+20 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_53</td></tr><tr><td>movement:={statistical aom}<br/></td></tr><tr><td>Gladius<br/></td></tr></table>>];
+21 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_13</td></tr><tr><td>movement:={provocative movement}<br/></td></tr><tr><td>SuperCorners<br/></td></tr></table>>];
+22 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_73</td></tr><tr><td>movement:={fires prediction}<br/></td></tr><tr><td>BulletSimBot<br/></td></tr></table>>];
+23 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_70</td></tr><tr><td>movement:={pathfinding}<br/></td></tr><tr><td>Chupacabra<br/></td></tr></table>>];
+24 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_60</td></tr><tr><td>movement:={adaptive random movement}<br/></td></tr><tr><td>Fractal<br/></td></tr></table>>];
+25 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_51</td></tr><tr><td>movement:={ocnirpsng movement}<br/></td></tr><tr><td>Hebe<br/></td></tr></table>>];
+27 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_64</td></tr><tr><td>movement:={imperceptible}<br/></td></tr><tr><td>EnergyDome<br/></td></tr></table>>];
+28 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_44</td></tr><tr><td>movement:={reinforcement learning}<br/></td></tr><tr><td>Leon<br/></td></tr></table>>];
+3 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_79</td></tr><tr><td>movement:={adapting stop and go}<br/>targeting:={heading circular targeting,enemy velocity,averaged velocity,last place i hit}<br/></td></tr><tr><td>Acraepheus<br/></td></tr></table>>];
+32 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_25</td></tr><tr><td>movement:={orbital random movement}<br/></td></tr><tr><td>RandomMovementBot<br/></td></tr></table>>];
+34 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_3</td></tr><tr><td>movement:={semi circular movement}<br/></td></tr><tr><td>WarBot<br/></td></tr></table>>];
+37 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_68</td></tr><tr><td>movement:={mirror movement}<br/></td></tr><tr><td>CopyKat<br/></td></tr></table>>];
+39 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_67</td></tr><tr><td>movement:={virtual movements array}<br/></td></tr><tr><td>Crusaider<br/></td></tr></table>>];
+42 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_1</td></tr><tr><td>movement:={wall hug movement}<br/></td></tr><tr><td>WorstBot<br/></td></tr></table>>];
+44 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_30</td></tr><tr><td>movement:={fluid movement}<br/></td></tr><tr><td>Opposite<br/></td></tr></table>>];
+48 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_61</td></tr><tr><td>movement:={anti gravity movement,teasing movement}<br/>targeting:={guessfactor targeting,head on targeting,circular targeting,linear targeting,averaged linear targeting}<br/></td></tr><tr><td>Exterminans2oo8<br/></td></tr></table>>];
+49 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_18</td></tr><tr><td>movement:={oscillator movement,circular movement}<br/></td></tr><tr><td>ShocknAwe<br/></td></tr></table>>];
+51 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_57</td></tr><tr><td>movement:={random movement,minimum risk movement}<br/></td></tr><tr><td>GeminiTeam<br/></td></tr></table>>];
+53 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_14</td></tr><tr><td>movement:={surfing,go to}<br/></td></tr><tr><td>Stormrider<br/></td></tr></table>>];
+55 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_56</td></tr><tr><td>movement:={orbital movement,random movement}<br/></td></tr><tr><td>GFTargetingBot<br/></td></tr></table>>];
+56 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_45</td></tr><tr><td>movement:={wave surfing,random movement}<br/></td></tr><tr><td>Lacrimas<br/></td></tr></table>>];
+57 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_33</td></tr><tr><td>movement:={wave surfing,go to}<br/></td></tr><tr><td>Neuromancer<br/></td></tr></table>>];
+6 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_78</td></tr><tr><td>movement:={danger prediction}<br/></td></tr><tr><td>AgentSmith<br/></td></tr></table>>];
+60 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_24</td></tr><tr><td>movement:={wave surfing,true serving}<br/></td></tr><tr><td>Rechner<br/></td></tr></table>>];
+61 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_0</td></tr><tr><td>movement:={ramescape,anti mirror}<br/>targeting:={guessfactor targeting,circular targeting,anti mirror,bullet shielding,linear targeting}<br/></td></tr><tr><td>XanderCat<br/></td></tr></table>>];
+62 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_72</td></tr><tr><td>movement:={musashi trick,sandbox flattener}<br/></td></tr><tr><td>Canon<br/></td></tr></table>>];
+64 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_36</td></tr><tr><td>movement:={ramming movement,maximum risk movement}<br/></td></tr><tr><td>MaxRisk<br/></td></tr></table>>];
+65 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_2</td></tr><tr><td>movement:={wave surfing,true surfing}<br/></td></tr><tr><td>Wintermute<br/></td></tr></table>>];
+66 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_12</td></tr><tr><td>movement:={wall smoothing,random orbital movement}<br/></td></tr><tr><td>SuperCrazy<br/></td></tr></table>>];
+68 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_9</td></tr><tr><td>movement:={pattern movement,pimitive adaptive movement}<br/></td></tr><tr><td>Target<br/></td></tr></table>>];
+69 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_47</td></tr><tr><td>movement:={random movement,mosquito}<br/></td></tr><tr><td>Kirbyi<br/></td></tr></table>>];
+70 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_10</td></tr><tr><td>movement:={orbital movement,ramming movement}<br/></td></tr><tr><td>SuperRamFire<br/></td></tr></table>>];
+72 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_59</td></tr><tr><td>movement:={ramming movement,multi mode}<br/></td></tr><tr><td>Fusion<br/></td></tr></table>>];
+73 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_46</td></tr><tr><td>movement:={perpendicular,multi mode}<br/></td></tr><tr><td>Krabby<br/></td></tr></table>>];
+74 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_77</td></tr><tr><td>movement:={minimum risk movement,circular movement}<br/></td></tr><tr><td>Aleph<br/></td></tr></table>>];
+75 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_27</td></tr><tr><td>movement:={wave surfing,dodging bullets}<br/></td></tr><tr><td>Rage<br/></td></tr></table>>];
+76 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_40</td></tr><tr><td>movement:={wave surfing,wall smoothing}<br/></td></tr><tr><td>Lynx<br/></td></tr></table>>];
+79 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_11</td></tr><tr><td>movement:={wave surfing,anti gravity movement,virtual bullet dodging}<br/>targeting:={bearing offset targeting,segmented last}<br/></td></tr><tr><td>SuperMercutio<br/></td></tr></table>>];
+80 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_26</td></tr><tr><td>movement:={random movement,wall smoothing,adaptive movement}<br/></td></tr><tr><td>RaikoMicro<br/></td></tr></table>>];
+82 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_39</td></tr><tr><td>movement:={magictrick,bullet dodging,random bullet dodging}<br/></td></tr><tr><td>MagicD3<br/></td></tr></table>>];
+83 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_42</td></tr><tr><td>movement:={ramming movement,random movement,stop and go}<br/></td></tr><tr><td>LittleBlackBook<br/></td></tr></table>>];
+84 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_4</td></tr><tr><td>movement:={random movement,stop and go,musashi trick}<br/></td></tr><tr><td>Vyper<br/></td></tr></table>>];
+85 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_22</td></tr><tr><td>movement:={wave surfing,minimum risk movement,linear movement}<br/></td></tr><tr><td>Robovirus<br/></td></tr></table>>];
+86 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_62</td></tr><tr><td>movement:={random movement,stop and go,multi mode}<br/></td></tr><tr><td>EpeeistMicro<br/></td></tr></table>>];
+87 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_63</td></tr><tr><td>movement:={random movement,multi mode,oscillator movement}<br/></td></tr><tr><td>Epeeist<br/></td></tr></table>>];
+88 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_69</td></tr><tr><td>movement:={wave surfing,anti gravity movement,flat movement,shrapnel dodging}<br/>targeting:={guessfactor targeting,swarm targeting,dynamic clustering,random targeting}<br/></td></tr><tr><td>Combat<br/></td></tr></table>>];
+9 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_19</td></tr><tr><td>movement:={stationary}<br/>targeting:={fire at enemys bullet}<br/></td></tr><tr><td>ShieldBot<br/></td></tr></table>>];
+96 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_38</td></tr><tr><td>targeting:={wave targeting}<br/></td></tr><tr><td>ManuelGallegus<br/></td></tr></table>>];
+97 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_41</td></tr><tr><td>targeting:={self organizing observation log}<br/></td></tr><tr><td>Locke<br/></td></tr></table>>];
+99 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_17</td></tr><tr><td>targeting:={vectorial pattern matching}<br/></td></tr><tr><td>SilverSurfer<br/></td></tr></table>>];
+1 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_105</td></tr><tr><td>movement:={flat movement}<br/></td></tr><tr><td>SandboxDT<br/></td></tr></table>>];
+107 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_91</td></tr><tr><td>targeting:={guessfactor}<br/></td></tr><tr><td>LightningBug<br/></td></tr></table>>];
+11 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_99</td></tr><tr><td>movement:={exact path predictor}<br/></td></tr><tr><td>EvBotNG<br/>IWillFireNoBullet<br/></td></tr></table>>];
+113 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_98</td></tr><tr><td>targeting:={averaged linear targeting}<br/></td></tr><tr><td>ExclusionNano<br/></td></tr></table>>];
+119 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_83</td></tr><tr><td>targeting:={circular targeting,segmented mean}<br/></td></tr><tr><td>SuperSpinBot<br/></td></tr></table>>];
+122 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_88</td></tr><tr><td>targeting:={guessfactor targeting,visit count stats}<br/></td></tr><tr><td>Newton<br/></td></tr></table>>];
+128 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_86</td></tr><tr><td>targeting:={guessfactor targeting,anti surfer targeting}<br/></td></tr><tr><td>Phoenix<br/></td></tr></table>>];
+129 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_96</td></tr><tr><td>targeting:={averaged bearing offset targeting,angular targeting}<br/></td></tr><tr><td>Gouldingi<br/>Mako<br/></td></tr></table>>];
+139 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_85</td></tr><tr><td>targeting:={guessfactor targeting,crowd targeting,dynamic clustering}<br/></td></tr><tr><td><br/></td></tr></table>>];
+149 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_101</td></tr><tr><td>targeting:={head on targeting,circular targeting,linear targeting,random targeting}<br/></td></tr><tr><td><br/></td></tr></table>>];
+152 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_103</td></tr><tr><td>targeting:={guessfactor targeting,circular targeting,head on targeting,random targeting}<br/></td></tr><tr><td>EvBotNG<br/></td></tr></table>>];
+156 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_102</td></tr><tr><td>targeting:={guessfactor targeting,circular targeting,pattern matching,lateral velocity,linear targeting,random targeting}<br/></td></tr><tr><td><br/></td></tr></table>>];
+169 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_104</td></tr><tr><td>code license:={kpl}<br/></td></tr><tr><td>Coriantumr<br/>Shiz<br/></td></tr></table>>];
+170 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_84</td></tr><tr><td>code license:={gcwcd}<br/></td></tr><tr><td>Spitfire<br/></td></tr></table>>];
+26 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_94</td></tr><tr><td>movement:={perpendicular}<br/></td></tr><tr><td>Toa<br/></td></tr></table>>];
+36 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_110</td></tr><tr><td>movement:={gilgalads movement}<br/>targeting:={gilgalads targeting}<br/></td></tr><tr><td>AIR<br/></td></tr></table>>];
+38 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_81</td></tr><tr><td>movement:={random pattern movement}<br/></td></tr><tr><td>SuperTrackFire<br/>SuperWalls<br/></td></tr></table>>];
+40 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_93</td></tr><tr><td>movement:={true surfing}<br/></td></tr><tr><td>Krabby2<br/></td></tr></table>>];
+41 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_106</td></tr><tr><td>movement:={linear movement}<br/></td></tr><tr><td>Caligula<br/></td></tr></table>>];
+43 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_89</td></tr><tr><td>movement:={aggressive movement}<br/></td></tr><tr><td>LunarTwins<br/>SuperTracker<br/></td></tr></table>>];
+46 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_97</td></tr><tr><td>movement:={orbital movement}<br/></td></tr><tr><td><br/></td></tr></table>>];
+47 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_87</td></tr><tr><td>movement:={go to}<br/></td></tr><tr><td><br/></td></tr></table>>];
+52 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_95</td></tr><tr><td>movement:={stop and go,oscillator movement}<br/></td></tr><tr><td>Grinnik<br/>GrubbmGrb<br/></td></tr></table>>];
+54 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_90</td></tr><tr><td>movement:={ramming movement,stop and go}<br/></td></tr><tr><td>Machete<br/></td></tr></table>>];
+59 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_92</td></tr><tr><td>movement:={pattern movement,corner movement}<br/></td></tr><tr><td>SuperBoxBot<br/></td></tr></table>>];
+71 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_82</td></tr><tr><td>movement:={anti gravity movement,virtual bullet dodging}<br/></td></tr><tr><td><br/></td></tr></table>>];
+77 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_107</td></tr><tr><td>movement:={random movement,pusedo not moving}<br/></td></tr><tr><td>BulletCatcher<br/>Ucatcher<br/></td></tr></table>>];
+78 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_100</td></tr><tr><td>movement:={random movement,multi mode}<br/></td></tr><tr><td><br/></td></tr></table>>];
+91 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_109</td></tr><tr><td>targeting:={dynamic clustering}<br/></td></tr><tr><td>Ali<br/></td></tr></table>>];
+93 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_108</td></tr><tr><td>targeting:={single tick pattern matching}<br/></td></tr><tr><td>WeeklongObsession<br/></td></tr></table>>];
+10 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_112</td></tr><tr><td>movement:={corner movement}<br/></td></tr><tr><td><br/></td></tr></table>>];
+104 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_116</td></tr><tr><td>targeting:={bullet shielding}<br/></td></tr><tr><td><br/></td></tr></table>>];
+108 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_113</td></tr><tr><td>targeting:={angular targeting}<br/></td></tr><tr><td>N<br/></td></tr></table>>];
+115 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_114</td></tr><tr><td>targeting:={visit count stats}<br/></td></tr><tr><td><br/></td></tr></table>>];
+123 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_123</td></tr><tr><td>targeting:={neural targeting,guessfactor targeting}<br/></td></tr><tr><td>ColdBreath<br/>Engineer<br/>Gaff<br/></td></tr></table>>];
+133 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_117</td></tr><tr><td>targeting:={guessfactor targeting,pattern matching}<br/></td></tr><tr><td><br/></td></tr></table>>];
+140 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_119</td></tr><tr><td>targeting:={head on targeting,circular targeting,random targeting}<br/></td></tr><tr><td><br/></td></tr></table>>];
+143 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_118</td></tr><tr><td>targeting:={circular targeting,linear targeting,random targeting}<br/></td></tr><tr><td><br/></td></tr></table>>];
+146 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_120</td></tr><tr><td>targeting:={guessfactor targeting,circular targeting,random targeting}<br/></td></tr><tr><td><br/></td></tr></table>>];
+148 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_125</td></tr><tr><td>targeting:={head on targeting,circular targeting,virtual guns,linear targeting}<br/>targeting:={circular targeting,head on targeting,virtual guns,linear targeting}<br/></td></tr><tr><td>Toa<br/></td></tr></table>>];
+164 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_115</td></tr><tr><td>fighting:={teams,one on one,melee}<br/></td></tr><tr><td>FloodHT<br/>VARBot<br/>VelociRobot<br/></td></tr></table>>];
+173 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_121</td></tr><tr><td>code license:={cc by-nd 3.0}<br/></td></tr><tr><td>ConceptA<br/>Emerald<br/>Tomcat<br/></td></tr></table>>];
+4 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_124</td></tr><tr><td>movement:={sandbox flattener}<br/></td></tr><tr><td>FloodHT<br/>FloodMini<br/></td></tr></table>>];
+63 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_122</td></tr><tr><td>movement:={wave surfing,anti gravity movement}<br/></td></tr><tr><td>Tron<br/></td></tr></table>>];
+81 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_111</td></tr><tr><td>movement:={anti gravity movement,minimum risk movement,oscillator movement}<br/>movement:={anti gravity movement,minimum risk movement,oscillator movement}<br/></td></tr><tr><td>TassieDevils<br/>Wallaby<br/></td></tr></table>>];
+102 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_128</td></tr><tr><td>targeting:={multiple choice pattern matcher}<br/></td></tr><tr><td>Cotillion<br/>Cunobelin<br/>CunobelinDC<br/>Toorkild<br/></td></tr></table>>];
+112 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_129</td></tr><tr><td>targeting:={guessfactor targeting}<br/></td></tr><tr><td>Connavar<br/>Coriantumr<br/>Komarious<br/>KomariousTeam<br/></td></tr></table>>];
+135 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_130</td></tr><tr><td>targeting:={guessfactor targeting,random targeting}<br/></td></tr><tr><td><br/></td></tr></table>>];
+144 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_135</td></tr><tr><td>targeting:={head on targeting,circular targeting,virtual guns}<br/></td></tr><tr><td><br/></td></tr></table>>];
+151 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_134</td></tr><tr><td>targeting:={guessfactor targeting,head on targeting,circular targeting,linear targeting}<br/></td></tr><tr><td>RabidWombat<br/></td></tr></table>>];
+172 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_126</td></tr><tr><td>code license:={nprl}<br/></td></tr><tr><td>Pallas<br/>Samekh<br/></td></tr></table>>];
+177 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_132</td></tr><tr><td>code license:={proprietary}<br/></td></tr><tr><td>Firestarter<br/>Shadow<br/></td></tr></table>>];
+30 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_133</td></tr><tr><td>movement:={musashi trick}<br/></td></tr><tr><td>OMT_HO<br/>Pytko<br/></td></tr></table>>];
+50 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_127</td></tr><tr><td>movement:={random movement,wall smoothing}<br/>movement:={random movement,wall smoothing}<br/></td></tr><tr><td>MagicD2<br/>RetroGirl<br/>SimpleGF<br/></td></tr></table>>];
+94 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_131</td></tr><tr><td>targeting:={statistical targeting}<br/></td></tr><tr><td>Cigaret<br/>Smoke<br/></td></tr></table>>];
+14 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_138</td></tr><tr><td>movement:={circular movement}<br/></td></tr><tr><td>CirclingBot<br/>Giskard<br/>PencilRain<br/></td></tr></table>>];
+145 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_137</td></tr><tr><td>targeting:={guessfactor targeting,head on targeting,circular targeting}<br/></td></tr><tr><td><br/></td></tr></table>>];
+163 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_136</td></tr><tr><td>fighting:={teams,one on one}<br/></td></tr><tr><td>NightAndDay<br/></td></tr></table>>];
+142 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_140</td></tr><tr><td>targeting:={guessfactor targeting,circular targeting,linear targeting}<br/></td></tr><tr><td><br/></td></tr></table>>];
+95 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_139</td></tr><tr><td>targeting:={random targeting}<br/></td></tr><tr><td><br/></td></tr></table>>];
+106 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_146</td></tr><tr><td>targeting:={symbolic pattern matching}<br/></td></tr><tr><td>Assertive<br/>BlackWidow<br/>Kitten<br/>Scytodes<br/></td></tr></table>>];
+117 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_145</td></tr><tr><td>targeting:={guessfactor targeting,linear targeting}<br/></td></tr><tr><td>Athena<br/></td></tr></table>>];
+141 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_147</td></tr><tr><td>targeting:={head on targeting,circular targeting,linear targeting}<br/></td></tr><tr><td><br/></td></tr></table>>];
+159 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_144</td></tr><tr><td>fighting:={teams}<br/></td></tr><tr><td>LunarTwins<br/></td></tr></table>>];
+167 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_141</td></tr><tr><td>code license:={eclipse public license}<br/></td></tr><tr><td>SittingDuck<br/>SpinBot<br/>Tracker<br/>TrackFire<br/>VelociRobot<br/>Walls (robot)<br/></td></tr></table>>];
+31 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_142</td></tr><tr><td>movement:={wall smoothing}<br/></td></tr><tr><td><br/></td></tr></table>>];
+35 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_143</td></tr><tr><td>movement:={ramming movement}<br/></td></tr><tr><td>Impact<br/>Leopard<br/></td></tr></table>>];
+103 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_148</td></tr><tr><td>targeting:={neural targeting}<br/></td></tr><tr><td>B26354<br/>Fe4r<br/>Pris<br/></td></tr></table>>];
+121 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_149</td></tr><tr><td>targeting:={play it forward,dynamic clustering}<br/>targeting:={play it forward,dynamic clustering}<br/></td></tr><tr><td>DCBot<br/>DemonicRage<br/>Glacier<br/>Pallas<br/>Shadow<br/>Tron<br/></td></tr></table>>];
+124 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_151</td></tr><tr><td>targeting:={guessfactor targeting,circular targeting}<br/>targeting:={guessfactor targeting,circular targeting}<br/></td></tr><tr><td>EvBot<br/>Krabby2<br/></td></tr></table>>];
+134 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_155</td></tr><tr><td>targeting:={circular targeting,linear targeting}<br/></td></tr><tr><td><br/></td></tr></table>>];
+174 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_152</td></tr><tr><td>code license:={zlib}<br/></td></tr><tr><td>BlackHole<br/>DeBroglie<br/>Glacier<br/>Mint<br/>Nene<br/>RetroGirl<br/>Seraphim<br/></td></tr></table>>];
+18 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_150</td></tr><tr><td>movement:={multi mode}<br/></td></tr><tr><td>Flex<br/>Foilist<br/>PrairieWolf<br/>Sabreur<br/>Yatagan<br/></td></tr></table>>];
+58 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_153</td></tr><tr><td>movement:={wave surfing,minimum risk movement}<br/>movement:={wave surfing,minimum risk movement}<br/></td></tr><tr><td>B26354<br/>Phoenix<br/>Shadow<br/>User;Tkiesel/Copernicus<br/></td></tr></table>>];
+92 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_154</td></tr><tr><td>targeting:={play it forward}<br/></td></tr><tr><td>Tomcat<br/></td></tr></table>>];
+111 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_159</td></tr><tr><td>targeting:={virtual guns}<br/></td></tr><tr><td>AFlatNatural<br/>BlackHole<br/>Flex<br/>GrubbmGrb<br/></td></tr></table>>];
+125 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_157</td></tr><tr><td>targeting:={head on targeting,linear targeting}<br/>targeting:={head on targeting,linear targeting}<br/></td></tr><tr><td>NanoBee<br/>SpinBot<br/>SuperWalls<br/></td></tr></table>>];
+127 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_158</td></tr><tr><td>targeting:={head on targeting,circular targeting}<br/></td></tr><tr><td>OMT_HO<br/></td></tr></table>>];
+5 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_156</td></tr><tr><td>movement:={pattern movement}<br/></td></tr><tr><td>Anarchy<br/>SpinBot<br/>SuperSittingDuck<br/>SuperSpinBot<br/>Tracker<br/>VelociRobot<br/>Walls (robot)<br/></td></tr></table>>];
+33 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_160</td></tr><tr><td>movement:={oscillator movement}<br/></td></tr><tr><td>AFlatNatural<br/>Assertive<br/>CrazyTracker<br/>Fe4r<br/>Gruwel<br/>Gruweltje<br/></td></tr></table>>];
+7 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_161</td></tr><tr><td>movement:={anti gravity movement}<br/></td></tr><tr><td>DustBunny<br/>HVilela<br/>Infinity<br/>Mercutio<br/>RabidWombat<br/></td></tr></table>>];
+67 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_162</td></tr><tr><td>movement:={random movement,stop and go}<br/>movement:={random movement,stop and go}<br/></td></tr><tr><td>BlackWidow<br/>Claude<br/>Connavar<br/>Cotillion<br/>Decado<br/>HedgehogGF<br/>Jen<br/>LemonDrop<br/>MicroBoss<br/>NightBirdM<br/>OcnirpSNG<br/>Splinter<br/>Thorn<br/>Toorkild<br/>Waylander<br/></td></tr></table>>];
+118 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_163</td></tr><tr><td>targeting:={guessfactor targeting,dynamic clustering}<br/>targeting:={guessfactor targeting,dynamic clustering}<br/></td></tr><tr><td>Centaur<br/>Drifter<br/>DrussGT<br/>Firestarter<br/>Gauss<br/>Horizon<br/>Knight<br/>Lukious<br/>RetroGirl<br/>YersiniaPestis<br/></td></tr></table>>];
+179 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_164</td></tr><tr><td>code license:={closed}<br/></td></tr><tr><td>Ascendant<br/>B26354<br/>Drifter<br/>Durandal<br/>Engineer<br/>Enyo<br/>Exode<br/>Firebird<br/>Freya<br/>Gaff<br/>GammaAurora<br/>Hurricane<br/>HVilela<br/>Hyperion<br/>Knight<br/>PulsarMax<br/></td></tr></table>>];
+175 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_165</td></tr><tr><td>code license:={open source}<br/></td></tr><tr><td>Decado<br/>DrussGT<br/>DustBunny<br/>EagleTwins<br/>EvBot<br/>FloodMini<br/>Gauss<br/>Gouldingi<br/>HawkOnFire<br/>Horizon<br/>Impact<br/>Infinity<br/>Machete<br/>NanoBee<br/>NightAndDay<br/>NightBird<br/>OMT_HO<br/>Piyane<br/></td></tr></table>>];
+178 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_166</td></tr><tr><td>code license:={public domain}<br/></td></tr><tr><td>AFlatNatural<br/>BasicGFSurfer<br/>BasicGTSurfer<br/>BasicSurfer<br/>Chalk<br/>Charo<br/>CirclingBot<br/>DCBot<br/>FloodGrapher<br/>GuinnessCS<br/>SimpleGF<br/>SuperBoxBot<br/>SuperSittingDuck<br/>SuperTracker<br/></td></tr></table>>];
+8 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_167</td></tr><tr><td>movement:={stop and go}<br/></td></tr><tr><td>Aral<br/>ExclusionNano<br/>Moebius<br/>N<br/>Scytodes<br/></td></tr></table>>];
+89 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_168</td></tr><tr><td>targeting:={pattern matching}<br/></td></tr><tr><td>Apollon<br/>Decado<br/>Foilist<br/>GateKeeper<br/>LemonDrop<br/>Leopard<br/>LightningStorm<br/>Moebius<br/>Musashi<br/>Ocnirp<br/>OcnirpSNG<br/>Prestige<br/>Pytko<br/>Shaakious<br/>WaveShark<br/>Waylander<br/>WeekendObsession<br/>WeeksOnEnd<br/>Whiskey<br/>Yatagan<br/></td></tr></table>>];
+180 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_169</td></tr><tr><td>code license:={rwlpcl}<br/></td></tr><tr><td>BlackWidow<br/>GateKeeper<br/>LemonDrop<br/>Leopard<br/>LightningStorm<br/>Lukious<br/>LuminariousDuo<br/>MicroBoss<br/>Moebius<br/>MoxieBot<br/>Musashi<br/>Ocnirp<br/>OcnirpSNG<br/>OlympusTwins<br/>PluggableRobot<br/>Prestige<br/>Pytko<br/></td></tr></table>>];
+110 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_172</td></tr><tr><td>targeting:={head on targeting}<br/></td></tr><tr><td>Anarchy<br/>Barracuda<br/>BlitzBat<br/>Exode<br/>HawkOnFire<br/>PencilRain<br/>Shiz<br/>Talon<br/>Tracker<br/>TrackFire<br/>VARBot<br/>VelociRobot<br/>Walls (robot)<br/></td></tr></table>>];
+45 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_170</td></tr><tr><td>movement:={minimum risk movement}<br/></td></tr><tr><td>BlitzBat<br/>Capulet<br/>EagleTwins<br/>EvBot<br/>Freya<br/>Glacier<br/>Griezel<br/>HawkOnFire<br/>Hurricane<br/>LuminariousDuo<br/>NightAndDay<br/>Talon<br/>VARBot<br/></td></tr></table>>];
+98 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_171</td></tr><tr><td>targeting:={circular targeting}<br/></td></tr><tr><td>Capulet<br/>Enyo<br/>Griezel<br/>Gruwel<br/>Gruweltje<br/>HVilela<br/>LunarTwins<br/>OlympusTwins<br/>PrairieWolf<br/>TassieDevils<br/>Wallaby<br/></td></tr></table>>];
+105 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_173</td></tr><tr><td>targeting:={linear targeting}<br/></td></tr><tr><td>Aral<br/>Caligula<br/>CrazyTracker<br/>DustBunny<br/>Impact<br/>Infinity<br/>Machete<br/>MagicD2<br/>Mercutio<br/>MicroBoss<br/>NightBird<br/>NightBirdM<br/>Omen<br/>Piyane<br/>PwnBot<br/>Sabreur<br/>Splinter<br/>SuperTracker<br/>Tide<br/></td></tr></table>>];
+114 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_174</td></tr><tr><td>targeting:={dynamic clustering}<br/></td></tr><tr><td>Chalk<br/>Firebird<br/>Giskard<br/>Hurricane<br/>Mint<br/>Nene<br/>Prime<br/>Samekh<br/>Scarlet<br/></td></tr></table>>];
+29 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_175</td></tr><tr><td>movement:={random movement}<br/></td></tr><tr><td>Aristocles<br/>Barracuda<br/>Charo<br/>DCBot<br/>Exode<br/>Fhqwhgads<br/>FloodGrapher<br/>Gaff<br/>GateKeeper<br/>Hyperion<br/>Kitten<br/>LightningStorm<br/>MoxieBot<br/>Musashi<br/>NightBird<br/>Ocnirp<br/>OlympusTwins<br/>Omen<br/>Prestige<br/>PwnBot<br/>Raiko<br/>Tityus<br/>WeekendObsession<br/>WeeklongObsession<br/></td></tr></table>>];
+162 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_177</td></tr><tr><td>fighting:={one on one,melee}<br/>fighting:={one on one,melee}<br/></td></tr><tr><td>B26354<br/>BlitzBat<br/>Capulet<br/>Centaur<br/>ColdBreath<br/>CrazyTracker<br/>Cunobelin<br/>DemonicRage<br/>Drifter<br/>Durandal<br/>DustBunny<br/>Enyo<br/>EvBotNG<br/>ExclusionNano<br/>Firestarter<br/>FloodMini<br/>Freya<br/>Gaff<br/>GateKeeper<br/>GITS<br/>Glacier<br/>GravityWave<br/>Griezel<br/>Gruweltje<br/>HawkOnFire<br/>HVilela<br/>Impact<br/>Infinity<br/>Mercutio<br/>Musashi<br/>Omen<br/>Phantom<br/>PrairieWolf<br/>Pris<br/>PulsarMax<br/>PwnBot<br/>Shaakious<br/>Shadow<br/>SittingDuck<br/>SpinBot<br/>Spitfire<br/>Toa<br/>Tracker<br/>TrackFire<br/>Tron<br/>Watermelon<br/>Waylander<br/>WeekendObsession<br/></td></tr></table>>];
+171 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_176</td></tr><tr><td>code license:={rwpcl}<br/></td></tr><tr><td>Aristocles<br/>Assertive<br/>Athena<br/>BlitzBat<br/>CassiusClay<br/>CHCI3<br/>Claude<br/>CloudBot<br/>Dookious<br/>Foilist<br/>GresSuffurd<br/>Griezel<br/>Grimmig<br/>Gruwel<br/>Gruweltje<br/>Jen<br/>Kitten<br/>Komarious<br/>KomariousTeam<br/>Krabby2<br/>LambdaBot<br/>LunarTwins<br/>Mercutio<br/>N<br/>NightBirdM<br/>Omen<br/>Pear<br/>PricklyPear<br/>Pugilist<br/>PwnBot<br/>Raiko<br/>RaikoMX<br/>Sabreur<br/>Sanguijuela<br/>SavantMicro<br/>SavantWS<br/>Scytodes<br/>Shaakious<br/>Splinter<br/>Thorn<br/>Tityus<br/>Tyranius<br/>WaveSerpent<br/>WaveShark<br/>WeekendObsession<br/>Yatagan<br/></td></tr></table>>];
+161 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_178</td></tr><tr><td>fighting:={melee}<br/></td></tr><tr><td>EvBot<br/>Foilist<br/>Hurricane<br/>LuminariousDuo<br/>Scarlet<br/>Talon<br/>Wallaby<br/></td></tr></table>>];
+90 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_179</td></tr><tr><td>targeting:={guessfactor targeting}<br/></td></tr><tr><td>Aristocles<br/>Ascendant<br/>BasicGFSurfer<br/>BulletCatcher<br/>CassiusClay<br/>Charo<br/>CHCI3<br/>CloudBot<br/>ConceptA<br/>Cyanide<br/>DeBroglie<br/>Dookious<br/>Durandal<br/>EagleTwins<br/>Fhqwhgads<br/>Fission<br/>FloodGrapher<br/>FloodHT<br/>FloodMini<br/>Freya<br/>Geomancy<br/>GresSuffurd<br/>GridFu<br/>Grimmig<br/>Grinnik<br/>GuinnessCS<br/>Hikari<br/>Hyperion<br/>Jen<br/>LambdaBot<br/>LuminariousDuo<br/>NightAndDay<br/>Pear<br/>PricklyPear<br/>Pugilist<br/>PulsarMax<br/>Raiko<br/>RaikoMX<br/>Seraphim<br/>SimpleGF<br/>Tahoe<br/>Thorn<br/>Tityus<br/>TormentedAngel<br/>Tyranius<br/>User;Tkiesel/Copernicus<br/>Watermelon<br/>WaveRammer<br/>WaveSerpent<br/></td></tr></table>>];
+15 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_180</td></tr><tr><td>movement:={wave surfing}<br/></td></tr><tr><td>Apollon<br/>Ascendant<br/>Athena<br/>BasicGFSurfer<br/>BasicGTSurfer<br/>BasicSurfer<br/>BlackHole<br/>CassiusClay<br/>CloudBot<br/>ColdBreath<br/>ConceptA<br/>Cunobelin<br/>CunobelinDC<br/>Cyanide<br/>DeBroglie<br/>DemonicRage<br/>Dookious<br/>Drifter<br/>DrussGT<br/>Durandal<br/>Engineer<br/>Enyo<br/>Firebird<br/>Firestarter<br/>Gauss<br/>Geomancy<br/>GravityWave<br/>GresSuffurd<br/>GridFu<br/>Grimmig<br/>GuinnessCS<br/>Hikari<br/>Horizon<br/>Knight<br/>Komarious<br/>KomariousTeam<br/>LambdaBot<br/>LightningBug<br/>Lukious<br/>Mint<br/>NanoBee<br/>Nene<br/>Pallas<br/>Pear<br/>Phantom<br/>Piyane<br/>PricklyPear<br/>Prime<br/>Pris<br/>Pugilist<br/>PulsarMax<br/>RaikoMX<br/>Samekh<br/>SavantWS<br/>Scarlet<br/>Seraphim<br/>Shaakious<br/>Tahoe<br/>Tomcat<br/>TormentedAngel<br/>Tyranius<br/>Watermelon<br/>WaveRammer<br/>WaveSerpent<br/>WaveShark<br/>WeeksOnEnd<br/>Whiskey<br/>YersiniaPestis<br/></td></tr></table>>];
+160 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_182</td></tr><tr><td>fighting:={one on one}<br/></td></tr><tr><td>Aristocles<br/>Ascendant<br/>Barracuda<br/>CloudBot<br/>Decado<br/>Dookious<br/>DrussGT<br/>Fhqwhgads<br/>Fission<br/>Gauss<br/>GrubbmGrb<br/>Hyperion<br/>Komarious<br/>KomariousTeam<br/>LambdaBot<br/>LemonDrop<br/>Leopard<br/>Lukious<br/>MicroBoss<br/>Moebius<br/>MoxieBot<br/>NanoBee<br/>Nene<br/>NightBird<br/>NightBirdM<br/>Ocnirp<br/>OlympusTwins<br/>Pear<br/>PencilRain<br/>Prestige<br/>PricklyPear<br/>Pugilist<br/>PureAggression<br/>RabidWombat<br/>Raiko<br/>RaikoMX<br/>Roskilde<br/>Sabreur<br/>Samekh<br/>Sanguijuela<br/>SavantMicro<br/>SavantWS<br/>Scalar<br/>ScaledBot<br/>Seraphim<br/>Smoke<br/>Spread<br/>SuperSittingDuck<br/>SuperTracker<br/>Tahoe<br/>TassieDevils<br/>Thorn<br/>Tide<br/>Tityus<br/>Tomcat<br/>Toorkild<br/>Tyranius<br/>Unreal<br/>WaveSerpent<br/>WaveShark<br/>WeeklongObsession<br/>WeeksOnEnd<br/>Whiskey<br/>Yatagan<br/>YersiniaPestis<br/></td></tr></table>>];
+182 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_181</td></tr><tr><td>code java<br/></td></tr><tr><td>AFlatNatural<br/>Aristocles<br/>Barracuda<br/>BasicGFSurfer<br/>BasicGTSurfer<br/>BasicSurfer<br/>BlackHole<br/>BlackWidow<br/>BlitzBat<br/>BulletCatcher<br/>CassiusClay<br/>Centaur<br/>Charo<br/>CHCI3<br/>CirclingBot<br/>Claude<br/>ColdBreath<br/>CrazyTracker<br/>Cyanide<br/>DCBot<br/>DeBroglie<br/>Decado<br/>Dookious<br/>DrussGT<br/>DustBunny<br/>EagleTwins<br/>Enjambre<br/>EvBot<br/>Fhqwhgads<br/>Flex<br/>Foilist<br/>Gauss<br/>Glacier<br/>GresSuffurd<br/>Griezel<br/>Gruwel<br/>Gruweltje<br/>Hamilton<br/>Hikari<br/>Horizon<br/>Ice<br/>Infinity<br/>Jen<br/>Kitten<br/>LambdaBot<br/>LemonDrop<br/>LightningStorm<br/>LuminariousDuo<br/>Mercutio<br/>MoxieBot<br/>Musashi<br/>N<br/>NanoBee<br/>Nene<br/>NightAndDay<br/>NightBirdM<br/>Ocnirp<br/>OcnirpSNG<br/>Omen<br/>Pear<br/>Piyane<br/>PluggableRobot<br/>PrairieWolf<br/>PricklyPear<br/>Pugilist<br/>PwnBot<br/>Pytko<br/>Raiko<br/>RaikoMX<br/>RetroGirl<br/>Sabreur<br/>Samekh<br/>Seraphim<br/>Shaakious<br/>SimpleGF<br/>SittingDuck<br/>Smoke<br/>SpinBot<br/>Spitfire<br/>Splinter<br/>Spread<br/>SuperSittingDuck<br/>Thorn<br/>Tide<br/>Tityus<br/>Toa<br/>Tomcat<br/>Tracker<br/>TrackFire<br/>Tyranius<br/>VelociRobot<br/>Voidious/LocationBot<br/>Wallaby<br/>Walls (robot)<br/>Watermelon<br/>WaveSerpent<br/>WaveShark<br/>Waylander<br/>WeekendObsession<br/>WeeksOnEnd<br/>Whiskey<br/>Yatagan<br/>YersiniaPestis<br/></td></tr></table>>];
+	88:p -> 1:p
+	83:p -> 107:p
+	48:p -> 113:p
+	21:p -> 119:p
+	153:p -> 122:p
+	138:p -> 128:p
+	154:p -> 139:p
+	150:p -> 139:p
+	73:p -> 149:p
+	158:p -> 149:p
+	158:p -> 152:p
+	157:p -> 156:p
+	158:p -> 156:p
+	61:p -> 170:p
+	73:p -> 26:p
+	168:p -> 36:p
+	65:p -> 40:p
+	85:p -> 41:p
+	55:p -> 46:p
+	70:p -> 46:p
+	53:p -> 47:p
+	57:p -> 47:p
+	83:p -> 54:p
+	165:p -> 59:p
+	147:p -> 71:p
+	79:p -> 71:p
+	86:p -> 78:p
+	87:p -> 78:p
+	132:p -> 91:p
+	155:p -> 93:p
+	59:p -> 10:p
+	101:p -> 10:p
+	27:p -> 104:p
+	170:p -> 104:p
+	129:p -> 108:p
+	122:p -> 115:p
+	24:p -> 115:p
+	154:p -> 133:p
+	156:p -> 133:p
+	152:p -> 140:p
+	149:p -> 140:p
+	149:p -> 143:p
+	156:p -> 143:p
+	152:p -> 146:p
+	156:p -> 146:p
+	6:p -> 148:p
+	155:p -> 148:p
+	62:p -> 4:p
+	79:p -> 63:p
+	88:p -> 63:p
+	131:p -> 81:p
+	88:p -> 135:p
+	146:p -> 135:p
+	147:p -> 144:p
+	148:p -> 144:p
+	155:p -> 151:p
+	48:p -> 151:p
+	158:p -> 151:p
+	109:p -> 172:p
+	150:p -> 172:p
+	2:p -> 177:p
+	16:p -> 177:p
+	84:p -> 30:p
+	62:p -> 30:p
+	80:p -> 50:p
+	56:p -> 94:p
+	120:p -> 94:p
+	49:p -> 14:p
+	74:p -> 14:p
+	152:p -> 145:p
+	151:p -> 145:p
+	84:p -> 163:p
+	164:p -> 163:p
+	151:p -> 142:p
+	156:p -> 142:p
+	61:p -> 142:p
+	66:p -> 95:p
+	135:p -> 95:p
+	140:p -> 95:p
+	143:p -> 95:p
+	37:p -> 106:p
+	69:p -> 106:p
+	13:p -> 106:p
+	142:p -> 117:p
+	148:p -> 141:p
+	26:p -> 141:p
+	149:p -> 141:p
+	151:p -> 141:p
+	49:p -> 159:p
+	163:p -> 159:p
+	68:p -> 167:p
+	66:p -> 31:p
+	76:p -> 31:p
+	96:p -> 31:p
+	50:p -> 31:p
+	72:p -> 35:p
+	54:p -> 35:p
+	64:p -> 35:p
+	70:p -> 35:p
+	28:p -> 103:p
+	116:p -> 103:p
+	123:p -> 103:p
+	74:p -> 121:p
+	150:p -> 121:p
+	142:p -> 124:p
+	145:p -> 124:p
+	146:p -> 124:p
+	142:p -> 134:p
+	141:p -> 134:p
+	143:p -> 134:p
+	136:p -> 174:p
+	126:p -> 174:p
+	72:p -> 18:p
+	73:p -> 18:p
+	78:p -> 18:p
+	85:p -> 58:p
+	137:p -> 58:p
+	136:p -> 58:p
+	156:p -> 58:p
+	121:p -> 92:p
+	39:p -> 111:p
+	120:p -> 111:p
+	144:p -> 111:p
+	141:p -> 125:p
+	145:p -> 127:p
+	144:p -> 127:p
+	140:p -> 127:p
+	141:p -> 127:p
+	59:p -> 5:p
+	68:p -> 5:p
+	49:p -> 33:p
+	81:p -> 33:p
+	87:p -> 33:p
+	52:p -> 33:p
+	71:p -> 7:p
+	81:p -> 7:p
+	48:p -> 7:p
+	63:p -> 7:p
+	100:p -> 7:p
+	84:p -> 67:p
+	83:p -> 67:p
+	86:p -> 67:p
+	65:p -> 118:p
+	139:p -> 118:p
+	88:p -> 118:p
+	53:p -> 118:p
+	60:p -> 118:p
+	137:p -> 118:p
+	136:p -> 118:p
+	138:p -> 118:p
+	116:p -> 179:p
+	12:p -> 179:p
+	27:p -> 179:p
+	24:p -> 179:p
+	44:p -> 175:p
+	101:p -> 175:p
+	11:p -> 175:p
+	66:p -> 178:p
+	71:p -> 178:p
+	38:p -> 178:p
+	46:p -> 178:p
+	119:p -> 178:p
+	54:p -> 8:p
+	52:p -> 8:p
+	67:p -> 8:p
+	23:p -> 89:p
+	87:p -> 89:p
+	131:p -> 89:p
+	133:p -> 89:p
+	97:p -> 180:p
+	120:p -> 180:p
+	57:p -> 180:p
+	20:p -> 180:p
+	107:p -> 180:p
+	13:p -> 180:p
+	96:p -> 180:p
+	64:p -> 180:p
+	122:p -> 180:p
+	38:p -> 110:p
+	127:p -> 110:p
+	42:p -> 110:p
+	17:p -> 110:p
+	59:p -> 110:p
+	125:p -> 110:p
+	51:p -> 45:p
+	169:p -> 45:p
+	74:p -> 45:p
+	81:p -> 45:p
+	150:p -> 45:p
+	58:p -> 45:p
+	126:p -> 45:p
+	25:p -> 98:p
+	127:p -> 98:p
+	124:p -> 98:p
+	134:p -> 98:p
+	64:p -> 98:p
+	181:p -> 98:p
+	119:p -> 98:p
+	70:p -> 98:p
+	12:p -> 105:p
+	34:p -> 105:p
+	44:p -> 105:p
+	72:p -> 105:p
+	134:p -> 105:p
+	117:p -> 105:p
+	125:p -> 105:p
+	76:p -> 114:p
+	121:p -> 114:p
+	47:p -> 114:p
+	82:p -> 114:p
+	62:p -> 114:p
+	118:p -> 114:p
+	51:p -> 29:p
+	55:p -> 29:p
+	78:p -> 29:p
+	97:p -> 29:p
+	67:p -> 29:p
+	69:p -> 29:p
+	50:p -> 29:p
+	94:p -> 29:p
+	77:p -> 29:p
+	129:p -> 29:p
+	147:p -> 162:p
+	51:p -> 162:p
+	85:p -> 162:p
+	169:p -> 162:p
+	1:p -> 162:p
+	164:p -> 162:p
+	126:p -> 162:p
+	137:p -> 162:p
+	72:p -> 162:p
+	74:p -> 162:p
+	68:p -> 162:p
+	44:p -> 162:p
+	86:p -> 162:p
+	20:p -> 162:p
+	17:p -> 162:p
+	59:p -> 162:p
+	51:p -> 171:p
+	0:p -> 171:p
+	82:p -> 171:p
+	99:p -> 171:p
+	52:p -> 171:p
+	154:p -> 171:p
+	76:p -> 171:p
+	78:p -> 171:p
+	81:p -> 171:p
+	80:p -> 171:p
+	84:p -> 171:p
+	56:p -> 171:p
+	69:p -> 171:p
+	91:p -> 171:p
+	32:p -> 171:p
+	75:p -> 171:p
+	48:p -> 171:p
+	37:p -> 171:p
+	162:p -> 161:p
+	167:p -> 161:p
+	100:p -> 161:p
+	57:p -> 161:p
+	131:p -> 161:p
+	28:p -> 161:p
+	10:p -> 161:p
+	51:p -> 90:p
+	85:p -> 90:p
+	55:p -> 90:p
+	1:p -> 90:p
+	132:p -> 90:p
+	0:p -> 90:p
+	135:p -> 90:p
+	166:p -> 90:p
+	176:p -> 90:p
+	128:p -> 90:p
+	49:p -> 90:p
+	80:p -> 90:p
+	84:p -> 90:p
+	124:p -> 90:p
+	86:p -> 90:p
+	130:p -> 90:p
+	20:p -> 90:p
+	123:p -> 90:p
+	133:p -> 90:p
+	40:p -> 90:p
+	117:p -> 90:p
+	118:p -> 90:p
+	122:p -> 90:p
+	116:p -> 15:p
+	65:p -> 15:p
+	166:p -> 15:p
+	60:p -> 15:p
+	57:p -> 15:p
+	176:p -> 15:p
+	128:p -> 15:p
+	99:p -> 15:p
+	76:p -> 15:p
+	155:p -> 15:p
+	58:p -> 15:p
+	56:p -> 15:p
+	63:p -> 15:p
+	91:p -> 15:p
+	75:p -> 15:p
+	130:p -> 15:p
+	109:p -> 15:p
+	133:p -> 15:p
+	122:p -> 15:p
+	97:p -> 160:p
+	38:p -> 160:p
+	23:p -> 160:p
+	82:p -> 160:p
+	119:p -> 160:p
+	106:p -> 160:p
+	12:p -> 160:p
+	56:p -> 160:p
+	130:p -> 160:p
+	77:p -> 160:p
+	109:p -> 160:p
+	64:p -> 160:p
+	9:p -> 160:p
+	139:p -> 160:p
+	60:p -> 160:p
+	128:p -> 160:p
+	3:p -> 160:p
+	75:p -> 160:p
+	108:p -> 160:p
+	41:p -> 160:p
+	107:p -> 160:p
+	4:p -> 160:p
+	96:p -> 160:p
+	123:p -> 160:p
+	26:p -> 160:p
+	19:p -> 160:p
+	46:p -> 160:p
+	71:p -> 160:p
+	99:p -> 160:p
+	170:p -> 160:p
+	120:p -> 160:p
+	30:p -> 160:p
+	50:p -> 160:p
+	16:p -> 160:p
+	40:p -> 160:p
+	116:p -> 160:p
+	162:p -> 160:p
+	166:p -> 160:p
+	66:p -> 160:p
+	115:p -> 160:p
+	78:p -> 160:p
+	63:p -> 160:p
+	163:p -> 160:p
+	32:p -> 160:p
+	136:p -> 160:p
+	97:p -> 182:p
+	38:p -> 182:p
+	27:p -> 182:p
+	100:p -> 182:p
+	137:p -> 182:p
+	82:p -> 182:p
+	83:p -> 182:p
+	131:p -> 182:p
+	93:p -> 182:p
+	119:p -> 182:p
+	43:p -> 182:p
+	2:p -> 182:p
+	76:p -> 182:p
+	12:p -> 182:p
+	84:p -> 182:p
+	56:p -> 182:p
+	64:p -> 182:p
+	51:p -> 182:p
+	60:p -> 182:p
+	126:p -> 182:p
+	25:p -> 182:p
+	36:p -> 182:p
+	44:p -> 182:p
+	3:p -> 182:p
+	53:p -> 182:p
+	20:p -> 182:p
+	13:p -> 182:p
+	4:p -> 182:p
+	37:p -> 182:p
+	122:p -> 182:p
+	0:p -> 182:p
+	112:p -> 182:p
+	71:p -> 182:p
+	99:p -> 182:p
+	52:p -> 182:p
+	91:p -> 182:p
+	120:p -> 182:p
+	146:p -> 182:p
+	59:p -> 182:p
+	133:p -> 182:p
+	40:p -> 182:p
+	70:p -> 182:p
+	169:p -> 182:p
+	113:p -> 182:p
+	176:p -> 182:p
+	66:p -> 182:p
+	72:p -> 182:p
+	102:p -> 182:p
+	78:p -> 182:p
+	80:p -> 182:p
+	32:p -> 182:p
+	136:p -> 182:p
+	17:p -> 182:p
+}
