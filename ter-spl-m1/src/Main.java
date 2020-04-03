@@ -25,6 +25,7 @@ import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
 import main.testExtraction;
+import model.Cluster;
 import model.VariabilityModel;
 import model.VariabilityModelGenerator;
 import multivaluedcontext.MultivaluedContext;
@@ -48,14 +49,17 @@ public class Main {
      * @throws IOException Exception realtive à l'ouverture, la création et l'accés aux fichiers
      */
 
-    public static void  generateCSVforCLEF(ArrayList<Asset> allAssets, int numberProduct) throws IOException {
-        //Le fichier de sortie, extension .csv
+    public static ArrayList<String>  generateCSVforCLEF(ArrayList<Asset> allAssets, int numberProduct) throws IOException {
+        //La liste de chaîne de caractère contenant les identifiants
+    	ArrayList<String> ids = new ArrayList<>();
+    	//Le fichier de sortie, extension .csv
         BufferedWriter fileWriter = new BufferedWriter(new FileWriter("..\\CLEF\\CLEF\\data\\0_clean_PCMs\\out.csv"));
         StringBuilder line = new StringBuilder("");
         for (Asset e:allAssets
              ) {
             line.append(",").append(e.getId()); //création de la ligne 1, ajout de tous les assets
         }
+        ids.addAll(Arrays.asList(line.substring(1).toString().split(",")));
         line.append("\n"); // fin de la ligne 1
         fileWriter.write(line.toString()); //Ecrire la première ligne dans le fichier .csv
         int i=1;
@@ -64,6 +68,7 @@ public class Main {
             line = new StringBuilder("" + i + "/"); //première colonne de chaque ligne suivante indiquand l'id du produit
             for (Asset a:allAssets //pour chaque asset
                  ) {
+            	
                 //si le produit contient l'asset, on met X , sinon on passe en suivant (virgule généréer dans les deux cas)
                 line.append(assetByProduct.get(i - 1).contains(a) ? ",X" : ",");
             }
@@ -71,6 +76,7 @@ public class Main {
             fileWriter.write(line.toString()); // Ecrire la ligne dans le ficheier
         }
             fileWriter.close(); //fermeture du fichier
+            return ids;
     }
 
     /**
@@ -141,7 +147,7 @@ public class Main {
 
         // 1 - générer le fichier .csv
         ArrayList<Asset> allAssets = (ArrayList<Asset>) getAllAssets().clone();
-        generateCSVforCLEF(allAssets,assetByProduct.size());
+        ArrayList<String> ids = generateCSVforCLEF(allAssets,assetByProduct.size());
         //  
         //testExtraction.run("E:\\GitLirmmProject\\CLEF\\CLEF\\data", "out.csv");
         String DATA_FOLDER = "../CLEF/CLEF/data/";
@@ -190,8 +196,18 @@ public class Main {
 		variabilityModel.getClusters();
 		
 		//print the cluster set 
-		System.out.println(variabilityModel.getClusters().toString());
+		System.out.println("hahowa "+variabilityModel.getClusters().get(0).getAllIdentifiers());
 		
+		//get identifiers of a specific cluster
+		ArrayList<Cluster> clusters = variabilityModel.getClusters();
+		for(Cluster e:clusters){
+			ArrayList<Asset> tmp = new ArrayList<Asset>();
+			for(String a:e.getAllIdentifiers()){
+				System.out.println("this is : "+a +" in list "+ ids.size());
+				tmp.add(allAssets.get(ids.indexOf(a)));
+			}
+			System.out.println("wash a "+tmp.toString());
+		}
 		
 		
 		// get cluster variable 

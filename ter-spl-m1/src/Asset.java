@@ -29,7 +29,63 @@ public class Asset {
      * nom : c'est la signature de l'asset
      */
     private String nom;
-    /**
+    public static int getAutoIncrement() {
+		return autoIncrement;
+	}
+
+	public static void setAutoIncrement(int autoIncrement) {
+		Asset.autoIncrement = autoIncrement;
+	}
+
+	public String getValue() {
+		return value;
+	}
+
+	public void setValue(String value) {
+		this.value = value;
+	}
+
+	public CtElement getParent() {
+		return parent;
+	}
+
+	public void setParent(CtElement parent) {
+		this.parent = parent;
+	}
+
+	public static List<CtFieldReference> getAttributeReferences() {
+		return attributeReferences;
+	}
+
+	public static void setAttributeReferences(List<CtFieldReference> attributeReferences) {
+		Asset.attributeReferences = attributeReferences;
+	}
+
+	public List<CtElement> getMethodAttribute() {
+		return methodAttribute;
+	}
+
+	public void setMethodAttribute(List<CtElement> methodAttribute) {
+		this.methodAttribute = methodAttribute;
+	}
+
+	public static ArrayList getPossibletypes() {
+		return possibleTypes;
+	}
+
+	public void setNom(String nom) {
+		this.nom = nom;
+	}
+
+	public void setType(String type) {
+		this.type = type;
+	}
+
+	public void setId(int id) {
+		this.id = id;
+	}
+
+	/**
      * Value :  c'est la valeur de l'asset
      */
     private String value;
@@ -101,6 +157,9 @@ public class Asset {
         return id;
     }
 
+    public Asset() {
+    	
+    }
     /**
      * Le constructuer de l'asset, permet de crÃ©er un asset  partir des paramÃ¨tres suivants
      * @param name la signature
