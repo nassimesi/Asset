@@ -34,7 +34,7 @@ import relationshipextraction.BinaryImplicationExtractor;
 import relationshipextraction.CooccurrenceExtractor;
 import relationshipextraction.MutexExtractor;
 
-public class Main {
+public class Main extends FeatureIdeUtils{
 
     /**
      * Une liste de listes, chaque liste contient les assets relative à un produits
@@ -68,7 +68,7 @@ public class Main {
             line = new StringBuilder("" + i + "/"); //première colonne de chaque ligne suivante indiquand l'id du produit
             for (Asset a:allAssets //pour chaque asset
                  ) {
-            	
+            	createPackageForClasses(".\\cluster\\",a);
                 //si le produit contient l'asset, on met X , sinon on passe en suivant (virgule généréer dans les deux cas)
                 line.append(assetByProduct.get(i - 1).contains(a) ? ",X" : ",");
             }
