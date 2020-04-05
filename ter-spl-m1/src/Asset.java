@@ -171,7 +171,7 @@ public class Asset {
             autoIncrement++; //identifiant unique Ã  chaque classe
             id = autoIncrement;
             nom = name;
-            this.value = value;
+            this.value = value+"";
             this.type = type;
             this.parent = parent;
                    if (nom.contains("String")) this.value = "\"" + value + "\""; // Ecrire les chaÃ®nes de caractÃ¨res entre guillements
@@ -220,7 +220,7 @@ public class Asset {
         attributs.addAll(ll.getFields());
         //Ajouter leurs réferences à 
         for(CtField e:attributs) {
-        	assetList.add(new Asset(e.getType().getSimpleName() +" "+ e.getSimpleName() , e.getAssignment().toString() , "Field" ,e.getParent()));
+        	assetList.add(new Asset(e.getType().getSimpleName() +" "+ e.getSimpleName() , e.getAssignment()+"" , "Field" ,e.getParent()));
             attributeReferences.add(e.getReference());
         }
         // Récupérer la liste des constructeurs explicites
@@ -237,7 +237,11 @@ public class Asset {
         for(CtMethod e:methodes) {
         	if(!e.isShadow())
         	{ 
-        		Asset tmp = new Asset(e.prettyprint().substring(e.getModifiers().toString().length()-e.getModifiers().size()) , e.getBody() == null ?"":e.getBody().toString() , "Method" ,e.getParent());
+        		List list = new ArrayList(e.getModifiers());
+        		Collections.sort(list, Collections.reverseOrder());
+        		Set resultSet = new LinkedHashSet(list);
+        		System.out.println("yaw rahi m3awja "+resultSet.toString().replace(',',' ') + e.getSignature());
+        		Asset tmp = new Asset(resultSet.toString().replace(',',' ') + e.getSignature() , e.getBody() == null ?"":e.getBody().toString() , "Method" ,e.getParent());
         		assetList.add(tmp);
         		tmp.getMethodAttribute(e,"Method");
         	}

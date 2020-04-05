@@ -34,7 +34,7 @@ import relationshipextraction.BinaryImplicationExtractor;
 import relationshipextraction.CooccurrenceExtractor;
 import relationshipextraction.MutexExtractor;
 
-public class Main extends FeatureIdeUtils{
+public class Main implements FeatureIdeUtils{
 
     /**
      * Une liste de listes, chaque liste contient les assets relative à un produits
@@ -68,8 +68,7 @@ public class Main extends FeatureIdeUtils{
             line = new StringBuilder("" + i + "/"); //première colonne de chaque ligne suivante indiquand l'id du produit
             for (Asset a:allAssets //pour chaque asset
                  ) {
-            	createPackageForClasses(".\\cluster\\",a);
-                //si le produit contient l'asset, on met X , sinon on passe en suivant (virgule généréer dans les deux cas)
+            	//si le produit contient l'asset, on met X , sinon on passe en suivant (virgule généréer dans les deux cas)
                 line.append(assetByProduct.get(i - 1).contains(a) ? ",X" : ",");
             }
             line.append("\n"); //fin de la ligne courante
@@ -203,8 +202,9 @@ public class Main extends FeatureIdeUtils{
 		for(Cluster e:clusters){
 			ArrayList<Asset> tmp = new ArrayList<Asset>();
 			for(String a:e.getAllIdentifiers()){
-				System.out.println("this is : "+a +" in list "+ ids.size());
+				System.out.println("this is : "+a +" in list "+ ids);
 				tmp.add(allAssets.get(ids.indexOf(a)));
+				new Noeud(allAssets.get(ids.indexOf(a)),allAssets.get(ids.indexOf(a)).getType().equals("classe"),".\\cluster"+clusters.indexOf(e)+"\\");
 			}
 			System.out.println("wash a "+tmp.toString());
 		}

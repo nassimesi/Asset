@@ -1,8 +1,10 @@
+import java.io.IOException;
 import java.util.ArrayList;
 
+import spoon.reflect.declaration.CtElement;
 import spoon.reflect.path.CtRole;
 
-public class Noeud extends Asset{
+public class Noeud extends Asset implements FeatureIdeUtils{
 	
 	private ArrayList<Asset> children = new ArrayList<Asset>();
 	
@@ -39,6 +41,31 @@ public class Noeud extends Asset{
 	}
 	
 
+	public Noeud(Asset a, boolean isPackage, String clusterName) throws IOException {
+		if (isPackage) {
+			String name = "";
+			System.out.println(a.getParent().getValueByRole(CtRole.NAME).toString()+"yaaw");
+			CtElement c = a.getParent();
+			while(!c.getValueByRole(CtRole.NAME).toString().equals("unnamed package")) {
+				name = c.getValueByRole(CtRole.NAME).toString()+"\\"+name;
+				//name.replaceFirst("", c.getValueByRole(CtRole.NAME).toString()+"\\");
+				//name += c.getValueByRole(CtRole.NAME).toString()+"\\";
+				c = c.getParent();
+			}
+			//name= ".\\" + name;
+			System.out.println("the undertaker "+clusterName + name);
+			FeatureIdeUtils.createPackageForClasses(clusterName+ name);
+			Noeud b = new Noeud(a);
+			FeatureIdeUtils.createFilePackage(clusterName+name, b);
+			this.setNom(name);
+			this.setValue(null);
+			this.setType("package");
+			this.setParent(null);
+		}
+		else {
+			new Noeud(a);
+		}
+		}
 	
 	
 }

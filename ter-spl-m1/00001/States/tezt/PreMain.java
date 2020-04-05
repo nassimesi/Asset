@@ -1,8 +1,9 @@
+package States.tezt
 import Maths.Calculator;
 
-public class Main {
+public class PreMain {
 
-	int test ; 
+	int test22 ; 
 	
 	public static void main(String[] args) {
 		
