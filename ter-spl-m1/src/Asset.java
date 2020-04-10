@@ -174,7 +174,7 @@ public class Asset {
             this.value = value+"";
             this.type = type;
             this.parent = parent;
-                   if (nom.contains("String")) this.value = "\"" + value + "\""; // Ecrire les chaÃ®nes de caractÃ¨res entre guillements
+        //           if (nom.contains("String")) this.value = "\"" + value + "\""; // Ecrire les chaÃ®nes de caractÃ¨res entre guillements
        
     }
 
@@ -185,7 +185,7 @@ public class Asset {
     @Override
     public String toString() {
         return "id = "+id+"; nom = "+nom+"; parent = "+parent.getValueByRole(CtRole.NAME)+"\n "; // On affiche ce qui est essentiel : l'id et la signature
-    }
+    };
 
     /**
      * Cette mÃ©thode est implÃ©mentÃ©e pour gÃ©nÃ©rer des assets Ã  partir d'un arbre AST
@@ -208,7 +208,7 @@ public class Asset {
         // modifier : une des valuers suivante : public, private, protected, vide (Ã  tester et amÃ©liorer)
         String modifier=((ll.getModifiers().toString()).replace("[", "")).replace("]" ,"");
         //rÃ©cupÃ©rer la signature de la classe pour la retrancher pour avoir la valeur de la classe
-        String regex = modifier + " class "+ll.getSimpleName().toString();
+        String regex = ll.prettyprint().split("\\{")[0];
         // Valeur de la classe dans la variable "candidate"
         String candidate = ll.toString().substring(regex.length());
         //CrÃ©er l'asset correspondant Ã  la classe (neoud parent)
@@ -220,7 +220,9 @@ public class Asset {
         attributs.addAll(ll.getFields());
         //Ajouter leurs réferences à 
         for(CtField e:attributs) {
-        	assetList.add(new Asset(e.getType().getSimpleName() +" "+ e.getSimpleName() , e.getAssignment()+"" , "Field" ,e.getParent()));
+        	//System.out.println("attribut "+e.getAssignment()+"");
+        	String value=  " = "  + (e.getAssignment())+";\n";
+        	assetList.add(new Asset(e.getType().getSimpleName() +" "+ e.getSimpleName() , value , "Field" ,e.getParent()));
             attributeReferences.add(e.getReference());
         }
         // Récupérer la liste des constructeurs explicites
@@ -228,8 +230,14 @@ public class Asset {
         
         for(int i=0; i<constructeurs.size(); i++) {
         	CtConstructor constructeur = constructeurs.get(i);  
-        	if (!constructeur.isShadow()) 
-        		 assetList.add(new Asset(constructeur.getSignature() , constructeur.getBody().getShortRepresentation() , "Constructor" ,constructeur.getParent())); 
+        	if (!constructeur.isImplicit()) 
+        	{	
+        		List list = new ArrayList(Arrays.asList(ModifierKind.values()));
+        		list.retainAll(constructeur.getModifiers());
+        		String value = constructeur.getBody()+";";
+        		assetList.add(new Asset(constructeur.getSignature() , value , "Constructor" ,constructeur.getParent()));
+        		String constructorHead = list.toString().replaceAll(", ", " ").replaceAll("\\[", "").replaceAll("\\]", " ") + constructeur.getSimpleName() + " " + constructeur.getParameters().toString().replaceAll("\\[", "(").replaceAll("\\]", ")");
+        		} 
         }
         
         // récupérer tous les méthodes 
@@ -237,11 +245,12 @@ public class Asset {
         for(CtMethod e:methodes) {
         	if(!e.isShadow())
         	{ 
-        		List list = new ArrayList(e.getModifiers());
-        		Collections.sort(list, Collections.reverseOrder());
-        		Set resultSet = new LinkedHashSet(list);
-        		System.out.println("yaw rahi m3awja "+resultSet.toString().replace(',',' ') + e.getSignature());
-        		Asset tmp = new Asset(resultSet.toString().replace(',',' ') + e.getSignature() , e.getBody() == null ?"":e.getBody().toString() , "Method" ,e.getParent());
+        		List list = new ArrayList(Arrays.asList(ModifierKind.values()));
+        		list.retainAll(e.getModifiers());
+        		String methodHead = list.toString().replaceAll(", ", " ").replaceAll("\\[", "").replaceAll("\\]", " ") + e.getType() + " " + e.getSimpleName() + e.getParameters().toString().replaceAll("\\[", "(").replaceAll("\\]", ")");
+        		System.out.println("oww "+methodHead);
+        		String value = e.getBody() == null ?"":e.getBody()+"";
+        		Asset tmp = new Asset(methodHead , value+";" , "Method" ,e.getParent());
         		assetList.add(tmp);
         		tmp.getMethodAttribute(e,"Method");
         	}

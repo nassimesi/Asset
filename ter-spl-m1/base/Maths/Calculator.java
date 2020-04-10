@@ -1,14 +1,22 @@
-.\cluster4\Maths\public class Calculator{Integer accumulator = 0
-Operation operator = null
-AbstractState current = null
-Maths.Calculator()spoon.support.reflect.code.CtBlockImpl@1
-[public]setState(States.AbstractState){
+
+public class Calculator {
+
+Integer accumulator = 0;
+
+Operation operator = null;
+
+AbstractState current = null;
+
+Maths.Calculator(){
+    current = new EOperand1();
+};
+public void setState(AbstractState state){
     current = state;
-}
-[public]quitCalc(){
+};
+public void quitCalc(){
     System.exit(0);
-}
-[public]run(){
+};
+public void run(){
     while (true) {
         accumulator = 0;
         Integer a = ((Integer) (current.exec()));
@@ -19,11 +27,10 @@ Maths.Calculator()spoon.support.reflect.code.CtBlockImpl@1
         accumulator += op.compute(a, b);
         System.out.println("res : " + accumulator);
     } 
-}
-[private]goNext(){
+};
+private void goNext(){
     current.goNext(this);
-}
-[public]getOperator(){
+};
+public Operation getOperator(){
     return operator;
-}
-}
+};}

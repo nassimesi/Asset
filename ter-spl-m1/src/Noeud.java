@@ -41,7 +41,7 @@ public class Noeud extends Asset implements FeatureIdeUtils{
 	}
 	
 
-	public Noeud(Asset a, boolean isPackage, String clusterName) throws IOException {
+	public Noeud(Asset a, boolean isPackage, String clusterName, ArrayList<Asset> list) throws IOException {
 		if (isPackage) {
 			String name = "";
 			System.out.println(a.getParent().getValueByRole(CtRole.NAME).toString()+"yaaw");
@@ -56,15 +56,15 @@ public class Noeud extends Asset implements FeatureIdeUtils{
 			System.out.println("the undertaker "+clusterName + name);
 			FeatureIdeUtils.createPackageForClasses(clusterName+ name);
 			Noeud b = new Noeud(a);
-			FeatureIdeUtils.createFilePackage(clusterName+name, b);
+			String fileName = b.getNom().split("class ")[1].substring(0,b.getNom().split("class ")[1].length()-1).split(" ")[0];
+			FeatureIdeUtils.createFilePackage(clusterName+name, fileName);
+			FeatureIdeUtils.fillFile(clusterName+name+ fileName+".java", a.getNom(), "{\r\n");
 			this.setNom(name);
 			this.setValue(null);
 			this.setType("package");
 			this.setParent(null);
 		}
-		else {
-			new Noeud(a);
-		}
+		
 		}
 	
 	

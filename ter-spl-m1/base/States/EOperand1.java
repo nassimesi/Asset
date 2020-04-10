@@ -1,11 +1,12 @@
-.\cluster4\States\public class EOperand1{States.EOperand1()spoon.support.reflect.code.CtBlockImpl@1
-[public]goNext(Maths.Calculator){
+
+public class EOperand1 extends AbstractState {
+
+public void goNext(Calculator context){
     context.setState(new EOperator());
-}
-[public]exec(){
+};
+public Object exec(){
     String input = null;
     System.out.print("> Please give number : ");
     input = sc.nextLine();
     return Integer.valueOf(input);
-}
-}
+};}

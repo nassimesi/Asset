@@ -5,6 +5,7 @@ import spoon.reflect.code.CtStatement;
 import spoon.reflect.declaration.CtClass;
 import spoon.reflect.declaration.CtElement;
 import spoon.reflect.declaration.CtField;
+import spoon.reflect.path.CtPath;
 import spoon.reflect.path.CtRole;
 import spoon.support.reflect.code.*;
 import spoon.support.reflect.declaration.CtFieldImpl;
@@ -195,18 +196,41 @@ public class Main implements FeatureIdeUtils{
 		variabilityModel.getClusters();
 		
 		//print the cluster set 
-		System.out.println("hahowa "+variabilityModel.getClusters().get(0).getAllIdentifiers());
+		System.out.println("hahowa "+variabilityModel.getClusters().get(variabilityModel.getClusters().size()-1).getAllIdentifiers());
+		// generate the base claster
+		Cluster base = variabilityModel.getClusters().get(variabilityModel.getClusters().size()-1);
+		ArrayList<Asset> tmp0 = new ArrayList<Asset>();
+		for(String aaa:base.getAllIdentifiers()){
+			System.out.println("this is : "+aaa +" in list "+ ids);
+				if(allAssets.get(ids.indexOf(aaa)).getType().equals("classe")) 
+					new Noeud(allAssets.get(ids.indexOf(aaa)),allAssets.get(ids.indexOf(aaa)).getType().equals("classe"),".\\base"+"\\",allAssets);
+				else {
+					FeatureIdeUtils.createFilePackage(".\\base"+"\\"+((CtClass)allAssets.get(ids.indexOf(aaa)).getParent()).getPackage()+"\\", allAssets.get(ids.indexOf(aaa)).getParent().getValueByRole(CtRole.NAME).toString());
+					FeatureIdeUtils.fillFile(".\\base"+"\\"+((CtClass)allAssets.get(ids.indexOf(aaa)).getParent()).getPackage()+"\\"+ allAssets.get(ids.indexOf(aaa)).getParent().getValueByRole(CtRole.NAME).toString()+".java", allAssets.get(ids.indexOf(aaa)).getNom(), allAssets.get(ids.indexOf(aaa)).getValue());
+				}
+				tmp0.add(allAssets.get(ids.indexOf(aaa)));
+		
+				
+					}
 		
 		//get identifiers of a specific cluster
-		ArrayList<Cluster> clusters = variabilityModel.getClusters();
-		for(Cluster e:clusters){
+		ArrayList<Cluster> clusters = variabilityModel.getVariableClusters();
+		System.out.println(clusters.size()+" VS "+ variabilityModel.getClusters().size());
+		for(Cluster element:clusters){
+			System.out.println(element);
 			ArrayList<Asset> tmp = new ArrayList<Asset>();
-			for(String a:e.getAllIdentifiers()){
-				System.out.println("this is : "+a +" in list "+ ids);
-				tmp.add(allAssets.get(ids.indexOf(a)));
-				new Noeud(allAssets.get(ids.indexOf(a)),allAssets.get(ids.indexOf(a)).getType().equals("classe"),".\\cluster"+clusters.indexOf(e)+"\\");
-			}
-			System.out.println("wash a "+tmp.toString());
+			for(String str:(element.getAllIdentifiers())){
+				if(allAssets.get(ids.indexOf(str)).getType().equals("classe")) 
+					new Noeud(allAssets.get(ids.indexOf(str)),allAssets.get(ids.indexOf(str)).getType().equals("classe"),".\\cluster"+clusters.indexOf(element)+"\\",allAssets);
+				else {
+					FeatureIdeUtils.createFilePackage(".\\cluster"+clusters.indexOf(element)+"\\"+((CtClass)allAssets.get(ids.indexOf(str)).getParent()).getPackage()+"\\", allAssets.get(ids.indexOf(str)).getParent().getValueByRole(CtRole.NAME).toString());
+					System.out.println("hhhhaaa "+allAssets.get(ids.indexOf(str)).getValue());
+					FeatureIdeUtils.fillFile(".\\cluster"+clusters.indexOf(element)+"\\"+((CtClass)allAssets.get(ids.indexOf(str)).getParent()).getPackage()+"\\"+ allAssets.get(ids.indexOf(str)).getParent().getValueByRole(CtRole.NAME).toString()+".java", allAssets.get(ids.indexOf(str)).getParent().prettyprint().split("\\{")[0], "{\n");
+					FeatureIdeUtils.fillFile(".\\cluster"+clusters.indexOf(element)+"\\"+((CtClass)allAssets.get(ids.indexOf(str)).getParent()).getPackage()+"\\"+ allAssets.get(ids.indexOf(str)).getParent().getValueByRole(CtRole.NAME).toString()+".java", allAssets.get(ids.indexOf(str)).getNom(), allAssets.get(ids.indexOf(str)).getValue());
+				}
+				
+				tmp.add(allAssets.get(ids.indexOf(str)));
+			}			
 		}
 		
 		
@@ -225,4 +249,4 @@ public class Main implements FeatureIdeUtils{
         //afficher toutes les variations
         System.out.println(allAssets.toString());
     }
-}
+    }
