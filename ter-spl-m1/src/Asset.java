@@ -174,8 +174,6 @@ public class Asset {
             this.value = value+"";
             this.type = type;
             this.parent = parent;
-        //           if (nom.contains("String")) this.value = "\"" + value + "\""; // Ecrire les chaÃ®nes de caractÃ¨res entre guillements
-       
     }
 
     /**
