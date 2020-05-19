@@ -161,16 +161,16 @@ public class Asset {
     	
     }
     /**
-     * Le constructuer de l'asset, permet de crÃ©er un asset  partir des paramÃ¨tres suivants
+     * Le constructuer de l'asset, permet de créeer un asset à partir des paramètres suivants
      * @param name la signature
      * @param value la valeur
      * @param type le type
      * @param parent le noeud parent dans l'arbre AST
      */
     public Asset(String name, String value, String type, CtElement parent){
-            autoIncrement++; //identifiant unique Ã  chaque classe
+            autoIncrement++; //identifiant unique à  chaque asset
             id = autoIncrement;
-            nom = name;
+            nom = name;  
             this.value = value+"";
             this.type = type;
             this.parent = parent;
@@ -194,10 +194,10 @@ public class Asset {
      */
 
     public static ArrayList<Asset> assetsFromAst(String pathFile) throws IOException {
-        //Phase 1 : gÃ©nÃ©rer l'AST
+        //Phase 1 : générer l'AST
         // Parse Class :  permet de transformer une clasee en un AST
         // lines : retourner toutes les lignes du fichier
-        // collect : organisÃ© les lignes rÃ©cupÃ©rÃ©es par un sÃ©parateur de ligne
+        // collect : organiser les lignes récupérées par un séparateur de ligne
         CtClass ll = Launcher.parseClass(Files.lines(Paths.get(pathFile), StandardCharsets.UTF_8)
                 .collect(Collectors.joining(System.lineSeparator())));
 
