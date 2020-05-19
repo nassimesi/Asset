@@ -196,7 +196,7 @@ public class Main implements FeatureIdeUtils{
 		variabilityModel.getClusters();
 		
 		//print the cluster set 
-		System.out.println("hahowa "+variabilityModel.getClusters().get(variabilityModel.getClusters().size()-1).getAllIdentifiers());
+		System.out.println("Cluster set"+variabilityModel.getClusters().get(variabilityModel.getClusters().size()-1).getAllIdentifiers());
 		// generate the base claster
 		Cluster base = variabilityModel.getClusters().get(variabilityModel.getClusters().size()-1);
 		ArrayList<Asset> tmp0 = new ArrayList<Asset>();
@@ -221,12 +221,12 @@ public class Main implements FeatureIdeUtils{
 			ArrayList<Asset> tmp = new ArrayList<Asset>();
 			for(String str:(element.getAllIdentifiers())){
 				if(allAssets.get(ids.indexOf(str)).getType().equals("classe")) 
-					new Noeud(allAssets.get(ids.indexOf(str)),allAssets.get(ids.indexOf(str)).getType().equals("classe"),".\\cluster"+clusters.indexOf(element)+"\\",allAssets);
+					new Noeud(allAssets.get(ids.indexOf(str)),allAssets.get(ids.indexOf(str)).getType().equals("classe"),".\\feature"+clusters.indexOf(element)+"\\",allAssets);
 				else {
-					FeatureIdeUtils.createFilePackage(".\\cluster"+clusters.indexOf(element)+"\\"+((CtClass)allAssets.get(ids.indexOf(str)).getParent()).getPackage()+"\\", allAssets.get(ids.indexOf(str)).getParent().getValueByRole(CtRole.NAME).toString());
-					System.out.println("hhhhaaa "+allAssets.get(ids.indexOf(str)).getValue());
-					FeatureIdeUtils.fillFile(".\\cluster"+clusters.indexOf(element)+"\\"+((CtClass)allAssets.get(ids.indexOf(str)).getParent()).getPackage()+"\\"+ allAssets.get(ids.indexOf(str)).getParent().getValueByRole(CtRole.NAME).toString()+".java", allAssets.get(ids.indexOf(str)).getParent().prettyprint().split("\\{")[0], "{\n");
-					FeatureIdeUtils.fillFile(".\\cluster"+clusters.indexOf(element)+"\\"+((CtClass)allAssets.get(ids.indexOf(str)).getParent()).getPackage()+"\\"+ allAssets.get(ids.indexOf(str)).getParent().getValueByRole(CtRole.NAME).toString()+".java", allAssets.get(ids.indexOf(str)).getNom(), allAssets.get(ids.indexOf(str)).getValue());
+					FeatureIdeUtils.createFilePackage(".\\feature"+clusters.indexOf(element)+"\\"+((CtClass)allAssets.get(ids.indexOf(str)).getParent()).getPackage()+"\\", allAssets.get(ids.indexOf(str)).getParent().getValueByRole(CtRole.NAME).toString());
+					System.out.println("testing "+allAssets.get(ids.indexOf(str)).getValue());
+					FeatureIdeUtils.fillFile(".\\feature"+clusters.indexOf(element)+"\\"+((CtClass)allAssets.get(ids.indexOf(str)).getParent()).getPackage()+"\\"+ allAssets.get(ids.indexOf(str)).getParent().getValueByRole(CtRole.NAME).toString()+".java", allAssets.get(ids.indexOf(str)).getParent().prettyprint().split("\\{")[0], "{\n");
+					FeatureIdeUtils.fillFile(".\\feature"+clusters.indexOf(element)+"\\"+((CtClass)allAssets.get(ids.indexOf(str)).getParent()).getPackage()+"\\"+ allAssets.get(ids.indexOf(str)).getParent().getValueByRole(CtRole.NAME).toString()+".java", allAssets.get(ids.indexOf(str)).getNom(), allAssets.get(ids.indexOf(str)).getValue());
 				}
 				
 				tmp.add(allAssets.get(ids.indexOf(str)));
